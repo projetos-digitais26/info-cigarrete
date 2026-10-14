@@ -2,7 +2,7 @@
 
 Narradora: Márcia (44) · 🧒 = Sofia (voz de criança) · ~2.900 palavras ≈ 19–20 min.
 Só a narração. Marcações entre colchetes são pendências do dono da oferta e **não** são narradas.
-Antes de publicar: `[VALIDAR: história real do porta-voz OU aviso "história dramatizada, baseada em relatos reais" na tela]`.
+Na tela, durante a história: aviso discreto "História dramatizada, baseada em relatos reais de fumantes". Fontes aparecem como nota pequena na tela no momento em que o dado é dito (não são narradas).
 
 ---
 
@@ -76,7 +76,7 @@ E sabe o que eu fiz três semanas depois de sair do hospital? Eu me tranquei no 
 
 Eu sei que você já conhece a lista das doenças. Eu também conhecia, e continuei fumando. O que me tirava o sono era outra coisa: a ideia da Sofia crescendo sem mãe. A formatura sem mim. Um neto que eu não ia conhecer.
 
-Quem fuma vive, em média, pelo menos dez anos a menos `[FONTE: CDC]`. Dez Natais. Dez aniversários de quem você ama.
+Quem fuma vive, em média, pelo menos dez anos a menos. `[FONTE na tela: CDC]` Dez Natais. Dez aniversários de quem você ama.
 
 E o pior é que a gente sabe disso tudo e mesmo assim não consegue parar. Eu demorei pra entender por quê. Quem me explicou foi um velho, do outro lado do mundo.
 
@@ -84,7 +84,7 @@ E o pior é que a gente sabe disso tudo e mesmo assim não consegue parar. Eu de
 
 Quando eu saí do hospital, o médico mandou eu descansar longe de tudo. O Luciano tinha um amigo de infância que morava em Gana, na África, e insistiu tanto que eu acabei indo.
 
-Lá aconteceu uma coisa que eu não entendia. Eu andava pelos mercados, pelas praias, pelas ruas… e quase não via ninguém fumando. Eu era a única, a turista, com o cigarro na mão. Depois eu fui pesquisar: Gana está entre os países onde menos se fuma no mundo `[PROVA NECESSÁRIA: dado da OMS sobre Gana e Brasil]`.
+Lá aconteceu uma coisa que eu não entendia. Eu andava pelos mercados, pelas praias, pelas ruas… e quase não via ninguém fumando. Eu era a única, a turista, com o cigarro na mão. Depois eu fui pesquisar: em Gana, só cerca de 2 em cada 100 adultos fumam. Aqui no Brasil, é perto de 1 em cada 10. `[FONTE na tela: OMS / GSTHR 2024; Vigitel – Ministério da Saúde]`
 
 O amigo do Luciano, o Kofi, riu quando eu perguntei como era possível. Ele disse: "Aqui, quando alguém quer largar um vício, a gente leva pra falar com os mais velhos."
 
@@ -108,15 +108,15 @@ Eu confesso: eu achei que era simpatia. Sal, pimenta, frasco… Eu só fui enten
 
 ## 6 · Por que funciona (9:30–12:00)
 
-Existe um teste que profissionais de saúde do mundo inteiro usam pra medir o tamanho da dependência de nicotina. Chama teste de Fagerström. E a primeira pergunta dele é exatamente esta: quanto tempo depois de acordar você fuma o primeiro cigarro? `[PROVA NECESSÁRIA: reproduzir a pergunta oficial do teste]`
+Existe um teste que profissionais de saúde do mundo inteiro usam pra medir o tamanho da dependência de nicotina. Chama teste de Fagerström. E a primeira pergunta dele é exatamente esta: quanto tempo depois de acordar você fuma o primeiro cigarro? `[FONTE na tela: Teste de Fagerström, Heatherton et al., 1991]`
 
 A ciência e um velho de um vilarejo africano estavam dizendo a mesma coisa: o primeiro cigarro é o sinal mais claro do tamanho do vício.
 
-E faz sentido. Você passa a noite inteira sem nicotina. Quando acorda, o corpo está no ponto mais baixo, e o primeiro cigarro traz aquele alívio enorme que recarrega o vício pro resto do dia `[PROVA NECESSÁRIA: fonte sobre a queda da nicotina durante a noite]`.
+E faz sentido. Você passa a noite inteira sem nicotina. Quando acorda, o corpo está no ponto mais baixo, e o primeiro cigarro traz aquele alívio enorme que recarrega o vício pro resto do dia. `[FONTE na tela: meia-vida da nicotina ≈ 2 horas – Benowitz, NIH]`
 
 Agora repara no que acontece quando você tenta parar de uma vez: logo no primeiro minuto do dia, com o corpo pedindo, você tem que vencer o cigarro mais forte de todos. É a parte mais difícil da luta, no pior momento. Por isso você aguentava três dias e caía no quarto. Você começava a briga pelo lado errado.
 
-E tem mais uma coisa que quase ninguém conta: quando pesquisadores compararam pessoas que pararam de uma vez com pessoas que foram reduzindo aos poucos até parar, o resultado foi parecido `[FONTE: revisão Cochrane, Lindson et al., 2019]`. Ou seja, ir enfraquecendo o vício é um caminho reconhecido pela ciência. O que o Kwame me deu foi a ordem certa de fazer isso: começar pela cabeça.
+E tem mais uma coisa que quase ninguém conta: quando pesquisadores compararam pessoas que pararam de uma vez com pessoas que foram reduzindo aos poucos até parar, o resultado foi parecido. `[FONTE na tela: Revisão Cochrane, Lindson et al., 2019]` Ou seja, ir enfraquecendo o vício é um caminho reconhecido pela ciência. O que o Kwame me deu foi a ordem certa de fazer isso: começar pela cabeça.
 
 O truque do primeiro cigarro tem três movimentos.
 
@@ -170,7 +170,7 @@ Por isso eu juntei tudo o que ele me ensinou, o meu diário dos 15 dias e o pass
 
 ## 9 · A conta e a oferta (15:00–17:30)
 
-Antes do valor, faz uma conta comigo. Se você fuma um maço por dia, gasta mais ou menos 12 reais por dia `[CONFERIR preço médio do maço]`. São 360 reais por mês. Mais de 4 mil por ano. Em dez anos, mais de 40 mil reais virando fumaça. Uma viagem com a família. A reforma da casa. A faculdade de um filho.
+Antes do valor, faz uma conta comigo. Se você fuma um maço por dia, gasta de 15 a 20 reais por dia. São de 450 a 600 reais por mês. Mais de 5 mil reais por ano. Em dez anos, mais de 50 mil reais virando fumaça. Uma viagem com a família. A reforma da casa. A faculdade de um filho.
 
 Então aqui está o que você recebe.
 
@@ -182,19 +182,19 @@ O primeiro é o **Kit dos 3 Primeiros Dias**: o que fazer nos três momentos em 
 
 O segundo é o **Ritual do Chá da Noite Serena**: a receita que o Kwame me ensinou, com ervas fáceis de achar, pra dormir melhor e acordar menos ansiosa.
 
-O terceiro é o **Protocolo de Recuperação do Corpo**. Você vai acompanhar o que acontece dentro de você depois do último cigarro: em 20 minutos o coração desacelera; em 12 horas o monóxido de carbono do sangue volta ao normal; em um ano o risco de infarto cai pela metade `[FONTE: OMS/CDC]`. E eu sei que muita gente tem medo de engordar quando para. Por isso esse protocolo traz uma alimentação simples pra segurar a fome sem passar vontade.
+O terceiro é o **Protocolo de Recuperação do Corpo**. Você vai acompanhar o que acontece dentro de você depois do último cigarro: em 20 minutos o coração desacelera; em 12 horas o monóxido de carbono do sangue volta ao normal; em um ano o risco de infarto cai pela metade. `[FONTE na tela: OMS]` E eu sei que muita gente tem medo de engordar quando para. Por isso esse protocolo traz uma alimentação simples pra segurar a fome sem passar vontade.
 
 O quarto é a **Blindagem Antirrecaída**: o plano dos 30 dias depois do dia 15, pra festa, cerveja, casa com outro fumante e dia de estresse no trabalho. Porque eu sei o que você está pensando: "um cigarro só e eu volto tudo". Esse plano existe exatamente pra esse momento.
 
 Muita gente me disse que pagaria 300 reais por isso sem pensar. E faz sentido: é menos que um mês de cigarro. Mas eu fiz uma promessa. Então não vai ser 300. Também não vai ser 200, nem 100.
 
-Hoje você leva o método completo e os quatro presentes por **37 reais** `[DEFINIR: ou 12x de R$ __]`. É pouco mais do que três dias de cigarro, pra você parar de gastar com isso.
+Hoje você leva o método completo e os quatro presentes por **47 reais**, ou em até 12 vezes no cartão. É menos do que três maços de cigarro, pra você parar de gastar com isso.
 
 ## 10 · Garantia e como comprar (17:30–18:30)
 
 E o risco é todo meu. Você aplica o método durante os 14 dias. Se você não sentir a diferença, manda uma mensagem dentro de 30 dias e recebe todo o seu dinheiro de volta. Sem pergunta, sem burocracia.
 
-É simples. Clique no botão aqui embaixo do vídeo. Você vai pra uma página de pagamento segura. Preencha os seus dados, escolha Pix ou cartão, e finalize. Em poucos minutos o acesso chega no seu e-mail. Abre direto no celular, como um site, sem precisar baixar nada `[CONFERIR]`. Ninguém precisa saber que você comprou `[CONFERIR nome na fatura]`. E se tiver qualquer dúvida, a nossa equipe responde `[CONFERIR canal de suporte]`.
+É simples. Clique no botão aqui embaixo do vídeo. Você vai pra uma página de pagamento segura. Preencha os seus dados, escolha Pix ou cartão, e finalize. Em poucos minutos o acesso chega no seu e-mail. Abre direto no celular, como um site, sem precisar baixar nada. E se tiver qualquer dúvida, a nossa equipe responde.
 
 ## 11 · Dúvidas (18:30–19:40)
 

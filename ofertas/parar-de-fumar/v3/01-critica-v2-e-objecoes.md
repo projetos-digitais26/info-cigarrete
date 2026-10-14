@@ -79,6 +79,7 @@ prova e ritmo.
 - **Ordem (7 passos de Halbert):** atenção (UTI curta + CSI) → interesse (qualificação + acordo) → crença (história,
   descoberta, mecanismo, ciência) → prova (diário + depoimentos reais) → benefícios (oferta e bônus) → como comprar
   → compre agora (objeções + dois caminhos + amanhã de manhã).
-- **Pendências do dono da oferta:** história real ou aviso de dramatização; 3–5 depoimentos reais autorizados;
-  número real de compradores; fontes marcadas; preço da parcela; nome na fatura; o que o método faz se a pessoa
-  ainda tiver vontade no dia 15.
+- **Definido com o dono da oferta:** aviso "história dramatizada, baseada em relatos reais" na tela; preço R$ 47 em até 12x;
+  maço a R$ 15–20; sem menção a nome na fatura; fontes preenchidas como nota na tela (OMS/GSTHR, Vigitel, Fagerström 1991,
+  Benowitz/NIH, Cochrane 2019, CDC, OMS).
+- **Falta (o dono entrega no final):** 3–5 depoimentos reais autorizados e o número real de pessoas que já aplicaram o método.
