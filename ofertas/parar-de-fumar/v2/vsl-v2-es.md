@@ -1,6 +1,6 @@
 # VSL V2 — "El Truco del Primer Cigarrillo del Día" · Español (LATAM neutro)
 
-**Duración estimada:** 21–23 min (~3.100 palabras de narración)
+**Duración estimada:** 24–26 min (~3.600 palabras de narración). Los tiempos desde el Bloque 5 se desplazan unos +1:40 por el bloque de miedo (C37a–h); recalcular en la edición.
 **Narrador:** Roberto, 44 años · esposa Carmen · hijo Mateo (8 años) · maestro Kwame
 **Registro:** español neutro latinoamericano, siempre **tú** (sin voseo ni vosotros).
 Variantes por país opcionales marcadas `{MX}` `{CO}` `{AR}`.
@@ -33,14 +33,20 @@ es la misma de la versión PT-BR; aquí va adaptada y en español para el editor
 **C05 · 0:23** 🎬 Secuencia rápida (2 s cada una): cenicero lleno; dedos amarillentos; un niño apartando la cara; un hombre tosiendo en el auto. · 🅣 **20 CIGARRILLOS AL DÍA… 1 LOS CONTROLA A TODOS**
 > Todos los demás cigarrillos de tu día dependen de él. El del almuerzo, el del estrés, el de la noche. Todos.
 
+**C05b · 0:30** 🎬 Corte seco a una radiografía de pulmón con manchas oscuras que se extienden (animación). Luego, una fila de personas donde la mitad desaparece, una por una. 🔁 · 🅣 **EL CIGARRILLO MATA HASTA A LA MITAD DE QUIENES FUMAN** `[FUENTE: OMS]` · 🔊 golpe grave, latido
+> Y si no haces nada con él, hay una posibilidad real de que ese cigarrillo te mate. La Organización Mundial de la Salud dice que el tabaco mata hasta a la mitad de las personas que fuman. La mitad. No es uno de cada mil. Es uno de cada dos.
+
 **C06 · 0:33** 🎬 Calendario con los días tachándose rápido, del 1 al 15. La luz se vuelve más cálida cada día. · 🅣 **14 DÍAS**
-> Y cuando aprendes a hacer algo con ese primer cigarrillo, de la forma correcta, durante 14 días, algo empieza a pasar. Las ganas van perdiendo fuerza. Hasta que una mañana cualquiera terminas tu café… y te das cuenta de que se te olvidó fumar.
+> Pero cuando aprendes a hacer algo con ese primer cigarrillo, de la forma correcta, durante 14 días, algo empieza a pasar. Personas que fumaban desde hacía 20, 30 y hasta 40 años lo están sintiendo `[PRUEBA NECESARIA: testimonios reales]`. Las ganas van perdiendo fuerza. Hasta que una mañana cualquiera terminas tu café… y te das cuenta de que se te olvidó fumar.
 
 **C07 · 0:50** 🎬 Hombre de cuarenta y tantos mirando la taza vacía, sorprendido. Sonrisa pequeña. · 🔊 entra el piano suave
 > Sin parches. Sin chicles. Sin tener que dejarlo de golpe y pelear esa guerra que ya perdiste tantas veces.
 
 **C08 · 1:00** 🎬 Primer plano del narrador mirando a cámara. Fondo oscuro. · 🅣 **EL TRUCO DEL PRIMER CIGARRILLO DEL DÍA**
 > Me llamo Roberto. Fumé durante 19 años. Y en este video te voy a mostrar lo que aprendí de un anciano, al otro lado del mundo, en un lugar donde casi nadie fuma… y por qué la ciencia confirma que él tenía razón.
+
+**C08b · 1:12** 🎬 El narrador se inclina hacia la cámara; zoom lento. Al fondo, billetes y cajetillas pasando por una banda de fábrica. 🔓 · 🅣 **MÍRALO HASTA EL FINAL**
+> Y míralo hasta el final. Porque hay mucha gente ganando dinero todos los días con tu adicción. Y no sé cuánto tiempo más va a seguir este video en línea.
 
 ---
 
@@ -145,8 +151,32 @@ es la misma de la versión PT-BR; aquí va adaptada y en español para el editor
 **C37 · 6:15** 🎬 El encendedor encendiéndose otra vez, en cámara lenta. · 🅣 **RECAÍDA**
 > Y entonces encendía un cigarrillo. Y la culpa venía con él.
 
+**C37a · 6:20** 🎬 Animación 3D: el humo entra por la tráquea y se extiende por los alvéolos, que se oscurecen. Paleta roja y negra. 🔁 · 🅣 **7.000 SUSTANCIAS QUÍMICAS · 70 CAUSAN CÁNCER** `[FUENTE: CDC/OMS]` · 🔊 respiración pesada, silbido
+> ¿Y sabes lo que pasaba cada vez que recaía? Cada cigarrillo que encendía metía en mi cuerpo más de 7 mil sustancias químicas. Por lo menos 70 de ellas causan cáncer. En la boca, en la garganta, en el pulmón, en la vejiga.
+
+**C37b · 6:34** 🎬 Animación: una arteria estrechándose, la sangre espesándose, un coágulo formándose. Corte a un hombre llevándose la mano al pecho. · 🅣 **INFARTO · DERRAME**
+> Cada bocanada endurece tus arterias y te espesa la sangre. Por eso los fumadores sufren más infartos. Tienen derrames cerebrales más jóvenes.
+
+**C37c · 6:44** 🎬 Una pareja en la cama, de espaldas; él mirando el techo, frustrado. Luz azul. · 🅣 **IMPOTENCIA**
+> Y por eso tantos hombres que fuman empiezan a fallar en la cama. La sangre simplemente no llega a donde tiene que llegar. Yo sé lo que es eso. Y sé lo que le hace a un matrimonio.
+
+**C37d · 6:56** 🎬 Una persona mayor en el supermercado, arrastrando un tanque de oxígeno, caminando despacio, deteniéndose para respirar. · 🅣 **ENFISEMA**
+> Y está el enfisema. Los pulmones van perdiendo fuerza, hasta el día en que tienes que arrastrar un tanque de oxígeno para ir a la tienda de la esquina. Yo lo vi. En mi papá.
+
+**C37e · 7:08** 🎬 Un reloj de arena (el mismo de la portada del método) con la arena cayendo rápido. 🔁 · 🅣 **QUIEN FUMA VIVE, EN PROMEDIO, 10 AÑOS MENOS** `[FUENTE: CDC]`
+> Quien fuma vive, en promedio, por lo menos diez años menos. Diez años. Diez Navidades. La graduación de tu hijo. El nacimiento de tu nieto. Todo eso quemándose junto con el cigarrillo.
+
+**C37f · 7:20** 🎬 Un niño en el asiento trasero de un auto lleno de humo; tose. · 🅣 **Y QUIEN AMAS RESPIRA CONTIGO**
+> Y no eres solo tú. El humo de tu cigarrillo entra en los pulmones de quien más amas.
+
+**C37g · 7:28** 🎬 Edificios de vidrio, ejecutivos brindando, línea de producción de cigarrillos, billetes cayendo. Luego estantes de farmacia llenos de cajas. · 🅣 **MILES DE MILLONES AL AÑO** · 🔊 música tensa
+> Y mientras eso pasa, hay gente haciéndose muy rica. La industria del tabaco factura miles de millones cada año con gente como tú y como yo. Y cuando intentas dejarlo y no puedes, hay otra fila de empresas esperando, vendiéndote parches, chicles, tratamientos, caja tras caja. Cada recaída tuya es una venta más.
+
+**C37h · 7:46** 🎬 El narrador mirando fijo a la cámara. Silencio de 1 s. 🔁
+> Piénsalo conmigo: ¿quién gana dinero si logras dejarlo tú solo, con un método sencillo que cuesta menos que unas cuantas cajetillas? Nadie. Por eso nadie te cuenta lo que yo te voy a contar ahora.
+
 **C38 · 6:22** 🎬 El narrador mirando a cámara. Fondo neutro. Tono de revelación. 🔁
-> Hoy sé por qué fallaba. Y no era porque esos métodos no sirvan. A mucha gente le ayudan. El problema era la estrategia. Mi estrategia siempre era la misma: dejarlo de golpe.
+> Hoy sé por qué fallaba. Y el problema nunca fui yo. Ni tú. El problema fue la estrategia que nos vendieron toda la vida: dejarlo de golpe.
 
 **C39 · 6:36** 🎬 Animación simple: una línea del día con 20 cigarrillos; un "jefe final" gigante al inicio de la línea (el primer cigarrillo). · 🅣 **EMPEZABAS POR LA PARTE MÁS DIFÍCIL**
 > Y dejarlo de golpe significa algo que nadie te explica: en el primer minuto del día tienes que enfrentarte al cigarrillo más fuerte de todos.
@@ -354,8 +384,8 @@ es la misma de la versión PT-BR; aquí va adaptada y en español para el editor
 
 ## BLOQUE 14 — Regalos + garantía (19:25–20:40)
 
-**C95 · 19:25** 🎬 Una caja de regalo que se abre. · 🅣 **3 REGALOS** · 🔊 sonido de "brillo"
-> Y como confiaste en mí hasta aquí, te quiero dar tres regalos.
+**C95 · 19:25** 🎬 Una caja de regalo que se abre. · 🅣 **4 REGALOS** · 🔊 sonido de "brillo"
+> Y como confiaste en mí hasta aquí, te quiero dar cuatro regalos.
 
 **C96 · 19:32** 🎬 Portada del Regalo 1 (mockup). · 🅣 **REGALO 1 · KIT DE LOS 3 PRIMEROS DÍAS**
 > El primero es el Kit de los 3 Primeros Días. Te muestro qué hacer en los tres momentos en que las ganas aprietan más: al despertar, después del café y después del almuerzo. Son los tres momentos en que yo más necesité ayuda.
@@ -363,8 +393,11 @@ es la misma de la versión PT-BR; aquí va adaptada y en español para el editor
 **C97 · 19:48** 🎬 Portada del Regalo 2: una taza de té humeante con flores de manzanilla y lavanda. · 🅣 **REGALO 2 · RITUAL DEL TÉ DE LA NOCHE SERENA**
 > El segundo es el Ritual del Té de la Noche Serena. La receta sencilla que me enseñó Kwame, con hierbas fáciles de conseguir, y cómo hacer este ritual antes de dormir para despertar más tranquilo.
 
-**C98 · 20:02** 🎬 Portada del Regalo 3: un escudo dorado. · 🅣 **REGALO 3 · BLINDAJE ANTI-RECAÍDA**
-> Y el tercero es el Blindaje Anti-Recaída: el plan de los 30 días después del día 15, para las fiestas, el alcohol y el estrés del trabajo. Los momentos en que la mayoría de la gente vuelve a fumar.
+**C98 · 20:02** 🎬 Portada del Regalo 3: un pulmón que pasa del gris al rosado en una línea de tiempo. · 🅣 **REGALO 3 · PROTOCOLO DE RECUPERACIÓN DEL CUERPO** `[FUENTE de la línea de tiempo: OMS/CDC]`
+> El tercero va a cambiar la forma en que ves tu cuerpo: el Protocolo de Recuperación del Cuerpo. Vas a ver, día a día, lo que pasa dentro de ti después del último cigarrillo. A los 20 minutos tu corazón se calma. A las 12 horas el monóxido de carbono de tu sangre vuelve a la normalidad. En pocas semanas mejora la circulación y vuelve el aire. Al año, el riesgo de infarto baja a la mitad. Y a los diez años, el riesgo de cáncer de pulmón baja a cerca de la mitad del de alguien que sigue fumando. Y la alimentación sencilla para ayudar a tu cuerpo en esa recuperación, sin subir de peso.
+
+**C98b · 20:30** 🎬 Portada del Regalo 4: un escudo dorado. · 🅣 **REGALO 4 · BLINDAJE ANTI-RECAÍDA**
+> Y el cuarto es el Blindaje Anti-Recaída: el plan de los 30 días después del día 15, para las fiestas, el alcohol y el estrés del trabajo. Los momentos en que la mayoría de la gente vuelve a fumar.
 
 **C99 · 20:16** 🎬 Sello de garantía dorado con el dibujo del frasco en el centro. · 🅣 **GARANTÍA DEL PRIMER CIGARRILLO · 30 DÍAS**
 > Y además tienes la Garantía del Primer Cigarrillo. Aplicas el método durante los 14 días. Si no sientes la diferencia, solo escríbenos dentro de los 30 días y te devolvemos todo tu dinero. Sin preguntas. El riesgo es todo mío.
@@ -386,14 +419,17 @@ es la misma de la versión PT-BR; aquí va adaptada y en español para el editor
 **C103 · 21:30** 🎬 · 🅣 **"SOY MUY ANSIOSO."**
 > "Soy muy ansioso." Yo también. Justamente por eso dejarlo de golpe nunca me funcionó. Aquí no lo dejas de golpe. Vas despacio, a tu ritmo.
 
-**C104 · 21:42** 🎬 · 🅣 **"TOMO MEDICAMENTOS."**
-> "Tomo medicamentos o tengo seguimiento médico." Continúa con eso. El método no reemplaza a tu médico. Es un ritual que haces junto con tu rutina. Consulta a tu médico siempre que tengas dudas.
+**C104 · 21:42** 🎬 · 🅣 **"¿NECESITO MEDICAMENTOS?"**
+> "¿Necesito algún medicamento?" No. No necesitas ningún medicamento para aplicar el truco del primer cigarrillo. Y si ya tomas alguno por indicación médica, no tienes que dejarlo: el método se suma a tu rutina.
 
 **C105 · 21:54** 🎬 · 🅣 **"¿Y SI NO ME FUNCIONA?"**
 > "¿Y si no me funciona?" Tienes 30 días de garantía. Si no sientes la diferencia, te devuelvo tu dinero.
 
 **C106 · 22:04** 🎬 Pantalla dividida en dos caminos (un camino oscuro y uno iluminado). 🔁 · 🔊 cuerdas en crescendo
-> Ahora tienes dos caminos. El primero es cerrar este video y seguir igual. Mañana por la mañana vas a encender tu primer cigarrillo, como siempre. Y la serpiente va a seguir con hambre.
+> Ahora tienes dos caminos. El primero es cerrar este video y seguir igual. Mañana por la mañana vas a encender tu primer cigarrillo, como siempre. Y el siguiente. Y el siguiente. Y la serpiente va a seguir con hambre.
+
+**C106b · 22:16** 🎬 Corte a la cama de hospital de la C16, ahora con el rostro del narrador en lugar del padre, con mascarilla de oxígeno; su hijo ya adulto tomándole la mano. Desaturado. 🔁 · 🔊 pitido del monitor
+> Y dentro de algunos años, puedes ser tú el que está en esa cama de hospital, con una mascarilla de oxígeno, sin poder tomar agua solo. Y alguien que amas tomándote la mano. Yo ya estuve del otro lado de esa mano. No se lo deseo a nadie.
 
 **C107 · 22:18** 🎬 Lado iluminado: mañana, café, un niño abrazando a su papá.
 > El segundo es hacer clic en el botón aquí debajo, y mañana por la mañana hacer algo distinto. Solo con un cigarrillo. El primero.
@@ -405,7 +441,7 @@ es la misma de la versión PT-BR; aquí va adaptada y en español para el editor
 > Y el dibujo de Mateo sigue en el refrigerador. Para recordarme todos los días por qué lo hice.
 
 **C110 · 22:44** 🎬 El narrador a cámara, tranquilo. · 🅣 **HAZ CLIC EN EL BOTÓN Y EMPIEZA MAÑANA**
-> No sé quién te está esperando. Un hijo, una nieta, tu pareja, tú mismo. Pero sé que esa persona merece tenerte por mucho tiempo. Haz clic en el botón aquí debajo. Mañana por la mañana, con tu primer cigarrillo, tu historia empieza a cambiar.
+> No sé quién te está esperando. Un hijo, una nieta, tu pareja, tú mismo. Pero sé que esa persona merece tenerte por mucho tiempo. Haz clic en el botón aquí debajo ahora, porque no sé cuánto tiempo más va a seguir este video en línea. Mañana por la mañana, con tu primer cigarrillo, tu historia empieza a cambiar.
 
 **C111 · 23:00** 🎬 El humo se disipa y revela un cielo limpio. · 🔊 el clic del encendedor… y no enciende. Silencio. Corte a negro.
 > (sin narración)

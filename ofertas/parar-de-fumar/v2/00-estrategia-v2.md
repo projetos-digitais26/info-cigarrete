@@ -188,12 +188,12 @@ O roteiro tem marcações `[PROVA NECESSÁRIA]`. Para preencher:
 | Método | O Truque do Primeiro Cigarro do Dia (app + guia) | El Truco del Primer Cigarrillo del Día |
 | Bônus 1 | **Kit dos 3 Primeiros Dias**: o que fazer nos 3 momentos de maior vontade (acordar, depois do café, depois do almoço) | Kit de los 3 Primeros Días |
 | Bônus 2 | **Ritual do Chá da Noite Serena**: o passo a passo do ritual noturno | Ritual del Té de la Noche Serena |
-| Bônus 3 | **Blindagem Anti-Recaída**: o plano de 30 dias depois do dia 15 (festas, bebida, estresse) | Blindaje Anti-Recaída |
+| Bônus 3 | **Protocolo de Recuperação do Corpo**: linha do tempo real do que acontece no corpo depois do último cigarro (coração, sangue, pulmão, risco de câncer) + alimentação para recuperar o fôlego sem engordar | Protocolo de Recuperación del Cuerpo |
+| Bônus 4 | **Blindagem Anti-Recaída**: o plano de 30 dias depois do dia 15 (festas, bebida, estresse) | Blindaje Anti-Recaída |
 | Suporte | Suporte por e-mail/WhatsApp `[DEFINIR horário real]` | Soporte |
 | Garantia | **Garantia do Primeiro Cigarro**: 30 dias | Garantía del Primer Cigarrillo: 30 días |
 | Preço | [DEFINIR] (sugestão R$ 37) | US$ 27 |
 
-Sem bônus com promessa sobre câncer.
 
 ---
 
@@ -214,16 +214,27 @@ Rodar 5–10 ganchos antes de mexer no corpo da VSL. Os 3 primeiros vêm do que 
 
 ---
 
-## 12. Checklist de compliance aplicado
+## 12. Linha de copy (decisão do produtor)
 
-- [x] Sem "todas as pessoas pararam"; resultados descritos como experiência ("o que aconteceu comigo")
-- [x] Sem "remédio é golpe"; outras tentativas falharam pela **estratégia** (parar de uma vez)
-- [x] Sem alegação sobre câncer nos bônus
-- [x] Sem médico ou endosso falso; a ciência entra como fato verificável `[PROVA NECESSÁRIA]`
-- [x] Sem comentários fabricados; prova só real e autorizada
-- [x] Escassez/urgência só se for verdadeira `[DEFINIR]`
-- [x] Aviso de orientação médica no FAQ
-- [ ] **Decisão do produtor:** o narrador (Marcos/Roberto) é um personagem-veículo da história.
-  Se for um personagem, evitar apresentá-lo em anúncio como "cliente real" e manter o aviso
-  "história dramatizada / imagens ilustrativas" no rodapé da página. Se for uma pessoa real,
-  ótimo: a prova fica muito mais forte.
+A copy é de **resposta direta no máximo**: medo, impacto, vilão, urgência e emoção sem freio.
+O produtor cuida da estrutura de contingência e da distribuição; a copy não é amarrada a
+políticas de plataforma.
+
+**O que entra com força total**
+- Medo com fatos verdadeiros e pesados: o cigarro mata até metade de quem fuma (OMS), 7.000
+  substâncias e 70 cancerígenas, 10 anos a menos de vida, infarto, AVC, enfisema, cilindro de
+  oxigênio, impotência, a fumaça que entra no pulmão dos filhos (bloco C37a–h)
+- Vilão: as indústrias que lucram com o vício e com cada recaída (C37g–h)
+- Urgência: "não sei por quanto tempo este vídeo vai ficar no ar" (C08b e fechamento)
+- Fechamento com a imagem do próprio prospect no leito de hospital (C106b)
+- O câncer volta na oferta como **Bônus 3, Protocolo de Recuperação do Corpo**, com a linha do
+  tempo real da recuperação (OMS/CDC): risco de infarto cai pela metade em 1 ano, risco de
+  câncer de pulmão cai para cerca da metade em 10 anos
+
+**As três linhas que ficam de fora** (dano a quem compra, não a regra de plataforma)
+1. Cura ou prevenção de câncer com porcentagem inventada ("dieta reduz o câncer em 90%")
+2. Dizer que o tratamento médico é golpe ou faz mais mal que bem (afasta o fumante do que funciona)
+3. "100% das pessoas pararam" e depoimentos ou comentários inventados. A prova é real
+   (`[PROVA NECESSÁRIA]`) e os números de resultado vêm da base de compradores
+
+O narrador é personagem-veículo da história (decisão do produtor).

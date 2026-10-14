@@ -1,6 +1,6 @@
 # VSL V2 — "O Truque do Primeiro Cigarro do Dia" · Português (Brasil)
 
-**Duração estimada:** 21–23 min (~3.100 palavras de narração a ~145 palavras/min)
+**Duração estimada:** 24–26 min (~3.600 palavras de narração a ~145 palavras/min). Os tempos a partir do Bloco 5 deslocam cerca de +1:40 por causa do bloco de medo (C37a–h); recalcular na edição.
 **Narrador:** Marcos, 44 anos · esposa Luciana · filho Davi (8 anos) · mestre Kwame
 **Estratégia e regras de produção:** `00-estrategia-v2.md`
 
@@ -30,14 +30,20 @@
 **C05 · 0:23** 🎬 Sequência rápida (2 s cada): cinzeiro cheio; dedos amarelados; uma criança afastando o rosto; um homem tossindo no carro. · 🅣 **20 CIGARROS POR DIA… 1 CONTROLA TODOS**
 > Todos os outros cigarros do seu dia dependem dele. O do almoço, o do estresse, o do fim da noite. Todos.
 
+**C05b · 0:30** 🎬 Corte seco para um raio-x de pulmão com manchas escuras se espalhando (animação). Depois, uma fila de pessoas onde metade some, uma a uma. 🔁 · 🅣 **O CIGARRO MATA ATÉ METADE DE QUEM FUMA** `[FONTE: OMS]` · 🔊 batida grave, coração
+> E se você não fizer nada com ele, existe uma chance real de esse cigarro te matar. A Organização Mundial da Saúde diz que o cigarro mata até metade das pessoas que fumam. Metade. Não é um em mil. É um em cada dois.
+
 **C06 · 0:33** 🎬 Calendário com os dias sendo riscados rapidamente, do 1 ao 15. Luz que vai esquentando a cada dia. · 🅣 **14 DIAS**
-> E quando você aprende a mexer nesse primeiro cigarro do jeito certo, durante 14 dias, algo começa a acontecer. A vontade vai perdendo força. Até que, numa manhã qualquer, você termina o seu café… e percebe que esqueceu de fumar.
+> Mas quando você aprende a mexer nesse primeiro cigarro do jeito certo, durante 14 dias, algo começa a acontecer. Pessoas que fumavam havia 20, 30, até 40 anos estão sentindo isso `[PROVA NECESSÁRIA: depoimentos reais]`. A vontade vai perdendo força. Até que, numa manhã qualquer, você termina o seu café… e percebe que esqueceu de fumar.
 
 **C07 · 0:50** 🎬 Homem de 40 e poucos anos olhando a xícara vazia, surpreso. Sorriso pequeno. · 🔊 entra o piano suave
 > Sem adesivo. Sem chiclete. Sem precisar parar de uma vez e enfrentar aquela guerra que você já perdeu tantas vezes.
 
 **C08 · 1:00** 🎬 Close no rosto do narrador (ator ou IA; ver estratégia §12), olhando direto para a câmera. Fundo escuro. · 🅣 **O TRUQUE DO PRIMEIRO CIGARRO DO DIA**
 > Meu nome é Marcos. Eu fumei por 19 anos. E neste vídeo eu vou te mostrar o que eu aprendi com um velho, do outro lado do mundo, num lugar onde quase ninguém fuma… e por que a ciência confirma que ele estava certo.
+
+**C08b · 1:12** 🎬 O narrador se inclina para a câmera; zoom lento. Ao fundo, notas de dinheiro e maços passando numa esteira de fábrica. 🔓 · 🅣 **ASSISTA ATÉ O FINAL**
+> E assista até o final. Porque tem muita gente ganhando dinheiro todos os dias com o seu vício. E eu não sei por quanto tempo este vídeo vai continuar no ar.
 
 ---
 
@@ -142,8 +148,32 @@
 **C37 · 6:15** 🎬 Close no isqueiro sendo acendido de novo, em câmera lenta. · 🅣 **RECAÍDA**
 > E aí eu acendia um cigarro. E a culpa vinha junto.
 
+**C37a · 6:20** 🎬 Animação 3D: a fumaça entrando pela traqueia e se espalhando pelos alvéolos, que escurecem. Paleta vermelha e preta. 🔁 · 🅣 **7.000 SUBSTÂNCIAS QUÍMICAS · 70 CAUSAM CÂNCER** `[FONTE: CDC/INCA]` · 🔊 respiração pesada, chiado
+> E sabe o que acontecia toda vez que eu recaía? Cada cigarro que eu acendia mandava pra dentro de mim mais de 7 mil substâncias químicas. Pelo menos 70 delas causam câncer. Na boca, na garganta, no pulmão, na bexiga.
+
+**C37b · 6:34** 🎬 Animação: uma artéria se estreitando, o sangue engrossando, um coágulo se formando. Corte para um homem levando a mão ao peito. · 🅣 **INFARTO · AVC**
+> Cada tragada endurece as suas artérias e deixa o seu sangue mais grosso. É por isso que fumante infarta mais. Tem AVC mais cedo.
+
+**C37c · 6:44** 🎬 Casal na cama, de costas um para o outro; ele olhando o teto, frustrado. Luz azul. · 🅣 **IMPOTÊNCIA**
+> E é por isso que tanto homem que fuma começa a falhar na cama. O sangue simplesmente não chega onde precisa chegar. Eu sei o que é isso. E sei o que isso faz com um casamento.
+
+**C37d · 6:56** 🎬 Uma pessoa idosa no supermercado, puxando um cilindro de oxigênio, andando devagar, parando para respirar. · 🅣 **ENFISEMA**
+> E tem o enfisema. Os pulmões vão perdendo a força, até o dia em que você precisa arrastar um cilindro de oxigênio pra ir até a padaria. Eu vi isso acontecer. No meu pai.
+
+**C37e · 7:08** 🎬 Uma ampulheta (a mesma da capa do método) com a areia caindo rápido. 🔁 · 🅣 **QUEM FUMA VIVE, EM MÉDIA, 10 ANOS A MENOS** `[FONTE: CDC]`
+> Quem fuma vive, em média, pelo menos dez anos a menos. Dez anos. Dez Natais. A formatura do seu filho. O nascimento do seu neto. Tudo isso queimando junto com o cigarro.
+
+**C37f · 7:20** 🎬 Uma criança no banco de trás de um carro com fumaça; ela tosse. · 🅣 **E QUEM VOCÊ AMA RESPIRA JUNTO**
+> E não é só você. A fumaça que sai do seu cigarro entra no pulmão de quem você mais ama.
+
+**C37g · 7:28** 🎬 Prédios de vidro, executivos brindando, linha de produção de cigarros, notas de dinheiro caindo. Depois prateleiras de farmácia cheias de caixas. · 🅣 **BILHÕES POR ANO** · 🔊 trilha tensa
+> E enquanto isso acontece, tem gente ficando muito rica. A indústria do cigarro fatura bilhões todos os anos com gente como eu e você. E quando você tenta parar e não consegue, tem outra fila de empresas esperando, vendendo adesivo, chiclete, tratamento, caixa atrás de caixa. Cada recaída sua vira mais uma venda.
+
+**C37h · 7:46** 🎬 O narrador olhando fixo para a câmera. Silêncio de 1 s. 🔁
+> Pensa comigo: quem ganha dinheiro se você conseguir parar sozinho, com um método simples, que custa menos que alguns maços de cigarro? Ninguém. É por isso que ninguém te conta o que eu vou te contar agora.
+
 **C38 · 6:22** 🎬 O narrador olhando para a câmera. Fundo neutro. Tom de revelação. 🔁
-> Hoje eu sei por que eu falhava. E não era porque esses métodos não prestam. Eles ajudam muita gente. O problema era a estratégia. A minha estratégia era sempre a mesma: parar de uma vez.
+> Hoje eu sei por que eu falhava. E o problema nunca fui eu. Nem você. O problema foi a estratégia que venderam pra gente a vida inteira: parar de uma vez.
 
 **C39 · 6:36** 🎬 Animação simples: uma linha do dia com 20 cigarros; um "boss" gigante no começo da linha (o primeiro cigarro). · 🅣 **VOCÊ COMEÇAVA PELA PARTE MAIS DIFÍCIL**
 > E parar de uma vez significa uma coisa que ninguém te explica: logo no primeiro minuto do dia, você tem que enfrentar o cigarro mais forte de todos.
@@ -351,8 +381,8 @@
 
 ## BLOCO 14 — Bônus + garantia (19:25–20:40)
 
-**C95 · 19:25** 🎬 Caixa de presente abrindo. · 🅣 **3 PRESENTES** · 🔊 som de "brilho"
-> E como você confiou em mim até aqui, eu quero te dar três presentes.
+**C95 · 19:25** 🎬 Caixa de presente abrindo. · 🅣 **4 PRESENTES** · 🔊 som de "brilho"
+> E como você confiou em mim até aqui, eu quero te dar quatro presentes.
 
 **C96 · 19:32** 🎬 Capa do Bônus 1 (mockup). · 🅣 **BÔNUS 1 · KIT DOS 3 PRIMEIROS DIAS**
 > O primeiro é o Kit dos 3 Primeiros Dias. Eu te mostro o que fazer nos três momentos em que a vontade aperta mais: quando você acorda, depois do café e depois do almoço. São os três momentos em que eu mais precisei de ajuda.
@@ -360,8 +390,11 @@
 **C97 · 19:48** 🎬 Capa do Bônus 2: xícara de chá fumegante com flores de camomila e lavanda. · 🅣 **BÔNUS 2 · RITUAL DO CHÁ DA NOITE SERENA**
 > O segundo é o Ritual do Chá da Noite Serena. A receita simples que o Kwame me ensinou, com ervas fáceis de achar, e como fazer esse ritual antes de dormir pra acordar mais tranquilo.
 
-**C98 · 20:02** 🎬 Capa do Bônus 3: um escudo dourado. · 🅣 **BÔNUS 3 · BLINDAGEM ANTI-RECAÍDA**
-> E o terceiro é a Blindagem Anti-Recaída: o plano dos 30 dias depois do dia 15, pra festa, cerveja, estresse no trabalho. Os momentos em que a maioria das pessoas volta a fumar.
+**C98 · 20:02** 🎬 Capa do Bônus 3: um pulmão que vai do cinza ao rosado numa linha do tempo. · 🅣 **BÔNUS 3 · PROTOCOLO DE RECUPERAÇÃO DO CORPO** `[FONTE da linha do tempo: OMS/CDC]`
+> O terceiro vai mudar a forma como você enxerga o seu corpo: o Protocolo de Recuperação do Corpo. Você vai ver, dia a dia, o que acontece dentro de você depois do último cigarro. Em 20 minutos o seu coração desacelera. Em 12 horas o monóxido de carbono do seu sangue volta ao normal. Em poucas semanas a circulação melhora e o fôlego volta. Em um ano o risco de infarto cai pela metade. E em dez anos o risco de câncer de pulmão cai pra cerca da metade do de quem continua fumando. E a alimentação simples pra ajudar o seu corpo nessa recuperação, sem engordar.
+
+**C98b · 20:30** 🎬 Capa do Bônus 4: um escudo dourado. · 🅣 **BÔNUS 4 · BLINDAGEM ANTI-RECAÍDA**
+> E o quarto é a Blindagem Anti-Recaída: o plano dos 30 dias depois do dia 15, pra festa, cerveja, estresse no trabalho. Os momentos em que a maioria das pessoas volta a fumar.
 
 **C99 · 20:16** 🎬 Selo de garantia dourado com o desenho do frasco no centro. · 🅣 **GARANTIA DO PRIMEIRO CIGARRO · 30 DIAS**
 > E você ainda tem a Garantia do Primeiro Cigarro. Você aplica o método durante os 14 dias. Se você não sentir a diferença, é só mandar uma mensagem dentro de 30 dias e você recebe todo o seu dinheiro de volta. Sem perguntas. O risco é todo meu.
@@ -383,14 +416,17 @@
 **C103 · 21:28** 🎬 · 🅣 **"SOU MUITO ANSIOSO."**
 > "Eu sou muito ansioso." Eu também. Foi exatamente por isso que parar de uma vez nunca funcionou pra mim. Aqui você não para de uma vez. Você vai devagar, no seu ritmo.
 
-**C104 · 21:40** 🎬 · 🅣 **"EU USO MEDICAÇÃO."**
-> "Eu tomo remédio ou faço acompanhamento médico." Continue. O método não substitui o seu médico. Ele é um ritual que você faz junto com a sua rotina. Converse com o seu médico sempre que tiver dúvida.
+**C104 · 21:40** 🎬 · 🅣 **"PRECISO DE REMÉDIO?"**
+> "Eu preciso de remédio pra fazer?" Não. Você não precisa de nenhum remédio pra aplicar o truque do primeiro cigarro. E se você já usa algum por indicação médica, não precisa parar: o método entra junto com a sua rotina.
 
 **C105 · 21:52** 🎬 · 🅣 **"E SE NÃO FUNCIONAR PRA MIM?"**
 > "E se não funcionar comigo?" Você tem 30 dias de garantia. Se você não sentir a diferença, eu devolvo o seu dinheiro.
 
 **C106 · 22:02** 🎬 Tela dividida em dois caminhos (estrada escura × estrada iluminada). 🔁 · 🔊 cordas, crescendo
-> Agora você tem dois caminhos. O primeiro é fechar este vídeo e continuar como está. Amanhã de manhã você vai acender o primeiro cigarro do dia, como sempre. E a serpente vai continuar com fome.
+> Agora você tem dois caminhos. O primeiro é fechar este vídeo e continuar como está. Amanhã de manhã você vai acender o primeiro cigarro do dia, como sempre. E o próximo. E o próximo. E a serpente vai continuar com fome.
+
+**C106b · 22:14** 🎬 Corte para o leito de hospital da C16, agora com o rosto do narrador no lugar do pai, de máscara de oxigênio; o filho adulto segurando a mão dele. Dessaturado. 🔁 · 🔊 bip do monitor
+> E daqui a alguns anos, pode ser você naquela cama de hospital, com uma máscara de oxigênio, sem conseguir beber água sozinho. E alguém que você ama segurando a sua mão. Eu já estive do outro lado dessa mão. Eu não desejo isso pra ninguém.
 
 **C107 · 22:16** 🎬 Lado iluminado: manhã, café, uma criança abraçando o pai.
 > O segundo é clicar no botão aqui embaixo, e amanhã de manhã fazer diferente. Só com um cigarro. O primeiro.
@@ -402,7 +438,7 @@
 > E o desenho do Davi continua na geladeira. Pra eu lembrar todo dia por que eu fiz isso.
 
 **C110 · 22:42** 🎬 O narrador para a câmera, calmo. · 🅣 **CLIQUE NO BOTÃO ABAIXO E COMECE AMANHÃ**
-> Eu não sei quem está esperando por você aí. Um filho, uma neta, uma esposa, você mesmo. Mas eu sei que essa pessoa merece te ter por muito tempo. Clique no botão aqui embaixo. Amanhã de manhã, no seu primeiro cigarro, a sua história começa a mudar.
+> Eu não sei quem está esperando por você aí. Um filho, uma neta, uma esposa, você mesmo. Mas eu sei que essa pessoa merece te ter por muito tempo. Clique no botão aqui embaixo agora, porque eu não sei por quanto tempo este vídeo vai continuar no ar. Amanhã de manhã, no seu primeiro cigarro, a sua história começa a mudar.
 
 **C111 · 22:58** 🎬 Fumaça se dissipando, revelando um céu limpo. · 🔊 o clique do isqueiro… e nada acende. Silêncio. Corte para preto.
 > (sem narração)
