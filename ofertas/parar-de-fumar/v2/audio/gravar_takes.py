@@ -18,7 +18,10 @@ from faster_whisper import WhisperModel
 
 ap = argparse.ArgumentParser()
 ap.add_argument("segmentos"); ap.add_argument("pasta"); ap.add_argument("relatorio")
-ap.add_argument("--voz", default="pt-BR-FranciscaNeural"); ap.add_argument("--so", default="")
+ap.add_argument("--voz", default="pt-BR-FranciscaNeural")
+ap.add_argument("--motor", default="edge", choices=["edge", "elevenlabs"])
+ap.add_argument("--voz-crianca", default="", help="voice_id do ElevenLabs para a Sofia")
+ap.add_argument("--modelo-tts", default="eleven_v3"); ap.add_argument("--so", default="")
 ap.add_argument("--modelo", default="medium"); ap.add_argument("--previa", action="store_true")
 a = ap.parse_args()
 PROXY = os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy")
@@ -62,6 +65,25 @@ async def tts(texto, voz, rate, pitch, dst):
     await edge_tts.Communicate(texto, voz, rate=rate, pitch=pitch, proxy=PROXY).save(dst)
 
 
+# ElevenLabs v3: a emoção vai como marcação no começo do take (não é falada; a conferência usa o texto sem ela)
+TAGS = {"impacto": "[serious]", "intimo": "[softly]", "dor": "[sad]", "choque": "[sad][slowly]", "medo": "[tense]",
+        "revelacao": "[thoughtful]", "misterio": "[mysterious][quietly]", "esperanca": "[hopeful]", "alegria": "[happy]",
+        "venda": "[confident]", "urgencia": "[urgent]"}
+TAG_CRIANCA = {"dor": "[crying]", "choque": "[crying][screams]", "intimo": "[softly]"}
+
+
+def tts_eleven(texto, voice_id, emocao, crianca, dst, estabilidade=.5):
+    import urllib.request
+    tag = (TAG_CRIANCA.get(emocao, "[crying]") if crianca else TAGS.get(emocao, ""))
+    corpo = {"text": f"{tag} {texto}".strip(), "model_id": a.modelo_tts, "language_code": "pt",
+             "voice_settings": {"stability": estabilidade, "similarity_boost": .8}}
+    req = urllib.request.Request(f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}?output_format=mp3_44100_128",
+                                 data=json.dumps(corpo).encode(), method="POST",
+                                 headers={"xi-api-key": os.environ["ELEVENLABS_API_KEY"], "Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=180) as r, open(dst, "wb") as f:
+        f.write(r.read())
+
+
 def carregar16(p):
     return np.frombuffer(subprocess.run(["ffmpeg", "-loglevel", "error", "-i", p, "-ac", "1", "-ar", "16000", "-f", "f32le", "-"],
                                         capture_output=True, check=True).stdout, np.float32)
@@ -103,11 +125,15 @@ for t in takes:
         rate = f"{int(rate0.rstrip('%')) + dv:+d}%"
         bruto = dst + f".t{n}.mp3"
         try:
-            asyncio.run(tts(falar(t["texto"]), a.voz, rate, pitch, bruto))
+            if a.motor == "elevenlabs":
+                vid = a.voz_crianca if crianca else a.voz
+                tts_eleven(falar(t["texto"]), vid, t["emocao"], crianca, bruto, estabilidade=[.5, .5, .35, .65, .5, .35][n])
+            else:
+                asyncio.run(tts(falar(t["texto"]), a.voz, rate, pitch, bruto))
         except Exception as e:
             print("erro tts", t["id"], e, flush=True); continue
         cand = bruto
-        if crianca:
+        if crianca and a.motor == "edge":
             cand = dst + f".c{n}.mp3"
             subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", bruto, "-af", CRIANCA["filtro"], cand], check=True)
         nota, ouvido, dur = avaliar(cand, t["texto"])
