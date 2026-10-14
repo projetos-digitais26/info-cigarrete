@@ -1,0 +1,416 @@
+# VSL V2 — "O Truque do Primeiro Cigarro do Dia" · Português (Brasil)
+
+**Duração estimada:** 21–23 min (~3.100 palavras de narração a ~145 palavras/min)
+**Narrador:** Marcos, 44 anos · esposa Luciana · filho Davi (8 anos) · mestre Kwame
+**Estratégia e regras de produção:** `00-estrategia-v2.md`
+
+**Como ler**
+- `C01 · 0:00`: número da cena e tempo aproximado de entrada
+- 🎬 imagem · 🅣 texto na tela (além da legenda palavra a palavra) · 🔊 som
+- Parágrafos com `>` são a **narração** (VO)
+- 🔁 = quebra de padrão · 🔓 = loop aberto · `▶ BOTÃO` = momento de liberar o botão no player
+- `[PROVA NECESSÁRIA: …]` = preencher com material real antes de publicar
+
+---
+
+## BLOCO 1 — LEAD: quebra de padrão + promessa (0:00–1:15)
+
+**C01 · 0:00** 🎬 Tela preta. Close extremo de um isqueiro. *Clique*. A chama acende em câmera lenta. · 🔊 o clique seco do isqueiro, depois silêncio total
+> Não apague esse cigarro.
+
+**C02 · 0:03** 🎬 Mão acendendo um cigarro, de manhã, com uma xícara de café ao lado. Luz fria da janela. · 🅣 **NÃO APAGUE ESSE CIGARRO**
+> Sério. Se você fuma, eu não vou te pedir pra parar hoje. Nem amanhã.
+
+**C03 · 0:08** 🎬 Relógio de cozinha marcando 6h40. A fumaça sobe e começa a se enrolar como uma serpente (efeito de IA). · 🔊 um sibilo baixo, quase imperceptível
+> Amanhã de manhã, quando você acender o primeiro cigarro do dia, aquele junto com o café, eu quero que você faça uma coisa simples com ele. Uma coisa só.
+
+**C04 · 0:18** 🎬 A fumaça vira a cabeça de uma serpente e "olha" para a câmera. Corte seco. 🔁
+> Porque é nesse cigarro, o primeiro, que mora a cabeça do seu vício.
+
+**C05 · 0:23** 🎬 Sequência rápida (2 s cada): cinzeiro cheio; dedos amarelados; uma criança afastando o rosto; um homem tossindo no carro. · 🅣 **20 CIGARROS POR DIA… 1 CONTROLA TODOS**
+> Todos os outros cigarros do seu dia dependem dele. O do almoço, o do estresse, o do fim da noite. Todos.
+
+**C06 · 0:33** 🎬 Calendário com os dias sendo riscados rapidamente, do 1 ao 15. Luz que vai esquentando a cada dia. · 🅣 **14 DIAS**
+> E quando você aprende a mexer nesse primeiro cigarro do jeito certo, durante 14 dias, algo começa a acontecer. A vontade vai perdendo força. Até que, numa manhã qualquer, você termina o seu café… e percebe que esqueceu de fumar.
+
+**C07 · 0:50** 🎬 Homem de 40 e poucos anos olhando a xícara vazia, surpreso. Sorriso pequeno. · 🔊 entra o piano suave
+> Sem adesivo. Sem chiclete. Sem precisar parar de uma vez e enfrentar aquela guerra que você já perdeu tantas vezes.
+
+**C08 · 1:00** 🎬 Close no rosto do narrador (ator ou IA; ver estratégia §12), olhando direto para a câmera. Fundo escuro. · 🅣 **O TRUQUE DO PRIMEIRO CIGARRO DO DIA**
+> Meu nome é Marcos. Eu fumei por 19 anos. E neste vídeo eu vou te mostrar o que eu aprendi com um velho, do outro lado do mundo, num lugar onde quase ninguém fuma… e por que a ciência confirma que ele estava certo.
+
+---
+
+## BLOCO 2 — Qualificação + acordo (1:15–1:55)
+
+**C09 · 1:15** 🎬 Montagem: fumantes de várias idades. Uma senhora, um caminhoneiro, uma mulher de terninho, um jovem no ponto de ônibus. · 🔊 piano continua
+> Se você fuma há 5, 10, 20 ou 40 anos… se você fuma meio maço ou dois por dia… se você já tentou parar e voltou, uma, duas, dez vezes… este vídeo é pra você.
+
+**C10 · 1:28** 🎬 Uma pessoa jogando um maço no lixo e, em seguida, tirando o maço do lixo. 🔁
+> Principalmente se você já ficou três dias sem fumar, com a cabeça explodindo, e no quarto dia acendeu um cigarro sentindo que tinha falhado de novo.
+
+**C11 · 1:38** 🎬 O narrador, close, mais sério. · 🅣 **NÃO FOI FRAQUEZA**
+> Eu quero te dizer uma coisa que ninguém te disse: não foi fraqueza. Você só começou a luta pelo lado errado. E até o final deste vídeo você vai entender exatamente o que eu quero dizer.
+
+**C12 · 1:48** 🎬 Mão do narrador estendida, como num aperto de mão com o espectador. 🔓
+> Mas antes, eu preciso te contar como eu descobri isso. Porque começou no pior dia da minha vida.
+
+---
+
+## BLOCO 3 — A história: o pai (1:55–4:35)
+
+**C13 · 1:55** 🎬 Corredor de hospital, luz fria, câmera lenta. Paleta dessaturada com grão de filme. · 🔊 bip de monitor cardíaco, ao fundo
+> Meu pai fumou a vida inteira. Eu cresci vendo ele acender um cigarro no outro, sentado na varanda, com aquele isqueiro prateado que ele carregava no bolso da camisa.
+
+**C14 · 2:08** 🎬 Close de um isqueiro prateado antigo, gasto, sobre uma mesa de madeira. (Objeto-âncora 1.)
+> Eu comecei a fumar com 25 anos. E sabe por quê? Pra ficar perto dele. Era o nosso momento. Eu e ele, na varanda, fumando e conversando sobre a vida.
+
+**C15 · 2:20** 🎬 Pai e filho na varanda ao entardecer (banco de imagem), fumaça subindo. Tom de lembrança.
+> Eu nunca imaginei que aquele momento ia custar tão caro.
+
+**C16 · 2:26** 🎬 Leito de hospital. Mão envelhecida com acesso venoso. Máscara de oxigênio. · 🅣 **CÂNCER DE PULMÃO**
+> Aos 67 anos, ele foi diagnosticado com câncer de pulmão. Em poucos meses, aquele homem forte, que me carregava nos ombros, não conseguia mais subir um degrau sem perder o ar.
+
+**C17 · 2:42** 🎬 Close no rosto do pai com a máscara, olhos úmidos. · 🔊 o piano para. Só a respiração do oxigênio.
+> No final, ele não conseguia nem beber água sozinho.
+
+**C18 · 2:50** 🎬 Silêncio de 1,5 s. Tela quase preta. 🔁
+> E eu estava lá. Segurando a mão dele.
+
+**C19 · 2:55** 🎬 O bip do monitor vira um som contínuo. Corte para o estacionamento do hospital, à noite, chuva fina.
+> Ele morreu numa terça-feira, às 4 da tarde.
+
+**C20 · 3:02** 🎬 O narrador sentado dentro do carro, no estacionamento, as mãos tremendo. Ele abre o porta-luvas e pega um maço.
+> E sabe o que eu fiz dez minutos depois? Eu desci até o estacionamento, entrei no carro… e acendi um cigarro.
+
+**C21 · 3:14** 🎬 Close da chama do isqueiro iluminando o rosto molhado de lágrimas. *Clique*. 🔁 · 🅣 **10 MINUTOS DEPOIS**
+> Dez minutos depois de ver o meu pai morrer por causa do cigarro, eu estava fumando.
+
+**C22 · 3:22** 🎬 Fumaça enchendo o carro. O rosto some na fumaça.
+> Naquele momento eu entendi que não era eu que mandava no cigarro. Era ele que mandava em mim.
+
+**C23 · 3:30** 🎬 Corte para a casa do narrador. Roupas no varal; Luciana cheirando a manga de uma camisa e fazendo uma careta.
+> E não era só comigo. A minha casa tinha cheiro de cigarro. As minhas roupas, as roupas da Luciana, minha esposa. O carro. As cortinas.
+
+**C24 · 3:42** 🎬 Luciana na cozinha, de costas, abrindo a janela enquanto ele fuma na área de serviço. Ela não fala nada.
+> Ela nunca brigou comigo. Ela só abria a janela. Todo dia. E aquele silêncio doía mais do que qualquer briga.
+
+**C25 · 3:52** 🎬 O narrador acendendo cigarros em vários momentos, montagem acelerada: no café, no carro, no trabalho, na porta de casa, à noite. · 🅣 contador subindo: **1… 5… 12… 20…**
+> Eu chegava a fumar um maço por dia. Não conseguia tomar um café sem um cigarro. Não conseguia dirigir sem um cigarro. Não conseguia nem pensar sem um cigarro.
+
+**C26 · 4:08** 🎬 Close no narrador no espelho do banheiro, olheiras, dentes amarelados. Ele tosse.
+> Eu tinha 42 anos, uma esposa que me amava e um filho lindo. E estava trocando tudo isso, devagar, por um maço de cigarro.
+
+**C27 · 4:20** 🎬 Corte seco para uma folha de papel com um desenho infantil, de costas, ainda sem mostrar o que é. 🔓
+> Mas o que me fez decidir de verdade não foi a morte do meu pai. Foi um desenho.
+
+---
+
+## BLOCO 4 — O filho (4:35–5:35)
+
+**C28 · 4:35** 🎬 A folha vira. Desenho a lápis de cor: um homem com um cigarro e um "X" vermelho em cima; ao lado, um menino chorando. (Objeto-âncora 2. Produzir de verdade, com mão de criança.) · 🔊 entra uma trilha de cordas, baixa
+> O Davi, meu filho, tinha 8 anos. Uma semana depois do enterro do avô, ele deixou esse desenho em cima do meu travesseiro.
+
+**C29 · 4:48** 🎬 Close na frase escrita com letra de criança: **"PAPAI NÃO FUMA. EU NÃO QUERO QUE VOCÊ MORA IGUAL O VOVÔ"**
+> Estava escrito assim, com a letra torta dele: "Papai, não fuma. Eu não quero que você morra igual o vovô."
+
+**C30 · 5:00** 🎬 O narrador sentado na cama segurando o desenho, de costas para a câmera. Silêncio de 1 s. 🔁
+> Eu chorei como não tinha chorado nem no velório.
+
+**C31 · 5:08** 🎬 Davi brincando na sala; ele se afasta quando o pai se aproxima com cheiro de cigarro.
+> E naquele dia eu percebi que o meu filho já estava se afastando de mim. Ele não pulava mais no meu colo quando eu chegava. Ele dizia que eu tinha cheiro de cinzeiro.
+
+**C32 · 5:22** 🎬 O narrador olhando o desenho, determinado. Corte para o desenho preso na porta da geladeira.
+> Eu prometi pra ele, e prometi pra mim, que eu ia parar. Custasse o que custasse.
+
+**C33 · 5:30** 🎬 Corte rápido: o narrador sorrindo, confiante… e depois um cinzeiro cheio. 🔁
+> E durante um ano inteiro, eu falhei.
+
+---
+
+## BLOCO 5 — As tentativas e o erro de estratégia (5:35–7:05)
+
+**C34 · 5:35** 🎬 Montagem com cores frias: adesivo sendo colado no braço; caixa de chiclete de nicotina; cartela de comprimido; um app de contagem de dias zerando. · 🅣 **ADESIVO · CHICLETE · REMÉDIO · FORÇA DE VONTADE**
+> Eu tentei de tudo. Adesivo. Chiclete. Remédio. Parar de uma vez, na força de vontade. Contei os dias num aplicativo.
+
+**C35 · 5:48** 🎬 Calendário: dia 1, dia 2, dia 3 riscados… e no dia 4, um cigarro aceso em cima.
+> E toda vez era a mesma história. Um, dois, três dias, eu aguentava. No quarto dia, de manhã, a vontade vinha como uma onda. Eu ficava irritado, com a cabeça pesada, brigava com todo mundo em casa.
+
+**C36 · 6:02** 🎬 O narrador gritando com o Davi por uma bobagem; o menino se encolhe. Logo depois, o narrador sozinho, arrependido.
+> Teve um dia que eu gritei com o Davi por causa de um copo derramado. Um copo. E eu vi no olho dele o medo. Eu tinha virado outra pessoa.
+
+**C37 · 6:15** 🎬 Close no isqueiro sendo acendido de novo, em câmera lenta. · 🅣 **RECAÍDA**
+> E aí eu acendia um cigarro. E a culpa vinha junto.
+
+**C38 · 6:22** 🎬 O narrador olhando para a câmera. Fundo neutro. Tom de revelação. 🔁
+> Hoje eu sei por que eu falhava. E não era porque esses métodos não prestam. Eles ajudam muita gente. O problema era a estratégia. A minha estratégia era sempre a mesma: parar de uma vez.
+
+**C39 · 6:36** 🎬 Animação simples: uma linha do dia com 20 cigarros; um "boss" gigante no começo da linha (o primeiro cigarro). · 🅣 **VOCÊ COMEÇAVA PELA PARTE MAIS DIFÍCIL**
+> E parar de uma vez significa uma coisa que ninguém te explica: logo no primeiro minuto do dia, você tem que enfrentar o cigarro mais forte de todos.
+
+**C40 · 6:50** 🎬 A serpente de fumaça aparece de novo e cresce sobre a linha do dia. 🔓
+> Eu não sabia disso. Eu só fui entender quando um velho, sentado numa cadeira de madeira, me olhou nos olhos e me disse uma frase que eu nunca mais esqueci.
+
+---
+
+## BLOCO 6 — A viagem a Gana (7:05–9:00)
+
+**C41 · 7:05** 🎬 Transição de cor: do cinza frio para o dourado. Avião decolando ao entardecer. · 🔊 percussão africana suave entra por baixo da trilha
+> Seis meses depois da morte do meu pai, a Luciana olhou pra mim e disse: "Você precisa respirar. A gente precisa sair daqui."
+
+**C42 · 7:15** 🎬 Mapa da África com um ponto se acendendo na costa oeste: **GANA**.
+> Ela tinha uma amiga de infância que morava em Gana, na África. E insistiu tanto que eu acabei indo. Eu achava que ia passar duas semanas tentando fumar escondido.
+
+**C43 · 7:28** 🎬 Paisagens de Gana (banco de imagem + IA): mercado colorido em Acra, crianças correndo na praia, vilarejo com casas de barro. Luz dourada.
+> Mas lá aconteceu uma coisa que eu não entendia. Eu andava pelas ruas, pelos mercados, pelas praias… e não via quase ninguém fumando.
+
+**C44 · 7:42** 🎬 O narrador num mercado, o único segurando um cigarro, olhando em volta, constrangido. 🔁
+> Eu era o único. Eu, o turista, com o cigarro na mão.
+
+**C45 · 7:48** 🎬 Gráfico simples e limpo: barras de "% de adultos que fumam" com o Brasil e Gana. · 🅣 **GANA: UM DOS PAÍSES ONDE MENOS SE FUMA NO MUNDO** `[PROVA NECESSÁRIA: dado da OMS de prevalência de tabagismo em Gana e no Brasil]`
+> Depois eu fui pesquisar e descobri que Gana está entre os países onde menos se fuma no mundo.
+
+**C46 · 7:58** 🎬 A amiga (Ama, ganense, 50 anos) sorrindo numa varanda. Luciana ao lado.
+> Eu perguntei pra amiga da Luciana, a Ama, como aquilo era possível. Ela riu e disse: "Aqui, quando alguém quer largar um vício, a gente leva pra falar com os mais velhos."
+
+**C47 · 8:12** 🎬 Estrada de terra até um vilarejo, ao entardecer. Câmera subjetiva dentro do carro.
+> No dia seguinte ela me levou até um vilarejo a duas horas da capital. E me apresentou a um homem chamado Kwame.
+
+**C48 · 8:24** 🎬 Kwame (IA, idoso, ~75 anos, camisa de tecido kente, cadeira de madeira, olhar sereno). Câmera lenta. · 🅣 **KWAME**
+> Kwame tinha uns 75 anos. Ele me explicou que Kwame quer dizer "nascido no sábado". Na tradição do povo dele, cada pessoa recebe o nome do dia em que nasceu.
+
+**C49 · 8:38** 🎬 Close nas mãos de Kwame enrolando folhas secas. Ele acende um cigarro de palha. 🔁
+> E aí ele fez uma coisa que me deixou completamente confuso. Ele acendeu um cigarro na minha frente.
+
+**C50 · 8:46** 🎬 Kwame fumando metade e apagando com calma; guarda a outra metade num pote de vidro. (Primeira aparição do frasco, objeto-âncora 3.) 🔓
+> Fumou só a metade. Apagou com calma. E guardou a outra metade dentro de um pote de vidro. E me disse: "Esse foi o meu único cigarro de hoje. E amanhã eu não vou querer nenhum."
+
+---
+
+## BLOCO 7 — A cabeça da serpente (9:00–11:00)
+
+**C51 · 9:00** 🎬 Kwame e o narrador sentados frente a frente, fogueira entre os dois, céu ficando roxo. · 🔊 percussão some; fica só o crepitar do fogo
+> Eu contei tudo pra ele. Do meu pai, do Davi, do desenho, de todas as vezes que eu tentei parar.
+
+**C52 · 9:12** 🎬 Kwame escutando, balançando a cabeça devagar.
+> Ele ouviu em silêncio. E quando eu terminei, ele perguntou: "Quando você tenta parar, qual cigarro você tira primeiro?"
+
+**C53 · 9:22** 🎬 O narrador hesitando.
+> Eu disse: "Todos. Eu paro de uma vez."
+
+**C54 · 9:27** 🎬 Kwame sorri e aponta para uma cobra desenhada na areia com um galho. 🔁
+> Ele riu. E disse a frase que mudou a minha vida:
+
+**C55 · 9:32** 🎬 A serpente de fumaça (IA) se forma sobre a fogueira. Close nos olhos de Kwame. · 🅣 **"VOCÊS TENTAM MATAR A SERPENTE PELO RABO."** · 🔊 o sibilo da serpente
+> "Vocês tentam matar a serpente pelo rabo. E ela se vira e morde vocês. Nós cortamos a cabeça."
+
+**C56 · 9:45** 🎬 Animação: a serpente com 20 anéis; cada anel é um cigarro do dia; a cabeça é o primeiro cigarro, ao lado de um sol nascendo.
+> Ele me explicou que, pra eles, o vício é como uma serpente. O corpo é feito de todos os cigarros do dia. Mas a cabeça, o lugar de onde vem toda a força, é o primeiro.
+
+**C57 · 10:00** 🎬 Kwame tocando o próprio peito, depois apontando para o nascer do sol.
+> "Quando você acorda, a serpente está com fome. Ela passou a noite inteira sem comer. O primeiro cigarro é a comida mais gostosa que ela recebe no dia. É ele que dá força pra ela pedir todos os outros."
+
+**C58 · 10:16** 🎬 O narrador processando aquilo, sério. 🔁
+> Aquilo bateu em mim como um soco. Porque era verdade. O primeiro cigarro sempre foi o melhor. Aquele com o café, ainda de pijama. Os outros eu fumava quase no automático. Mas o primeiro… o primeiro eu esperava a noite inteira.
+
+**C59 · 10:32** 🎬 Kwame mostra dois frascos de vidro sobre uma mesa rústica: um com bitucas e sal grosso; outro com pimenta-do-reino e sal. A luz do fogo atravessa o vidro.
+> Kwame me ensinou o que o povo dele faz com a cabeça da serpente. Não é parar de uma vez. É ir enfraquecendo a cabeça, um pouco a cada manhã, durante 14 dias. Com um ritual tão simples que no começo eu achei que era brincadeira.
+
+**C60 · 10:48** 🎬 Kwame entregando um dos frascos ao narrador. Close nas mãos. 🔓
+> E me disse: "Faça isso por 14 dias. No décimo quinto dia, você vai entender."
+
+---
+
+## BLOCO 8 — A ciência confirma (11:00–12:15)
+
+**C61 · 11:00** 🎬 Transição para luz branca, moderna. O narrador em casa, no notebook, de madrugada. · 🔊 trilha eletrônica leve, de "investigação"
+> Quando eu voltei pro Brasil, a primeira coisa que eu fiz foi pesquisar. Eu precisava saber se aquilo tinha algum sentido ou se era só uma história bonita.
+
+**C62 · 11:12** 🎬 Tela de computador com o título de um questionário clínico, a primeira pergunta destacada em amarelo. · 🅣 **"QUANTO TEMPO DEPOIS DE ACORDAR VOCÊ FUMA O PRIMEIRO CIGARRO?"** `[PROVA NECESSÁRIA: teste de Fagerström — reproduzir a pergunta oficial]`
+> E eu descobri uma coisa que me deixou arrepiado. Existe um teste que profissionais de saúde do mundo inteiro usam pra medir o grau de dependência de nicotina. E uma das primeiras perguntas desse teste é exatamente esta: quanto tempo depois de acordar você fuma o seu primeiro cigarro?
+
+**C63 · 11:32** 🎬 O narrador se afastando da tela, mão na boca. 🔁
+> A ciência e um velho de um vilarejo africano estavam dizendo a mesma coisa. O primeiro cigarro do dia é um dos sinais mais fortes do tamanho do seu vício.
+
+**C64 · 11:44** 🎬 Animação limpa: uma linha de "nível de nicotina no corpo" caindo durante a noite (lua), chegando ao mínimo ao amanhecer, e o primeiro cigarro dando um pico enorme. · 🅣 **8 HORAS SEM NICOTINA → O PICO MAIS FORTE DO DIA** `[PROVA NECESSÁRIA: fonte sobre a queda da nicotina durante a noite]`
+> E faz todo sentido. Você passa a noite inteira dormindo, sem nicotina. Quando acorda, o seu corpo está no ponto mais baixo. Por isso o primeiro cigarro dá aquele alívio enorme. É ele que "recarrega" o vício pro resto do dia.
+
+**C65 · 12:02** 🎬 A serpente de fumaça se enrolando no gráfico, a cabeça no pico. 🔓
+> É por isso que parar de uma vez é tão brutal. Você começa a guerra justamente contra o cigarro mais forte. E é por isso que o que o Kwame me ensinou funciona ao contrário: você enfraquece a cabeça primeiro, devagar, e o resto do corpo da serpente vai junto.
+
+---
+
+## BLOCO 9 — Os 3 movimentos (12:15–13:40)
+
+**C66 · 12:15** 🎬 Tela com três cartões que viram um por um (estilo infográfico premium, fundo escuro, dourado). · 🅣 **1. EMPURRAR · 2. PARTIR · 3. SELAR** · 🔊 um "tum" grave a cada cartão
+> O truque do primeiro cigarro do dia tem três movimentos. Eu vou te mostrar o que cada um faz.
+
+**C67 · 12:22** 🎬 Cartão 1: relógio cujo ponteiro avança a cada dia. · 🅣 **EMPURRAR**
+> O primeiro é empurrar. Você não deixa de fumar o primeiro cigarro. Você só muda a hora dele, de um jeito muito específico, todos os dias. E com isso você ensina o seu corpo que a manhã sobrevive sem nicotina, sem sofrimento, porque é aos pouquinhos.
+
+**C68 · 12:40** 🎬 Cartão 2: um cigarro sendo partido ao meio em câmera lenta, a cinza caindo. · 🅣 **PARTIR**
+> O segundo é partir. O cigarro mais gostoso do dia deixa de ser inteiro. E quando o prazer mais forte do dia deixa de ser completo, o seu cérebro começa a perder o interesse por ele.
+
+**C69 · 12:56** 🎬 Cartão 3: os dois frascos de vidro, a metade do cigarro caindo dentro de um deles, sal e pimenta. · 🅣 **SELAR**
+> E o terceiro é selar. É o ritual dos dois frascos que o Kwame me ensinou, junto com um chá simples que você toma antes de dormir. Ele transforma cada manhã numa vitória que o seu cérebro registra e não esquece. Parece simples demais. E é exatamente por isso que funciona: você consegue fazer todos os dias.
+
+**C70 · 13:16** 🎬 O narrador para a câmera, sorriso leve. 🔁 · 🅣 **VOCÊ NÃO PRECISA PARAR DE FUMAR PARA COMEÇAR**
+> Repara numa coisa: em nenhum desses três movimentos você precisa parar de fumar. Você começa fumando. É isso que faz esse método ser diferente de tudo o que você já tentou.
+
+**C71 · 13:28** 🎬 Calendário com o dia 1 circulado. 🔓
+> Mas eu confesso: no primeiro dia eu não acreditei. E o que aconteceu nos 15 dias seguintes eu anotei tudo, num caderno.
+
+---
+
+## BLOCO 10 — O diário de 15 dias (13:40–15:45)
+
+**C72 · 13:40** 🎬 Close num caderno simples; a mão do narrador escrevendo "DIA 1". Luz da manhã. · 🔊 trilha de cordas, crescendo devagar ao longo do bloco
+> Dia 1. Acordei, fiz o café, e fiz o primeiro movimento. Foi estranho. A vontade estava lá. Mas era possível. Pela primeira vez, eu não estava brigando com a vontade. Eu estava negociando com ela.
+
+**C73 · 13:58** 🎬 "DIA 3" escrito. O narrador tomando o chá à noite com a Luciana, na varanda.
+> Dia 3. Nas outras tentativas, era o dia em que eu explodia. Desta vez eu estava tranquilo. A Luciana percebeu antes de mim: "Você não gritou com ninguém hoje."
+
+**C74 · 14:12** 🎬 "DIA 5". O frasco com mais metades de cigarro dentro. O relógio já marcando 9h. 🔁
+> Dia 5. O meu primeiro cigarro, que antes era às 6 e meia da manhã, já estava pra depois das 9. E o mais estranho: o resto do dia eu estava fumando menos, sem fazer força nenhuma. A serpente estava ficando mais fraca.
+
+**C75 · 14:30** 🎬 "DIA 8". O narrador brincando no chão com o Davi; o menino pula no colo dele.
+> Dia 8. O Davi pulou no meu colo quando eu cheguei do trabalho. Fazia meses que ele não fazia isso. Ele cheirou a minha camisa e disse: "Pai, você tá com cheiro de pai."
+
+**C76 · 14:46** 🎬 Close no narrador emocionado, tentando não chorar. Silêncio de 1 s. 🔁
+> Eu tive que ir pro banheiro pra ele não me ver chorando.
+
+**C77 · 14:52** 🎬 "DIA 11". Maço esquecido em cima da mesa, intacto, coberto de poeira de luz.
+> Dia 11. Encontrei um maço esquecido no bolso da jaqueta. Nem lembrava de ter comprado. A vontade estava ficando… pequena.
+
+**C78 · 15:04** 🎬 "DIA 15". Manhã, a mesma cozinha da C02, mas agora com luz quente. A xícara de café vazia. O narrador parado. · 🔊 a música para. Só passarinhos lá fora.
+> Dia 15. Eu acordei, fiz o café, sentei na mesma cadeira de sempre… tomei o café inteiro. E quando eu levantei pra lavar a xícara… eu percebi.
+
+**C79 · 15:20** 🎬 Close no rosto: surpresa, um riso nervoso. Corte para o isqueiro do pai sobre a mesa, apagado. 🔁 · 🅣 **EU ESQUECI DE FUMAR**
+> Eu tinha esquecido de fumar.
+
+**C80 · 15:26** 🎬 O narrador abraçando a Luciana na cozinha. Ela chorando e rindo. · 🔊 cordas voltam, cheias
+> Dezenove anos fumando. E eu tinha esquecido. Eu corri pra contar pra Luciana. Ela me abraçou e só disse: "Seu pai ia ficar orgulhoso."
+
+**C81 · 15:38** 🎬 O desenho do Davi na geladeira, agora com um adesivo de estrelinha colado pelo menino. 🔓
+> E o Davi grudou uma estrelinha no desenho dele, que ainda estava na geladeira.
+
+---
+
+## BLOCO 11 — A família, os amigos e outras pessoas (15:45–16:55)
+
+**C82 · 15:45** 🎬 Churrasco de família no quintal. O narrador conversando com o cunhado, que fuma. · 🔊 trilha alegre e leve
+> Quando as pessoas perceberam que eu não fumava mais, começaram a me perguntar o que eu tinha feito. Primeiro o meu cunhado, que fumava havia mais de 25 anos. Depois um colega do trabalho. Depois a mãe de um amigo do Davi.
+
+**C83 · 16:00** 🎬 Bloco de depoimentos em vídeo, 8–12 s cada, com nome, idade e há quantos anos fumava na tela. `[PROVA NECESSÁRIA: 3–5 vídeos reais e autorizados de compradores — ver estratégia §8]` · 🅣 ex.: **"Fumava há 30 anos · 1 maço/dia"**
+> [Depoimento real 1]
+> [Depoimento real 2]
+> [Depoimento real 3]
+
+**C84 · 16:35** 🎬 Celular vibrando sem parar; notificações de mensagens chegando (prints reais com nome abreviado). `[PROVA NECESSÁRIA: prints reais autorizados]` 🔓
+> E o meu celular não parava. Eu passava as noites respondendo mensagens, explicando cada passo, um por um. Até que eu percebi que não ia dar conta. Mas eu tinha feito uma promessa.
+
+---
+
+## BLOCO 12 — A promessa ao Kwame + a conta do cigarro (16:55–18:15)
+
+**C85 · 16:55** 🎬 Flashback dourado: Kwame se despedindo do narrador na estrada de terra, segurando as mãos dele. · 🔊 percussão africana volta, suave
+> No último dia em Gana, quando eu fui agradecer, o Kwame segurou as minhas mãos e me pediu uma coisa. Ele disse: "Isso foi dado a você de graça. Não transforme isso em algo que só os ricos podem ter."
+
+**C86 · 17:12** 🎬 O narrador olhando para a câmera, sério. 🔁 · 🅣 **"NÃO TRANSFORME ISSO EM ALGO QUE SÓ OS RICOS PODEM TER"**
+> E eu prometi. Por isso eu juntei tudo o que ele me ensinou, o passo a passo dos três movimentos, o ritual dos frascos, o chá, o meu diário de 15 dias, num método simples, que você acessa pelo celular. E decidi que o preço nunca seria um obstáculo.
+
+**C87 · 17:30** 🎬 Calculadora grande na tela fazendo a conta ao vivo. · 🅣 **1 MAÇO/DIA ≈ R$ 12 → R$ 360/MÊS → R$ 4.380/ANO** `[CONFERIR preço médio do maço]`
+> Mas antes de te falar o valor, faz uma conta comigo. Se você fuma um maço por dia, você gasta mais ou menos 12 reais por dia. São 360 reais por mês. Mais de 4 mil reais por ano. Em 10 anos, mais de 40 mil reais virando fumaça.
+
+**C88 · 17:50** 🎬 Imagens do que esse dinheiro compraria: uma viagem em família, um carro usado, uma reforma. Depois, o dinheiro queimando no cinzeiro. 🔁
+> Uma viagem com a família. A reforma da casa. A faculdade do seu filho. Tudo isso queimado, um cigarro de cada vez.
+
+**C89 · 18:02** 🎬 O narrador. Tom mais leve.
+> E ainda tem o que não tem preço: o cheiro que sai da sua casa, o fôlego pra brincar com o seu filho, o abraço sem ninguém virar o rosto.
+
+---
+
+## BLOCO 13 — A oferta (18:15–19:25)
+
+**C90 · 18:15** 🎬 Mockup do método: celular mostrando o app "O Truque do Primeiro Cigarro do Dia", com telas do passo a passo e o calendário de 14 dias. `▶ BOTÃO` · 🅣 **O TRUQUE DO PRIMEIRO CIGARRO DO DIA**
+> Então aqui está o que você vai receber. O método completo do truque do primeiro cigarro do dia: os três movimentos, empurrar, partir e selar, explicados passo a passo, dia por dia, durante os 14 dias. Exatamente como o Kwame me ensinou e como eu apliquei.
+
+**C91 · 18:35** 🎬 Telas do app em sequência rápida: calendário, o ritual dos frascos, o chá.
+> Você vai saber exatamente a que horas fumar o primeiro cigarro em cada dia, como partir, como montar os dois frascos, e o que fazer com eles. Tudo no seu celular, pra você seguir enquanto toma o seu café.
+
+**C92 · 18:50** 🎬 Preço riscado, um de cada vez. · 🅣 ~~R$ 297~~ → ~~R$ 197~~ → ~~R$ 97~~ `[DEFINIR âncora]`
+> Muita gente me disse que pagaria 300 reais por isso sem pensar. E faz sentido, é menos de um mês de cigarro. Mas eu fiz uma promessa. Então não vai ser 300. Nem 200. Nem 100.
+
+**C93 · 19:02** 🎬 O preço aparece grande, verde. · 🅣 **R$ [PREÇO] · ou 12x de R$ [X]** `[DEFINIR — sugestão R$ 37]` 🔁
+> Hoje você leva o método completo por apenas [PREÇO]. Ou em até 12 parcelas que custam menos que um maço de cigarro.
+
+**C94 · 19:14** 🎬 Um maço de cigarro ao lado do celular com o app. A balança pendendo para o app.
+> Menos do que você gasta com cigarro em [X] dias. Pra você nunca mais precisar gastar com isso.
+
+---
+
+## BLOCO 14 — Bônus + garantia (19:25–20:40)
+
+**C95 · 19:25** 🎬 Caixa de presente abrindo. · 🅣 **3 PRESENTES** · 🔊 som de "brilho"
+> E como você confiou em mim até aqui, eu quero te dar três presentes.
+
+**C96 · 19:32** 🎬 Capa do Bônus 1 (mockup). · 🅣 **BÔNUS 1 · KIT DOS 3 PRIMEIROS DIAS**
+> O primeiro é o Kit dos 3 Primeiros Dias. Eu te mostro o que fazer nos três momentos em que a vontade aperta mais: quando você acorda, depois do café e depois do almoço. São os três momentos em que eu mais precisei de ajuda.
+
+**C97 · 19:48** 🎬 Capa do Bônus 2: xícara de chá fumegante com flores de camomila e lavanda. · 🅣 **BÔNUS 2 · RITUAL DO CHÁ DA NOITE SERENA**
+> O segundo é o Ritual do Chá da Noite Serena. A receita simples que o Kwame me ensinou, com ervas fáceis de achar, e como fazer esse ritual antes de dormir pra acordar mais tranquilo.
+
+**C98 · 20:02** 🎬 Capa do Bônus 3: um escudo dourado. · 🅣 **BÔNUS 3 · BLINDAGEM ANTI-RECAÍDA**
+> E o terceiro é a Blindagem Anti-Recaída: o plano dos 30 dias depois do dia 15, pra festa, cerveja, estresse no trabalho. Os momentos em que a maioria das pessoas volta a fumar.
+
+**C99 · 20:16** 🎬 Selo de garantia dourado com o desenho do frasco no centro. · 🅣 **GARANTIA DO PRIMEIRO CIGARRO · 30 DIAS**
+> E você ainda tem a Garantia do Primeiro Cigarro. Você aplica o método durante os 14 dias. Se você não sentir a diferença, é só mandar uma mensagem dentro de 30 dias e você recebe todo o seu dinheiro de volta. Sem perguntas. O risco é todo meu.
+
+---
+
+## BLOCO 15 — Como comprar + FAQ + fechamento (20:40–23:00)
+
+**C100 · 20:40** 🎬 Gravação de tela real do checkout: clicar no botão abaixo do vídeo, preencher os dados, escolher Pix ou cartão, botão de finalizar. · 🅣 **CLIQUE NO BOTÃO ABAIXO DO VÍDEO**
+> É simples. Clique no botão que está aqui embaixo do vídeo. Você vai pra uma página de pagamento segura. Preencha os seus dados, escolha Pix ou cartão, e finalize. Em poucos minutos o acesso chega no seu e-mail e você já pode começar amanhã de manhã, no seu primeiro cigarro.
+
+**C101 · 21:00** 🎬 Fundo neutro, perguntas aparecendo como mensagens de WhatsApp na tela, respondidas pelo narrador. · 🅣 **"FUMO HÁ 30 ANOS. FUNCIONA PRA MIM?"**
+> Eu sei que você pode estar com algumas dúvidas. As mesmas que eu tinha.
+> "Marcos, eu fumo há 30 anos." Eu fumava há 19, o meu cunhado há mais de 25. O método não depende de há quanto tempo você fuma. Ele trabalha no cigarro que você vai fumar amanhã.
+
+**C102 · 21:16** 🎬 · 🅣 **"FUMO DOIS MAÇOS POR DIA."**
+> "Eu fumo dois maços por dia." Quanto mais você fuma, mais forte é a cabeça da serpente, e mais você vai sentir a diferença quando começar a enfraquecê-la.
+
+**C103 · 21:28** 🎬 · 🅣 **"SOU MUITO ANSIOSO."**
+> "Eu sou muito ansioso." Eu também. Foi exatamente por isso que parar de uma vez nunca funcionou pra mim. Aqui você não para de uma vez. Você vai devagar, no seu ritmo.
+
+**C104 · 21:40** 🎬 · 🅣 **"EU USO MEDICAÇÃO."**
+> "Eu tomo remédio ou faço acompanhamento médico." Continue. O método não substitui o seu médico. Ele é um ritual que você faz junto com a sua rotina. Converse com o seu médico sempre que tiver dúvida.
+
+**C105 · 21:52** 🎬 · 🅣 **"E SE NÃO FUNCIONAR PRA MIM?"**
+> "E se não funcionar comigo?" Você tem 30 dias de garantia. Se você não sentir a diferença, eu devolvo o seu dinheiro.
+
+**C106 · 22:02** 🎬 Tela dividida em dois caminhos (estrada escura × estrada iluminada). 🔁 · 🔊 cordas, crescendo
+> Agora você tem dois caminhos. O primeiro é fechar este vídeo e continuar como está. Amanhã de manhã você vai acender o primeiro cigarro do dia, como sempre. E a serpente vai continuar com fome.
+
+**C107 · 22:16** 🎬 Lado iluminado: manhã, café, uma criança abraçando o pai.
+> O segundo é clicar no botão aqui embaixo, e amanhã de manhã fazer diferente. Só com um cigarro. O primeiro.
+
+**C108 · 22:26** 🎬 Close no isqueiro prateado do pai, agora dentro de uma gaveta, fechada devagar. 🔁
+> O isqueiro do meu pai está guardado numa gaveta. Eu nunca mais usei.
+
+**C109 · 22:34** 🎬 O desenho do Davi na geladeira com a estrelinha. Depois, o Davi abraçando o pai.
+> E o desenho do Davi continua na geladeira. Pra eu lembrar todo dia por que eu fiz isso.
+
+**C110 · 22:42** 🎬 O narrador para a câmera, calmo. · 🅣 **CLIQUE NO BOTÃO ABAIXO E COMECE AMANHÃ**
+> Eu não sei quem está esperando por você aí. Um filho, uma neta, uma esposa, você mesmo. Mas eu sei que essa pessoa merece te ter por muito tempo. Clique no botão aqui embaixo. Amanhã de manhã, no seu primeiro cigarro, a sua história começa a mudar.
+
+**C111 · 22:58** 🎬 Fumaça se dissipando, revelando um céu limpo. · 🔊 o clique do isqueiro… e nada acende. Silêncio. Corte para preto.
+> (sem narração)
+
+---
+
+## Rodapé da página (sugestão)
+
+> Imagens ilustrativas e cenas dramatizadas. Os resultados podem variar de pessoa para pessoa.
+> Este método não substitui orientação médica. Se você usa medicação ou tem acompanhamento de saúde,
+> continue e converse com seu médico.
