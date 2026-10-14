@@ -80,7 +80,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "PD mãos fechando a mala sobre a cama",
-  "keyframe_prompt": "Luciano: Brazilian man, 46, tan skin, short black hair greying at the temples, light beard, gentle face, light-blue button shirt; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. close on hands over a half-packed suitcase on a bed: Luciano's hands press the lid down while Marcia's hands hesitantly pull the zipper closed, a folded colorful scarf peeking out. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Luciano: Brazilian man, 46, tan skin, short black hair greying at the temples, light beard, gentle face, light-blue button shirt; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. close on hands over a half-packed suitcase on a bed: Luciano's hands press the lid down while Marcia's hands hesitantly pull the zipper closed, a folded colorful scarf peeking out. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the zipper runs around the suitcase corner; slow lateral dolly",
   "quebra": "whip",
   "texto_tela": null,
@@ -200,7 +200,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "PD mão com o cigarro, multidão desfocada",
-  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. close on Marcia's hand holding the cigarette, smoke drifting across a blurred background of bright kente fabrics and passers-by. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. close on Marcia's hand holding the cigarette, smoke drifting across a blurred background of bright kente fabrics and passers-by. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "she hides the cigarette behind her hip; rack focus from the smoke to the crowd",
   "quebra": null,
   "texto_tela": null,
@@ -383,7 +383,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "PD mãos de um ancião segurando a mãozinha de um recém-nascido",
-  "keyframe_prompt": "close on an elder's weathered hands gently holding a newborn's tiny hand, the baby wrapped in bright kente cloth, the mother's arms around the baby. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "close on an elder's weathered hands gently holding a newborn's tiny hand, the baby wrapped in bright kente cloth, the mother's arms around the baby. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the baby's fingers curl around the elder's finger; slow push-in",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -437,7 +437,7 @@
    "KWAME"
   ],
   "enquadramento": "PD mãos de Kwame enrolando folhas secas",
-  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. close on Kwame's weathered hands rolling dried leaves into a thin hand-rolled straw cigarette on his knee. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. close on Kwame's weathered hands rolling dried leaves into a thin hand-rolled straw cigarette on his knee. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "his fingers roll and twist the end; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -455,7 +455,7 @@
    "KWAME"
   ],
   "enquadramento": "PD a ponta acesa com um graveto em brasa",
-  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. close on the tip of the hand-rolled cigarette as Kwame lights it with a glowing wooden twig, the ember flaring, the first smoke. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. close on the tip of the hand-rolled cigarette as Kwame lights it with a glowing wooden twig, the ember flaring, the first smoke. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the flame touches the tip and the ember flares; macro push-in",
   "quebra": "zoom_punch",
   "texto_tela": null,
@@ -491,7 +491,7 @@
    "KWAME"
   ],
   "enquadramento": "PD apagando a metade numa pedra",
-  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. close on Kwame's fingers pressing the half-smoked cigarette out against a flat stone, deliberately and calmly. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. close on Kwame's fingers pressing the half-smoked cigarette out against a flat stone, deliberately and calmly. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "he twists the ember out; static macro, slow pace",
   "quebra": null,
   "texto_tela": null,
@@ -510,7 +510,7 @@
    "FRASCOS"
   ],
   "enquadramento": "PD a metade cai no pote de vidro com sal",
-  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair; two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. Kwame drops the remaining half into a small glass jar with coarse salt and presses the cork lid; only the first jar (cigarette halves and coarse salt) is in frame. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair; two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. Kwame drops the remaining half into a small glass jar with coarse salt and presses the cork lid; only the first jar (cigarette halves and coarse salt) is in frame. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the half falls onto the salt; slow motion ramping to real time, slight tilt down",
   "quebra": "speed_ramp",
   "texto_tela": null,
@@ -565,7 +565,7 @@
    "ISQUEIRO"
   ],
   "enquadramento": "Insert de memória: isqueiro do pai",
-  "keyframe_prompt": "old silver flip lighter, worn engraving, small scratches, on dark wood. close on the old silver flip lighter on dark wood. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "old silver flip lighter, worn engraving, small scratches, on dark wood. close on the old silver flip lighter on dark wood. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the lid flips open; slow push-in",
   "quebra": "flash_branco",
   "texto_tela": null,
@@ -583,7 +583,7 @@
    "DESENHO"
   ],
   "enquadramento": "Insert de memória: o desenho da Sofia",
-  "keyframe_prompt": "child's crayon drawing on lined notebook paper: a woman holding a cigarette crossed out by a big red X, and a small crying girl beside her, naive child style, no readable words. close on the child's crayon drawing. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "child's crayon drawing on lined notebook paper: a woman holding a cigarette crossed out by a big red X, and a small crying girl beside her, naive child style, no readable words. close on the child's crayon drawing. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the paper trembles slightly; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -710,7 +710,7 @@
    "KWAME"
   ],
   "enquadramento": "PD plongée: galho desenha uma cobra na areia",
-  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. top-down close on the sandy ground beside the fire: Kwame's hand draws a long snake with a wooden stick, the head larger than the body. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. top-down close on the sandy ground beside the fire: Kwame's hand draws a long snake with a wooden stick, the head larger than the body. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the stick traces the snake's body and finishes the head; slow tilt following the line",
   "quebra": null,
   "texto_tela": null,
@@ -728,7 +728,7 @@
    "SERPENTE"
   ],
   "enquadramento": "PG a fumaça da fogueira vira serpente",
-  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the smoke rising from the campfire curls into a serpent of translucent grey smoke with glowing ember eyes, coiling above the flames against a dark purple night sky. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered, soft natural background continuing the scene (full-bleed photo, no blank bars). firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the smoke rising from the campfire curls into a serpent of translucent grey smoke with glowing ember eyes, coiling above the flames against a dark purple night sky. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars), soft natural background continuing the scene (full-bleed photo, no blank bars). firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "smoke twists into the serpent's body and its head rises; slow push-in",
   "quebra": null,
   "texto_tela": {
@@ -749,7 +749,7 @@
    "SERPENTE"
   ],
   "enquadramento": "PP a serpente se vira e ataca a lente",
-  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the smoke serpent whips around, mouth open, striking toward the lens, embers scattering. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the smoke serpent whips around, mouth open, striking toward the lens, embers scattering. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "a fast strike toward camera; the camera jolts back",
   "quebra": "flash_branco",
   "texto_tela": null,
@@ -785,7 +785,7 @@
    "SERPENTE"
   ],
   "enquadramento": "PG serpente de anéis luminosos",
-  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. a long serpent of translucent smoke stretched across a dark background, its body made of about twenty glowing rings, each ring a softly burning cigarette ember. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. a long serpent of translucent smoke stretched across a dark background, its body made of about twenty glowing rings, each ring a softly burning cigarette ember. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the body undulates slowly as the rings glow in sequence; slow lateral dolly along the body",
   "quebra": null,
   "texto_tela": null,
@@ -803,7 +803,7 @@
    "SERPENTE"
   ],
   "enquadramento": "Travelling macro do rabo até a cabeça",
-  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. macro journey along the smoke serpent's body from the thin tail toward the head, each glowing ring brighter than the last. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. macro journey along the smoke serpent's body from the thin tail toward the head, each glowing ring brighter than the last. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the camera glides along the body toward the head; accelerating dolly",
   "quebra": "speed_ramp",
   "texto_tela": null,
@@ -821,7 +821,7 @@
    "SERPENTE"
   ],
   "enquadramento": "A cabeça, mais brilhante, ao lado do sol nascendo",
-  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the serpent's large glowing head, far brighter than its body, raised beside a sun rising on the horizon. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the serpent's large glowing head, far brighter than its body, raised beside a sun rising on the horizon. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the head lifts toward the sunrise and its eyes flare; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -857,7 +857,7 @@
    "SERPENTE"
   ],
   "enquadramento": "A serpente faminta acorda no escuro",
-  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. a smoke serpent coiled asleep in darkness slowly lifts its head, ember eyes opening, hungry. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. a smoke serpent coiled asleep in darkness slowly lifts its head, ember eyes opening, hungry. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the head rises and the mouth opens; slow push-in",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -876,7 +876,7 @@
    "COZINHA"
   ],
   "enquadramento": "Insert: café e o primeiro cigarro (memória)",
-  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. Marcia's hand lighting the first cigarette over a steaming coffee cup. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. Marcia's hand lighting the first cigarette over a steaming coffee cup. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "slow-motion lighting",
   "quebra": null,
   "texto_tela": null,
@@ -950,7 +950,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "Montagem: cigarros no automático",
-  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia smoking absent-mindedly in the car, at work, at the front door. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia smoking absent-mindedly in the car, at work, at the front door. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "fast montage",
   "quebra": null,
   "texto_tela": null,
@@ -1005,7 +1005,7 @@
    "FRASCOS"
   ],
   "enquadramento": "PD Kwame põe os dois frascos na mesa rústica",
-  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair; two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. Kwame's hands set the two glass jars side by side on a rustic wooden table, the firelight shining through the glass. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair; two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. Kwame's hands set the two glass jars side by side on a rustic wooden table, the firelight shining through the glass. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "he sets down the second jar; slow arc around the jars",
   "quebra": null,
   "texto_tela": null,
@@ -1041,7 +1041,7 @@
    "SERPENTE"
   ],
   "enquadramento": "A cabeça da serpente perde o brilho",
-  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the smoke serpent's glowing head dims a little, its ember eyes fading, the smoke thinning. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the smoke serpent's glowing head dims a little, its ember eyes fading, the smoke thinning. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the head sags and fades; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1079,7 +1079,7 @@
    "FRASCOS"
   ],
   "enquadramento": "PD mãos: Kwame entrega um frasco",
-  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. close on Kwame's old hands placing one glass jar into Marcia's open hands, firelight glinting on the glass. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. close on Kwame's old hands placing one glass jar into Marcia's open hands, firelight glinting on the glass. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the jar passes from his hands into hers and her fingers close around it; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1133,7 +1133,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "PD dedos digitando",
-  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. close on Marcia's fingers typing quickly on a laptop keyboard in cold cyan light. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. close on Marcia's fingers typing quickly on a laptop keyboard in cold cyan light. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "fingers type and pause; slow lateral slide",
   "quebra": null,
   "texto_tela": null,
@@ -1187,7 +1187,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "Macro: arrepio no antebraço",
-  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. macro of the skin of Marcia's forearm in cyan screen light as goosebumps rise and the fine hairs stand up. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. macro of the skin of Marcia's forearm in cyan screen light as goosebumps rise and the fine hairs stand up. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "goosebumps spread across the skin; slow macro slide",
   "quebra": null,
   "texto_tela": null,
@@ -1203,7 +1203,7 @@
   "tipo": "broll",
   "refs": [],
   "enquadramento": "PD consultório anônimo, prancheta com questionário",
-  "keyframe_prompt": "an anonymous clinic consultation: the hands of a health professional in a white coat, face out of frame, holding a clipboard with a printed questionnaire (blurred and unreadable) across a desk from a patient's hands. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "an anonymous clinic consultation: the hands of a health professional in a white coat, face out of frame, holding a clipboard with a printed questionnaire (blurred and unreadable) across a desk from a patient's hands. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the professional's pen moves down the page; slow push-in",
   "quebra": "glitch",
   "texto_tela": null,
@@ -1291,7 +1291,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "PD xícara fumegante e cigarro recém-aceso ao amanhecer",
-  "keyframe_prompt": "close on a steaming coffee cup and a freshly lit cigarette resting on a saucer at dawn, a thin line of smoke rising. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "close on a steaming coffee cup and a freshly lit cigarette resting on a saucer at dawn, a thin line of smoke rising. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the smoke rises and wavers; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1363,7 +1363,7 @@
    "SERPENTE"
   ],
   "enquadramento": "A serpente se enrola na linha, cabeça no pico",
-  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. a translucent smoke serpent coiling upward around a thin glowing cyan line of light in darkness, its head resting at the highest point. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. a translucent smoke serpent coiling upward around a thin glowing cyan line of light in darkness, its head resting at the highest point. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the serpent spirals up and settles its head at the top; slow orbit",
   "quebra": null,
   "texto_tela": null,
@@ -1381,7 +1381,7 @@
    "SERPENTE"
   ],
   "enquadramento": "A serpente ataca: a guerra contra o mais forte",
-  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the serpent rears its huge head and strikes violently toward camera, ember sparks flying. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the serpent rears its huge head and strikes violently toward camera, ember sparks flying. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "a violent strike forward; camera shake",
   "quebra": "flash_branco",
   "texto_tela": null,
@@ -1417,7 +1417,7 @@
    "SERPENTE"
   ],
   "enquadramento": "A cabeça apaga e o corpo se desfaz",
-  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the serpent's head slowly dims and shrinks, then its whole smoky body unravels into thin wisps drifting away. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the serpent's head slowly dims and shrinks, then its whole smoky body unravels into thin wisps drifting away. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the head fades first, then the body dissolves tail-last; slow pull-out",
   "quebra": null,
   "texto_tela": null,
@@ -1493,7 +1493,7 @@
    "COZINHA"
   ],
   "enquadramento": "PD mão afasta o maço ao lado do café",
-  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. early morning kitchen: next to a steaming coffee cup, Marcia's hand calmly slides a plain unbranded cigarette pack and lighter a few centimeters away across the table. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. early morning kitchen: next to a steaming coffee cup, Marcia's hand calmly slides a plain unbranded cigarette pack and lighter a few centimeters away across the table. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "her fingers push the pack away and rest on the table; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1511,7 +1511,7 @@
    "COZINHA"
   ],
   "enquadramento": "Relógio de parede sem números; sol varre os azulejos",
-  "keyframe_prompt": "small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. a simple round kitchen wall clock with no numerals, its hands moving forward as a beam of sunlight sweeps across the white tiles. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. a simple round kitchen wall clock with no numerals, its hands moving forward as a beam of sunlight sweeps across the white tiles. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "time-lapse of the clock hands advancing and the light sweeping; static camera",
   "quebra": "speed_ramp",
   "texto_tela": null,
@@ -1584,7 +1584,7 @@
   "tipo": "fx",
   "refs": [],
   "enquadramento": "Animação 3D: o brilho de recompensa do cérebro se apaga",
-  "keyframe_prompt": "3D medical-style visualization of a translucent human brain floating in darkness, a warm golden reward glow at its center slowly fading into calm blue. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "3D medical-style visualization of a translucent human brain floating in darkness, a warm golden reward glow at its center slowly fading into calm blue. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the golden glow pulses once and fades to blue; slow orbit around the brain",
   "quebra": "speed_ramp",
   "texto_tela": null,
@@ -1622,7 +1622,7 @@
    "FRASCOS"
   ],
   "enquadramento": "PD a metade cai no frasco de sal",
-  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. close on Marcia's fingers dropping a cigarette half into the glass jar with coarse salt. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. close on Marcia's fingers dropping a cigarette half into the glass jar with coarse salt. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the half falls onto the salt in slow motion; slow tilt down",
   "quebra": "speed_ramp",
   "texto_tela": null,
@@ -1640,7 +1640,7 @@
    "FRASCOS"
   ],
   "enquadramento": "Macro: pimenta e sal caem; tampa pressionada",
-  "keyframe_prompt": "two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. black peppercorns and coarse salt pour into the second glass jar, then a hand presses the cork lid shut. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. black peppercorns and coarse salt pour into the second glass jar, then a hand presses the cork lid shut. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "peppercorns cascade and the lid is pressed down; macro push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1658,7 +1658,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "PD chá antes de dormir, abajur",
-  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. at night by a warm bedside lamp, Marcia's hands hold a steaming cup of herbal tea with chamomile flowers floating. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. dark blue night light, a faint warm glow from a bedside lamp. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. at night by a warm bedside lamp, Marcia's hands hold a steaming cup of herbal tea with chamomile flowers floating. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). dark blue night light, a faint warm glow from a bedside lamp. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "steam curls up as she lifts the cup; slow push-in",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -1695,7 +1695,7 @@
    "COZINHA"
   ],
   "enquadramento": "Time-lapse: frascos na janela, manhãs passando",
-  "keyframe_prompt": "two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. the two glass jars on a kitchen windowsill; time-lapse of several mornings as the light changes and the cigarette jar slowly fills with halves. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. the two glass jars on a kitchen windowsill; time-lapse of several mornings as the light changes and the cigarette jar slowly fills with halves. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "time-lapse of passing light; static camera",
   "quebra": null,
   "texto_tela": null,
@@ -1735,7 +1735,7 @@
    "COZINHA"
   ],
   "enquadramento": "PD cigarro aceso ao lado do café",
-  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. close on Marcia's hand holding a lit cigarette next to a coffee cup in morning light. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. close on Marcia's hand holding a lit cigarette next to a coffee cup in morning light. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the hand lifts the cigarette; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1807,7 +1807,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "PD mãos abrem o caderno",
-  "keyframe_prompt": "simple brown kraft paper notebook, open, handwriting in blue pen, a pen beside it; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia's hands open the brown kraft notebook to a blank page and uncap a blue pen. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "simple brown kraft paper notebook, open, handwriting in blue pen, a pen beside it; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia's hands open the brown kraft notebook to a blank page and uncap a blue pen. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "she opens the notebook and uncaps the pen; slow top-down push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1845,7 +1845,7 @@
    "COZINHA"
   ],
   "enquadramento": "PM de pijama passando o café",
-  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. in pajamas at dawn Marcia pours coffee from the glass coffee pot into the white cup. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. in pajamas at dawn Marcia pours coffee from the glass coffee pot into the white cup. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "coffee pours and steam rises; slow lateral dolly",
   "quebra": null,
   "texto_tela": null,
@@ -1996,7 +1996,7 @@
    "FRASCOS"
   ],
   "enquadramento": "PD o frasco já com várias metades",
-  "keyframe_prompt": "two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. close on the cigarette-halves jar, now holding several halves on the coarse salt, morning light through the glass. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. close on the cigarette-halves jar, now holding several halves on the coarse salt, morning light through the glass. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "a new half drops in; slow push-in",
   "quebra": "zoom_punch",
   "texto_tela": null,
@@ -2014,7 +2014,7 @@
    "COZINHA"
   ],
   "enquadramento": "Relógio da cozinha passando das 9",
-  "keyframe_prompt": "small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. the round kitchen wall clock with no numerals, its hands just past nine o'clock, bright mid-morning sun on the tiles. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. the round kitchen wall clock with no numerals, its hands just past nine o'clock, bright mid-morning sun on the tiles. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the minute hand ticks forward; static camera, slight push-in",
   "quebra": null,
   "texto_tela": null,
@@ -2050,7 +2050,7 @@
    "SERPENTE"
   ],
   "enquadramento": "A serpente, magra, perdendo a força",
-  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the smoke serpent, now thin and faded, its ember eyes dim, slumping low in the dark. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the smoke serpent, now thin and faded, its ember eyes dim, slumping low in the dark. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the serpent sags and drifts slightly apart; slow push-in",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -2212,7 +2212,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "PD a mão tira um maço esquecido do bolso da jaqueta",
-  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia's hand pulls a forgotten, slightly crumpled plain cigarette pack out of a denim jacket pocket. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia's hand pulls a forgotten, slightly crumpled plain cigarette pack out of a denim jacket pocket. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "she pulls it out and turns it over, puzzled; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -2228,7 +2228,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "PD maço intocado na mesa, poeira na luz",
-  "keyframe_prompt": "an untouched plain cigarette pack on a wooden table, dust particles floating in a beam of morning light around it. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "an untouched plain cigarette pack on a wooden table, dust particles floating in a beam of morning light around it. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "dust drifts in the beam; very slow push-in",
   "quebra": "speed_ramp",
   "texto_tela": null,
@@ -2266,7 +2266,7 @@
    "COZINHA"
   ],
   "enquadramento": "PD o último gole e a xícara vazia",
-  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. close on Marcia's hands tilting the white cup to drink the last sip, then setting the empty cup on the table. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. quiet warm early-morning light, still air, slightly muted colors. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. close on Marcia's hands tilting the white cup to drink the last sip, then setting the empty cup on the table. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). quiet warm early-morning light, still air, slightly muted colors. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "she drinks and puts the empty cup down; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -2405,7 +2405,7 @@
    "DESENHO"
   ],
   "enquadramento": "PD a mãozinha cola a estrela no desenho da geladeira",
-  "keyframe_prompt": "Sofia: Brazilian girl, 9 years old, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with a small star; child's crayon drawing on lined notebook paper: a woman holding a cigarette crossed out by a big red X, and a small crying girl beside her, naive child style, no readable words. close on the child's crayon drawing held by a magnet on a white fridge door; Sofia's small hand presses a shiny gold star sticker onto the corner of the drawing. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, glowing skin, joyful warmth. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Sofia: Brazilian girl, 9 years old, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with a small star; child's crayon drawing on lined notebook paper: a woman holding a cigarette crossed out by a big red X, and a small crying girl beside her, naive child style, no readable words. close on the child's crayon drawing held by a magnet on a white fridge door; Sofia's small hand presses a shiny gold star sticker onto the corner of the drawing. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm morning light, blown-out window, glowing skin, joyful warmth. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "her finger smooths the sticker down; slow push-in",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -2423,7 +2423,7 @@
    "DESENHO"
   ],
   "enquadramento": "PD o desenho com a estrelinha",
-  "keyframe_prompt": "child's crayon drawing on lined notebook paper: a woman holding a cigarette crossed out by a big red X, and a small crying girl beside her, naive child style, no readable words. the child's crayon drawing on the white fridge door with a small gold star sticker in its corner, morning light, a child's shadow leaving the frame. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, glowing skin, joyful warmth. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "child's crayon drawing on lined notebook paper: a woman holding a cigarette crossed out by a big red X, and a small crying girl beside her, naive child style, no readable words. the child's crayon drawing on the white fridge door with a small gold star sticker in its corner, morning light, a child's shadow leaving the frame. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), soft natural background continuing the scene (full-bleed photo, no blank bars). warm morning light, blown-out window, glowing skin, joyful warmth. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "slow push-in toward the star",
   "quebra": null,
   "texto_tela": null,
