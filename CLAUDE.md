@@ -10,6 +10,9 @@ modelagem de oferta deve começar consultando a base em `base-conhecimento-copy/
 2. Para **atualizar** uma oferta existente, siga `09-processo-de-trabalho.md` → "Nova versão".
 3. Para **modelar** uma oferta validada, siga `09-processo-de-trabalho.md` → "Modelagem".
 4. Antes de entregar qualquer copy de saúde, passe pelo checklist de `08-compliance.md`.
+5. Ao escrever ou revisar copy, siga o método de `10-gary-halbert-metodo.md`: fechar a ideia central de venda
+   (CSI) na primeira frase, auditar a peça pelos 7 passos de Halbert (atenção → interesse → crença → prova →
+   benefícios → como comprar → compre agora) e ler em voz alta antes de entregar.
 
 ## Regras fixas
 

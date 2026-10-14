@@ -17,6 +17,9 @@ emagrecimento, saúde e saúde masculina (ED).
 | [07-swipe-file.md](07-swipe-file.md) | Anúncios e campanhas lendárias: o que fizeram e por que funcionaram |
 | [08-compliance.md](08-compliance.md) | FTC, Anvisa, CONAR, políticas da Meta e das plataformas |
 | [09-processo-de-trabalho.md](09-processo-de-trabalho.md) | Fluxo para nova versão de oferta, modelagem, briefing e nota de avaliação de copy |
+| [10-gary-halbert-metodo.md](10-gary-halbert-metodo.md) | Método "Hands-On" de Gary Halbert: biblioteca obrigatória, cópia à mão, fichas, CSI e os 7 passos da reescrita |
+| [11-hopkins-scientific-advertising.md](11-hopkins-scientific-advertising.md) | *Scientific Advertising* (Hopkins) estudado capítulo a capítulo + aplicação em VSL |
+| [12-anuncios-classicos-halbert.md](12-anuncios-classicos-halbert.md) | Os 9 anúncios/cartas que Halbert manda copiar: estrutura, técnicas e como transpor |
 
 ## Como essa base foi montada
 
