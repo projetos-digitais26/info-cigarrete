@@ -1,0 +1,106 @@
+<!doctype html>
+<!--
+MODELO 2 — vídeo sem fala (lookbook, cenas com música): uma headline por bloco de cenas, na faixa
+de baixo (rostos costumam ficar na metade de cima), e cartão final com CTA para o site.
+Como usar:
+ 1. Copie este arquivo + a pasta fonts/ para a pasta do vídeo.
+ 2. Ajuste cores em :root, END/TOTAL e a lista SC = [início, fim, etiqueta, linha 1, destaque, apoio].
+ 3. Regra aprovada pelo cliente: cada headline fica NO MÍNIMO 3 s na tela (pode atravessar cortes).
+ 4. Textos do cartão final (#end): marca, chamada, site, condição comercial, botão.
+-->
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Modelo · headlines por cena</title>
+<style>
+@font-face{font-family:Mont;font-weight:600;src:url(fonts/montserrat-600-normal.woff2)}
+@font-face{font-family:Mont;font-weight:700;src:url(fonts/montserrat-700-normal.woff2)}
+@font-face{font-family:Mont;font-weight:800;src:url(fonts/montserrat-800-normal.woff2)}
+@font-face{font-family:Play;font-weight:600 800;font-style:normal;src:url(fonts/playfair-display-700-normal.woff2)}
+@font-face{font-family:Play;font-weight:600;font-style:italic;src:url(fonts/playfair-display-600-italic.woff2)}
+:root{--p:#FC97A5;--pd:#E86F86;--pl:#FFE3E8;--ink:#3A1621;--cr:#FFF8F5}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:transparent}
+body{font-family:Mont,sans-serif;font-variant-numeric:lining-nums;color:#fff;-webkit-font-smoothing:antialiased}
+#stage{position:relative;width:1080px;height:1920px;overflow:hidden}
+.it{position:absolute;opacity:0}
+#botScrim{left:0;right:0;bottom:0;height:980px;background:linear-gradient(to top,rgba(40,12,20,.62),rgba(40,12,20,.35) 45%,rgba(40,12,20,0))}
+/* headline de cada cena: faixa inferior (os rostos ficam na metade de cima) */
+.sc{left:50px;right:50px;top:1190px;text-align:center}
+.sc .tag{display:inline-block;font-weight:800;font-size:30px;letter-spacing:.16em;color:var(--ink);background:var(--p);padding:12px 28px;border-radius:40px;box-shadow:0 6px 24px rgba(252,151,165,.45)}
+.sc .t{font-family:Play,serif;font-weight:700;font-size:86px;line-height:1.05;margin-top:20px;text-shadow:0 4px 26px rgba(40,10,20,.75),0 2px 4px rgba(40,10,20,.6)}
+.sc .ln{display:block;white-space:nowrap}
+.sc em{display:inline-block;font-style:italic;font-weight:600;color:var(--ink);background:var(--p);padding:0 .28em .06em;border-radius:22px;margin-top:10px;text-shadow:none;box-shadow:0 10px 30px rgba(40,10,20,.4)}
+.sc .s{font-weight:700;font-size:38px;margin-top:22px;text-shadow:0 3px 14px rgba(40,10,20,.8)}
+/* encerramento */
+#end{left:50%;top:470px;width:860px;margin-left:-430px;padding:56px 50px 52px;border-radius:40px;background:rgba(255,248,245,.95);color:var(--ink);text-align:center;box-shadow:0 24px 70px rgba(40,10,20,.4)}
+#end .logo{width:auto;max-width:420px;height:auto;display:block;margin:0 auto;font-family:Play,serif;font-style:italic;font-weight:600;font-size:96px;line-height:1;white-space:nowrap;color:var(--p)}
+#end .sub{font-weight:800;font-size:28px;letter-spacing:.2em;color:var(--pd);margin-top:18px}
+#end h3{font-family:Play,serif;font-weight:700;font-size:62px;line-height:1.1;margin-top:34px}
+#end h3 em{font-style:italic;color:var(--pd)}
+#end .url{display:inline-block;margin-top:24px;font-weight:800;font-size:40px;letter-spacing:.01em;padding:16px 30px;border-radius:20px;background:var(--pl)}
+#end .min{font-weight:700;font-size:30px;margin-top:22px;color:#6b4450}
+#end .min b{color:var(--pd)}
+#end .btn{margin-top:30px;display:inline-block;font-weight:800;font-size:40px;color:#fff;background:var(--pd);padding:28px 50px;border-radius:70px;box-shadow:0 12px 34px rgba(232,111,134,.5)}
+#arrow{left:50%;top:1390px;width:96px;height:96px;margin-left:-48px}
+</style>
+</head>
+<body>
+<div id="stage">
+  <div class="it" id="botScrim"></div>
+  <div id="scenes"></div>
+  <div class="it" id="end">
+    <div class="logo">Sua Marca</div><!-- troque por <img class="logo" src="logo.svg"> -->
+    <div class="sub">MODA FEMININA PARA REVENDA</div>
+    <h3>Cadastre sua loja<br>e conheça <em>a coleção</em></h3>
+    <div class="url">www.stefashion.com.br</div>
+    <div class="min">Pedido mínimo de <b>12 peças</b></div>
+    <div class="btn">Acesse o site</div>
+  </div>
+  <svg class="it" id="arrow" viewBox="0 0 24 24"><path d="M12 4v13m0 0l-6-6m6 6l6-6" stroke="#FC97A5" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+</div>
+<script>
+const $ = s => document.querySelector(s);
+const clamp = (x,a=0,b=1) => Math.max(a, Math.min(b, x));
+const eo = x => 1 - Math.pow(1 - clamp(x), 3);
+const eback = x => { x = clamp(x); const c = 1.7; return 1 + (c+1)*Math.pow(x-1,3) + c*Math.pow(x-1,2); };
+const win = (t,a,b,din=.3,dout=.25) => Math.min(eo((t-a)/din), clamp((b-t)/dout));
+const END = 32.933, TOTAL = 37.1;
+
+/* cenas: [início, fim, etiqueta, linha 1, destaque, apoio] — cada headline fica no mínimo 3 s na tela */
+const SC = [
+  [0.000,  6.000, 'LOJISTA DE MODA FEMININA?', 'Novidade para', 'sua vitrine', ''],
+  [6.000, 12.000, 'VANTAGEM PARA REVENDA', 'Pedido mínimo de', 'só 12 peças', ''],
+  [12.000, 18.000, 'COLEÇÕES STE', 'Tendência, cor e', 'modelagem certa', ''],
+  [18.000, 23.900, 'DIFERENCIAL STE', 'O básico da Ste', 'nunca é básico', ''],
+  [23.900, 26.900, '+10 ANOS NO MERCADO', 'Loja física em', 'São Paulo', ''],
+  [26.900, 29.900, 'COMPRA SEM COMPLICAÇÃO', 'Processo de compra', 'organizado', ''],
+  [29.900, 32.933, 'EQUIPE DE VERDADE', 'Atendimento', 'para revenda', 'e ajuda no seu primeiro pedido'],
+];
+SC.forEach(([a,b,tag,l1,hl,s]) => { const d = document.createElement('div'); d.className = 'it sc';
+  d.innerHTML = `<div class="tag">${tag}</div><div class="t"><span class="ln">${l1}</span><span class="ln"><em>${hl}</em></span></div>${s ? `<div class="s">${s}</div>` : ''}`;
+  $('#scenes').appendChild(d); });
+window.ready = true;
+
+function render(t) {
+  const end = eo((t - END) / .45);
+  $('#botScrim').style.opacity = 1 - end;
+  [...$('#scenes').children].forEach((d, i) => { const [a,b] = SC[i], first = i === 0;
+    const k = win(t, a + (first ? .1 : .05), b, .3, first ? .2 : .18);
+    d.style.opacity = k;
+    const tg = d.querySelector('.tag'), tk = eo((t - a - .05)/.3); tg.style.transform = `translateY(${(1-tk)*16}px)`;
+    const ln = d.querySelectorAll('.ln'); ln.forEach((l, j) => { const lk = eo((t - a - .12 - j*.16)/.32); l.style.opacity = lk; l.style.transform = `translateY(${(1-lk)*22}px)`; });
+    const em = d.querySelector('em'), ek = clamp((t - a - .3)/.4); em.style.transform = `scale(${.85 + .15*eback(ek)})`;
+    const s = d.querySelector('.s'); if (s) { const sk = eo((t - a - .5)/.3); s.style.opacity = sk; }
+    d.style.transform = `scale(${.96 + .04*eo((t-a)/.4)})`; });
+  { const e = $('#end'); e.style.opacity = end; e.style.transform = `translateY(${(1-end)*50}px) scale(${.9 + .1*eback(clamp((t-END)/.55))})`;
+    [['h3',.35],['.url',.6],['.min',.8]].forEach(([q,dl]) => { const k = eo((t - END - dl)/.4), el = e.querySelector(q); el.style.opacity = k; el.style.transform = `translateY(${(1-k)*18}px)`; });
+    const b = e.querySelector('.btn'), bk = eo((t - END - 1.0)/.4);
+    b.style.opacity = bk; b.style.transform = `scale(${(.85 + .15*eback(clamp((t-END-1.0)/.5))) * (t > END+1.6 ? 1 + .03*Math.sin((t-END)*5) : 1)})`;
+    const a = $('#arrow'); a.style.opacity = eo((t - END - 1.4)/.4); a.style.transform = `translateY(${Math.abs(Math.sin((t-END)*3.2))*22}px)`; }
+}
+window.render = render;
+document.fonts.ready.then(() => render(+(new URLSearchParams(location.search).get('t') || 0)));
+</script>
+</body>
+</html>

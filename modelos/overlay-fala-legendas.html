@@ -1,0 +1,179 @@
+<!doctype html>
+<!--
+MODELO 1 — vídeo com fala: headline de gancho no topo, legendas palavra a palavra com destaques,
+selo opcional e cartão final com CTA (sobre o último quadro desfocado).
+Como usar:
+ 1. Copie este arquivo + a pasta fonts/ + palavras.js (de transcrever.py) para a pasta do vídeo.
+ 2. Ajuste cores em :root (--p destaque, --pd destaque escuro, --ink texto escuro), textos do gancho,
+    do selo e do cartão final, e as constantes END/TOTAL e a lista CAP (legendas).
+ 3. CAP = [início, fim, 'texto com *destaque*']. O tempo de cada palavra vem do Whisper; o texto
+    pode corrigir erros da transcrição (nomes, marcas). Palavras *entre asteriscos* ganham bloco colorido.
+ 4. Posições: o gancho fica no topo (#hook top) e a legenda em #cap top:1290px. Antes de renderizar,
+    confira na folha de contato onde estão os rostos e ajuste para nada cobrir rosto.
+ 5. Pré-visualize com --stills e só então renderize tudo.
+-->
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Modelo · fala com legendas</title>
+<style>
+@font-face{font-family:Mont;font-weight:600;src:url(fonts/montserrat-600-normal.woff2)}
+@font-face{font-family:Mont;font-weight:700;src:url(fonts/montserrat-700-normal.woff2)}
+@font-face{font-family:Mont;font-weight:800;src:url(fonts/montserrat-800-normal.woff2)}
+@font-face{font-family:Play;font-weight:600 800;font-style:normal;src:url(fonts/playfair-display-700-normal.woff2)}
+@font-face{font-family:Play;font-weight:600;font-style:italic;src:url(fonts/playfair-display-600-italic.woff2)}
+/* paleta: rosa do logo, ameixa para contraste, creme da loja */
+:root{--p:#FC97A5;--pd:#E86F86;--pl:#FFE3E8;--ink:#3A1621;--cr:#FFF8F5}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:transparent}
+body{font-family:Mont,sans-serif;font-variant-numeric:lining-nums;color:#fff;-webkit-font-smoothing:antialiased}
+#stage{position:relative;width:1080px;height:1920px;overflow:hidden}
+.it{position:absolute;opacity:0}
+#topScrim{left:0;right:0;top:0;height:720px;background:linear-gradient(to bottom,rgba(40,12,20,.62),rgba(40,12,20,.30) 55%,rgba(40,12,20,0))}
+#botScrim{left:0;right:0;bottom:0;height:880px;background:linear-gradient(to top,rgba(40,12,20,.55),rgba(40,12,20,0))}
+/* gancho: faixa superior (6% a 29% da altura) — o rosto começa em ~33% */
+#hook{left:50px;right:50px;top:84px;text-align:center}
+#hook .tag{display:inline-block;font-weight:800;font-size:31px;letter-spacing:.16em;color:var(--ink);background:var(--p);padding:12px 28px;border-radius:40px;box-shadow:0 6px 24px rgba(252,151,165,.45)}
+#hook .t{font-family:Play,serif;font-weight:700;font-size:76px;line-height:1.04;margin-top:18px;letter-spacing:-.01em;text-shadow:0 4px 26px rgba(40,10,20,.75),0 2px 4px rgba(40,10,20,.6)}
+#hook .t em{display:inline-block;font-style:italic;font-weight:600;color:var(--ink);background:var(--p);padding:0 .28em .06em;border-radius:22px;margin-top:10px;text-shadow:none;box-shadow:0 10px 30px rgba(40,10,20,.4)}
+#hook .ln{display:block;white-space:nowrap}
+#chip{left:50%;top:1070px;display:flex;align-items:baseline;gap:20px;white-space:nowrap;padding:16px 34px;border-radius:50px;background:rgba(255,248,245,.95);color:var(--ink);box-shadow:0 12px 36px rgba(40,10,20,.3)}
+#chip b{font-family:Play,serif;font-weight:700;font-size:48px}
+#chip b i{font-style:italic;color:var(--pd)}
+#chip span{font-weight:800;font-size:28px;letter-spacing:.12em}
+#endBg{inset:0;background:rgba(255,240,243,.22)}
+/* legendas */
+#cap{left:60px;right:60px;top:1290px;text-align:center;font-weight:800;font-size:66px;line-height:1.2;letter-spacing:-.005em}
+#cap .w{display:inline-block;margin:0 .12em;-webkit-text-stroke:9px var(--ink);paint-order:stroke fill;text-shadow:0 6px 18px rgba(40,10,20,.5)}
+#cap .g{display:inline-block;background:var(--p);border-radius:16px;padding:0 .14em;margin:.06em .08em;box-shadow:0 6px 18px rgba(40,10,20,.35)}
+#cap .g .w{color:var(--ink);-webkit-text-stroke:0;text-shadow:none;margin:0 .07em}
+/* encerramento sobre as imagens finais */
+#end{left:50%;top:600px;width:840px;margin-left:-420px;padding:54px 50px 50px;border-radius:40px;background:rgba(255,248,245,.95);color:var(--ink);text-align:center;box-shadow:0 24px 70px rgba(40,10,20,.4)}
+#end .logo{width:auto;max-width:420px;height:auto;display:block;margin:0 auto;font-family:Play,serif;font-style:italic;font-weight:600;font-size:96px;line-height:1;white-space:nowrap;color:var(--p)}
+#end .sub{font-weight:800;font-size:28px;letter-spacing:.2em;color:var(--pd);margin-top:18px}
+#end .min{margin:34px auto 0;display:inline-flex;align-items:baseline;gap:16px;padding:18px 34px;border-radius:24px;background:var(--pl)}
+#end .min span{font-weight:700;font-size:34px}
+#end .min b{font-family:Play,serif;font-weight:700;font-size:64px;color:var(--pd);line-height:1}
+#end .btn{margin-top:34px;display:inline-block;font-weight:800;font-size:40px;color:#fff;background:var(--pd);padding:28px 48px;border-radius:70px;box-shadow:0 12px 34px rgba(232,111,134,.5)}
+#arrow{left:50%;top:1330px;width:90px;height:90px;margin-left:-45px}
+</style>
+</head>
+<body>
+<div id="stage">
+  <div class="it" id="topScrim"></div>
+  <div class="it" id="botScrim"></div>
+
+  <div class="it" id="hook"><div class="tag">LOJISTA DE MODA FEMININA?</div>
+    <div class="t"><span class="ln">Seu fornecedor faz parte</span><span class="ln"><em>da história da sua loja</em></span></div></div>
+
+  <div class="it" id="chip"><b>+<i>10 anos</i></b><span>NO MERCADO</span></div>
+
+  <div class="it" id="cap"></div>
+
+  <div class="it" id="endBg"></div>
+  <div class="it" id="end">
+    <div class="logo">Sua Marca</div><!-- troque por <img class="logo" src="logo.svg"> -->
+    <div class="sub">MODA FEMININA PARA REVENDA</div>
+    <div class="min"><span>Pedido mínimo</span><b>12 peças</b></div><br>
+    <div class="btn">Clique e saiba como começar</div>
+  </div>
+  <svg class="it" id="arrow" viewBox="0 0 24 24"><path d="M12 4v13m0 0l-6-6m6 6l6-6" stroke="#FC97A5" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+</div>
+<script src="palavras.js"></script>
+<script>
+const $ = s => document.querySelector(s);
+const clamp = (x,a=0,b=1) => Math.max(a, Math.min(b, x));
+const eo = x => 1 - Math.pow(1 - clamp(x), 3);
+const eback = x => { x = clamp(x); const c = 1.7; return 1 + (c+1)*Math.pow(x-1,3) + c*Math.pow(x-1,2); };
+const win = (t,a,b,din=.3,dout=.25) => Math.min(eo((t-a)/din), clamp((b-t)/dout));
+const END = 31.9;           // cartão final sobre o último quadro desfocado
+const TOTAL = 35.10;
+
+/* legendas: [início, fim, texto com *destaque*] — tempos das palavras vêm de palavras.json (Whisper) */
+const CAP = [
+  [0.00, 1.42, 'Escolher um *fornecedor*'],
+  [1.44, 2.76, 'é escolher quem vai fazer parte'],
+  [2.78, 4.30, 'da *história da sua loja*'],
+  [4.42, 5.36, 'E aqui na *Ste*,'],
+  [5.38, 7.10, 'nós levamos nossa *parceria a sério*'],
+  [7.14, 8.75, 'Estamos no mercado há *mais de 10 anos*'],
+  [8.78, 10.46, 'e acreditamos que *confiança*'],
+  [10.48, 12.32, 'se constrói com *proximidade*,'],
+  [12.34, 14.12, '*atendimento* e *cuidado* em cada etapa'],
+  [14.24, 16.14, 'Nossas coleções combinam *tendências*,'],
+  [16.16, 17.40, '*cores*, *modelagens*'],
+  [17.42, 18.82, 'e sempre com um *toque especial*'],
+  [18.92, 20.82, 'O básico da Ste *nunca é básico*'],
+  [20.90, 22.60, 'Você conta com o *time* para tirar dúvidas'],
+  [22.62, 24.12, 'e com o *site do atacado*'],
+  [24.12, 25.14, 'para conhecer nossas peças'],
+  [25.16, 26.56, 'e *organizar as suas compras*'],
+  [26.58, 28.30, 'Quer fazer parte desse *universo*?'],
+  [28.32, 29.22, '*Cadastre sua loja*,'],
+  [29.24, 30.06, 'conheça a *Ste*'],
+  [30.08, 31.85, 'e venha construir sua *parceria* com a gente'],
+];
+const WORDS = [];
+CAP.forEach(([a,b,txt], ci) => {
+  const toks = []; let hl = false;
+  txt.split(/(\*)/).forEach(p => { if (p === '*') { hl = !hl; return; } p.split(/\s+/).filter(Boolean).forEach(w => { if (/^[,.!?:;]+$/.test(w) && toks.length) toks[toks.length-1].w += w; else toks.push({w, hl}); }); });
+  toks.forEach((tk, i) => WORDS.push({ ci, s: a + (b - a) * 0.8 * i / toks.length, ...tk }));
+});
+// alinha cada palavra ao tempo real do Whisper quando o texto bate (dentro da janela da legenda)
+Promise.resolve(window.PALAVRAS || []).then(W => {
+  const norm = s => s.toLowerCase().normalize('NFD').replace(/[^\w]/g,'');
+  WORDS.forEach(w => { const [a,b] = CAP[w.ci];
+    const m = W.find(x => x.s >= a - .15 && x.s < b && norm(x.w) === norm(w.w) && !x.used);
+    if (m) { w.s = m.s; m.used = true; } });
+  // mantém ordem crescente dentro de cada legenda
+  CAP.forEach((_, ci) => { let last = -1; WORDS.filter(w => w.ci === ci).forEach(w => { if (w.s < last) w.s = last; last = w.s; }); });
+}).catch(()=>{}).finally(() => { window.ready = true; });
+
+function renderCaption(t) {
+  const ci = CAP.findIndex(([a,b]) => t >= a - .05 && t < b);
+  const el = $('#cap');
+  if (ci < 0) { el.style.opacity = 0; return; }
+  if (el.dataset.ci != ci) {
+    el.dataset.ci = ci;
+    // palavras destacadas em sequência ficam no mesmo bloco rosa
+    let h = '', open = false;
+    WORDS.filter(w => w.ci === ci).forEach(w => {
+      if (w.hl && !open) { h += '<span class="g">'; open = true; }
+      if (!w.hl && open) { h += '</span> '; open = false; }
+      h += `<span class="w">${w.w}</span> `; });
+    el.innerHTML = h + (open ? '</span>' : '');
+  }
+  el.style.opacity = 1;
+  const ws = WORDS.filter(w => w.ci === ci), spans = el.querySelectorAll('.w');
+  ws.forEach((w, i) => { const k = clamp((t - w.s + .04) / .14), sp = spans[i];
+    sp.style.opacity = k > 0 ? 1 : 0;
+    sp.style.transform = `scale(${k > 0 ? 0.86 + 0.14*eo(k) : .8}) translateY(${(1-eo(k))*12}px)`; });
+  // o bloco rosa surge com a primeira palavra dele
+  // e cresce junto com as palavras (recorte até a última palavra visível)
+  el.querySelectorAll('.g').forEach(g => { const gw = [...g.querySelectorAll('.w')], first = ws[[...spans].indexOf(gw[0])], k = clamp((t - first.s + .04) / .18);
+    g.style.opacity = k > 0 ? 1 : 0; g.style.transform = `scale(${k > 0 ? 0.92 + 0.08*eback(k) : .92})`;
+    let right = 0; gw.forEach(w => { const wi = ws[[...spans].indexOf(w)], kk = clamp((t - wi.s + .04) / .14);
+      if (kk > 0) right = Math.max(right, w.offsetLeft + w.offsetWidth * (0.6 + 0.4*eo(kk))); });
+    const pad = parseFloat(getComputedStyle(g).paddingRight);
+    g.style.clipPath = `inset(-20px ${Math.max(0, g.offsetWidth - right - pad)}px -20px -20px round 16px)`; });
+}
+
+function render(t) {
+  const hook = win(t, .1, 4.3, .4, .3), chip = win(t, 7.6, 14.1, .4, .3), end = eo((t - END) / .5);
+  $('#topScrim').style.opacity = hook;
+  $('#botScrim').style.opacity = 1 - end;
+  { const h = $('#hook'); h.style.opacity = hook; h.style.transform = `translateY(${(1-hook)*-30}px) scale(${.92 + .08*eo((t-.05)/.5)})`;
+    const ln = h.querySelectorAll('.ln'); ln.forEach((l, i) => { const k = eo((t - .25 - i*.3)/.4); l.style.opacity = k; l.style.transform = `translateY(${(1-k)*18}px)`; }); }
+  { const c = $('#chip'); c.style.opacity = chip; c.style.transform = `translateX(-50%) translateY(${(1-chip)*30}px) scale(${.85 + .15*eback(clamp((t-7.6)/.5))})`; }
+  $('#endBg').style.opacity = end;
+  renderCaption(t);
+  { const e = $('#end'); e.style.opacity = end; e.style.transform = `translateY(${(1-end)*50}px) scale(${.9 + .1*eback(clamp((t-END)/.55))})`;
+    const b = e.querySelector('.btn'), bk = eo((t - END - .6)/.4);
+    b.style.opacity = bk; b.style.transform = `scale(${(.85 + .15*eback(clamp((t-END-.6)/.5))) * (t > END+1.2 ? 1 + .03*Math.sin((t-END)*5) : 1)})`;
+    const a = $('#arrow'); a.style.opacity = eo((t - END - 1)/.4); a.style.transform = `translateY(${Math.abs(Math.sin((t-END)*3.2))*22}px)`; }
+}
+window.render = render;
+document.fonts.ready.then(() => render(+(new URLSearchParams(location.search).get('t') || 0)));
+</script>
+</body>
+</html>
