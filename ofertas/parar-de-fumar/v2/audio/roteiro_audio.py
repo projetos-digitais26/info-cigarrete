@@ -1,4 +1,4 @@
-"""Extrai a narração da VSL PT-BR, adapta para narradora (Márcia) e define emoção, trilha e efeitos por cena.
+"""Extrai a narração da VSL PT-BR (narradora Márcia + voz de criança da Sofia) e define emoção, trilha e efeitos por cena.
 
 Uso: python3 roteiro_audio.py ../vsl-v2-pt-br.md segmentos.json narracao-feminina.md
 """
@@ -9,47 +9,29 @@ texto = open(src).read()
 
 # ---------- cenas ----------
 cenas = []
-for bloco in re.split(r"\n(?=\*\*C\d+[a-z]? · )", texto):
-    m = re.match(r"\*\*(C\d+[a-z]?) · ", bloco)
+for bloco in re.split(r"\n(?=\*\*[ACU]\d+[a-z]? · )", texto):
+    m = re.match(r"\*\*([ACU]\d+[a-z]?) · ", bloco)
     if not m:
         continue
-    vo = " ".join(l[2:].strip() for l in bloco.splitlines() if l.startswith("> "))
-    vo = re.sub(r"`\[[^\]]*\]`", "", vo)            # marcações de prova/fonte
-    vo = re.sub(r"\[Depoimento real \d\]", "", vo)
-    vo = vo.replace("(sem narração)", "")
-    cenas.append({"id": m.group(1), "vo": re.sub(r"\s+", " ", vo).strip()})
+    falas = []
+    for l in bloco.splitlines():
+        if not l.startswith("> "):
+            continue
+        l = l[2:].strip(); quem = "crianca" if l.startswith("🧒") else "narradora"
+        l = l.lstrip("🧒").strip()
+        l = re.sub(r"`\[[^\]]*\]`", "", l); l = re.sub(r"\[Depoimento real \d\]", "", l).replace("(sem narração)", "")
+        l = re.sub(r"\s+", " ", l).strip()
+        if l:
+            falas.append((quem, l))
+    cenas.append({"id": m.group(1), "falas": falas})
 
-# ---------- narradora ----------
-TROCAS = [
-    ("Meu nome é Marcos.", "Meu nome é Márcia."),
-    ('"Marcos, eu fumo há 30 anos."', '"Márcia, eu fumo há 30 anos."'),
-    ("As minhas roupas, as roupas da Luciana, minha esposa.", "As minhas roupas, as roupas do Luciano, meu marido."),
-    ("Ela nunca brigou comigo. Ela só abria a janela.", "Ele nunca brigou comigo. Ele só abria a janela."),
-    ("uma esposa que me amava", "um marido que me amava"),
-    ("a Luciana olhou pra mim e disse", "o Luciano olhou pra mim e disse"),
-    ("Ela tinha uma amiga de infância", "Ele tinha um amigo de infância"),
-    ("pra amiga da Luciana, a Ama,", "pro amigo do Luciano, o Kofi,"),
-    ("No dia seguinte ela me levou", "No dia seguinte ele me levou"),
-    ("Ela riu e disse", "Ele riu e disse"),
-    ("A Luciana percebeu antes de mim", "O Luciano percebeu antes de mim"),
-    ("Eu corri pra contar pra Luciana. Ela me abraçou", "Eu corri pra contar pro Luciano. Ele me abraçou"),
-    ('"Pai, você tá com cheiro de pai."', '"Mãe, você tá com cheiro de mãe."'),
-    ('"Papai, não fuma.', '"Mamãe, não fuma.'),
-    ("uma esposa, você mesmo", "um marido, você mesmo"),
-    ("irritado", "irritada"), ("tranquilo.", "tranquila."), ("confuso", "confusa"),
-    ("arrepiado", "arrepiada"), ("Eu era o único. Eu, o turista,", "Eu era a única. Eu, a turista,"),
-    ("Dez minutos depois de ver o meu pai morrer por causa do cigarro, eu estava fumando.",
-     "Dez minutos depois de ver o meu pai morrer por causa do cigarro, eu estava fumando."),
-    ("Eu sei o que é isso. E sei o que isso faz com um casamento.",
-     "E nas mulheres, o cigarro rouba o colágeno, envelhece a pele, apaga o brilho do rosto. Eu via isso no espelho, todo santo dia."),
-]
+def preco(t):
+    t = t.replace("R$ [PREÇO]", "37 reais").replace("[PREÇO]", "37 reais").replace("em [X] dias", "em três dias")
+    return t.replace("Ou em até 12 parcelas que custam", "Ou em até 12 parcelas, que custam")
+
+
 for c in cenas:
-    for a, b in TROCAS:
-        c["vo"] = c["vo"].replace(a, b)
-    c["vo"] = c["vo"].replace("R$ [PREÇO]", "37 reais").replace("[PREÇO]", "37 reais")
-    c["vo"] = c["vo"].replace("em [X] dias", "em três dias")
-    c["vo"] = c["vo"].replace("Ou em até 12 parcelas que custam menos que um maço de cigarro.",
-                              "Ou em até 12 parcelas, que custam menos que um maço de cigarro.")
+    c["falas"] = [(q, preco(t)) for q, t in c["falas"]]
 
 # ---------- emoção (velocidade, tom, pausa entre frases, pausa depois da cena) ----------
 EST = {
@@ -66,8 +48,9 @@ EST = {
     "urgencia":  ("+3%",  "+1Hz", .3,  .6),
 }
 EMOCAO = {
-    "C01": "choque", "C02": "impacto", "C03": "misterio", "C04": "choque", "C05": "impacto", "C05b": "medo",
-    "C06": "esperanca", "C07": "esperanca", "C08": "intimo", "C08b": "misterio",
+    "A01": "dor", "A02": "dor", "A03": "dor", "A04": "choque", "A05": "dor", "A06": "choque", "A07": "misterio",
+    "A08": "dor", "A09": "intimo", "A10": "intimo", "A11": "misterio", "A12": "esperanca", "A13": "intimo", "A14": "misterio",
+    "U01": "medo", "U02": "dor", "U03": "choque", "U04": "dor", "U05": "impacto", "C109b": "intimo",
     "C09": "intimo", "C10": "dor", "C11": "revelacao", "C12": "misterio",
     "C13": "dor", "C14": "intimo", "C15": "dor", "C16": "dor", "C17": "choque", "C18": "choque",
     "C19": "choque", "C20": "dor", "C21": "choque", "C22": "dor", "C23": "intimo", "C24": "dor",
@@ -94,14 +77,16 @@ EMOCAO = {
     "C109": "intimo", "C110": "impacto", "C111": "choque",
 }
 # ---------- trilha por fase ----------
-FASES = [("tensao", "C01"), ("piano", "C09"), ("hospital", "C13"), ("filho", "C28"), ("tensao", "C34"),
-         ("medo", "C37a"), ("tensao", "C38"), ("gana", "C41"), ("fogo", "C51"), ("ciencia", "C61"),
+FASES = [("uti", "A01"), ("silencio", "A06"), ("memoria", "A07"), ("uti", "A08"), ("piano", "A09"), ("tensao", "A11"), ("piano", "C09"), ("hospital", "C13"), ("filho", "C28"), ("tensao", "C34"),
+         ("medo", "C37a"), ("uti", "U01"), ("tensao", "C37g"), ("gana", "C41"), ("fogo", "C51"), ("ciencia", "C61"),
          ("pulso", "C66"), ("diario", "C72"), ("silencio", "C78"), ("vitoria", "C80"), ("manada", "C82"),
          ("gana", "C85"), ("oferta", "C90"), ("leve", "C100"), ("fechamento", "C106"), ("hospital", "C106b"),
-         ("fechamento", "C107")]
+         ("fechamento", "C107"), ("ninar", "C109b"), ("fechamento", "C110")]
 # ---------- efeitos (antes da fala da cena) ----------
 SFX = {
-    "C01": ["isqueiro"], "C04": ["impacto"], "C05b": ["impacto", "coracao"], "C08b": ["riser"],
+    "A01": ["respirador"], "A04": ["alarme", "impacto"], "A05": ["impacto"], "A06": ["silencio"], "A07": ["isqueiro"],
+    "A09": ["whoosh"], "A10": ["impacto"], "A11": ["sibilo"], "A14": ["riser"],
+    "U01": ["impacto", "monitor"], "U02": ["sirene"], "U03": ["impacto"], "U04": ["isqueiro"], "U05": ["sibilo"],
     "C11": ["impacto"], "C13": ["monitor"], "C17": ["silencio"], "C19": ["linha_reta"], "C21": ["isqueiro", "impacto"],
     "C27": ["whoosh"], "C29": ["impacto"], "C33": ["impacto"], "C35b": ["whoosh"], "C37": ["isqueiro"],
     "C37a": ["impacto", "coracao"], "C37b": ["impacto"], "C37c": ["impacto"], "C37d": ["impacto"],
@@ -119,15 +104,19 @@ for c in cenas:
     fase = fase_por_inicio.get(c["id"], fase)
     e = EMOCAO.get(c["id"], "intimo")
     rate, pitch, pausa_frase, pausa_cena = EST[e]
-    frases = [f.strip() for f in re.split(r"(?<=[.!?…])\s+(?=[A-ZÀ-Ú\"“(])", c["vo"]) if f.strip()]
+    frases = []
+    for quem, t in c["falas"]:
+        for f in re.split(r"(?<=[.!?…])\s+(?=[A-ZÀ-Ú\"“(])", t):
+            if f.strip():
+                frases.append({"texto": f.strip(), "voz": quem})
     out.append({"id": c["id"], "emocao": e, "fase": fase, "rate": rate, "pitch": pitch,
                 "pausa_frase": pausa_frase, "pausa_cena": pausa_cena, "sfx": SFX.get(c["id"], []), "frases": frases})
 
 json.dump(out, open(out_json, "w"), ensure_ascii=False, indent=1)
 with open(out_md, "w") as f:
-    f.write("# Narração feminina — VSL V2 PT-BR (Márcia)\n\nTexto exato usado no áudio de validação, com a emoção de cada cena.\n\n")
-    for s in out:
-        if s["frases"]:
-            f.write(f"**{s['id']}** _({s['emocao']})_ {' '.join(s['frases'])}\n\n")
-print(len(out), "cenas,", sum(len(s["frases"]) for s in out), "frases,",
-      sum(len(" ".join(s["frases"]).split()) for s in out), "palavras")
+    f.write("# Narração — VSL V2 PT-BR (Márcia + Sofia)\n\nTexto exato do áudio de validação, com a emoção de cada cena. 🧒 = voz da Sofia.\n\n")
+    for s_ in out:
+        if s_["frases"]:
+            f.write(f"**{s_['id']}** _({s_['emocao']})_ " + " ".join(("🧒 " if x["voz"] == "crianca" else "") + x["texto"] for x in s_["frases"]) + "\n\n")
+print(len(out), "cenas,", sum(len(s_["frases"]) for s_ in out), "frases,",
+      sum(len(x["texto"].split()) for s_ in out for x in s_["frases"]), "palavras")

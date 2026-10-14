@@ -1,100 +1,263 @@
 [
  {
-  "id": "C01",
+  "id": "A01",
+  "emocao": "dor",
+  "fase": "uti",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "respirador"
+  ],
+  "frases": [
+   {
+    "texto": "Mamãe… fica mais um pouquinho.",
+    "voz": "crianca"
+   },
+   {
+    "texto": "Por favor.",
+    "voz": "crianca"
+   }
+  ]
+ },
+ {
+  "id": "A02",
+  "emocao": "dor",
+  "fase": "uti",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Essa foi a última coisa que eu ouvi antes de apagar.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A03",
+  "emocao": "dor",
+  "fase": "uti",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Você prometeu que ia me ver crescer…",
+    "voz": "crianca"
+   }
+  ]
+ },
+ {
+  "id": "A04",
   "emocao": "choque",
-  "fase": "tensao",
+  "fase": "uti",
   "rate": "-22%",
   "pitch": "-8Hz",
   "pausa_frase": 0.9,
   "pausa_cena": 1.6,
   "sfx": [
+   "alarme",
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Eu tinha 43 anos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Estava numa UTI, com o coração falhando e o pulmão sem força pra respirar sozinho.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E a minha filha de 9 anos estava sendo levada pra fora do quarto por uma enfermeira, gritando o meu nome.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A05",
+  "emocao": "dor",
+  "fase": "uti",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Mamãe!",
+    "voz": "crianca"
+   }
+  ]
+ },
+ {
+  "id": "A06",
+  "emocao": "choque",
+  "fase": "silencio",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "silencio"
+  ],
+  "frases": [
+   {
+    "texto": "E sabe qual foi o último pensamento que passou pela minha cabeça?",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Não foi medo de morrer.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A07",
+  "emocao": "misterio",
+  "fase": "memoria",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [
    "isqueiro"
   ],
   "frases": [
-   "Não apague esse cigarro."
+   {
+    "texto": "Foi uma manhã comum.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Uma xícara de café.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E um cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O primeiro cigarro do dia.",
+    "voz": "narradora"
+   }
   ]
  },
  {
-  "id": "C02",
-  "emocao": "impacto",
-  "fase": "tensao",
-  "rate": "-12%",
-  "pitch": "-4Hz",
-  "pausa_frase": 0.55,
+  "id": "A08",
+  "emocao": "dor",
+  "fase": "uti",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Sério.",
-   "Se você fuma, eu não vou te pedir pra parar hoje.",
-   "Nem amanhã."
+   {
+    "texto": "Porque ali, quase sem forças, eu entendi tudo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu entendi exatamente onde eu tinha errado durante 19 anos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E que se eu tivesse feito uma coisa diferente com aquele primeiro cigarro, lá atrás, a minha filha não estaria chorando no corredor de um hospital.",
+    "voz": "narradora"
+   }
   ]
  },
  {
-  "id": "C03",
+  "id": "A09",
+  "emocao": "intimo",
+  "fase": "piano",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [
+   "whoosh"
+  ],
+  "frases": [
+   {
+    "texto": "Eu sobrevivi.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E é por isso que eu estou aqui.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A10",
+  "emocao": "intimo",
+  "fase": "piano",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Eu não vou te pedir pra parar de fumar hoje.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Nem amanhã.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu só quero que você escute o que eu descobri depois daquela noite.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Porque o meu passado pode ser o seu presente.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E talvez você tenha parado neste vídeo justamente pra fazer diferente do que eu fiz… pra que o seu fim não seja aquele que quase foi o meu.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A11",
   "emocao": "misterio",
   "fase": "tensao",
   "rate": "-14%",
   "pitch": "-5Hz",
   "pausa_frase": 0.6,
   "pausa_cena": 1.0,
-  "sfx": [],
-  "frases": [
-   "Amanhã de manhã, quando você acender o primeiro cigarro do dia, aquele junto com o café, eu quero que você faça uma coisa simples com ele.",
-   "Uma coisa só."
-  ]
- },
- {
-  "id": "C04",
-  "emocao": "choque",
-  "fase": "tensao",
-  "rate": "-22%",
-  "pitch": "-8Hz",
-  "pausa_frase": 0.9,
-  "pausa_cena": 1.6,
   "sfx": [
-   "impacto"
+   "sibilo"
   ],
   "frases": [
-   "Porque é nesse cigarro, o primeiro, que mora a cabeça do seu vício."
+   {
+    "texto": "Amanhã de manhã, quando você acender o primeiro cigarro do dia, aquele junto com o café, eu quero que você faça uma coisa simples com ele.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Porque é nesse cigarro, o primeiro, que mora a cabeça do seu vício.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Todos os outros dependem dele.",
+    "voz": "narradora"
+   }
   ]
  },
  {
-  "id": "C05",
-  "emocao": "impacto",
-  "fase": "tensao",
-  "rate": "-12%",
-  "pitch": "-4Hz",
-  "pausa_frase": 0.55,
-  "pausa_cena": 1.0,
-  "sfx": [],
-  "frases": [
-   "Todos os outros cigarros do seu dia dependem dele.",
-   "O do almoço, o do estresse, o do fim da noite.",
-   "Todos."
-  ]
- },
- {
-  "id": "C05b",
-  "emocao": "medo",
-  "fase": "tensao",
-  "rate": "-10%",
-  "pitch": "-4Hz",
-  "pausa_frase": 0.5,
-  "pausa_cena": 0.8,
-  "sfx": [
-   "impacto",
-   "coracao"
-  ],
-  "frases": [
-   "E se você não fizer nada com ele, existe uma chance real de esse cigarro te matar.",
-   "A Organização Mundial da Saúde diz que o cigarro mata até metade das pessoas que fumam.",
-   "Metade.",
-   "Não é um em mil.",
-   "É um em cada dois."
-  ]
- },
- {
-  "id": "C06",
+  "id": "A12",
   "emocao": "esperanca",
   "fase": "tensao",
   "rate": "-5%",
@@ -103,29 +266,30 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Mas quando você aprende a mexer nesse primeiro cigarro do jeito certo, durante 14 dias, algo começa a acontecer.",
-   "Pessoas que fumavam havia 20, 30, até 40 anos estão sentindo isso .",
-   "A vontade vai perdendo força.",
-   "Até que, numa manhã qualquer, você termina o seu café… e percebe que esqueceu de fumar."
+   {
+    "texto": "E quando você aprende a mexer nesse primeiro cigarro do jeito certo, durante 14 dias, a vontade vai perdendo força.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Até que, numa manhã qualquer, você termina o seu café… e percebe que esqueceu de fumar.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Sem adesivo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Sem remédio.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Sem a guerra de parar de uma vez.",
+    "voz": "narradora"
+   }
   ]
  },
  {
-  "id": "C07",
-  "emocao": "esperanca",
-  "fase": "tensao",
-  "rate": "-5%",
-  "pitch": "+2Hz",
-  "pausa_frase": 0.45,
-  "pausa_cena": 0.7,
-  "sfx": [],
-  "frases": [
-   "Sem adesivo.",
-   "Sem chiclete.",
-   "Sem precisar parar de uma vez e enfrentar aquela guerra que você já perdeu tantas vezes."
-  ]
- },
- {
-  "id": "C08",
+  "id": "A13",
   "emocao": "intimo",
   "fase": "tensao",
   "rate": "-8%",
@@ -134,13 +298,18 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Meu nome é Márcia.",
-   "Eu fumei por 19 anos.",
-   "E neste vídeo eu vou te mostrar o que eu aprendi com um velho, do outro lado do mundo, num lugar onde quase ninguém fuma… e por que a ciência confirma que ele estava certo."
+   {
+    "texto": "Meu nome é Márcia.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E neste vídeo eu vou te mostrar o que eu aprendi com um velho, do outro lado do mundo, num lugar onde quase ninguém fuma… e por que a ciência confirma que ele estava certo.",
+    "voz": "narradora"
+   }
   ]
  },
  {
-  "id": "C08b",
+  "id": "A14",
   "emocao": "misterio",
   "fase": "tensao",
   "rate": "-14%",
@@ -151,9 +320,18 @@
    "riser"
   ],
   "frases": [
-   "E assista até o final.",
-   "Porque tem muita gente ganhando dinheiro todos os dias com o seu vício.",
-   "E eu não sei por quanto tempo este vídeo vai continuar no ar."
+   {
+    "texto": "Assista até o final.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Porque tem muita gente ganhando dinheiro todos os dias com o seu vício.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E eu não sei por quanto tempo este vídeo vai continuar no ar.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -166,7 +344,10 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Se você fuma há 5, 10, 20 ou 40 anos… se você fuma meio maço ou dois por dia… se você já tentou parar e voltou, uma, duas, dez vezes… este vídeo é pra você."
+   {
+    "texto": "Se você fuma há 5, 10, 20 ou 40 anos… se você fuma meio maço ou dois por dia… se você já tentou parar e voltou, uma, duas, dez vezes… este vídeo é pra você.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -179,7 +360,10 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Principalmente se você já ficou três dias sem fumar, com a cabeça explodindo, e no quarto dia acendeu um cigarro sentindo que tinha falhado de novo."
+   {
+    "texto": "Principalmente se você já ficou três dias sem fumar, com a cabeça explodindo, e no quarto dia acendeu um cigarro sentindo que tinha falhado de novo.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -194,9 +378,18 @@
    "impacto"
   ],
   "frases": [
-   "Eu quero te dizer uma coisa que ninguém te disse: não foi fraqueza.",
-   "Você só começou a luta pelo lado errado.",
-   "E até o final deste vídeo você vai entender exatamente o que eu quero dizer."
+   {
+    "texto": "Eu quero te dizer uma coisa que ninguém te disse: não foi fraqueza.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você só começou a luta pelo lado errado.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E até o final deste vídeo você vai entender exatamente o que eu quero dizer.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -209,8 +402,14 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Mas antes, eu preciso te contar como eu descobri isso.",
-   "Porque começou no pior dia da minha vida."
+   {
+    "texto": "Mas antes, eu preciso te contar como eu cheguei naquela UTI.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Porque tudo começou muito antes, com o meu pai.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -225,8 +424,14 @@
    "monitor"
   ],
   "frases": [
-   "Meu pai fumou a vida inteira.",
-   "Eu cresci vendo ele acender um cigarro no outro, sentado na varanda, com aquele isqueiro prateado que ele carregava no bolso da camisa."
+   {
+    "texto": "Meu pai fumou a vida inteira.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu cresci vendo ele acender um cigarro no outro, sentado na varanda, com aquele isqueiro prateado que ele carregava no bolso da camisa.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -239,11 +444,26 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Eu comecei a fumar com 25 anos.",
-   "E sabe por quê?",
-   "Pra ficar perto dele.",
-   "Era o nosso momento.",
-   "Eu e ele, na varanda, fumando e conversando sobre a vida."
+   {
+    "texto": "Eu comecei a fumar com 25 anos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E sabe por quê?",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Pra ficar perto dele.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Era o nosso momento.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu e ele, na varanda, fumando e conversando sobre a vida.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -256,7 +476,10 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Eu nunca imaginei que aquele momento ia custar tão caro."
+   {
+    "texto": "Eu nunca imaginei que aquele momento ia custar tão caro.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -269,8 +492,14 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Aos 67 anos, ele foi diagnosticado com câncer de pulmão.",
-   "Em poucos meses, aquele homem forte, que me carregava nos ombros, não conseguia mais subir um degrau sem perder o ar."
+   {
+    "texto": "Aos 67 anos, ele foi diagnosticado com câncer de pulmão.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Em poucos meses, aquele homem forte, que me carregava nos ombros, não conseguia mais subir um degrau sem perder o ar.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -285,7 +514,10 @@
    "silencio"
   ],
   "frases": [
-   "No final, ele não conseguia nem beber água sozinho."
+   {
+    "texto": "No final, ele não conseguia nem beber água sozinho.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -298,8 +530,14 @@
   "pausa_cena": 1.6,
   "sfx": [],
   "frases": [
-   "E eu estava lá.",
-   "Segurando a mão dele."
+   {
+    "texto": "E eu estava lá.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Segurando a mão dele.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -314,7 +552,10 @@
    "linha_reta"
   ],
   "frases": [
-   "Ele morreu numa terça-feira, às 4 da tarde."
+   {
+    "texto": "Ele morreu numa terça-feira, às 4 da tarde.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -327,8 +568,14 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "E sabe o que eu fiz dez minutos depois?",
-   "Eu desci até o estacionamento, entrei no carro… e acendi um cigarro."
+   {
+    "texto": "E sabe o que eu fiz dez minutos depois?",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu desci até o estacionamento, entrei no carro… e acendi um cigarro.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -344,7 +591,10 @@
    "impacto"
   ],
   "frases": [
-   "Dez minutos depois de ver o meu pai morrer por causa do cigarro, eu estava fumando."
+   {
+    "texto": "Dez minutos depois de ver o meu pai morrer por causa do cigarro, eu estava fumando.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -357,8 +607,14 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Naquele momento eu entendi que não era eu que mandava no cigarro.",
-   "Era ele que mandava em mim."
+   {
+    "texto": "Naquele momento eu entendi que não era eu que mandava no cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Era ele que mandava em mim.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -371,11 +627,26 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "E não era só comigo.",
-   "A minha casa tinha cheiro de cigarro.",
-   "As minhas roupas, as roupas do Luciano, meu marido.",
-   "O carro.",
-   "As cortinas."
+   {
+    "texto": "E não era só comigo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "A minha casa tinha cheiro de cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "As minhas roupas, as roupas do Luciano, meu marido.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O carro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "As cortinas.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -388,10 +659,22 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Ele nunca brigou comigo.",
-   "Ele só abria a janela.",
-   "Todo dia.",
-   "E aquele silêncio doía mais do que qualquer briga."
+   {
+    "texto": "Ele nunca brigou comigo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ele só abria a janela.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Todo dia.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E aquele silêncio doía mais do que qualquer briga.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -404,10 +687,22 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Eu chegava a fumar um maço por dia.",
-   "Não conseguia tomar um café sem um cigarro.",
-   "Não conseguia dirigir sem um cigarro.",
-   "Não conseguia nem pensar sem um cigarro."
+   {
+    "texto": "Eu chegava a fumar um maço por dia.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Não conseguia tomar um café sem um cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Não conseguia dirigir sem um cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Não conseguia nem pensar sem um cigarro.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -420,8 +715,14 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Eu tinha 42 anos, um marido que me amava e um filho lindo.",
-   "E estava trocando tudo isso, devagar, por um maço de cigarro."
+   {
+    "texto": "Eu tinha 42 anos, um marido que me amava e uma filha linda.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E estava trocando tudo isso, devagar, por um maço de cigarro.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -436,8 +737,14 @@
    "whoosh"
   ],
   "frases": [
-   "Mas o que me fez decidir de verdade não foi a morte do meu pai.",
-   "Foi um desenho."
+   {
+    "texto": "Mas o que me fez decidir de verdade não foi a morte do meu pai.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Foi um desenho.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -450,8 +757,14 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "O Davi, meu filho, tinha 8 anos.",
-   "Uma semana depois do enterro do avô, ele deixou esse desenho em cima do meu travesseiro."
+   {
+    "texto": "A Sofia, minha filha, tinha 8 anos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Uma semana depois do enterro do avô, ela deixou esse desenho em cima do meu travesseiro.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -466,8 +779,14 @@
    "impacto"
   ],
   "frases": [
-   "Estava escrito assim, com a letra torta dele: \"Mamãe, não fuma.",
-   "Eu não quero que você morra igual o vovô.\""
+   {
+    "texto": "Estava escrito assim, com a letra torta dele: \"Mamãe, não fuma.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu não quero que você morra igual o vovô.\"",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -480,7 +799,10 @@
   "pausa_cena": 1.6,
   "sfx": [],
   "frases": [
-   "Eu chorei como não tinha chorado nem no velório."
+   {
+    "texto": "Eu chorei como não tinha chorado nem no velório.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -493,9 +815,18 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "E naquele dia eu percebi que o meu filho já estava se afastando de mim.",
-   "Ele não pulava mais no meu colo quando eu chegava.",
-   "Ele dizia que eu tinha cheiro de cinzeiro."
+   {
+    "texto": "E naquele dia eu percebi que a minha filha já estava se afastando de mim.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ela não pulava mais no meu colo quando eu chegava.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ela dizia que eu tinha cheiro de cinzeiro.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -508,8 +839,14 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Eu prometi pra ele, e prometi pra mim, que eu ia parar.",
-   "Custasse o que custasse."
+   {
+    "texto": "Eu prometi pra ele, e prometi pra mim, que eu ia parar.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Custasse o que custasse.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -524,7 +861,10 @@
    "impacto"
   ],
   "frases": [
-   "E durante um ano inteiro, eu falhei."
+   {
+    "texto": "E durante um ano inteiro, eu falhei.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -537,12 +877,30 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Eu tentei de tudo.",
-   "Adesivo.",
-   "Chiclete.",
-   "Remédio.",
-   "Parar de uma vez, na força de vontade.",
-   "Contei os dias num aplicativo."
+   {
+    "texto": "Eu tentei de tudo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Adesivo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Chiclete.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Remédio.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Parar de uma vez, na força de vontade.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Contei os dias num aplicativo.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -555,10 +913,22 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "E toda vez era a mesma história.",
-   "Um, dois, três dias, eu aguentava.",
-   "No quarto dia, de manhã, a vontade vinha como uma onda.",
-   "Eu ficava irritada, com a cabeça pesada, brigava com todo mundo em casa."
+   {
+    "texto": "E toda vez era a mesma história.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Um, dois, três dias, eu aguentava.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "No quarto dia, de manhã, a vontade vinha como uma onda.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu ficava irritada, com a cabeça pesada, brigava com todo mundo em casa.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -573,11 +943,26 @@
    "whoosh"
   ],
   "frases": [
-   "E sabe o que eu só fui entender depois?",
-   "O adesivo e o chiclete continuam colocando nicotina no seu corpo, todos os dias.",
-   "Você troca o cigarro por outro prato, mas a serpente continua sendo alimentada.",
-   "E nenhum deles mexe na raiz do problema: o ritual da manhã.",
-   "Aquele momento do café, do primeiro cigarro, continua lá, intacto, esperando você."
+   {
+    "texto": "E sabe o que eu só fui entender depois?",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O adesivo e o chiclete continuam colocando nicotina no seu corpo, todos os dias.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você troca o cigarro por outro prato, mas a serpente continua sendo alimentada.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E nenhum deles mexe na raiz do problema: o ritual da manhã.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Aquele momento do café, do primeiro cigarro, continua lá, intacto, esperando você.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -590,10 +975,22 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Teve um dia que eu gritei com o Davi por causa de um copo derramado.",
-   "Um copo.",
-   "E eu vi no olho dele o medo.",
-   "Eu tinha virado outra pessoa."
+   {
+    "texto": "Teve um dia que eu gritei com a Sofia por causa de um copo derramado.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Um copo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E eu vi no olho dela o medo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu tinha virado outra pessoa.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -608,8 +1005,14 @@
    "isqueiro"
   ],
   "frases": [
-   "E aí eu acendia um cigarro.",
-   "E a culpa vinha junto."
+   {
+    "texto": "E aí eu acendia um cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E a culpa vinha junto.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -625,10 +1028,34 @@
    "coracao"
   ],
   "frases": [
-   "E sabe o que acontecia toda vez que eu recaía?",
-   "Cada cigarro que eu acendia mandava pra dentro de mim mais de 7 mil substâncias químicas.",
-   "Pelo menos 70 delas causam câncer.",
-   "Na boca, na garganta, no pulmão, na bexiga."
+   {
+    "texto": "E sabe o que acontecia toda vez que eu recaía?",
+    "voz": "narradora"
+   },
+   {
+    "texto": "A Organização Mundial da Saúde diz que o cigarro mata até metade das pessoas que fumam.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Metade.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Um em cada dois.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E cada cigarro que eu acendia mandava pra dentro de mim mais de 7 mil substâncias químicas.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Pelo menos 70 delas causam câncer.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Na boca, na garganta, no pulmão, na bexiga.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -643,9 +1070,18 @@
    "impacto"
   ],
   "frases": [
-   "Cada tragada endurece as suas artérias e deixa o seu sangue mais grosso.",
-   "É por isso que fumante infarta mais.",
-   "Tem AVC mais cedo."
+   {
+    "texto": "Cada tragada endurece as suas artérias e deixa o seu sangue mais grosso.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "É por isso que fumante infarta mais.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Tem AVC mais cedo.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -660,10 +1096,22 @@
    "impacto"
   ],
   "frases": [
-   "E é por isso que tanto homem que fuma começa a falhar na cama.",
-   "O sangue simplesmente não chega onde precisa chegar.",
-   "E nas mulheres, o cigarro rouba o colágeno, envelhece a pele, apaga o brilho do rosto.",
-   "Eu via isso no espelho, todo santo dia."
+   {
+    "texto": "E é por isso que tanto homem que fuma começa a falhar na cama.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O sangue simplesmente não chega onde precisa chegar.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E nas mulheres, o cigarro rouba o colágeno, envelhece a pele, apaga o brilho do rosto.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu via isso no espelho, todo santo dia.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -678,10 +1126,22 @@
    "impacto"
   ],
   "frases": [
-   "E tem o enfisema.",
-   "Os pulmões vão perdendo a força, até o dia em que você precisa arrastar um cilindro de oxigênio pra ir até a padaria.",
-   "Eu vi isso acontecer.",
-   "No meu pai."
+   {
+    "texto": "E tem o enfisema.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Os pulmões vão perdendo a força, até o dia em que você precisa arrastar um cilindro de oxigênio pra ir até a padaria.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu vi isso acontecer.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "No meu pai.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -696,12 +1156,30 @@
    "impacto"
   ],
   "frases": [
-   "Quem fuma vive, em média, pelo menos dez anos a menos.",
-   "Dez anos.",
-   "Dez Natais.",
-   "A formatura do seu filho.",
-   "O nascimento do seu neto.",
-   "Tudo isso queimando junto com o cigarro."
+   {
+    "texto": "Quem fuma vive, em média, pelo menos dez anos a menos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Dez anos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Dez Natais.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "A formatura do seu filho.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O nascimento do seu neto.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Tudo isso queimando junto com o cigarro.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -714,14 +1192,147 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "E não é só você.",
-   "A fumaça que sai do seu cigarro entra no pulmão de quem você mais ama."
+   {
+    "texto": "E não é só você.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "A fumaça que sai do seu cigarro entra no pulmão de quem você mais ama.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "U01",
+  "emocao": "medo",
+  "fase": "uti",
+  "rate": "-10%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [
+   "impacto",
+   "monitor"
+  ],
+  "frases": [
+   {
+    "texto": "E um dia, a conta chegou.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu estava no trabalho quando senti uma pressão no peito, como se alguém estivesse sentado em cima de mim.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O braço esquerdo formigando.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O ar que não vinha.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "U02",
+  "emocao": "dor",
+  "fase": "uti",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "sirene"
+  ],
+  "frases": [
+   {
+    "texto": "Eu tive um infarto aos 43 anos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Acordei dois dias depois, numa UTI.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Foi ali que a Sofia segurou a minha mão e me pediu pra ficar.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "U03",
+  "emocao": "choque",
+  "fase": "uti",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Quando eu acordei, o médico olhou nos meus olhos e disse uma frase que eu nunca vou esquecer: \"Márcia, se você continuar fumando, da próxima vez você não volta.\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "U04",
+  "emocao": "dor",
+  "fase": "uti",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "isqueiro"
+  ],
+  "frases": [
+   {
+    "texto": "E sabe o que eu fiz três semanas depois de sair daquele hospital?",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu me tranquei no banheiro… e acendi um cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Escondida da minha própria filha.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "U05",
+  "emocao": "impacto",
+  "fase": "uti",
+  "rate": "-12%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.55,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "sibilo"
+  ],
+  "frases": [
+   {
+    "texto": "Foi aí que eu tive certeza: aquilo não era um hábito.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Era uma serpente enrolada no meu pescoço.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E cada vez que eu tentava arrancá-la de uma vez, ela apertava mais.",
+    "voz": "narradora"
+   }
   ]
  },
  {
   "id": "C37g",
   "emocao": "impacto",
-  "fase": "medo",
+  "fase": "tensao",
   "rate": "-12%",
   "pitch": "-4Hz",
   "pausa_frase": 0.55,
@@ -730,19 +1341,40 @@
    "whoosh"
   ],
   "frases": [
-   "E enquanto isso acontece, tem gente ficando muito rica.",
-   "A indústria do cigarro fatura bilhões todos os anos com gente como eu e você.",
-   "E quando você tenta parar e não consegue, tem outra fila de empresas esperando, vendendo adesivo, chiclete, tratamento, caixa atrás de caixa.",
-   "Cada recaída sua vira mais uma venda.",
-   "E a maioria das pessoas que tenta parar acaba recaindo .",
-   "É um ciclo que dá lucro pra todo mundo.",
-   "Menos pra você."
+   {
+    "texto": "E enquanto isso acontece, tem gente ficando muito rica.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "A indústria do cigarro fatura bilhões todos os anos com gente como eu e você.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E quando você tenta parar e não consegue, tem outra fila de empresas esperando, vendendo adesivo, chiclete, tratamento, caixa atrás de caixa.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Cada recaída sua vira mais uma venda.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E a maioria das pessoas que tenta parar acaba recaindo .",
+    "voz": "narradora"
+   },
+   {
+    "texto": "É um ciclo que dá lucro pra todo mundo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Menos pra você.",
+    "voz": "narradora"
+   }
   ]
  },
  {
   "id": "C37h",
   "emocao": "misterio",
-  "fase": "medo",
+  "fase": "tensao",
   "rate": "-14%",
   "pitch": "-5Hz",
   "pausa_frase": 0.6,
@@ -751,9 +1383,18 @@
    "impacto"
   ],
   "frases": [
-   "Pensa comigo: quem ganha dinheiro se você conseguir parar sozinho, com um método simples, que custa menos que alguns maços de cigarro?",
-   "Ninguém.",
-   "É por isso que ninguém te conta o que eu vou te contar agora."
+   {
+    "texto": "Pensa comigo: quem ganha dinheiro se você conseguir parar sozinho, com um método simples, que custa menos que alguns maços de cigarro?",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ninguém.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "É por isso que ninguém te conta o que eu vou te contar agora.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -768,10 +1409,22 @@
    "riser"
   ],
   "frases": [
-   "Hoje eu sei por que eu falhava.",
-   "E o problema nunca fui eu.",
-   "Nem você.",
-   "O problema foi a estratégia que venderam pra gente a vida inteira: parar de uma vez."
+   {
+    "texto": "Hoje eu sei por que eu falhava.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E o problema nunca fui eu.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Nem você.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O problema foi a estratégia que venderam pra gente a vida inteira: parar de uma vez.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -784,7 +1437,10 @@
   "pausa_cena": 0.8,
   "sfx": [],
   "frases": [
-   "E parar de uma vez significa uma coisa que ninguém te explica: logo no primeiro minuto do dia, você tem que enfrentar o cigarro mais forte de todos."
+   {
+    "texto": "E parar de uma vez significa uma coisa que ninguém te explica: logo no primeiro minuto do dia, você tem que enfrentar o cigarro mais forte de todos.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -797,8 +1453,14 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Eu não sabia disso.",
-   "Eu só fui entender quando um velho, sentado numa cadeira de madeira, me olhou nos olhos e me disse uma frase que eu nunca mais esqueci."
+   {
+    "texto": "Eu não sabia disso.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu só fui entender quando um velho, sentado numa cadeira de madeira, me olhou nos olhos e me disse uma frase que eu nunca mais esqueci.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -813,8 +1475,10 @@
    "whoosh"
   ],
   "frases": [
-   "Seis meses depois da morte do meu pai, o Luciano olhou pra mim e disse: \"Você precisa respirar.",
-   "A gente precisa sair daqui.\""
+   {
+    "texto": "Quando eu saí do hospital, o médico foi direto: \"Você precisa descansar, longe de tudo.\" O Luciano olhou pra mim e disse: \"A gente precisa sair daqui.\"",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -827,9 +1491,18 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Ele tinha um amigo de infância que morava em Gana, na África.",
-   "E insistiu tanto que eu acabei indo.",
-   "Eu achava que ia passar duas semanas tentando fumar escondido."
+   {
+    "texto": "Ele tinha um amigo de infância que morava em Gana, na África.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E insistiu tanto que eu acabei indo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu achava que ia passar duas semanas tentando fumar escondido.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -842,8 +1515,14 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Mas lá aconteceu uma coisa que eu não entendia.",
-   "Eu andava pelas ruas, pelos mercados, pelas praias… e não via quase ninguém fumando."
+   {
+    "texto": "Mas lá aconteceu uma coisa que eu não entendia.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu andava pelas ruas, pelos mercados, pelas praias… e não via quase ninguém fumando.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -856,8 +1535,14 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Eu era a única.",
-   "Eu, a turista, com o cigarro na mão."
+   {
+    "texto": "Eu era a única.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu, a turista, com o cigarro na mão.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -872,7 +1557,10 @@
    "tum"
   ],
   "frases": [
-   "Depois eu fui pesquisar e descobri que Gana está entre os países onde menos se fuma no mundo."
+   {
+    "texto": "Depois eu fui pesquisar e descobri que Gana está entre os países onde menos se fuma no mundo.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -885,8 +1573,14 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Eu perguntei pro amigo do Luciano, o Kofi, como aquilo era possível.",
-   "Ele riu e disse: \"Aqui, quando alguém quer largar um vício, a gente leva pra falar com os mais velhos.\""
+   {
+    "texto": "Eu perguntei pro amigo do Luciano, o Kofi, como aquilo era possível.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ele riu e disse: \"Aqui, quando alguém quer largar um vício, a gente leva pra falar com os mais velhos.\"",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -899,8 +1593,14 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "No dia seguinte ele me levou até um vilarejo a duas horas da capital.",
-   "E me apresentou a um homem chamado Kwame."
+   {
+    "texto": "No dia seguinte ele me levou até um vilarejo a duas horas da capital.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E me apresentou a um homem chamado Kwame.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -913,9 +1613,18 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Kwame tinha uns 75 anos.",
-   "Ele me explicou que Kwame quer dizer \"nascido no sábado\".",
-   "Na tradição do povo dele, cada pessoa recebe o nome do dia em que nasceu."
+   {
+    "texto": "Kwame tinha uns 75 anos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ele me explicou que Kwame quer dizer \"nascido no sábado\".",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Na tradição do povo dele, cada pessoa recebe o nome do dia em que nasceu.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -928,8 +1637,14 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "E aí ele fez uma coisa que me deixou completamente confusa.",
-   "Ele acendeu um cigarro na minha frente."
+   {
+    "texto": "E aí ele fez uma coisa que me deixou completamente confusa.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ele acendeu um cigarro na minha frente.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -944,11 +1659,26 @@
    "riser"
   ],
   "frases": [
-   "Fumou só a metade.",
-   "Apagou com calma.",
-   "E guardou a outra metade dentro de um pote de vidro.",
-   "E me disse: \"Esse foi o meu único cigarro de hoje.",
-   "E amanhã eu não vou querer nenhum.\""
+   {
+    "texto": "Fumou só a metade.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Apagou com calma.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E guardou a outra metade dentro de um pote de vidro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E me disse: \"Esse foi o meu único cigarro de hoje.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E amanhã eu não vou querer nenhum.\"",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -961,8 +1691,14 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Eu contei tudo pra ele.",
-   "Do meu pai, do Davi, do desenho, de todas as vezes que eu tentei parar."
+   {
+    "texto": "Eu contei tudo pra ele.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Do meu pai, da Sofia, do desenho, da UTI, de todas as vezes que eu tentei parar.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -975,8 +1711,14 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Ele ouviu em silêncio.",
-   "E quando eu terminei, ele perguntou: \"Quando você tenta parar, qual cigarro você tira primeiro?\""
+   {
+    "texto": "Ele ouviu em silêncio.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E quando eu terminei, ele perguntou: \"Quando você tenta parar, qual cigarro você tira primeiro?\"",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -989,8 +1731,14 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Eu disse: \"Todos.",
-   "Eu paro de uma vez.\""
+   {
+    "texto": "Eu disse: \"Todos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu paro de uma vez.\"",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1003,8 +1751,14 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Ele riu.",
-   "E disse a frase que mudou a minha vida:"
+   {
+    "texto": "Ele riu.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E disse a frase que mudou a minha vida:",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1020,9 +1774,18 @@
    "impacto"
   ],
   "frases": [
-   "\"Vocês tentam matar a serpente pelo rabo.",
-   "E ela se vira e morde vocês.",
-   "Nós cortamos a cabeça.\""
+   {
+    "texto": "\"Vocês tentam matar a serpente pelo rabo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E ela se vira e morde vocês.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Nós cortamos a cabeça.\"",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1035,9 +1798,18 @@
   "pausa_cena": 0.8,
   "sfx": [],
   "frases": [
-   "Ele me explicou que, pra eles, o vício é como uma serpente.",
-   "O corpo é feito de todos os cigarros do dia.",
-   "Mas a cabeça, o lugar de onde vem toda a força, é o primeiro."
+   {
+    "texto": "Ele me explicou que, pra eles, o vício é como uma serpente.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O corpo é feito de todos os cigarros do dia.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Mas a cabeça, o lugar de onde vem toda a força, é o primeiro.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1050,10 +1822,22 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "\"Quando você acorda, a serpente está com fome.",
-   "Ela passou a noite inteira sem comer.",
-   "O primeiro cigarro é a comida mais gostosa que ela recebe no dia.",
-   "É ele que dá força pra ela pedir todos os outros.\""
+   {
+    "texto": "\"Quando você acorda, a serpente está com fome.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ela passou a noite inteira sem comer.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O primeiro cigarro é a comida mais gostosa que ela recebe no dia.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "É ele que dá força pra ela pedir todos os outros.\"",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1068,12 +1852,30 @@
    "impacto"
   ],
   "frases": [
-   "Aquilo bateu em mim como um soco.",
-   "Porque era verdade.",
-   "O primeiro cigarro sempre foi o melhor.",
-   "Aquele com o café, ainda de pijama.",
-   "Os outros eu fumava quase no automático.",
-   "Mas o primeiro… o primeiro eu esperava a noite inteira."
+   {
+    "texto": "Aquilo bateu em mim como um soco.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Porque era verdade.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O primeiro cigarro sempre foi o melhor.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Aquele com o café, ainda de pijama.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Os outros eu fumava quase no automático.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Mas o primeiro… o primeiro eu esperava a noite inteira.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1086,10 +1888,22 @@
   "pausa_cena": 0.8,
   "sfx": [],
   "frases": [
-   "Kwame me ensinou o que o povo dele faz com a cabeça da serpente.",
-   "Não é parar de uma vez.",
-   "É ir enfraquecendo a cabeça, um pouco a cada manhã, durante 14 dias.",
-   "Com um ritual tão simples que no começo eu achei que era brincadeira."
+   {
+    "texto": "Kwame me ensinou o que o povo dele faz com a cabeça da serpente.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Não é parar de uma vez.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "É ir enfraquecendo a cabeça, um pouco a cada manhã, durante 14 dias.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Com um ritual tão simples que no começo eu achei que era brincadeira.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1102,8 +1916,14 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "E me disse: \"Faça isso por 14 dias.",
-   "No décimo quinto dia, você vai entender.\""
+   {
+    "texto": "E me disse: \"Faça isso por 14 dias.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "No décimo quinto dia, você vai entender.\"",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1118,8 +1938,14 @@
    "whoosh"
   ],
   "frases": [
-   "Quando eu voltei pro Brasil, a primeira coisa que eu fiz foi pesquisar.",
-   "Eu precisava saber se aquilo tinha algum sentido ou se era só uma história bonita."
+   {
+    "texto": "Quando eu voltei pro Brasil, a primeira coisa que eu fiz foi pesquisar.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu precisava saber se aquilo tinha algum sentido ou se era só uma história bonita.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1134,9 +1960,18 @@
    "tum"
   ],
   "frases": [
-   "E eu descobri uma coisa que me deixou arrepiada.",
-   "Existe um teste que profissionais de saúde do mundo inteiro usam pra medir o grau de dependência de nicotina.",
-   "E uma das primeiras perguntas desse teste é exatamente esta: quanto tempo depois de acordar você fuma o seu primeiro cigarro?"
+   {
+    "texto": "E eu descobri uma coisa que me deixou arrepiada.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Existe um teste que profissionais de saúde do mundo inteiro usam pra medir o grau de dependência de nicotina.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E uma das primeiras perguntas desse teste é exatamente esta: quanto tempo depois de acordar você fuma o seu primeiro cigarro?",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1151,8 +1986,14 @@
    "impacto"
   ],
   "frases": [
-   "A ciência e um velho de um vilarejo africano estavam dizendo a mesma coisa.",
-   "O primeiro cigarro do dia é um dos sinais mais fortes do tamanho do seu vício."
+   {
+    "texto": "A ciência e um velho de um vilarejo africano estavam dizendo a mesma coisa.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O primeiro cigarro do dia é um dos sinais mais fortes do tamanho do seu vício.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1165,11 +2006,26 @@
   "pausa_cena": 0.8,
   "sfx": [],
   "frases": [
-   "E faz todo sentido.",
-   "Você passa a noite inteira dormindo, sem nicotina.",
-   "Quando acorda, o seu corpo está no ponto mais baixo.",
-   "Por isso o primeiro cigarro dá aquele alívio enorme.",
-   "É ele que \"recarrega\" o vício pro resto do dia."
+   {
+    "texto": "E faz todo sentido.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você passa a noite inteira dormindo, sem nicotina.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Quando acorda, o seu corpo está no ponto mais baixo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Por isso o primeiro cigarro dá aquele alívio enorme.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "É ele que \"recarrega\" o vício pro resto do dia.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1182,9 +2038,18 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "É por isso que parar de uma vez é tão brutal.",
-   "Você começa a guerra justamente contra o cigarro mais forte.",
-   "E é por isso que o que o Kwame me ensinou funciona ao contrário: você enfraquece a cabeça primeiro, devagar, e o resto do corpo da serpente vai junto."
+   {
+    "texto": "É por isso que parar de uma vez é tão brutal.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você começa a guerra justamente contra o cigarro mais forte.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E é por isso que o que o Kwame me ensinou funciona ao contrário: você enfraquece a cabeça primeiro, devagar, e o resto do corpo da serpente vai junto.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1199,8 +2064,14 @@
    "tum"
   ],
   "frases": [
-   "O truque do primeiro cigarro do dia tem três movimentos.",
-   "Eu vou te mostrar o que cada um faz."
+   {
+    "texto": "O truque do primeiro cigarro do dia tem três movimentos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu vou te mostrar o que cada um faz.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1215,10 +2086,22 @@
    "tum"
   ],
   "frases": [
-   "O primeiro é empurrar.",
-   "Você não deixa de fumar o primeiro cigarro.",
-   "Você só muda a hora dele, de um jeito muito específico, todos os dias.",
-   "E com isso você ensina o seu corpo que a manhã sobrevive sem nicotina, sem sofrimento, porque é aos pouquinhos."
+   {
+    "texto": "O primeiro é empurrar.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você não deixa de fumar o primeiro cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você só muda a hora dele, de um jeito muito específico, todos os dias.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E com isso você ensina o seu corpo que a manhã sobrevive sem nicotina, sem sofrimento, porque é aos pouquinhos.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1233,9 +2116,18 @@
    "tum"
   ],
   "frases": [
-   "O segundo é partir.",
-   "O cigarro mais gostoso do dia deixa de ser inteiro.",
-   "E quando o prazer mais forte do dia deixa de ser completo, o seu cérebro começa a perder o interesse por ele."
+   {
+    "texto": "O segundo é partir.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O cigarro mais gostoso do dia deixa de ser inteiro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E quando o prazer mais forte do dia deixa de ser completo, o seu cérebro começa a perder o interesse por ele.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1250,11 +2142,26 @@
    "tum"
   ],
   "frases": [
-   "E o terceiro é selar.",
-   "É o ritual dos dois frascos que o Kwame me ensinou, junto com um chá simples que você toma antes de dormir.",
-   "Ele transforma cada manhã numa vitória que o seu cérebro registra e não esquece.",
-   "Parece simples demais.",
-   "E é exatamente por isso que funciona: você consegue fazer todos os dias."
+   {
+    "texto": "E o terceiro é selar.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "É o ritual dos dois frascos que o Kwame me ensinou, junto com um chá simples que você toma antes de dormir.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ele transforma cada manhã numa vitória que o seu cérebro registra e não esquece.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Parece simples demais.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E é exatamente por isso que funciona: você consegue fazer todos os dias.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1269,9 +2176,18 @@
    "impacto"
   ],
   "frases": [
-   "Repara numa coisa: em nenhum desses três movimentos você precisa parar de fumar.",
-   "Você começa fumando.",
-   "É isso que faz esse método ser diferente de tudo o que você já tentou."
+   {
+    "texto": "Repara numa coisa: em nenhum desses três movimentos você precisa parar de fumar.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você começa fumando.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "É isso que faz esse método ser diferente de tudo o que você já tentou.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1284,8 +2200,14 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Mas eu confesso: no primeiro dia eu não acreditei.",
-   "E o que aconteceu nos 15 dias seguintes eu anotei tudo, num caderno."
+   {
+    "texto": "Mas eu confesso: no primeiro dia eu não acreditei.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E o que aconteceu nos 15 dias seguintes eu anotei tudo, num caderno.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1298,13 +2220,34 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Dia 1.",
-   "Acordei, fiz o café, e fiz o primeiro movimento.",
-   "Foi estranho.",
-   "A vontade estava lá.",
-   "Mas era possível.",
-   "Pela primeira vez, eu não estava brigando com a vontade.",
-   "Eu estava negociando com ela."
+   {
+    "texto": "Dia 1.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Acordei, fiz o café, e fiz o primeiro movimento.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Foi estranho.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "A vontade estava lá.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Mas era possível.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Pela primeira vez, eu não estava brigando com a vontade.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu estava negociando com ela.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1317,10 +2260,22 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Dia 3.",
-   "Nas outras tentativas, era o dia em que eu explodia.",
-   "Desta vez eu estava tranquila.",
-   "O Luciano percebeu antes de mim: \"Você não gritou com ninguém hoje.\""
+   {
+    "texto": "Dia 3.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Nas outras tentativas, era o dia em que eu explodia.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Desta vez eu estava tranquila.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O Luciano percebeu antes de mim: \"Você não gritou com ninguém hoje.\"",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1333,10 +2288,22 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Dia 5.",
-   "O meu primeiro cigarro, que antes era às 6 e meia da manhã, já estava pra depois das 9.",
-   "E o mais estranho: o resto do dia eu estava fumando menos, sem fazer força nenhuma.",
-   "A serpente estava ficando mais fraca."
+   {
+    "texto": "Dia 5.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O meu primeiro cigarro, que antes era às 6 e meia da manhã, já estava pra depois das 9.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E o mais estranho: o resto do dia eu estava fumando menos, sem fazer força nenhuma.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "A serpente estava ficando mais fraca.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1349,10 +2316,22 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Dia 8.",
-   "O Davi pulou no meu colo quando eu cheguei do trabalho.",
-   "Fazia meses que ele não fazia isso.",
-   "Ele cheirou a minha camisa e disse: \"Mãe, você tá com cheiro de mãe.\""
+   {
+    "texto": "Dia 8.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "A Sofia pulou no meu colo quando eu cheguei do trabalho.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Fazia meses que ela não fazia isso.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ela cheirou a minha blusa e disse: \"Mãe, você tá com cheiro de mãe.\"",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1365,7 +2344,10 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Eu tive que ir pro banheiro pra ele não me ver chorando."
+   {
+    "texto": "Eu tive que ir pro banheiro pra ela não me ver chorando.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1378,10 +2360,22 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Dia 11.",
-   "Encontrei um maço esquecido no bolso da jaqueta.",
-   "Nem lembrava de ter comprado.",
-   "A vontade estava ficando… pequena."
+   {
+    "texto": "Dia 11.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Encontrei um maço esquecido no bolso da jaqueta.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Nem lembrava de ter comprado.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "A vontade estava ficando… pequena.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1394,9 +2388,18 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Dia 15.",
-   "Eu acordei, fiz o café, sentei na mesma cadeira de sempre… tomei o café inteiro.",
-   "E quando eu levantei pra lavar a xícara… eu percebi."
+   {
+    "texto": "Dia 15.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu acordei, fiz o café, sentei na mesma cadeira de sempre… tomei o café inteiro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E quando eu levantei pra lavar a xícara… eu percebi.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1411,7 +2414,10 @@
    "impacto"
   ],
   "frases": [
-   "Eu tinha esquecido de fumar."
+   {
+    "texto": "Eu tinha esquecido de fumar.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1424,10 +2430,22 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Dezenove anos fumando.",
-   "E eu tinha esquecido.",
-   "Eu corri pra contar pro Luciano.",
-   "Ele me abraçou e só disse: \"Seu pai ia ficar orgulhoso.\""
+   {
+    "texto": "Dezenove anos fumando.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E eu tinha esquecido.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu corri pra contar pro Luciano.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ele me abraçou e só disse: \"Seu pai ia ficar orgulhoso.\"",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1440,7 +2458,10 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "E o Davi grudou uma estrelinha no desenho dele, que ainda estava na geladeira."
+   {
+    "texto": "E a Sofia grudou uma estrelinha no desenho dela, que ainda estava na geladeira.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1453,10 +2474,22 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Quando as pessoas perceberam que eu não fumava mais, começaram a me perguntar o que eu tinha feito.",
-   "Primeiro o meu cunhado, que fumava havia mais de 25 anos.",
-   "Depois um colega do trabalho.",
-   "Depois a mãe de um amigo do Davi."
+   {
+    "texto": "Quando as pessoas perceberam que eu não fumava mais, começaram a me perguntar o que eu tinha feito.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Primeiro o meu cunhado, que fumava havia mais de 25 anos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Depois um colega do trabalho.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Depois a mãe de uma amiga da Sofia.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1482,11 +2515,26 @@
    "riser"
   ],
   "frases": [
-   "Agora mesmo, enquanto você assiste a este vídeo, tem gente acordando amanhã cedo sem precisar daquele primeiro cigarro.",
-   "Gente que fumava há 20, 30, 40 anos.",
-   "Gente que já tinha desistido de si mesma.",
-   "Gente igualzinha a você.",
-   "E se elas conseguiram… você também vai conseguir."
+   {
+    "texto": "Agora mesmo, enquanto você assiste a este vídeo, tem gente acordando amanhã cedo sem precisar daquele primeiro cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Gente que fumava há 20, 30, 40 anos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Gente que já tinha desistido de si mesma.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Gente igualzinha a você.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E se elas conseguiram… você também vai conseguir.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1499,10 +2547,22 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Fecha os olhos por um segundo e imagina o seu dia 15.",
-   "Você acorda, faz o café, toma até o último gole… e percebe que esqueceu de fumar.",
-   "Quem está do seu lado nessa manhã?",
-   "Quem vai te abraçar sem virar o rosto?"
+   {
+    "texto": "Fecha os olhos por um segundo e imagina o seu dia 15.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você acorda, faz o café, toma até o último gole… e percebe que esqueceu de fumar.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Quem está do seu lado nessa manhã?",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Quem vai te abraçar sem virar o rosto?",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1515,10 +2575,22 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "E o meu celular não parava.",
-   "Eu passava as noites respondendo mensagens, explicando cada passo, um por um.",
-   "Até que eu percebi que não ia dar conta.",
-   "Mas eu tinha feito uma promessa."
+   {
+    "texto": "E o meu celular não parava.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu passava as noites respondendo mensagens, explicando cada passo, um por um.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Até que eu percebi que não ia dar conta.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Mas eu tinha feito uma promessa.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1531,9 +2603,18 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "No último dia em Gana, quando eu fui agradecer, o Kwame segurou as minhas mãos e me pediu uma coisa.",
-   "Ele disse: \"Isso foi dado a você de graça.",
-   "Não transforme isso em algo que só os ricos podem ter.\""
+   {
+    "texto": "No último dia em Gana, quando eu fui agradecer, o Kwame segurou as minhas mãos e me pediu uma coisa.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ele disse: \"Isso foi dado a você de graça.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Não transforme isso em algo que só os ricos podem ter.\"",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1548,9 +2629,18 @@
    "impacto"
   ],
   "frases": [
-   "E eu prometi.",
-   "Por isso eu juntei tudo o que ele me ensinou, o passo a passo dos três movimentos, o ritual dos frascos, o chá, o meu diário de 15 dias, num método simples, que você acessa pelo celular.",
-   "E decidi que o preço nunca seria um obstáculo."
+   {
+    "texto": "E eu prometi.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Por isso eu juntei tudo o que ele me ensinou, o passo a passo dos três movimentos, o ritual dos frascos, o chá, o meu diário de 15 dias, num método simples, que você acessa pelo celular.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E decidi que o preço nunca seria um obstáculo.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1563,11 +2653,26 @@
   "pausa_cena": 0.8,
   "sfx": [],
   "frases": [
-   "Mas antes de te falar o valor, faz uma conta comigo.",
-   "Se você fuma um maço por dia, você gasta mais ou menos 12 reais por dia.",
-   "São 360 reais por mês.",
-   "Mais de 4 mil reais por ano.",
-   "Em 10 anos, mais de 40 mil reais virando fumaça."
+   {
+    "texto": "Mas antes de te falar o valor, faz uma conta comigo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Se você fuma um maço por dia, você gasta mais ou menos 12 reais por dia.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "São 360 reais por mês.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Mais de 4 mil reais por ano.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Em 10 anos, mais de 40 mil reais virando fumaça.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1580,10 +2685,22 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Uma viagem com a família.",
-   "A reforma da casa.",
-   "A faculdade do seu filho.",
-   "Tudo isso queimado, um cigarro de cada vez."
+   {
+    "texto": "Uma viagem com a família.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "A reforma da casa.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "A faculdade do seu filho.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Tudo isso queimado, um cigarro de cada vez.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1596,7 +2713,10 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "E ainda tem o que não tem preço: o cheiro que sai da sua casa, o fôlego pra brincar com o seu filho, o abraço sem ninguém virar o rosto."
+   {
+    "texto": "E ainda tem o que não tem preço: o cheiro que sai da sua casa, o fôlego pra brincar com o seu filho, o abraço sem ninguém virar o rosto.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1609,9 +2729,18 @@
   "pausa_cena": 0.6,
   "sfx": [],
   "frases": [
-   "Então aqui está o que você vai receber.",
-   "O método completo do truque do primeiro cigarro do dia: os três movimentos, empurrar, partir e selar, explicados passo a passo, dia por dia, durante os 14 dias.",
-   "Exatamente como o Kwame me ensinou e como eu apliquei."
+   {
+    "texto": "Então aqui está o que você vai receber.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O método completo do truque do primeiro cigarro do dia: os três movimentos, empurrar, partir e selar, explicados passo a passo, dia por dia, durante os 14 dias.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Exatamente como o Kwame me ensinou e como eu apliquei.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1624,8 +2753,14 @@
   "pausa_cena": 0.6,
   "sfx": [],
   "frases": [
-   "Você vai saber exatamente a que horas fumar o primeiro cigarro em cada dia, como partir, como montar os dois frascos, e o que fazer com eles.",
-   "Tudo no seu celular, pra você seguir enquanto toma o seu café."
+   {
+    "texto": "Você vai saber exatamente a que horas fumar o primeiro cigarro em cada dia, como partir, como montar os dois frascos, e o que fazer com eles.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Tudo no seu celular, pra você seguir enquanto toma o seu café.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1638,12 +2773,30 @@
   "pausa_cena": 0.6,
   "sfx": [],
   "frases": [
-   "Muita gente me disse que pagaria 300 reais por isso sem pensar.",
-   "E faz sentido, é menos de um mês de cigarro.",
-   "Mas eu fiz uma promessa.",
-   "Então não vai ser 300.",
-   "Nem 200.",
-   "Nem 100."
+   {
+    "texto": "Muita gente me disse que pagaria 300 reais por isso sem pensar.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E faz sentido, é menos de um mês de cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Mas eu fiz uma promessa.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Então não vai ser 300.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Nem 200.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Nem 100.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1658,8 +2811,14 @@
    "impacto"
   ],
   "frases": [
-   "Hoje você leva o método completo por apenas 37 reais.",
-   "Ou em até 12 parcelas, que custam menos que um maço de cigarro."
+   {
+    "texto": "Hoje você leva o método completo por apenas 37 reais.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ou em até 12 parcelas, que custam menos que um maço de cigarro.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1672,8 +2831,14 @@
   "pausa_cena": 0.6,
   "sfx": [],
   "frases": [
-   "Menos do que você gasta com cigarro em três dias.",
-   "Pra você nunca mais precisar gastar com isso."
+   {
+    "texto": "Menos do que você gasta com cigarro em três dias.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Pra você nunca mais precisar gastar com isso.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1688,7 +2853,10 @@
    "brilho"
   ],
   "frases": [
-   "E como você confiou em mim até aqui, eu quero te dar quatro presentes."
+   {
+    "texto": "E como você confiou em mim até aqui, eu quero te dar quatro presentes.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1701,9 +2869,18 @@
   "pausa_cena": 0.6,
   "sfx": [],
   "frases": [
-   "O primeiro é o Kit dos 3 Primeiros Dias.",
-   "Eu te mostro o que fazer nos três momentos em que a vontade aperta mais: quando você acorda, depois do café e depois do almoço.",
-   "São os três momentos em que eu mais precisei de ajuda."
+   {
+    "texto": "O primeiro é o Kit dos 3 Primeiros Dias.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu te mostro o que fazer nos três momentos em que a vontade aperta mais: quando você acorda, depois do café e depois do almoço.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "São os três momentos em que eu mais precisei de ajuda.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1716,8 +2893,14 @@
   "pausa_cena": 0.6,
   "sfx": [],
   "frases": [
-   "O segundo é o Ritual do Chá da Noite Serena.",
-   "A receita simples que o Kwame me ensinou, com ervas fáceis de achar, e como fazer esse ritual antes de dormir pra acordar mais tranquila."
+   {
+    "texto": "O segundo é o Ritual do Chá da Noite Serena.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "A receita simples que o Kwame me ensinou, com ervas fáceis de achar, e como fazer esse ritual antes de dormir pra acordar mais tranquilo.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1730,14 +2913,38 @@
   "pausa_cena": 0.6,
   "sfx": [],
   "frases": [
-   "O terceiro vai mudar a forma como você enxerga o seu corpo: o Protocolo de Recuperação do Corpo.",
-   "Você vai ver, dia a dia, o que acontece dentro de você depois do último cigarro.",
-   "Em 20 minutos o seu coração desacelera.",
-   "Em 12 horas o monóxido de carbono do seu sangue volta ao normal.",
-   "Em poucas semanas a circulação melhora e o fôlego volta.",
-   "Em um ano o risco de infarto cai pela metade.",
-   "E em dez anos o risco de câncer de pulmão cai pra cerca da metade do de quem continua fumando.",
-   "E a alimentação simples pra ajudar o seu corpo nessa recuperação, sem engordar."
+   {
+    "texto": "O terceiro vai mudar a forma como você enxerga o seu corpo: o Protocolo de Recuperação do Corpo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você vai ver, dia a dia, o que acontece dentro de você depois do último cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Em 20 minutos o seu coração desacelera.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Em 12 horas o monóxido de carbono do seu sangue volta ao normal.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Em poucas semanas a circulação melhora e o fôlego volta.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Em um ano o risco de infarto cai pela metade.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E em dez anos o risco de câncer de pulmão cai pra cerca da metade do de quem continua fumando.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E a alimentação simples pra ajudar o seu corpo nessa recuperação, sem engordar.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1750,8 +2957,14 @@
   "pausa_cena": 0.6,
   "sfx": [],
   "frases": [
-   "E o quarto é a Blindagem Anti-Recaída: o plano dos 30 dias depois do dia 15, pra festa, cerveja, estresse no trabalho.",
-   "Os momentos em que a maioria das pessoas volta a fumar."
+   {
+    "texto": "E o quarto é a Blindagem Anti-Recaída: o plano dos 30 dias depois do dia 15, pra festa, cerveja, estresse no trabalho.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Os momentos em que a maioria das pessoas volta a fumar.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1766,11 +2979,26 @@
    "impacto"
   ],
   "frases": [
-   "E você ainda tem a Garantia do Primeiro Cigarro.",
-   "Você aplica o método durante os 14 dias.",
-   "Se você não sentir a diferença, é só mandar uma mensagem dentro de 30 dias e você recebe todo o seu dinheiro de volta.",
-   "Sem perguntas.",
-   "O risco é todo meu."
+   {
+    "texto": "E você ainda tem a Garantia do Primeiro Cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você aplica o método durante os 14 dias.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Se você não sentir a diferença, é só mandar uma mensagem dentro de 30 dias e você recebe todo o seu dinheiro de volta.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Sem perguntas.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O risco é todo meu.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1783,11 +3011,26 @@
   "pausa_cena": 0.6,
   "sfx": [],
   "frases": [
-   "É simples.",
-   "Clique no botão que está aqui embaixo do vídeo.",
-   "Você vai pra uma página de pagamento segura.",
-   "Preencha os seus dados, escolha Pix ou cartão, e finalize.",
-   "Em poucos minutos o acesso chega no seu e-mail e você já pode começar amanhã de manhã, no seu primeiro cigarro."
+   {
+    "texto": "É simples.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Clique no botão que está aqui embaixo do vídeo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você vai pra uma página de pagamento segura.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Preencha os seus dados, escolha Pix ou cartão, e finalize.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Em poucos minutos o acesso chega no seu e-mail e você já pode começar amanhã de manhã, no seu primeiro cigarro.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1800,11 +3043,26 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "Eu sei que você pode estar com algumas dúvidas.",
-   "As mesmas que eu tinha.",
-   "\"Márcia, eu fumo há 30 anos.\" Eu fumava há 19, o meu cunhado há mais de 25.",
-   "O método não depende de há quanto tempo você fuma.",
-   "Ele trabalha no cigarro que você vai fumar amanhã."
+   {
+    "texto": "Eu sei que você pode estar com algumas dúvidas.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "As mesmas que eu tinha.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "\"Márcia, eu fumo há 30 anos.\" Eu fumava há 19, o meu cunhado há mais de 25.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O método não depende de há quanto tempo você fuma.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ele trabalha no cigarro que você vai fumar amanhã.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1817,7 +3075,10 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "\"Eu fumo dois maços por dia.\" Quanto mais você fuma, mais forte é a cabeça da serpente, e mais você vai sentir a diferença quando começar a enfraquecê-la."
+   {
+    "texto": "\"Eu fumo dois maços por dia.\" Quanto mais você fuma, mais forte é a cabeça da serpente, e mais você vai sentir a diferença quando começar a enfraquecê-la.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1830,10 +3091,22 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "\"Eu sou muito ansioso.\" Eu também.",
-   "Foi exatamente por isso que parar de uma vez nunca funcionou pra mim.",
-   "Aqui você não para de uma vez.",
-   "Você vai devagar, no seu ritmo."
+   {
+    "texto": "\"Eu sou muito ansioso.\" Eu também.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Foi exatamente por isso que parar de uma vez nunca funcionou pra mim.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Aqui você não para de uma vez.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você vai devagar, no seu ritmo.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1846,9 +3119,18 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "\"Eu preciso de remédio pra fazer?\" Não.",
-   "Você não precisa de nenhum remédio pra aplicar o truque do primeiro cigarro.",
-   "E se você já usa algum por indicação médica, não precisa parar: o método entra junto com a sua rotina."
+   {
+    "texto": "\"Eu preciso de remédio pra fazer?\" Não.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você não precisa de nenhum remédio pra aplicar o truque do primeiro cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E se você já usa algum por indicação médica, não precisa parar: o método entra junto com a sua rotina.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1861,8 +3143,14 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "\"E se não funcionar comigo?\" Você tem 30 dias de garantia.",
-   "Se você não sentir a diferença, eu devolvo o seu dinheiro."
+   {
+    "texto": "\"E se não funcionar comigo?\" Você tem 30 dias de garantia.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Se você não sentir a diferença, eu devolvo o seu dinheiro.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1875,12 +3163,30 @@
   "pausa_cena": 1.0,
   "sfx": [],
   "frases": [
-   "Agora você tem dois caminhos.",
-   "O primeiro é fechar este vídeo e continuar como está.",
-   "Amanhã de manhã você vai acender o primeiro cigarro do dia, como sempre.",
-   "E o próximo.",
-   "E o próximo.",
-   "E a serpente vai continuar com fome."
+   {
+    "texto": "Agora você tem dois caminhos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O primeiro é fechar este vídeo e continuar como está.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Amanhã de manhã você vai acender o primeiro cigarro do dia, como sempre.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E o próximo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E o próximo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E a serpente vai continuar com fome.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1896,10 +3202,22 @@
    "impacto"
   ],
   "frases": [
-   "E daqui a alguns anos, pode ser você naquela cama de hospital, com uma máscara de oxigênio, sem conseguir beber água sozinho.",
-   "E alguém que você ama segurando a sua mão.",
-   "Eu já estive do outro lado dessa mão.",
-   "Eu não desejo isso pra ninguém."
+   {
+    "texto": "E daqui a alguns anos, pode ser você naquela cama de hospital, com uma máscara de oxigênio, sem conseguir beber água sozinho.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E alguém que você ama segurando a sua mão.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu já estive dos dois lados dessa mão.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E eu não desejo isso pra ninguém.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1912,9 +3230,18 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "O segundo é clicar no botão aqui embaixo, e amanhã de manhã fazer diferente.",
-   "Só com um cigarro.",
-   "O primeiro."
+   {
+    "texto": "O segundo é clicar no botão aqui embaixo, e amanhã de manhã fazer diferente.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Só com um cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O primeiro.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1929,8 +3256,14 @@
    "whoosh"
   ],
   "frases": [
-   "O isqueiro do meu pai está guardado numa gaveta.",
-   "Eu nunca mais usei."
+   {
+    "texto": "O isqueiro do meu pai está guardado numa gaveta.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu nunca mais usei.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1943,8 +3276,50 @@
   "pausa_cena": 0.7,
   "sfx": [],
   "frases": [
-   "E o desenho do Davi continua na geladeira.",
-   "Pra eu lembrar todo dia por que eu fiz isso."
+   {
+    "texto": "E o desenho da Sofia continua na geladeira.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Pra eu lembrar todo dia por que eu fiz isso.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C109b",
+  "emocao": "intimo",
+  "fase": "ninar",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "A Sofia tem 12 anos hoje.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E toda noite, antes de dormir, ela ainda segura a minha mão, do mesmo jeito que segurou naquela UTI.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E me pergunta:",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você fica, mãe?",
+    "voz": "crianca"
+   },
+   {
+    "texto": "E agora eu posso responder: fico, filha.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Por muito tempo.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1959,11 +3334,26 @@
    "riser"
   ],
   "frases": [
-   "Eu não sei quem está esperando por você aí.",
-   "Um filho, uma neta, um marido, você mesmo.",
-   "Mas eu sei que essa pessoa merece te ter por muito tempo.",
-   "Clique no botão aqui embaixo agora, porque eu não sei por quanto tempo este vídeo vai continuar no ar.",
-   "Amanhã de manhã, no seu primeiro cigarro, a sua história começa a mudar."
+   {
+    "texto": "Eu não sei quem segura a sua mão aí.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Um filho, uma filha, um neto, a pessoa que dorme do seu lado.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Mas eu sei que essa pessoa merece te ter por muito tempo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Clique no botão aqui embaixo agora, porque eu não sei por quanto tempo este vídeo vai continuar no ar.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Amanhã de manhã, no seu primeiro cigarro, a sua história começa a mudar.",
+    "voz": "narradora"
+   }
   ]
  },
  {
@@ -1978,10 +3368,26 @@
    "isqueiro_falha"
   ],
   "frases": [
-   "Imagens ilustrativas e cenas dramatizadas.",
-   "Os resultados podem variar de pessoa para pessoa.",
-   "Este método não substitui orientação médica.",
-   "Se você usa medicação ou tem acompanhamento de saúde, continue e converse com seu médico."
+   {
+    "texto": "Imagens ilustrativas e cenas dramatizadas.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Os resultados podem variar de pessoa para pessoa.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Este método não substitui orientação médica.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Se você usa medicação ou tem acompanhamento de saúde,",
+    "voz": "narradora"
+   },
+   {
+    "texto": "continue e converse com seu médico.",
+    "voz": "narradora"
+   }
   ]
  }
 ]

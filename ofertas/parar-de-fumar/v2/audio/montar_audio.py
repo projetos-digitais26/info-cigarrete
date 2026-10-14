@@ -142,6 +142,20 @@ def bips(d, vol=.25):
     return out
 
 
+def respirador(d):
+    out = np.zeros(int(d * SR)); t0 = 0.0
+    while t0 < d:
+        x = tt(1.6); n = lowpass(rng.standard_normal(len(x)), 18)
+        insp = n * np.sin(np.pi * x / 1.6) ** 2 * .9
+        x2 = tt(2.0); n2 = lowpass(rng.standard_normal(len(x2)), 40)
+        exp_ = n2 * np.sin(np.pi * x2 / 2.0) ** 2 * .6
+        clique = rng.standard_normal(int(.01 * SR)) * .4
+        for seg, off in ((clique, 0), (insp, .02), (exp_, 1.8)):
+            a = int((t0 + off) * SR); k = max(0, min(len(seg), len(out) - a)); out[a:a + k] += seg[:k]
+        t0 += 4.2
+    return out
+
+
 def fogo(d):
     x = tt(d); base = lowpass(rng.standard_normal(len(x)), 40) * 2
     estalos = np.zeros(len(x)); idx = rng.choice(len(x), int(d * 9), replace=False)
@@ -156,7 +170,10 @@ def cresc(d, de=.4, ate=1.0):
 
 def trilha(fase, d):
     d = max(d, 1.0); n = int(d * SR)
-    if fase == "tensao": s = drone(55, d) * .5 + pad(["Am"], 8, d, 3) * .4 + batida_coracao(d, 50, .25)
+    if fase == "uti": s = respirador(d) * .8 + bips(d) * 1.2 + drone(41.2, d) * .35 + pad(["Am"], 10, d, 2) * .2
+    elif fase == "memoria": s = pad(["F", "C"], 5, d, 3) * .5 + arpejo(["F", "C"], 5, 1.0, d, 2, .25)
+    elif fase == "ninar": s = arpejo(["C", "Am", "F", "G"], 4, .75, d, 2, .4) + pad(["C", "Am", "F", "G"], 4, d, 3) * .4
+    elif fase == "tensao": s = drone(55, d) * .5 + pad(["Am"], 8, d, 3) * .4 + batida_coracao(d, 50, .25)
     elif fase == "piano": s = arpejo(["Am", "F", "C", "G"], 4, .5, d) + pad(["Am", "F", "C", "G"], 4, d, 3) * .5
     elif fase == "hospital": s = arpejo(["Am", "Dm", "Am", "E"], 6, 1.5, d, vol=.7) + drone(55, d) * .3 + bips(d) * 1.4
     elif fase == "filho": s = pad(["Am", "F", "C", "E"], 6, d, 9, vib=.004, ataque=2.5) + arpejo(["Am", "F", "C", "E"], 6, 1.5, d, 2, .35)
@@ -210,11 +227,21 @@ def sfx(nome):
     if nome == "linha_reta":
         x = tt(2.6); return np.sin(2 * np.pi * 980 * x) * np.minimum(1, (2.6 - x) / .3) * .35
     if nome == "coracao": return batida_coracao(4.2, 66, 1.4)
+    if nome == "respirador": return respirador(6.0) * 1.2
+    if nome == "alarme":
+        x = tt(.18); bip = np.sin(2 * np.pi * 1250 * x) * np.minimum(1, (.18 - x) / .02)
+        out = np.zeros(int(3.2 * SR))
+        for i in range(6):
+            a = int(i * .32 * SR); out[a:a + len(bip)] += bip * (1 if i % 2 == 0 else .7)
+        return out * .5
+    if nome == "sirene":
+        x = tt(4.5); f = 750 + 250 * np.sin(2 * np.pi * .9 * x)
+        return np.sin(2 * np.pi * np.cumsum(f) / SR) * np.minimum(1, x / .8) * np.minimum(1, (4.5 - x) / 1.2) * .35
     return np.zeros(1)
 
 
 # avanço da timeline depois de cada efeito (s) e deslocamento do início (negativo = começa antes da fala)
-AVANCO = {"isqueiro": .9, "isqueiro_falha": 1.8, "impacto": .35, "tum": .3, "whoosh": .25, "riser": 0, "sibilo": .5,
+AVANCO = {"respirador": 2.2, "alarme": .4, "sirene": 1.0, "isqueiro": .9, "isqueiro_falha": 1.8, "impacto": .35, "tum": .3, "whoosh": .25, "riser": 0, "sibilo": .5,
           "brilho": .3, "monitor": .9, "linha_reta": 2.8, "coracao": .4, "silencio": 1.2}
 INICIO = {"riser": -2.6, "whoosh": -.45}
 
@@ -264,14 +291,14 @@ k = int(.3 * SR); alvo = np.convolve(np.pad(alvo, (k, k), mode="edge"), np.ones(
 mix = voz + mus * db(v_db + alvo)
 
 for t0, nome in eventos_sfx:
-    s = sfx(nome); s = s / (rms(s) + 1e-9) * db(v_db - {"impacto": 7, "coracao": 6, "isqueiro": 6, "isqueiro_falha": 6, "monitor": 12, "linha_reta": 12}.get(nome, 10))
+    s = sfx(nome); s = s / (rms(s) + 1e-9) * db(v_db - {"impacto": 7, "coracao": 6, "isqueiro": 6, "isqueiro_falha": 6, "monitor": 12, "linha_reta": 12, "respirador": 10, "alarme": 17, "sirene": 14}.get(nome, 10))
     a = int(t0 * SR); n = min(len(s), N - a); mix[a:a + n] += s[:n]
 
 # fade final; ganho fixo para a fala ficar em ~-19 dBFS RMS (~-16 LUFS) e limitador suave só nos picos dos efeitos
 mix[-int(2.5 * SR):] *= np.linspace(1, 0, int(2.5 * SR))
 mix *= db(-15.5 - v_db)
 lim = db(-3); acima = np.abs(mix) > lim
-mix[acima] = np.sign(mix[acima]) * (lim + (db(-1) - lim) * np.tanh((np.abs(mix[acima]) - lim) / (db(-1) - lim)))
+mix[acima] = np.sign(mix[acima]) * (lim + (db(-2) - lim) * np.tanh((np.abs(mix[acima]) - lim) / (db(-2) - lim)))
 tmp = saida + ".wav"
 subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "f32le", "-ar", str(SR), "-ac", "1", "-i", "-", "-ac", "2", "-ar", "44100", tmp],
                input=mix.astype(np.float32).tobytes(), check=True)

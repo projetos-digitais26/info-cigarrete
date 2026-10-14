@@ -1,26 +1,34 @@
-# Narração feminina — VSL V2 PT-BR (Márcia)
+# Narração — VSL V2 PT-BR (Márcia + Sofia)
 
-Texto exato usado no áudio de validação, com a emoção de cada cena.
+Texto exato do áudio de validação, com a emoção de cada cena. 🧒 = voz da Sofia.
 
-**C01** _(choque)_ Não apague esse cigarro.
+**A01** _(dor)_ 🧒 Mamãe… fica mais um pouquinho. 🧒 Por favor.
 
-**C02** _(impacto)_ Sério. Se você fuma, eu não vou te pedir pra parar hoje. Nem amanhã.
+**A02** _(dor)_ Essa foi a última coisa que eu ouvi antes de apagar.
 
-**C03** _(misterio)_ Amanhã de manhã, quando você acender o primeiro cigarro do dia, aquele junto com o café, eu quero que você faça uma coisa simples com ele. Uma coisa só.
+**A03** _(dor)_ 🧒 Você prometeu que ia me ver crescer…
 
-**C04** _(choque)_ Porque é nesse cigarro, o primeiro, que mora a cabeça do seu vício.
+**A04** _(choque)_ Eu tinha 43 anos. Estava numa UTI, com o coração falhando e o pulmão sem força pra respirar sozinho. E a minha filha de 9 anos estava sendo levada pra fora do quarto por uma enfermeira, gritando o meu nome.
 
-**C05** _(impacto)_ Todos os outros cigarros do seu dia dependem dele. O do almoço, o do estresse, o do fim da noite. Todos.
+**A05** _(dor)_ 🧒 Mamãe!
 
-**C05b** _(medo)_ E se você não fizer nada com ele, existe uma chance real de esse cigarro te matar. A Organização Mundial da Saúde diz que o cigarro mata até metade das pessoas que fumam. Metade. Não é um em mil. É um em cada dois.
+**A06** _(choque)_ E sabe qual foi o último pensamento que passou pela minha cabeça? Não foi medo de morrer.
 
-**C06** _(esperanca)_ Mas quando você aprende a mexer nesse primeiro cigarro do jeito certo, durante 14 dias, algo começa a acontecer. Pessoas que fumavam havia 20, 30, até 40 anos estão sentindo isso . A vontade vai perdendo força. Até que, numa manhã qualquer, você termina o seu café… e percebe que esqueceu de fumar.
+**A07** _(misterio)_ Foi uma manhã comum. Uma xícara de café. E um cigarro. O primeiro cigarro do dia.
 
-**C07** _(esperanca)_ Sem adesivo. Sem chiclete. Sem precisar parar de uma vez e enfrentar aquela guerra que você já perdeu tantas vezes.
+**A08** _(dor)_ Porque ali, quase sem forças, eu entendi tudo. Eu entendi exatamente onde eu tinha errado durante 19 anos. E que se eu tivesse feito uma coisa diferente com aquele primeiro cigarro, lá atrás, a minha filha não estaria chorando no corredor de um hospital.
 
-**C08** _(intimo)_ Meu nome é Márcia. Eu fumei por 19 anos. E neste vídeo eu vou te mostrar o que eu aprendi com um velho, do outro lado do mundo, num lugar onde quase ninguém fuma… e por que a ciência confirma que ele estava certo.
+**A09** _(intimo)_ Eu sobrevivi. E é por isso que eu estou aqui.
 
-**C08b** _(misterio)_ E assista até o final. Porque tem muita gente ganhando dinheiro todos os dias com o seu vício. E eu não sei por quanto tempo este vídeo vai continuar no ar.
+**A10** _(intimo)_ Eu não vou te pedir pra parar de fumar hoje. Nem amanhã. Eu só quero que você escute o que eu descobri depois daquela noite. Porque o meu passado pode ser o seu presente. E talvez você tenha parado neste vídeo justamente pra fazer diferente do que eu fiz… pra que o seu fim não seja aquele que quase foi o meu.
+
+**A11** _(misterio)_ Amanhã de manhã, quando você acender o primeiro cigarro do dia, aquele junto com o café, eu quero que você faça uma coisa simples com ele. Porque é nesse cigarro, o primeiro, que mora a cabeça do seu vício. Todos os outros dependem dele.
+
+**A12** _(esperanca)_ E quando você aprende a mexer nesse primeiro cigarro do jeito certo, durante 14 dias, a vontade vai perdendo força. Até que, numa manhã qualquer, você termina o seu café… e percebe que esqueceu de fumar. Sem adesivo. Sem remédio. Sem a guerra de parar de uma vez.
+
+**A13** _(intimo)_ Meu nome é Márcia. E neste vídeo eu vou te mostrar o que eu aprendi com um velho, do outro lado do mundo, num lugar onde quase ninguém fuma… e por que a ciência confirma que ele estava certo.
+
+**A14** _(misterio)_ Assista até o final. Porque tem muita gente ganhando dinheiro todos os dias com o seu vício. E eu não sei por quanto tempo este vídeo vai continuar no ar.
 
 **C09** _(intimo)_ Se você fuma há 5, 10, 20 ou 40 anos… se você fuma meio maço ou dois por dia… se você já tentou parar e voltou, uma, duas, dez vezes… este vídeo é pra você.
 
@@ -28,7 +36,7 @@ Texto exato usado no áudio de validação, com a emoção de cada cena.
 
 **C11** _(revelacao)_ Eu quero te dizer uma coisa que ninguém te disse: não foi fraqueza. Você só começou a luta pelo lado errado. E até o final deste vídeo você vai entender exatamente o que eu quero dizer.
 
-**C12** _(misterio)_ Mas antes, eu preciso te contar como eu descobri isso. Porque começou no pior dia da minha vida.
+**C12** _(misterio)_ Mas antes, eu preciso te contar como eu cheguei naquela UTI. Porque tudo começou muito antes, com o meu pai.
 
 **C13** _(dor)_ Meu pai fumou a vida inteira. Eu cresci vendo ele acender um cigarro no outro, sentado na varanda, com aquele isqueiro prateado que ele carregava no bolso da camisa.
 
@@ -56,17 +64,17 @@ Texto exato usado no áudio de validação, com a emoção de cada cena.
 
 **C25** _(impacto)_ Eu chegava a fumar um maço por dia. Não conseguia tomar um café sem um cigarro. Não conseguia dirigir sem um cigarro. Não conseguia nem pensar sem um cigarro.
 
-**C26** _(dor)_ Eu tinha 42 anos, um marido que me amava e um filho lindo. E estava trocando tudo isso, devagar, por um maço de cigarro.
+**C26** _(dor)_ Eu tinha 42 anos, um marido que me amava e uma filha linda. E estava trocando tudo isso, devagar, por um maço de cigarro.
 
 **C27** _(misterio)_ Mas o que me fez decidir de verdade não foi a morte do meu pai. Foi um desenho.
 
-**C28** _(dor)_ O Davi, meu filho, tinha 8 anos. Uma semana depois do enterro do avô, ele deixou esse desenho em cima do meu travesseiro.
+**C28** _(dor)_ A Sofia, minha filha, tinha 8 anos. Uma semana depois do enterro do avô, ela deixou esse desenho em cima do meu travesseiro.
 
 **C29** _(choque)_ Estava escrito assim, com a letra torta dele: "Mamãe, não fuma. Eu não quero que você morra igual o vovô."
 
 **C30** _(choque)_ Eu chorei como não tinha chorado nem no velório.
 
-**C31** _(dor)_ E naquele dia eu percebi que o meu filho já estava se afastando de mim. Ele não pulava mais no meu colo quando eu chegava. Ele dizia que eu tinha cheiro de cinzeiro.
+**C31** _(dor)_ E naquele dia eu percebi que a minha filha já estava se afastando de mim. Ela não pulava mais no meu colo quando eu chegava. Ela dizia que eu tinha cheiro de cinzeiro.
 
 **C32** _(impacto)_ Eu prometi pra ele, e prometi pra mim, que eu ia parar. Custasse o que custasse.
 
@@ -78,11 +86,11 @@ Texto exato usado no áudio de validação, com a emoção de cada cena.
 
 **C35b** _(revelacao)_ E sabe o que eu só fui entender depois? O adesivo e o chiclete continuam colocando nicotina no seu corpo, todos os dias. Você troca o cigarro por outro prato, mas a serpente continua sendo alimentada. E nenhum deles mexe na raiz do problema: o ritual da manhã. Aquele momento do café, do primeiro cigarro, continua lá, intacto, esperando você.
 
-**C36** _(dor)_ Teve um dia que eu gritei com o Davi por causa de um copo derramado. Um copo. E eu vi no olho dele o medo. Eu tinha virado outra pessoa.
+**C36** _(dor)_ Teve um dia que eu gritei com a Sofia por causa de um copo derramado. Um copo. E eu vi no olho dela o medo. Eu tinha virado outra pessoa.
 
 **C37** _(dor)_ E aí eu acendia um cigarro. E a culpa vinha junto.
 
-**C37a** _(medo)_ E sabe o que acontecia toda vez que eu recaía? Cada cigarro que eu acendia mandava pra dentro de mim mais de 7 mil substâncias químicas. Pelo menos 70 delas causam câncer. Na boca, na garganta, no pulmão, na bexiga.
+**C37a** _(medo)_ E sabe o que acontecia toda vez que eu recaía? A Organização Mundial da Saúde diz que o cigarro mata até metade das pessoas que fumam. Metade. Um em cada dois. E cada cigarro que eu acendia mandava pra dentro de mim mais de 7 mil substâncias químicas. Pelo menos 70 delas causam câncer. Na boca, na garganta, no pulmão, na bexiga.
 
 **C37b** _(medo)_ Cada tragada endurece as suas artérias e deixa o seu sangue mais grosso. É por isso que fumante infarta mais. Tem AVC mais cedo.
 
@@ -94,6 +102,16 @@ Texto exato usado no áudio de validação, com a emoção de cada cena.
 
 **C37f** _(dor)_ E não é só você. A fumaça que sai do seu cigarro entra no pulmão de quem você mais ama.
 
+**U01** _(medo)_ E um dia, a conta chegou. Eu estava no trabalho quando senti uma pressão no peito, como se alguém estivesse sentado em cima de mim. O braço esquerdo formigando. O ar que não vinha.
+
+**U02** _(dor)_ Eu tive um infarto aos 43 anos. Acordei dois dias depois, numa UTI. Foi ali que a Sofia segurou a minha mão e me pediu pra ficar.
+
+**U03** _(choque)_ Quando eu acordei, o médico olhou nos meus olhos e disse uma frase que eu nunca vou esquecer: "Márcia, se você continuar fumando, da próxima vez você não volta."
+
+**U04** _(dor)_ E sabe o que eu fiz três semanas depois de sair daquele hospital? Eu me tranquei no banheiro… e acendi um cigarro. Escondida da minha própria filha.
+
+**U05** _(impacto)_ Foi aí que eu tive certeza: aquilo não era um hábito. Era uma serpente enrolada no meu pescoço. E cada vez que eu tentava arrancá-la de uma vez, ela apertava mais.
+
 **C37g** _(impacto)_ E enquanto isso acontece, tem gente ficando muito rica. A indústria do cigarro fatura bilhões todos os anos com gente como eu e você. E quando você tenta parar e não consegue, tem outra fila de empresas esperando, vendendo adesivo, chiclete, tratamento, caixa atrás de caixa. Cada recaída sua vira mais uma venda. E a maioria das pessoas que tenta parar acaba recaindo . É um ciclo que dá lucro pra todo mundo. Menos pra você.
 
 **C37h** _(misterio)_ Pensa comigo: quem ganha dinheiro se você conseguir parar sozinho, com um método simples, que custa menos que alguns maços de cigarro? Ninguém. É por isso que ninguém te conta o que eu vou te contar agora.
@@ -104,7 +122,7 @@ Texto exato usado no áudio de validação, com a emoção de cada cena.
 
 **C40** _(misterio)_ Eu não sabia disso. Eu só fui entender quando um velho, sentado numa cadeira de madeira, me olhou nos olhos e me disse uma frase que eu nunca mais esqueci.
 
-**C41** _(intimo)_ Seis meses depois da morte do meu pai, o Luciano olhou pra mim e disse: "Você precisa respirar. A gente precisa sair daqui."
+**C41** _(intimo)_ Quando eu saí do hospital, o médico foi direto: "Você precisa descansar, longe de tudo." O Luciano olhou pra mim e disse: "A gente precisa sair daqui."
 
 **C42** _(intimo)_ Ele tinha um amigo de infância que morava em Gana, na África. E insistiu tanto que eu acabei indo. Eu achava que ia passar duas semanas tentando fumar escondido.
 
@@ -124,7 +142,7 @@ Texto exato usado no áudio de validação, com a emoção de cada cena.
 
 **C50** _(misterio)_ Fumou só a metade. Apagou com calma. E guardou a outra metade dentro de um pote de vidro. E me disse: "Esse foi o meu único cigarro de hoje. E amanhã eu não vou querer nenhum."
 
-**C51** _(intimo)_ Eu contei tudo pra ele. Do meu pai, do Davi, do desenho, de todas as vezes que eu tentei parar.
+**C51** _(intimo)_ Eu contei tudo pra ele. Do meu pai, da Sofia, do desenho, da UTI, de todas as vezes que eu tentei parar.
 
 **C52** _(misterio)_ Ele ouviu em silêncio. E quando eu terminei, ele perguntou: "Quando você tenta parar, qual cigarro você tira primeiro?"
 
@@ -172,9 +190,9 @@ Texto exato usado no áudio de validação, com a emoção de cada cena.
 
 **C74** _(esperanca)_ Dia 5. O meu primeiro cigarro, que antes era às 6 e meia da manhã, já estava pra depois das 9. E o mais estranho: o resto do dia eu estava fumando menos, sem fazer força nenhuma. A serpente estava ficando mais fraca.
 
-**C75** _(alegria)_ Dia 8. O Davi pulou no meu colo quando eu cheguei do trabalho. Fazia meses que ele não fazia isso. Ele cheirou a minha camisa e disse: "Mãe, você tá com cheiro de mãe."
+**C75** _(alegria)_ Dia 8. A Sofia pulou no meu colo quando eu cheguei do trabalho. Fazia meses que ela não fazia isso. Ela cheirou a minha blusa e disse: "Mãe, você tá com cheiro de mãe."
 
-**C76** _(dor)_ Eu tive que ir pro banheiro pra ele não me ver chorando.
+**C76** _(dor)_ Eu tive que ir pro banheiro pra ela não me ver chorando.
 
 **C77** _(esperanca)_ Dia 11. Encontrei um maço esquecido no bolso da jaqueta. Nem lembrava de ter comprado. A vontade estava ficando… pequena.
 
@@ -184,9 +202,9 @@ Texto exato usado no áudio de validação, com a emoção de cada cena.
 
 **C80** _(alegria)_ Dezenove anos fumando. E eu tinha esquecido. Eu corri pra contar pro Luciano. Ele me abraçou e só disse: "Seu pai ia ficar orgulhoso."
 
-**C81** _(alegria)_ E o Davi grudou uma estrelinha no desenho dele, que ainda estava na geladeira.
+**C81** _(alegria)_ E a Sofia grudou uma estrelinha no desenho dela, que ainda estava na geladeira.
 
-**C82** _(alegria)_ Quando as pessoas perceberam que eu não fumava mais, começaram a me perguntar o que eu tinha feito. Primeiro o meu cunhado, que fumava havia mais de 25 anos. Depois um colega do trabalho. Depois a mãe de um amigo do Davi.
+**C82** _(alegria)_ Quando as pessoas perceberam que eu não fumava mais, começaram a me perguntar o que eu tinha feito. Primeiro o meu cunhado, que fumava havia mais de 25 anos. Depois um colega do trabalho. Depois a mãe de uma amiga da Sofia.
 
 **C83b** _(esperanca)_ Agora mesmo, enquanto você assiste a este vídeo, tem gente acordando amanhã cedo sem precisar daquele primeiro cigarro. Gente que fumava há 20, 30, 40 anos. Gente que já tinha desistido de si mesma. Gente igualzinha a você. E se elas conseguiram… você também vai conseguir.
 
@@ -218,7 +236,7 @@ Texto exato usado no áudio de validação, com a emoção de cada cena.
 
 **C96** _(venda)_ O primeiro é o Kit dos 3 Primeiros Dias. Eu te mostro o que fazer nos três momentos em que a vontade aperta mais: quando você acorda, depois do café e depois do almoço. São os três momentos em que eu mais precisei de ajuda.
 
-**C97** _(venda)_ O segundo é o Ritual do Chá da Noite Serena. A receita simples que o Kwame me ensinou, com ervas fáceis de achar, e como fazer esse ritual antes de dormir pra acordar mais tranquila.
+**C97** _(venda)_ O segundo é o Ritual do Chá da Noite Serena. A receita simples que o Kwame me ensinou, com ervas fáceis de achar, e como fazer esse ritual antes de dormir pra acordar mais tranquilo.
 
 **C98** _(venda)_ O terceiro vai mudar a forma como você enxerga o seu corpo: o Protocolo de Recuperação do Corpo. Você vai ver, dia a dia, o que acontece dentro de você depois do último cigarro. Em 20 minutos o seu coração desacelera. Em 12 horas o monóxido de carbono do seu sangue volta ao normal. Em poucas semanas a circulação melhora e o fôlego volta. Em um ano o risco de infarto cai pela metade. E em dez anos o risco de câncer de pulmão cai pra cerca da metade do de quem continua fumando. E a alimentação simples pra ajudar o seu corpo nessa recuperação, sem engordar.
 
@@ -240,15 +258,17 @@ Texto exato usado no áudio de validação, com a emoção de cada cena.
 
 **C106** _(dor)_ Agora você tem dois caminhos. O primeiro é fechar este vídeo e continuar como está. Amanhã de manhã você vai acender o primeiro cigarro do dia, como sempre. E o próximo. E o próximo. E a serpente vai continuar com fome.
 
-**C106b** _(choque)_ E daqui a alguns anos, pode ser você naquela cama de hospital, com uma máscara de oxigênio, sem conseguir beber água sozinho. E alguém que você ama segurando a sua mão. Eu já estive do outro lado dessa mão. Eu não desejo isso pra ninguém.
+**C106b** _(choque)_ E daqui a alguns anos, pode ser você naquela cama de hospital, com uma máscara de oxigênio, sem conseguir beber água sozinho. E alguém que você ama segurando a sua mão. Eu já estive dos dois lados dessa mão. E eu não desejo isso pra ninguém.
 
 **C107** _(esperanca)_ O segundo é clicar no botão aqui embaixo, e amanhã de manhã fazer diferente. Só com um cigarro. O primeiro.
 
 **C108** _(intimo)_ O isqueiro do meu pai está guardado numa gaveta. Eu nunca mais usei.
 
-**C109** _(intimo)_ E o desenho do Davi continua na geladeira. Pra eu lembrar todo dia por que eu fiz isso.
+**C109** _(intimo)_ E o desenho da Sofia continua na geladeira. Pra eu lembrar todo dia por que eu fiz isso.
 
-**C110** _(impacto)_ Eu não sei quem está esperando por você aí. Um filho, uma neta, um marido, você mesmo. Mas eu sei que essa pessoa merece te ter por muito tempo. Clique no botão aqui embaixo agora, porque eu não sei por quanto tempo este vídeo vai continuar no ar. Amanhã de manhã, no seu primeiro cigarro, a sua história começa a mudar.
+**C109b** _(intimo)_ A Sofia tem 12 anos hoje. E toda noite, antes de dormir, ela ainda segura a minha mão, do mesmo jeito que segurou naquela UTI. E me pergunta: 🧒 Você fica, mãe? E agora eu posso responder: fico, filha. Por muito tempo.
+
+**C110** _(impacto)_ Eu não sei quem segura a sua mão aí. Um filho, uma filha, um neto, a pessoa que dorme do seu lado. Mas eu sei que essa pessoa merece te ter por muito tempo. Clique no botão aqui embaixo agora, porque eu não sei por quanto tempo este vídeo vai continuar no ar. Amanhã de manhã, no seu primeiro cigarro, a sua história começa a mudar.
 
 **C111** _(choque)_ Imagens ilustrativas e cenas dramatizadas. Os resultados podem variar de pessoa para pessoa. Este método não substitui orientação médica. Se você usa medicação ou tem acompanhamento de saúde, continue e converse com seu médico.
 
