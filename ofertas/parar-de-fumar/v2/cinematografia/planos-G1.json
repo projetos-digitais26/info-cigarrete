@@ -27,7 +27,7 @@
    "UTI"
   ],
   "enquadramento": "plano médio-fechado lateral do leito: mãozinha da menina segurando a mão da mãe com acesso e oxímetro; mãos em ~40% da altura; fade-in muito lento",
-  "keyframe_prompt": "Brazilian girl, 9, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with small star; Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger; ICU room at night, blue monitor light, ventilator, bed rails. A small child's hand gently holding an adult woman's limp hand on an ICU bed sheet; the woman's hand has an IV line taped on the back and a glowing pulse oximeter on the index finger; bed rail and ventilator softly out of focus behind. Vertical 9:16 composition, side angle at mattress height, the two hands at about 40% of the frame height, dark ICU room filling the top, bottom third clean dark sheet. cold blue ICU night light from monitors, desaturated teal-green palette, heavy film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian girl, 9, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with small star; Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger; ICU room at night, blue monitor light, ventilator, bed rails. A small child's hand gently holding an adult woman's limp hand on an ICU bed sheet; the woman's hand has an IV line taped on the back and a glowing pulse oximeter on the index finger; bed rail and ventilator softly out of focus behind. Vertical 9:16 composition, side angle at mattress height, the two hands at about 40% of the frame height, dark ICU room filling the top, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). cold blue ICU night light from monitors, desaturated teal-green palette, heavy film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the child's fingers squeeze the woman's hand very gently, the oximeter light blinks; extremely slow push-in, slow motion feel",
   "quebra": null,
   "texto_tela": null,
@@ -65,7 +65,7 @@
    "UTI"
   ],
   "enquadramento": "close no rosto da Márcia de lado no travesseiro, máscara de oxigênio, olhos semiabertos; rosto entre 22% e 45%",
-  "keyframe_prompt": "Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger; ICU room at night, blue monitor light, ventilator, bed rails. Close-up of the woman lying on a hospital pillow, eyes half-open and unfocused, oxygen mask fogging. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. cold blue ICU night light from monitors, desaturated teal-green palette, heavy film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger; ICU room at night, blue monitor light, ventilator, bed rails. Close-up of the woman lying on a hospital pillow, eyes half-open and unfocused, oxygen mask fogging. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). cold blue ICU night light from monitors, desaturated teal-green palette, heavy film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the mask fogs and clears with one slow breath, eyelids flutter; slow 4% push-in",
   "quebra": null,
   "texto_tela": null,
@@ -103,7 +103,7 @@
    "UTI"
   ],
   "enquadramento": "menina de perfil encostando a testa na mão da mãe sobre o lençol; rosto da menina entre 25% e 45%",
-  "keyframe_prompt": "Brazilian girl, 9, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with small star; Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger; ICU room at night, blue monitor light, ventilator, bed rails. The 9-year-old girl leaning over the ICU bed, pressing her forehead against her mother's hand, eyes shut, crying silently. Vertical 9:16 composition, girl's face in profile between 25% and 45% of the frame height, bed and hand below, bottom third clean sheet. cold blue ICU night light from monitors, desaturated teal-green palette, heavy film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian girl, 9, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with small star; Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger; ICU room at night, blue monitor light, ventilator, bed rails. The 9-year-old girl leaning over the ICU bed, pressing her forehead against her mother's hand, eyes shut, crying silently. Vertical 9:16 composition, girl's face in profile between 25% and 45% of the frame height, bed and hand below, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). cold blue ICU night light from monitors, desaturated teal-green palette, heavy film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the girl presses her forehead to the hand, shoulders shaking with a sob; slow arc of the camera around her",
   "quebra": null,
   "texto_tela": null,
@@ -121,7 +121,7 @@
    "UTI"
   ],
   "enquadramento": "macro: uma lágrima caindo em câmera lenta e manchando o lençol azul; ponto de impacto em ~40%",
-  "keyframe_prompt": "ICU room at night, blue monitor light, ventilator, bed rails. Macro shot of a single tear drop falling onto a pale hospital bedsheet next to a hand with an IV line. Vertical 9:16 composition, the drop's impact point at about 40% of the frame height, top dark, bottom third clean fabric. cold blue ICU night light from monitors, desaturated teal-green palette, heavy film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "ICU room at night, blue monitor light, ventilator, bed rails. Macro shot of a single tear drop falling onto a pale hospital bedsheet next to a hand with an IV line. Vertical 9:16 composition, the drop's impact point at about 40% of the frame height, top dark, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). cold blue ICU night light from monitors, desaturated teal-green palette, heavy film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the tear falls in extreme slow motion and spreads into the fabric, then time snaps back to real speed; locked-off macro",
   "quebra": "speed_ramp",
   "texto_tela": null,
@@ -158,7 +158,7 @@
    "UTI"
   ],
   "enquadramento": "plano de cima (plongée) sobre o leito, Márcia imóvel sob a luz vermelha pulsando; rosto em ~30%",
-  "keyframe_prompt": "Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger; ICU room at night, blue monitor light, ventilator, bed rails. Top-down overhead shot of the woman motionless in the ICU bed, oxygen mask, wires and IV lines, red alarm light pulsing over the cold blue room. Vertical 9:16 composition, her face at about 30% of the frame height, body and sheets below, bottom third clean blanket. cold blue ICU night light from monitors, desaturated teal-green palette, heavy film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger; ICU room at night, blue monitor light, ventilator, bed rails. Top-down overhead shot of the woman motionless in the ICU bed, oxygen mask, wires and IV lines, red alarm light pulsing over the cold blue room. Vertical 9:16 composition, her face at about 30% of the frame height, body and sheets below, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). cold blue ICU night light from monitors, desaturated teal-green palette, heavy film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "red light pulses across her still body, her chest barely rises; slow overhead rotation",
   "quebra": null,
   "texto_tela": null,
@@ -301,7 +301,7 @@
    "MARCIA_43_UTI"
   ],
   "enquadramento": "quase preto, perfil do rosto com máscara, contorno azul; a luz vai apagando; rosto em 25–45%",
-  "keyframe_prompt": "Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger. Near-black profile silhouette of the woman with an oxygen mask, a thin blue rim light on her face slowly fading. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. almost total darkness, only a faint blue monitor glow, deep crushed blacks. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger. Near-black profile silhouette of the woman with an oxygen mask, a thin blue rim light on her face slowly fading. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). almost total darkness, only a faint blue monitor glow, deep crushed blacks. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the rim light fades out as she exhales; camera static",
   "quebra": null,
   "texto_tela": null,
@@ -319,7 +319,7 @@
    "COZINHA"
   ],
   "enquadramento": "cozinha de manhã, plano geral, janela estourada de luz, cafeteira de vidro na pia",
-  "keyframe_prompt": "small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. A small Brazilian apartment kitchen on an ordinary morning, steam rising from a glass coffee pot by the window, no people. Vertical 9:16 composition, wide shot, window glowing in the upper half, counter in the middle, bottom third clean floor tiles. warm amber morning light through the window, soft halation, medium film grain, nostalgic memory feel. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. A small Brazilian apartment kitchen on an ordinary morning, steam rising from a glass coffee pot by the window, no people. Vertical 9:16 composition, wide shot, window glowing in the upper half, counter in the middle, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm amber morning light through the window, soft halation, medium film grain, nostalgic memory feel. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "steam curls slowly from the coffee pot; gentle slow dolly-in toward the window, 24 fps memory feel",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -338,7 +338,7 @@
    "COZINHA"
   ],
   "enquadramento": "detalhe: café sendo servido numa xícara simples sobre a mesa de madeira; xícara em ~40%",
-  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse; small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. Close-up of a woman's hand pouring black coffee from a glass coffee pot into a simple white cup on a wooden kitchen table. Vertical 9:16 composition, cup at about 40% of the frame height, bottom third clean wood. warm amber morning light through the window, soft halation, medium film grain, nostalgic memory feel. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse; small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. Close-up of a woman's hand pouring black coffee from a glass coffee pot into a simple white cup on a wooden kitchen table. Vertical 9:16 composition, cup at about 40% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm amber morning light through the window, soft halation, medium film grain, nostalgic memory feel. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "coffee pours and steam rises; slow tilt down following the stream",
   "quebra": null,
   "texto_tela": null,
@@ -356,7 +356,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "detalhe: dedos tirando um cigarro do maço sem marca; mão em ~40%",
-  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. Close-up of a woman's fingers pulling a single cigarette out of a plain unbranded white pack next to the coffee cup. Vertical 9:16 composition, hand at about 40% of the frame height, bottom third clean table. warm amber morning light through the window, soft halation, medium film grain, nostalgic memory feel. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. Close-up of a woman's fingers pulling a single cigarette out of a plain unbranded white pack next to the coffee cup. Vertical 9:16 composition, hand at about 40% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm amber morning light through the window, soft halation, medium film grain, nostalgic memory feel. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the fingers slide the cigarette out slowly; static camera, shallow focus",
   "quebra": null,
   "texto_tela": null,
@@ -394,7 +394,7 @@
    "UTI"
   ],
   "enquadramento": "volta à UTI: close no rosto da Márcia, olhos semiabertos, lágrima escorre; rosto em 22–45%",
-  "keyframe_prompt": "Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger; ICU room at night, blue monitor light, ventilator, bed rails. Back in the ICU: close-up of the woman with the oxygen mask, eyes half-open looking at nothing, a single tear running down her temple. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. cold blue ICU night light from monitors, desaturated teal-green palette, heavy film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger; ICU room at night, blue monitor light, ventilator, bed rails. Back in the ICU: close-up of the woman with the oxygen mask, eyes half-open looking at nothing, a single tear running down her temple. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). cold blue ICU night light from monitors, desaturated teal-green palette, heavy film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the tear rolls down slowly, she blinks once; slow 3% push-in",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -413,7 +413,7 @@
    "UTI"
   ],
   "enquadramento": "mesmo enquadramento de A01-2, agora só a mão da mãe, que se fecha devagar no vazio; mão em ~40%",
-  "keyframe_prompt": "Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger; ICU room at night, blue monitor light, ventilator, bed rails. The same side angle at mattress height: the woman's lone hand with IV line and pulse oximeter on the empty sheet, slowly closing on the empty space where a child's hand used to be. Vertical 9:16 composition, side angle at mattress height, the hand at about 40% of the frame height, empty space beside it, bottom third clean sheet. cold blue ICU night light from monitors, desaturated teal-green palette, heavy film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger; ICU room at night, blue monitor light, ventilator, bed rails. The same side angle at mattress height: the woman's lone hand with IV line and pulse oximeter on the empty sheet, slowly closing on the empty space where a child's hand used to be. Vertical 9:16 composition, side angle at mattress height, the hand at about 40% of the frame height, empty space beside it, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). cold blue ICU night light from monitors, desaturated teal-green palette, heavy film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the fingers slowly close into a weak fist around nothing; locked-off camera, very slow",
   "quebra": "match_cut",
   "texto_tela": null,
@@ -431,7 +431,7 @@
    "COZINHA"
   ],
   "enquadramento": "flash de memória: cigarro aceso esquecido no pires ao lado da xícara, fumaça subindo na luz da janela; brasa em ~40%",
-  "keyframe_prompt": "small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. A lit cigarette resting on the edge of a saucer beside a half-empty coffee cup on a wooden kitchen table, a thin ribbon of smoke rising into morning window light. Vertical 9:16 composition, ember at about 40% of the frame height, smoke rising into the upper frame, bottom third clean wood. warm amber morning light through the window, soft halation, medium film grain, nostalgic memory feel. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. A lit cigarette resting on the edge of a saucer beside a half-empty coffee cup on a wooden kitchen table, a thin ribbon of smoke rising into morning window light. Vertical 9:16 composition, ember at about 40% of the frame height, smoke rising into the upper frame, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm amber morning light through the window, soft halation, medium film grain, nostalgic memory feel. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the smoke ribbon rises and twists; slow push-in on the ember",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -464,15 +464,15 @@
   "peso": 0.18,
   "tipo": "broll",
   "refs": [
-   "SOFIA_9"
+   "UTI"
   ],
   "enquadramento": "plano geral do corredor longo e vazio, luz fluorescente piscando, a menina pequenininha no fundo; figura em ~40%",
-  "keyframe_prompt": "Long empty hospital corridor at night with a flickering fluorescent tube, a small figure of a girl sitting alone far away at the end, symmetrical one-point perspective. Vertical 9:16 composition, the figure at about 40% of the frame height. Cold blue-green hospital light, desaturated, film grain. Cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Long empty hospital corridor at night, a flickering fluorescent tube, a small pink backpack left alone on a plastic chair, symmetrical one-point perspective. Vertical 9:16 composition, the chair at about 40% of the frame height. Cold blue-green hospital light, desaturated, film grain. Cinematic still, 35mm film, photorealistic, no text, no logos.",
   "motion_prompt": "a fluorescent tube flickers once; very slow dolly backward away from her",
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'no corredor de um hospital' — solidão · prompt suavizado (moderação)",
+  "nota": "'no corredor de um hospital' — solidão · prompt suavizado (moderação) · sem a criança (moderação)",
   "modo": "video"
  },
  {
@@ -485,7 +485,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "presente: Márcia saudável, plano próximo, luz quente de manhã, olha direto para a câmera; rosto em 22–45%",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. The healthy woman sitting by a sunlit window at home in the morning, looking directly into the camera with a slight sad smile. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. The healthy woman sitting by a sunlit window at home in the morning, looking directly into the camera with a slight sad smile. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she lifts her eyes to the lens and breathes in; slow 3% push-in",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -503,7 +503,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "close mais fechado, o sorriso triste se firma; rosto em 20–45%",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Closer shot of the healthy woman's face, warm eyes slightly wet, a small determined sad smile, looking into the camera. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Closer shot of the healthy woman's face, warm eyes slightly wet, a small determined sad smile, looking into the camera. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she gives a tiny nod; slow push-in continues",
   "quebra": null,
   "texto_tela": null,
@@ -521,7 +521,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "close na Márcia falando para a câmera, calma; rosto em 22–45%",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Close-up of the healthy woman speaking calmly to the camera in warm morning light at home. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Close-up of the healthy woman speaking calmly to the camera in warm morning light at home. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she shakes her head gently while speaking; slow push-in 3%",
   "quebra": null,
   "texto_tela": null,
@@ -539,7 +539,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "perfil dela na janela olhando para fora, mãos na xícara; rosto em ~30%",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Profile of the healthy woman standing at a sunlit window holding a mug with both hands, looking outside, thoughtful. Vertical 9:16 composition, her profile at about 30% of the frame height, window glow behind, bottom third clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Profile of the healthy woman standing at a sunlit window holding a mug with both hands, looking outside, thoughtful. Vertical 9:16 composition, her profile at about 30% of the frame height, window glow behind, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she lowers her gaze and breathes out slowly; slow lateral dolly",
   "quebra": null,
   "texto_tela": null,
@@ -557,7 +557,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "close frontal, olhar firme na lente; rosto em 25–48%, topo livre para o 🅣",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Frontal close-up of the healthy woman looking straight into the lens, serious and tender. Vertical 9:16 composition, face between 25% and 48% of the frame height, clean empty dark area at the top of the frame, lower third kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Frontal close-up of the healthy woman looking straight into the lens, serious and tender. Vertical 9:16 composition, face between 25% and 48% of the frame height, clean empty dark area at the top of the frame, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she holds the gaze without blinking, then blinks once; slow push-in",
   "quebra": "zoom_punch",
   "texto_tela": {
@@ -576,7 +576,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "POV do espectador: mão anônima segurando o celular, cigarro aceso entre os dedos da outra mão; tela do celular sem conteúdo legível; mãos em ~40%",
-  "keyframe_prompt": "First-person point of view: an anonymous adult's hand holding a smartphone with a blank glowing screen, the other hand holding a lit cigarette, sitting on a sofa at night. Vertical 9:16 composition, point-of-view shot, phone at about 40% of the frame height, bottom third clean dark lap. dim warm lamp light at night, deep shadows, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "First-person point of view: an anonymous adult's hand holding a smartphone with a blank glowing screen, the other hand holding a lit cigarette, sitting on a sofa at night. Vertical 9:16 composition, point-of-view shot, phone at about 40% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). dim warm lamp light at night, deep shadows, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the cigarette smoke drifts across the phone light, the thumb pauses; subtle handheld breathing",
   "quebra": "pov",
   "texto_tela": null,
@@ -612,7 +612,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "volta ao close dela, olhos úmidos; rosto em 22–45%",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Close-up of the healthy woman in warm light, eyes wet, a breath of relief and pain. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Close-up of the healthy woman in warm light, eyes wet, a breath of relief and pain. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she swallows and looks down for a moment, then back to the lens; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -630,7 +630,7 @@
    "COZINHA"
   ],
   "enquadramento": "mesma cozinha de A07, manhã: mão (anônima) acende o primeiro cigarro junto à xícara; chama em ~38%",
-  "keyframe_prompt": "small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. In the same small morning kitchen, an anonymous adult's hand lighting a cigarette with a lighter next to a steaming coffee cup on the wooden table. Vertical 9:16 composition, flame at about 38% of the frame height, cup beside it, bottom third clean table. high contrast, crushed black shadows, single accent of red, moody low-key light. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. In the same small morning kitchen, an anonymous adult's hand lighting a cigarette with a lighter next to a steaming coffee cup on the wooden table. Vertical 9:16 composition, flame at about 38% of the frame height, cup beside it, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). high contrast, crushed black shadows, single accent of red, moody low-key light. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the lighter clicks and the flame catches the tip; slow push-in",
   "quebra": "match_cut",
   "texto_tela": null,
@@ -646,7 +646,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "detalhe: cigarro apoiado no pires ao lado do café fumegante; vapor e fumaça subindo juntos; em ~40%",
-  "keyframe_prompt": "A lit cigarette resting on a saucer beside a steaming cup of black coffee, coffee steam and cigarette smoke rising and intertwining. Vertical 9:16 composition, cup and cigarette at about 40% of the frame height, smoke rising into the dark top, bottom third clean. high contrast, crushed black shadows, single accent of red, moody low-key light. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "A lit cigarette resting on a saucer beside a steaming cup of black coffee, coffee steam and cigarette smoke rising and intertwining. Vertical 9:16 composition, cup and cigarette at about 40% of the frame height, smoke rising into the dark top, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). high contrast, crushed black shadows, single accent of red, moody low-key light. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "steam and smoke rise and twist together; static macro",
   "quebra": null,
   "texto_tela": null,
@@ -716,7 +716,7 @@
    "COZINHA"
   ],
   "enquadramento": "mãos segurando um único cigarro apagado sobre a xícara, decidindo; mãos em ~40%",
-  "keyframe_prompt": "small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. Close-up of two hands holding a single unlit cigarette above a coffee cup on a wooden kitchen table, hesitating, morning light. Vertical 9:16 composition, hands at about 40% of the frame height, bottom third clean wood. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. Close-up of two hands holding a single unlit cigarette above a coffee cup on a wooden kitchen table, hesitating, morning light. Vertical 9:16 composition, hands at about 40% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the fingers turn the cigarette slowly; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -751,7 +751,7 @@
   "tipo": "fx",
   "refs": [],
   "enquadramento": "um fio de fumaça na luz da janela vai afinando até sumir; em 20–50%",
-  "keyframe_prompt": "A single thin wisp of cigarette smoke in a sunbeam slowly thinning and dissolving into the warm morning air. Vertical 9:16 composition, the wisp between 20% and 50% of the frame height, bottom third clean warm light. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "A single thin wisp of cigarette smoke in a sunbeam slowly thinning and dissolving into the warm morning air. Vertical 9:16 composition, the wisp between 20% and 50% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the smoke wisp thins and disappears; static camera",
   "quebra": null,
   "texto_tela": null,
@@ -770,7 +770,7 @@
    "COZINHA"
   ],
   "enquadramento": "Márcia na mesa, termina o café e pousa a xícara vazia, olhar distraído na janela; rosto em ~30%",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile; small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. The healthy woman at a wooden kitchen table finishing her coffee and setting down the empty cup, gazing out the sunny window, relaxed. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile; small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. The healthy woman at a wooden kitchen table finishing her coffee and setting down the empty cup, gazing out the sunny window, relaxed. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she places the cup down softly and smiles to herself; slow lateral dolly",
   "quebra": null,
   "texto_tela": null,
@@ -788,7 +788,7 @@
    "COZINHA"
   ],
   "enquadramento": "detalhe: xícara vazia e maço intocado e fechado lado a lado na mesa ensolarada; objetos em ~40%",
-  "keyframe_prompt": "small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. A clean empty coffee cup beside an unopened, untouched plain unbranded cigarette pack on a sunlit wooden table. Vertical 9:16 composition, objects at about 40% of the frame height, bottom third clean wood. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. A clean empty coffee cup beside an unopened, untouched plain unbranded cigarette pack on a sunlit wooden table. Vertical 9:16 composition, objects at about 40% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "sunlight slowly slides across the table; slow push-in on the untouched pack",
   "quebra": "zoom_punch",
   "texto_tela": null,
@@ -806,7 +806,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "Márcia abre a janela para o sol e respira fundo; rosto em ~30%",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. The healthy woman opening a kitchen window to bright morning sun and breathing in deeply, eyes closed, peaceful. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. The healthy woman opening a kitchen window to bright morning sun and breathing in deeply, eyes closed, peaceful. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she pushes the window open and inhales; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -824,7 +824,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "close dela se apresentando para a câmera; rosto em 22–45%",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Close-up of the healthy woman introducing herself to the camera with a warm calm look. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Close-up of the healthy woman introducing herself to the camera with a warm calm look. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she smiles softly as she speaks; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -843,7 +843,7 @@
    "VILAREJO"
   ],
   "enquadramento": "chicote para Gana: Kwame sentado na cadeira entalhada à porta de casa, contraluz dourado; rosto em ~32%",
-  "keyframe_prompt": "Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, wooden carved chair; Ghanaian village, mud-brick houses, red dirt road, baobab, golden hour. A Ghanaian elder sitting in a carved wooden chair in front of a mud-brick house at golden hour, backlit, calm wise gaze toward the horizon. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. golden hour sunset light, warm dust in the air, vivid colors. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, wooden carved chair; Ghanaian village, mud-brick houses, red dirt road, baobab, golden hour. A Ghanaian elder sitting in a carved wooden chair in front of a mud-brick house at golden hour, backlit, calm wise gaze toward the horizon. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). golden hour sunset light, warm dust in the air, vivid colors. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "his kente cloth moves in the breeze and he turns his head slowly toward the camera; slow push-in",
   "quebra": "whip",
   "texto_tela": null,
@@ -861,7 +861,7 @@
    "VILAREJO"
   ],
   "enquadramento": "plano aéreo baixo do vilarejo, estrada de terra vermelha, baobá, poeira dourada",
-  "keyframe_prompt": "Ghanaian village, mud-brick houses, red dirt road, baobab, golden hour. Low aerial view of a Ghanaian village with mud-brick houses, a red dirt road and a large baobab tree at golden hour, people walking, nobody smoking. Vertical 9:16 composition, baobab in the upper-middle of the frame, red road leading up from the bottom, bottom third clean road. golden hour sunset light, warm dust in the air, vivid colors. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Ghanaian village, mud-brick houses, red dirt road, baobab, golden hour. Low aerial view of a Ghanaian village with mud-brick houses, a red dirt road and a large baobab tree at golden hour, people walking, nobody smoking. Vertical 9:16 composition, baobab in the upper-middle of the frame, red road leading up from the bottom, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). golden hour sunset light, warm dust in the air, vivid colors. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "slow forward drone glide toward the baobab, dust drifting",
   "quebra": null,
   "texto_tela": null,
@@ -879,7 +879,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "Márcia em plano médio, segura, olhando para a câmera; rosto em 28–48%, topo livre para o título",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Medium close-up of the healthy woman in warm morning light, confident, looking into the camera. Vertical 9:16 composition, face between 28% and 48% of the frame height, clean empty dark area at the top of the frame, lower third kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Medium close-up of the healthy woman in warm morning light, confident, looking into the camera. Vertical 9:16 composition, face between 28% and 48% of the frame height, clean empty dark area at the top of the frame, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she nods once with conviction; slow push-in",
   "quebra": null,
   "texto_tela": {
@@ -900,7 +900,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "ela se inclina para a câmera, zoom lento; rosto em 25–48%, topo livre",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. The healthy woman leaning toward the camera, serious, eyes locked on the lens, warm light now turning darker and moodier. Vertical 9:16 composition, face between 25% and 48% of the frame height, clean empty dark area at the top of the frame, lower third clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. The healthy woman leaning toward the camera, serious, eyes locked on the lens, warm light now turning darker and moodier. Vertical 9:16 composition, face between 25% and 48% of the frame height, clean empty dark area at the top of the frame, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she leans in close to the lens; slow zoom-in",
   "quebra": null,
   "texto_tela": {
@@ -953,7 +953,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "volta ao close dela, mais sério, luz mais escura; rosto em 22–45%",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Close-up of the healthy woman, serious and urgent, light dimmer and contrastier than before. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. high contrast, crushed black shadows, single accent of red, moody low-key light. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Close-up of the healthy woman, serious and urgent, light dimmer and contrastier than before. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). high contrast, crushed black shadows, single accent of red, moody low-key light. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she holds the gaze, slight frown; very slow push-in",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -969,7 +969,7 @@
   "tipo": "hero",
   "refs": [],
   "enquadramento": "jovem de 20 e poucos anos fumando no ponto de ônibus, fim de tarde; rosto em ~30%",
-  "keyframe_prompt": "A Brazilian young man in his early twenties smoking at a city bus stop in the late afternoon, hoodie, looking down the street. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "A Brazilian young man in his early twenties smoking at a city bus stop in the late afternoon, hoodie, looking down the street. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "he exhales smoke and looks down the street; slow push-in",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -985,7 +985,7 @@
   "tipo": "hero",
   "refs": [],
   "enquadramento": "mulher de terninho fumando na calçada em frente a um prédio comercial; rosto em ~30%",
-  "keyframe_prompt": "A Brazilian businesswoman in her thirties wearing a dark suit, smoking quickly on the sidewalk outside an office building, checking her watch. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "A Brazilian businesswoman in her thirties wearing a dark suit, smoking quickly on the sidewalk outside an office building, checking her watch. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she takes a quick drag and checks her watch; handheld follow",
   "quebra": null,
   "texto_tela": null,
@@ -1001,7 +1001,7 @@
   "tipo": "hero",
   "refs": [],
   "enquadramento": "caminhoneiro na cabine, braço para fora da janela com cigarro; rosto em ~32%",
-  "keyframe_prompt": "A Brazilian truck driver in his fifties in the cab of his truck at a roadside stop, smoking with his arm out of the window. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "A Brazilian truck driver in his fifties in the cab of his truck at a roadside stop, smoking with his arm out of the window. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "he flicks ash out of the window; slow dolly along the truck door",
   "quebra": null,
   "texto_tela": null,
@@ -1017,7 +1017,7 @@
   "tipo": "hero",
   "refs": [],
   "enquadramento": "senhora de uns 70 anos fumando na janela de casa; rosto em ~30%",
-  "keyframe_prompt": "An elderly Brazilian woman, about 70, smoking at the window of her home, grey hair in a bun, lost in thought. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "An elderly Brazilian woman, about 70, smoking at the window of her home, grey hair in a bun, lost in thought. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she exhales slowly through the window; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1033,7 +1033,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "plongée em cinzeiro transbordando de bitucas sobre mesa de bar/cozinha; cinzeiro em ~40%",
-  "keyframe_prompt": "Overhead shot of an overflowing ashtray full of cigarette butts on a table, a hand stubbing out another one. Vertical 9:16 composition, ashtray at about 40% of the frame height, bottom third clean table. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Overhead shot of an overflowing ashtray full of cigarette butts on a table, a hand stubbing out another one. Vertical 9:16 composition, ashtray at about 40% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "a hand stubs out one more butt on the pile; slow overhead rotation",
   "quebra": null,
   "texto_tela": null,
@@ -1049,7 +1049,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "mãos quebrando um cigarro ao meio com raiva e, em seguida, pegando outro do maço; mãos em ~40%",
-  "keyframe_prompt": "Close-up of two hands snapping a cigarette in half in frustration over a table, then reaching for another from a plain unbranded pack. Vertical 9:16 composition, hands at about 40% of the frame height, bottom third clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Close-up of two hands snapping a cigarette in half in frustration over a table, then reaching for another from a plain unbranded pack. Vertical 9:16 composition, hands at about 40% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the hands snap the cigarette, pause, then reach for a new one; static camera",
   "quebra": null,
   "texto_tela": null,
@@ -1067,7 +1067,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "Márcia olhando para a câmera, acolhedora; rosto em 22–45%",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Close-up of the healthy woman looking warmly into the camera at home, soft morning light. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Close-up of the healthy woman looking warmly into the camera at home, soft morning light. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she tilts her head slightly with empathy; slow push-in",
   "quebra": "zoom_punch",
   "texto_tela": null,
@@ -1083,7 +1083,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "pessoa (anônima, 30–40 anos) joga um maço no lixo da cozinha com decisão; mão e lixeira em 30–55%",
-  "keyframe_prompt": "A Brazilian man in his late thirties firmly throwing a plain unbranded cigarette pack into a kitchen trash can, determined, face out of focus. Vertical 9:16 composition, hand and trash can between 30% and 55% of the frame height, bottom third clean floor. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "A Brazilian man in his late thirties firmly throwing a plain unbranded cigarette pack into a kitchen trash can, determined, face out of focus. Vertical 9:16 composition, hand and trash can between 30% and 55% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the pack drops into the trash and the lid snaps shut; static camera",
   "quebra": null,
   "texto_tela": null,
@@ -1099,7 +1099,7 @@
   "tipo": "hero",
   "refs": [],
   "enquadramento": "a mesma pessoa à noite, sentada na beira da cama, mãos nas têmporas, suando; rosto em ~32%",
-  "keyframe_prompt": "The same Brazilian man in his late thirties sitting on the edge of his bed at night, both hands pressing his temples, sweating, restless, jaw clenched. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. dim warm lamp light at night, deep shadows, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "The same Brazilian man in his late thirties sitting on the edge of his bed at night, both hands pressing his temples, sweating, restless, jaw clenched. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). dim warm lamp light at night, deep shadows, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "he rubs his temples and rocks slightly; slow handheld push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1115,7 +1115,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "mesmo enquadramento da lixeira: a mão abre a tampa e tira o maço do lixo; mão em 30–55%",
-  "keyframe_prompt": "The same kitchen trash can in the same framing, now at night: the man's hand opening the lid and pulling the cigarette pack back out of the trash. Vertical 9:16 composition, hand and trash can between 30% and 55% of the frame height, bottom third clean floor. dim warm lamp light at night, deep shadows, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "The same kitchen trash can in the same framing, now at night: the man's hand opening the lid and pulling the cigarette pack back out of the trash. Vertical 9:16 composition, hand and trash can between 30% and 55% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). dim warm lamp light at night, deep shadows, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the hand lifts the pack out of the trash slowly then fast; static camera",
   "quebra": "match_cut",
   "texto_tela": null,
@@ -1131,7 +1131,7 @@
   "tipo": "hero",
   "refs": [],
   "enquadramento": "ele acende o cigarro na janela escura e baixa a cabeça, derrotado; rosto em ~32%",
-  "keyframe_prompt": "The same man lighting a cigarette at a dark window and lowering his head in defeat, ashamed. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. dim warm lamp light at night, deep shadows, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "The same man lighting a cigarette at a dark window and lowering his head in defeat, ashamed. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). dim warm lamp light at night, deep shadows, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the lighter flares, he takes a drag and drops his head; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1149,7 +1149,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "close da Márcia, mais séria, luz mais lateral; rosto em 22–45%",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Close-up of the healthy woman, more serious, side light, looking directly into the lens. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Close-up of the healthy woman, more serious, side light, looking directly into the lens. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she leans slightly forward; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1167,7 +1167,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "extreme close nos olhos dela, firmes; olhos em ~35%, topo livre para o 🅣",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Extreme close-up of the healthy woman's eyes, firm and compassionate, looking into the lens. Vertical 9:16 composition, eyes at about 35% of the frame height, clean empty dark area at the top of the frame, bottom third clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Extreme close-up of the healthy woman's eyes, firm and compassionate, looking into the lens. Vertical 9:16 composition, eyes at about 35% of the frame height, clean empty dark area at the top of the frame, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she blinks once slowly; locked-off camera",
   "quebra": "zoom_punch",
   "texto_tela": {
@@ -1204,7 +1204,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "plano médio dela, um meio sorriso de quem sabe o segredo; rosto em 25–45%",
-  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Medium close-up of the healthy woman with a knowing half-smile, warm light, looking into the camera. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 44, healthy, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. Medium close-up of the healthy woman with a knowing half-smile, warm light, looking into the camera. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm soft morning window light, golden and gentle, clean natural skin tones, light film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she raises her eyebrows slightly with a knowing smile; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1259,7 +1259,7 @@
    "ISQUEIRO"
   ],
   "enquadramento": "detalhe do bolso da camisa xadrez com o isqueiro prateado; bolso em ~38%",
-  "keyframe_prompt": "Brazilian man, 60s, white-grey hair, thick grey moustache, tan wrinkled skin, short-sleeve plaid shirt with a silver lighter in the chest pocket; old silver flip lighter, worn engraving, scratches. Close-up of the chest pocket of a man's short-sleeve plaid shirt with an old silver flip lighter sticking out, warm memory light, the man breathing. Vertical 9:16 composition, pocket and lighter at about 38% of the frame height, bottom third clean shirt fabric. warm golden sunset light on a porch, soft haze, nostalgic film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 60s, white-grey hair, thick grey moustache, tan wrinkled skin, short-sleeve plaid shirt with a silver lighter in the chest pocket; old silver flip lighter, worn engraving, scratches. Close-up of the chest pocket of a man's short-sleeve plaid shirt with an old silver flip lighter sticking out, warm memory light, the man breathing. Vertical 9:16 composition, pocket and lighter at about 38% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm golden sunset light on a porch, soft haze, nostalgic film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the chest rises with a breath and a hand taps the lighter in the pocket; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1275,7 +1275,7 @@
   "tipo": "broll",
   "refs": [],
   "enquadramento": "corredor de hospital, luz fria, câmera lenta, maca passando; corredor em perspectiva",
-  "keyframe_prompt": "A long hospital corridor in cold daylight fluorescent light, a nurse pushing an empty stretcher away in slow motion, nobody's face visible. Vertical 9:16 composition, one-point perspective, the vanishing point at about 35% of the frame height, bottom third clean floor. cold fluorescent hospital light, desaturated blue-green, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "A long hospital corridor in cold daylight fluorescent light, a nurse pushing an empty stretcher away in slow motion, nobody's face visible. Vertical 9:16 composition, one-point perspective, the vanishing point at about 35% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). cold fluorescent hospital light, desaturated blue-green, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the stretcher rolls away down the corridor; slow motion dolly forward",
   "quebra": null,
   "texto_tela": null,
@@ -1294,7 +1294,7 @@
    "VARANDA"
   ],
   "enquadramento": "lembrança: o pai sentado na varanda acendendo um cigarro na brasa do outro; rosto em ~32%",
-  "keyframe_prompt": "Brazilian man, 60s, white-grey hair, thick grey moustache, tan wrinkled skin, short-sleeve plaid shirt with a silver lighter in the chest pocket; simple Brazilian house porch, plastic chairs, plants, sunset. Memory: the man sitting on a plastic chair on a simple porch at sunset, lighting a new cigarette from the ember of the previous one, relaxed. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. warm golden sunset light on a porch, soft haze, nostalgic film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 60s, white-grey hair, thick grey moustache, tan wrinkled skin, short-sleeve plaid shirt with a silver lighter in the chest pocket; simple Brazilian house porch, plastic chairs, plants, sunset. Memory: the man sitting on a plastic chair on a simple porch at sunset, lighting a new cigarette from the ember of the previous one, relaxed. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm golden sunset light on a porch, soft haze, nostalgic film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "he lights one cigarette from the other and exhales; slow lateral dolly",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -1313,7 +1313,7 @@
    "ISQUEIRO"
   ],
   "enquadramento": "detalhe: a mão dele fechando o isqueiro prateado e guardando no bolso da camisa; mão em ~40%",
-  "keyframe_prompt": "Brazilian man, 60s, white-grey hair, thick grey moustache, tan wrinkled skin, short-sleeve plaid shirt with a silver lighter in the chest pocket; old silver flip lighter, worn engraving, scratches. Close-up of the man's weathered hand snapping shut an old silver flip lighter and sliding it into his plaid shirt chest pocket. Vertical 9:16 composition, hand and pocket at about 40% of the frame height, bottom third clean. warm golden sunset light on a porch, soft haze, nostalgic film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 60s, white-grey hair, thick grey moustache, tan wrinkled skin, short-sleeve plaid shirt with a silver lighter in the chest pocket; old silver flip lighter, worn engraving, scratches. Close-up of the man's weathered hand snapping shut an old silver flip lighter and sliding it into his plaid shirt chest pocket. Vertical 9:16 composition, hand and pocket at about 40% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm golden sunset light on a porch, soft haze, nostalgic film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the lid clicks shut and the lighter slides into the pocket; static camera",
   "quebra": null,
   "texto_tela": null,
@@ -1331,7 +1331,7 @@
    "ISQUEIRO"
   ],
   "enquadramento": "close do isqueiro prateado antigo, gasto, sobre a mesa de madeira; isqueiro em ~40%",
-  "keyframe_prompt": "old silver flip lighter, worn engraving, scratches. Close-up of an old silver flip lighter, worn engraving and scratches, lying on a weathered wooden table, warm light. Vertical 9:16 composition, lighter at about 40% of the frame height, bottom third clean wood. warm golden sunset light on a porch, soft haze, nostalgic film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "old silver flip lighter, worn engraving, scratches. Close-up of an old silver flip lighter, worn engraving and scratches, lying on a weathered wooden table, warm light. Vertical 9:16 composition, lighter at about 40% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm golden sunset light on a porch, soft haze, nostalgic film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "light glints across the scratches; slow orbit around the lighter",
   "quebra": "match_cut",
   "texto_tela": null,
@@ -1351,7 +1351,7 @@
    "VARANDA"
   ],
   "enquadramento": "o pai acende o cigarro da filha jovem (25 anos) com o isqueiro prateado; os dois rostos em 25–45%",
-  "keyframe_prompt": "Brazilian man, 60s, white-grey hair, thick grey moustache, tan wrinkled skin, short-sleeve plaid shirt with a silver lighter in the chest pocket; old silver flip lighter, worn engraving, scratches; simple Brazilian house porch, plastic chairs, plants, sunset. Memory: the man in his late fifties lighting a cigarette for his daughter, a Brazilian woman of 25 with light-brown skin and dark wavy hair, with an old silver flip lighter on the porch at sunset, both faces close and warm. Vertical 9:16 composition, two faces between 25% and 45% of the frame height, lighter flame between them, bottom third clean. warm golden sunset light on a porch, soft haze, nostalgic film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 60s, white-grey hair, thick grey moustache, tan wrinkled skin, short-sleeve plaid shirt with a silver lighter in the chest pocket; old silver flip lighter, worn engraving, scratches; simple Brazilian house porch, plastic chairs, plants, sunset. Memory: the man in his late fifties lighting a cigarette for his daughter, a Brazilian woman of 25 with light-brown skin and dark wavy hair, with an old silver flip lighter on the porch at sunset, both faces close and warm. Vertical 9:16 composition, two faces between 25% and 45% of the frame height, lighter flame between them, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm golden sunset light on a porch, soft haze, nostalgic film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "he cups the flame and she leans in to light her cigarette; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1370,7 +1370,7 @@
    "VARANDA"
   ],
   "enquadramento": "os dois nas cadeiras de plástico, rindo, fumaça subindo no pôr do sol; rostos em ~32%",
-  "keyframe_prompt": "Brazilian man, 60s, white-grey hair, thick grey moustache, tan wrinkled skin, short-sleeve plaid shirt with a silver lighter in the chest pocket; simple Brazilian house porch, plastic chairs, plants, sunset. Memory: the father and his 25-year-old daughter sitting side by side on plastic chairs on the porch, laughing and talking, smoke rising into the sunset. Vertical 9:16 composition, both faces at about 32% of the frame height, bottom third clean porch floor. warm golden sunset light on a porch, soft haze, nostalgic film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 60s, white-grey hair, thick grey moustache, tan wrinkled skin, short-sleeve plaid shirt with a silver lighter in the chest pocket; simple Brazilian house porch, plastic chairs, plants, sunset. Memory: the father and his 25-year-old daughter sitting side by side on plastic chairs on the porch, laughing and talking, smoke rising into the sunset. Vertical 9:16 composition, both faces at about 32% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm golden sunset light on a porch, soft haze, nostalgic film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "they laugh and she leans her head toward him; slow lateral dolly",
   "quebra": null,
   "texto_tela": null,
@@ -1408,7 +1408,7 @@
    "UTI"
   ],
   "enquadramento": "leito: mão envelhecida com acesso venoso sobre o lençol; mão em ~45%, topo livre para o 🅣",
-  "keyframe_prompt": "Brazilian man, 67, white-grey hair, thick grey moustache, tan wrinkled skin, very thin, in a hospital bed with an oxygen mask; ICU room at night, blue monitor light, ventilator, bed rails. Close-up of an old man's thin wrinkled hand with an IV cannula resting on a hospital bed sheet, oxygen mask tubing nearby. Vertical 9:16 composition, hand at about 45% of the frame height, clean empty dark area at the top of the frame, bottom third clean sheet. cold fluorescent hospital light, desaturated blue-green, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 67, white-grey hair, thick grey moustache, tan wrinkled skin, very thin, in a hospital bed with an oxygen mask; ICU room at night, blue monitor light, ventilator, bed rails. Close-up of an old man's thin wrinkled hand with an IV cannula resting on a hospital bed sheet, oxygen mask tubing nearby. Vertical 9:16 composition, hand at about 45% of the frame height, clean empty dark area at the top of the frame, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). cold fluorescent hospital light, desaturated blue-green, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the fingers twitch weakly; slow push-in",
   "quebra": "corte_seco",
   "texto_tela": {
@@ -1429,7 +1429,7 @@
    "PAI"
   ],
   "enquadramento": "lembrança quente: o pai mais jovem com uma menininha (Márcia criança) nos ombros, quintal ensolarado; rostos em 20–40%",
-  "keyframe_prompt": "Brazilian man, 60s, white-grey hair, thick grey moustache, tan wrinkled skin, short-sleeve plaid shirt with a silver lighter in the chest pocket. Memory: the man in his forties, strong, carrying a laughing little Brazilian girl of 5 with dark wavy hair on his shoulders in a sunny backyard. Vertical 9:16 composition, girl's face at about 20% and his face at about 38% of the frame height, bottom third clean grass. warm amber morning light through the window, soft halation, medium film grain, nostalgic memory feel. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 60s, white-grey hair, thick grey moustache, tan wrinkled skin, short-sleeve plaid shirt with a silver lighter in the chest pocket. Memory: the man in his forties, strong, carrying a laughing little Brazilian girl of 5 with dark wavy hair on his shoulders in a sunny backyard. Vertical 9:16 composition, girl's face at about 20% and his face at about 38% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm amber morning light through the window, soft halation, medium film grain, nostalgic memory feel. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "he spins slowly with her on his shoulders, she laughs; slow handheld orbit",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -1447,7 +1447,7 @@
    "PAI"
   ],
   "enquadramento": "o pai magro, de pijama, segurando o corrimão diante de um único degrau, sem ar; rosto em ~32%",
-  "keyframe_prompt": "Brazilian man, 67, white-grey hair, thick grey moustache, tan wrinkled skin, very thin, in a hospital bed with an oxygen mask. The thin 67-year-old man in pajamas at home, gripping a handrail at a single step, out of breath, a nasal oxygen cannula, exhausted. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. cold fluorescent hospital light, desaturated blue-green, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 67, white-grey hair, thick grey moustache, tan wrinkled skin, very thin, in a hospital bed with an oxygen mask. The thin 67-year-old man in pajamas at home, gripping a handrail at a single step, out of breath, a nasal oxygen cannula, exhausted. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). cold fluorescent hospital light, desaturated blue-green, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "he tries to lift his foot onto the step, stops and gasps; slow push-in",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -1465,7 +1465,7 @@
    "PAI"
   ],
   "enquadramento": "close no rosto do pai com a máscara, olhos úmidos; rosto em 22–45%",
-  "keyframe_prompt": "Brazilian man, 67, white-grey hair, thick grey moustache, tan wrinkled skin, very thin, in a hospital bed with an oxygen mask. Close-up of the old man's face with an oxygen mask in a hospital bed, eyes wet, looking up. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. cold fluorescent hospital light, desaturated blue-green, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 67, white-grey hair, thick grey moustache, tan wrinkled skin, very thin, in a hospital bed with an oxygen mask. Close-up of the old man's face with an oxygen mask in a hospital bed, eyes wet, looking up. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). cold fluorescent hospital light, desaturated blue-green, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the mask fogs with a shallow breath, a tear forms; slow 3% push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1484,7 +1484,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "detalhe: a mão trêmula dele tentando segurar um copo com canudo; a mão dela amparando; copo em ~40%",
-  "keyframe_prompt": "Brazilian man, 67, white-grey hair, thick grey moustache, tan wrinkled skin, very thin, in a hospital bed with an oxygen mask; Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. Close-up of the old man's trembling hand failing to hold a plastic cup with a straw, a woman's hand gently steadying the cup. Vertical 9:16 composition, cup at about 40% of the frame height, bottom third clean sheet. cold fluorescent hospital light, desaturated blue-green, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 67, white-grey hair, thick grey moustache, tan wrinkled skin, very thin, in a hospital bed with an oxygen mask; Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. Close-up of the old man's trembling hand failing to hold a plastic cup with a straw, a woman's hand gently steadying the cup. Vertical 9:16 composition, cup at about 40% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). cold fluorescent hospital light, desaturated blue-green, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "his hand trembles and her hand closes around it to steady the cup; static camera",
   "quebra": null,
   "texto_tela": null,
@@ -1571,7 +1571,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "Márcia (42) atravessando o estacionamento na chuva, sem guarda-chuva, de olhar vazio; rosto em ~32%",
-  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. The woman at 42 walking across a rainy hospital parking lot without an umbrella, hair wet, blank devastated expression. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. grey overcast rainy late afternoon, wet reflections, cold desaturated tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. The woman at 42 walking across a rainy hospital parking lot without an umbrella, hair wet, blank devastated expression. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). grey overcast rainy late afternoon, wet reflections, cold desaturated tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she walks toward the camera in the rain; slow backward tracking shot",
   "quebra": null,
   "texto_tela": null,
@@ -1664,7 +1664,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "fumaça enchendo o carro, o rosto dela vai sumindo na fumaça; rosto em 25–45%",
-  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. Inside a closed car, thick cigarette smoke slowly filling the air until the woman's face disappears in the grey haze. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. dim light inside a parked car on a rainy day, raindrops on the windshield, cold tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. Inside a closed car, thick cigarette smoke slowly filling the air until the woman's face disappears in the grey haze. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). dim light inside a parked car on a rainy day, raindrops on the windshield, cold tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the smoke thickens and swallows her face; static camera",
   "quebra": null,
   "texto_tela": null,
@@ -1698,7 +1698,7 @@
   "tipo": "broll",
   "refs": [],
   "enquadramento": "sala da casa de dia, raios de luz atravessando a névoa de fumaça parada no ar; sem pessoas",
-  "keyframe_prompt": "A lived-in Brazilian living room in daytime, rays of light cutting through a stale haze of cigarette smoke hanging in the air, a full ashtray on the coffee table. Vertical 9:16 composition, window light in the upper half, ashtray around 45% of the frame height, bottom third clean floor. flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "A lived-in Brazilian living room in daytime, rays of light cutting through a stale haze of cigarette smoke hanging in the air, a full ashtray on the coffee table. Vertical 9:16 composition, window light in the upper half, ashtray around 45% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "dust and smoke drift in the light beams; slow dolly forward",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -1716,7 +1716,7 @@
    "LUCIANO"
   ],
   "enquadramento": "Luciano no varal cheirando a manga de uma camisa e fazendo careta; rosto em ~32%",
-  "keyframe_prompt": "Brazilian man, 46, tan skin, short black hair greying at temples, light beard, gentle face, blue button shirt. The man at a backyard clothesline, sniffing the sleeve of a shirt hanging on the line and grimacing at the smell. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 46, tan skin, short black hair greying at temples, light beard, gentle face, blue button shirt. The man at a backyard clothesline, sniffing the sleeve of a shirt hanging on the line and grimacing at the smell. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "he sniffs the sleeve and wrinkles his nose; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1732,7 +1732,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "detalhe: banco do carro com cinzas e cinzeiro do carro cheio; em ~40%",
-  "keyframe_prompt": "Close-up of a car's ashtray overflowing with butts and ash scattered on the fabric seat. Vertical 9:16 composition, ashtray at about 40% of the frame height, bottom third clean seat. flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Close-up of a car's ashtray overflowing with butts and ash scattered on the fabric seat. Vertical 9:16 composition, ashtray at about 40% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "a little ash falls; quick push-in",
   "quebra": "whip",
   "texto_tela": null,
@@ -1748,7 +1748,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "detalhe: cortina amarelada balançando na janela; em 20–55%",
-  "keyframe_prompt": "Close-up of a yellowed nicotine-stained curtain moving gently at a window. Vertical 9:16 composition, curtain filling the band between 20% and 55% of the frame height, bottom third clean. flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Close-up of a yellowed nicotine-stained curtain moving gently at a window. Vertical 9:16 composition, curtain filling the band between 20% and 55% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the curtain sways in a breeze; slow tilt down",
   "quebra": null,
   "texto_tela": null,
@@ -1767,7 +1767,7 @@
    "COZINHA"
   ],
   "enquadramento": "Luciano de costas na cozinha abrindo a janela sobre a pia; corpo em 20–60%",
-  "keyframe_prompt": "Brazilian man, 46, tan skin, short black hair greying at temples, light beard, gentle face, blue button shirt; small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. The man seen from behind in the small kitchen, opening the window over the sink, silent. Vertical 9:16 composition, his head and shoulders at about 25%–45% of the frame height, window above, bottom third clean counter. flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 46, tan skin, short black hair greying at temples, light beard, gentle face, blue button shirt; small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. The man seen from behind in the small kitchen, opening the window over the sink, silent. Vertical 9:16 composition, his head and shoulders at about 25%–45% of the frame height, window above, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "he pushes the window open and stays still; static camera",
   "quebra": null,
   "texto_tela": null,
@@ -1785,7 +1785,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "pela porta da cozinha: Márcia (42) fumando na área de serviço, de lado; rosto em ~32%",
-  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. Through a kitchen doorway, the woman at 42 smoking in a small laundry area, turned sideways, looking down. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. Through a kitchen doorway, the woman at 42 smoking in a small laundry area, turned sideways, looking down. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she exhales smoke toward the small window; static camera through the doorway",
   "quebra": "zoom_punch",
   "texto_tela": null,
@@ -1803,7 +1803,7 @@
    "LUCIANO"
   ],
   "enquadramento": "close no rosto do Luciano, calado, olhando para fora pela janela aberta; rosto em 22–45%",
-  "keyframe_prompt": "Brazilian man, 46, tan skin, short black hair greying at temples, light beard, gentle face, blue button shirt. Close-up of the man's face at an open kitchen window, silent, sad and patient, saying nothing. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 46, tan skin, short black hair greying at temples, light beard, gentle face, blue button shirt. Close-up of the man's face at an open kitchen window, silent, sad and patient, saying nothing. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "he swallows and lowers his eyes; slow push-in",
   "quebra": null,
   "texto_tela": null,
@@ -1819,7 +1819,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "time-lapse de um cinzeiro enchendo de bitucas ao longo do dia; cinzeiro em ~42%, topo livre",
-  "keyframe_prompt": "Time-lapse of an ashtray on a table gradually filling with cigarette butts from morning to night, light changing. Vertical 9:16 composition, ashtray at about 42% of the frame height, clean empty dark area at the top of the frame, bottom third clean table. flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Time-lapse of an ashtray on a table gradually filling with cigarette butts from morning to night, light changing. Vertical 9:16 composition, ashtray at about 42% of the frame height, clean empty dark area at the top of the frame, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "butts accumulate rapidly as daylight turns to night; static time-lapse camera",
   "quebra": "speed_ramp",
   "texto_tela": {
@@ -1841,7 +1841,7 @@
    "COZINHA"
   ],
   "enquadramento": "Márcia (42) acendendo cigarro na cozinha junto ao café da manhã; rosto em ~32%, topo livre",
-  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse; small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. The woman at 42 lighting a cigarette at the kitchen table with a cup of coffee, morning, tired. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean, clean empty dark area at the top of the frame. flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse; small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot. The woman at 42 lighting a cigarette at the kitchen table with a cup of coffee, morning, tired. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders), clean empty dark area at the top of the frame. flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she lights the cigarette and sips coffee; fast push-in",
   "quebra": null,
   "texto_tela": {
@@ -1862,7 +1862,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "Márcia dirigindo com cigarro na mão, janela entreaberta; rosto em ~32%",
-  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. The woman at 42 driving a car in traffic with a cigarette between her fingers, window cracked open. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean, clean empty dark area at the top of the frame. flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. The woman at 42 driving a car in traffic with a cigarette between her fingers, window cracked open. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders), clean empty dark area at the top of the frame. flat hazy daylight inside a lived-in home, slightly yellowed tones, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she takes a drag while driving; handheld from the passenger seat",
   "quebra": "whip",
   "texto_tela": {
@@ -1883,7 +1883,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "Márcia no trabalho à noite, diante do computador (tela sem texto legível), cigarro aceso; rosto em ~32%",
-  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. The woman at 42 in a simple office blouse at a desk at night, staring at a computer screen with a blank glowing display, a lit cigarette in her hand, stressed. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean, clean empty dark area at the top of the frame. dim warm lamp light at night, deep shadows, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. The woman at 42 in a simple office blouse at a desk at night, staring at a computer screen with a blank glowing display, a lit cigarette in her hand, stressed. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders), clean empty dark area at the top of the frame. dim warm lamp light at night, deep shadows, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she presses the cigarette to her lips and rubs her forehead; slow push-in",
   "quebra": null,
   "texto_tela": {
@@ -1904,7 +1904,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "reflexo dela no espelho do banheiro, olheiras, pele cansada; rosto em 22–45%",
-  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. The woman at 42 looking at her own reflection in a small bathroom mirror, dark circles, tired skin, slightly yellowed teeth. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. harsh single overhead bathroom bulb, greenish cast, unflattering, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. The woman at 42 looking at her own reflection in a small bathroom mirror, dark circles, tired skin, slightly yellowed teeth. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). harsh single overhead bathroom bulb, greenish cast, unflattering, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she leans toward the mirror and studies her face; slow push-in over her shoulder",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -1923,7 +1923,7 @@
    "SOFIA_8"
   ],
   "enquadramento": "lembrança quente: Luciano e Sofia (8) rindo juntos à mesa da cozinha; rostos em 25–45%",
-  "keyframe_prompt": "Brazilian man, 46, tan skin, short black hair greying at temples, light beard, gentle face, blue button shirt; Brazilian girl, 8, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with small star. The man and the 8-year-old girl laughing together at a kitchen table at breakfast, warm and loving, seen from the doorway. Vertical 9:16 composition, both faces between 25% and 45% of the frame height, bottom third clean table. warm amber morning light through the window, soft halation, medium film grain, nostalgic memory feel. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 46, tan skin, short black hair greying at temples, light beard, gentle face, blue button shirt; Brazilian girl, 8, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with small star. The man and the 8-year-old girl laughing together at a kitchen table at breakfast, warm and loving, seen from the doorway. Vertical 9:16 composition, both faces between 25% and 45% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). warm amber morning light through the window, soft halation, medium film grain, nostalgic memory feel. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the girl laughs and he tickles her; slow push-in from the doorway",
   "quebra": null,
   "texto_tela": null,
@@ -1941,7 +1941,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "de volta ao espelho: ela tosse, curvada sobre a pia, depois se olha; rosto em ~35%",
-  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. The woman at 42 coughing hard, bent over the bathroom sink, then lifting her face to look at herself in the mirror. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), lower third of the frame kept clean. harsh single overhead bathroom bulb, greenish cast, unflattering, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. The woman at 42 coughing hard, bent over the bathroom sink, then lifting her face to look at herself in the mirror. Vertical 9:16 composition, face placed in the upper-middle of the frame (between 20% and 45% of the height), the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). harsh single overhead bathroom bulb, greenish cast, unflattering, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she coughs, grips the sink, then raises her eyes to the mirror; static camera",
   "quebra": null,
   "texto_tela": null,
@@ -1959,7 +1959,7 @@
    "DESENHO"
   ],
   "enquadramento": "corte seco: uma folha pautada de costas sobre um travesseiro, desenho escondido, cor de giz transparecendo; folha em 25–55%",
-  "keyframe_prompt": "child's crayon drawing on lined paper: a woman with a cigarette crossed by a red X, a crying girl beside her. A single sheet of lined paper lying face-down on a pillow, a child's crayon colors faintly showing through the back, the drawing hidden. Vertical 9:16 composition, sheet between 25% and 55% of the frame height, bottom third clean pillow. dim warm lamp light at night, deep shadows, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "child's crayon drawing on lined paper: a woman with a cigarette crossed by a red X, a crying girl beside her. A single sheet of lined paper lying face-down on a pillow, a child's crayon colors faintly showing through the back, the drawing hidden. Vertical 9:16 composition, sheet between 25% and 55% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). dim warm lamp light at night, deep shadows, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "a breath of air lifts the paper's corner slightly; slow push-in",
   "quebra": "corte_seco",
   "texto_tela": null,
@@ -1977,7 +1977,7 @@
    "DESENHO"
   ],
   "enquadramento": "detalhe: a ponta da folha; vermelho do giz atravessando o papel; em ~40%",
-  "keyframe_prompt": "child's crayon drawing on lined paper: a woman with a cigarette crossed by a red X, a crying girl beside her. Extreme close-up of the corner of a sheet of lined paper on a pillow, a red crayon stroke bleeding faintly through from the hidden side. Vertical 9:16 composition, detail at about 40% of the frame height, bottom third clean. dim warm lamp light at night, deep shadows, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "child's crayon drawing on lined paper: a woman with a cigarette crossed by a red X, a crying girl beside her. Extreme close-up of the corner of a sheet of lined paper on a pillow, a red crayon stroke bleeding faintly through from the hidden side. Vertical 9:16 composition, detail at about 40% of the frame height, the lower part of the frame continues the scene with a soft, uncluttered background (full-bleed photo, no blank bars, no borders). dim warm lamp light at night, deep shadows, film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "a hand-reach shadow falls across the paper; slow push-in",
   "quebra": null,
   "texto_tela": null,

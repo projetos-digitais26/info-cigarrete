@@ -102,7 +102,13 @@ for p, c, t0, d in linha:
         vf = f"{lento}{NORMAL},tpad=stop_mode=clone:stop_duration={d:.2f}"
     elif os.path.exists(kf):
         src = ["-loop", "1", "-i", kf]
-        vf = f"scale=1296:2304:flags=lanczos,zoompan=z='1+0.0009*on':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={n}:s={W}x{H}:fps={FPS},setsar=1"
+        # imagem animada: movimento de câmera variado por plano (determinístico pelo id) + leve tremor de câmera na mão
+        mov = sum(map(ord, p["id"])) % 5
+        z = {0: f"1.0+0.10*on/{n}", 1: f"1.10-0.10*on/{n}", 2: "1.10", 3: "1.10", 4: f"1.04+0.06*on/{n}"}[mov]
+        x = {2: f"(iw-iw/zoom)*on/{n}", 3: f"(iw-iw/zoom)*(1-on/{n})"}.get(mov, "iw/2-(iw/zoom/2)")
+        y = f"(ih-ih/zoom)*(1-on/{n})" if mov == 4 else "ih/2-(ih/zoom/2)"
+        treme = "+4*sin(on/7)+2*sin(on/3.1)"
+        vf = (f"scale=1620:2880:flags=lanczos,zoompan=z='{z}':x='{x}{treme}':y='{y}+3*cos(on/5.3)':d={n}:s={W}x{H}:fps={FPS},setsar=1")
     else:
         cor = COR_CARTAO.get(c["fase"], "0x222222")
         txt = "\n".join(textwrap.wrap(p.get("enquadramento") or p["tipo"], 30))[:400]
@@ -110,7 +116,7 @@ for p, c, t0, d in linha:
         src = ["-f", "lavfi", "-i", f"color=c={cor}:s={W}x{H}:r={FPS}"]
         vf = (f"drawtext=fontfile={FONTE}:text='{esc(p['id'] + '  ' + p['tipo'].upper())}':x=60:y=120:fontsize=46:fontcolor=white@0.6,"
               f"drawtext=fontfile={FONTE}:text='{esc(txt)}':x=60:y=560:fontsize=44:fontcolor=white:line_spacing=14")
-        if tt:
+        if False and tt:
             vf += f",drawtext=fontfile={FONTE}:text='{esc(tt[:60])}':x=(w-tw)/2:y=260:fontsize=56:fontcolor=0xffd36b:box=1:boxcolor=black@0.5:boxborderw=18"
         if p["tipo"] == "preto":
             src = ["-f", "lavfi", "-i", f"color=c=black:s={W}x{H}:r={FPS}"]; vf = "null"

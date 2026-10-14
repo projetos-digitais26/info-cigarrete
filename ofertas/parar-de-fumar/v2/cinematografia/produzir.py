@@ -101,6 +101,49 @@ def custo_plano(p):
     return c
 
 
+def ref_limpa(caminho):
+    """recorta a folha de referência: tira faixas lisas em cima/embaixo e, se tiver 2 retratos lado a lado, fica com o da esquerda
+    (sem isso o modelo de edição copia o layout da folha e o quadro sai com faixa vazia)"""
+    from PIL import Image
+    import numpy as np
+    dst = os.path.join(AQUI, "refs", "limpas", os.path.basename(caminho))
+    if os.path.exists(dst) and os.path.getmtime(dst) >= os.path.getmtime(caminho):
+        return dst
+    im = Image.open(caminho).convert("RGB"); a = np.asarray(im).astype(float)
+    linhas = np.where(a.std(axis=(1, 2)) > 6)[0]
+    if len(linhas):
+        im = im.crop((0, int(linhas[0]), im.width, int(linhas[-1]) + 1)); a = np.asarray(im).astype(float)
+    if im.width > .8 * im.height:   # dois painéis lado a lado
+        col = a.std(axis=(0, 2)); meio = im.width // 2; faixa = col[meio - 40:meio + 40]
+        corte = meio - 40 + int(np.argmin(faixa))
+        im = im.crop((0, 0, corte, im.height))
+    os.makedirs(os.path.dirname(dst), exist_ok=True); im.save(dst)
+    return dst
+
+
+def limpar_kf(caminho):
+    """corta faixas lisas nas bordas (o modelo às vezes completa a proporção com barra) e reenquadra em 9:16 (cover)"""
+    from PIL import Image
+    import numpy as np
+    im = Image.open(caminho).convert("RGB"); a = np.asarray(im.convert("L")).astype(float)
+    lisa = a.std(axis=1) < 3
+    t = 0
+    while t < len(lisa) * .4 and lisa[t]:
+        t += 1
+    b = len(lisa)
+    while b > len(lisa) * .6 and lisa[b - 1]:
+        b -= 1
+    if t > 4 or len(lisa) - b > 4:
+        im = im.crop((0, t, im.width, b))
+    W, H = im.size; alvo = 9 / 16
+    if W / H > alvo + .01:
+        nw = int(H * alvo); im = im.crop(((W - nw) // 2, 0, (W - nw) // 2 + nw, H))
+    elif W / H < alvo - .01:
+        nh = int(W / alvo); im = im.crop((0, (H - nh) // 2, W, (H - nh) // 2 + nh))
+    im.resize((1080, 1920), Image.LANCZOS).save(caminho)
+    return t > 4 or len(lisa) - b > 4
+
+
 def data_uri(caminho):
     mime = "image/png" if caminho.endswith(".png") else "image/jpeg"
     return f"data:{mime};base64," + base64.b64encode(open(caminho, "rb").read()).decode()
@@ -191,7 +234,7 @@ def fazer_plano(p, prompt_extra=""):
     if not p.get("keyframe_prompt"):
         return
     if not os.path.exists(kf):
-        imgs = [data_uri(os.path.join(AQUI, "refs", r + ".png")) for r in p.get("refs", [])
+        imgs = [data_uri(ref_limpa(os.path.join(AQUI, "refs", r + ".png"))) for r in p.get("refs", [])
                 if os.path.exists(os.path.join(AQUI, "refs", r + ".png"))][:4]
         prompt = (p["keyframe_prompt"] + " " + prompt_extra).strip() + " Vertical 9:16 frame."
         if imgs and tipo_kf(p) == "keyframe":
@@ -203,6 +246,8 @@ def fazer_plano(p, prompt_extra=""):
             ok = chamar(MODELO["ref"], {"prompt": prompt, "aspect_ratio": "9:16", "num_images": 1}, kf, "ref")
         if not ok:
             return
+        if limpar_kf(kf):
+            print(f"  faixa removida de {p['id']}", flush=True)
     if gera_video(p) and not os.path.exists(clip):
         m, img = MODELO["video"], data_uri(kf)
         entrada = {"prompt": p.get("motion_prompt") or "subtle natural motion, slow push-in",
