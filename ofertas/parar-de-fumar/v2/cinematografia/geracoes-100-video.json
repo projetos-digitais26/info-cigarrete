@@ -1,0 +1,4672 @@
+[
+ {
+  "id": "G001",
+  "cena": "A12",
+  "planos": [
+   "A12-1",
+   "A12-3",
+   "A12-4"
+  ],
+  "dur_tela": 9.4,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/A12-1.png",
+  "multi_shot": [
+   {
+    "plano": "A12-1",
+    "seg": 3.2,
+    "prompt": "the fingers turn the cigarette slowly; slow push-in",
+    "enquadramento": "mãos segurando um único cigarro apagado sobre a xícara, decidindo; mãos em ~40%"
+   },
+   {
+    "plano": "A12-3",
+    "seg": 2.8,
+    "prompt": "the smoke wisp thins and disappears; static camera",
+    "enquadramento": "um fio de fumaça na luz da janela vai afinando até sumir; em 20–50%"
+   },
+   {
+    "plano": "A12-4",
+    "seg": 3.4,
+    "prompt": "she places the cup down softly and smiles to herself; slow lateral dolly",
+    "enquadramento": "Márcia na mesa, termina o café e pousa a xícara vazia, olhar distraído na janela; rosto em ~30%"
+   }
+  ]
+ },
+ {
+  "id": "G002",
+  "cena": "A12",
+  "planos": [
+   "A12-5",
+   "A12-6"
+  ],
+  "dur_tela": 5.7,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/A12-5.png",
+  "multi_shot": [
+   {
+    "plano": "A12-5",
+    "seg": 2.8,
+    "prompt": "sunlight slowly slides across the table; slow push-in on the untouched pack",
+    "enquadramento": "detalhe: xícara vazia e maço intocado e fechado lado a lado na mesa ensolarada; objetos em ~40%"
+   },
+   {
+    "plano": "A12-6",
+    "seg": 2.8,
+    "prompt": "she pushes the window open and inhales; slow push-in",
+    "enquadramento": "Márcia abre a janela para o sol e respira fundo; rosto em ~30%"
+   }
+  ]
+ },
+ {
+  "id": "G003",
+  "cena": "A13",
+  "planos": [
+   "A13-1",
+   "A13-2",
+   "A13-3"
+  ],
+  "dur_tela": 9.1,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/A13-1.png",
+  "multi_shot": [
+   {
+    "plano": "A13-1",
+    "seg": 2.5,
+    "prompt": "she smiles softly as she speaks; slow push-in",
+    "enquadramento": "close dela se apresentando para a câmera; rosto em 22–45%"
+   },
+   {
+    "plano": "A13-2",
+    "seg": 3.8,
+    "prompt": "his kente cloth moves in the breeze and he turns his head slowly toward the camera; slow push-in",
+    "enquadramento": "chicote para Gana: Kwame sentado na cadeira entalhada à porta de casa, contraluz dourado; rosto em ~32%"
+   },
+   {
+    "plano": "A13-3",
+    "seg": 2.8,
+    "prompt": "slow forward drone glide toward the baobab, dust drifting",
+    "enquadramento": "plano aéreo baixo do vilarejo, estrada de terra vermelha, baobá, poeira dourada"
+   }
+  ]
+ },
+ {
+  "id": "G004",
+  "cena": "A13",
+  "planos": [
+   "A13-4"
+  ],
+  "dur_tela": 3.5,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/A13-4.png",
+  "multi_shot": [
+   {
+    "plano": "A13-4",
+    "seg": 3.5,
+    "prompt": "she nods once with conviction; slow push-in",
+    "enquadramento": "Márcia em plano médio, segura, olhando para a câmera; rosto em 28–48%, topo livre para o título"
+   }
+  ]
+ },
+ {
+  "id": "G005",
+  "cena": "A14",
+  "planos": [
+   "A14-1",
+   "A14-2",
+   "A14-3",
+   "A14-4"
+  ],
+  "dur_tela": 10.5,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/A14-1.png",
+  "multi_shot": [
+   {
+    "plano": "A14-1",
+    "seg": 3.1,
+    "prompt": "she leans in close to the lens; slow zoom-in",
+    "enquadramento": "ela se inclina para a câmera, zoom lento; rosto em 25–48%, topo livre"
+   },
+   {
+    "plano": "A14-2",
+    "seg": 2.1,
+    "prompt": "packs rush along the belt; fast lateral tracking shot",
+    "enquadramento": "fábrica: maços brancos sem marca passando rápido numa esteira, luz laranja-preta"
+   },
+   {
+    "plano": "A14-3",
+    "seg": 1.8,
+    "prompt": "banknotes flip through the counter at high speed; slow push-in",
+    "enquadramento": "máquina contadora de cédulas genéricas (sem moeda identificável), notas voando; em 25–55%"
+   },
+   {
+    "plano": "A14-4",
+    "seg": 3.5,
+    "prompt": "she holds the gaze, slight frown; very slow push-in",
+    "enquadramento": "volta ao close dela, mais sério, luz mais escura; rosto em 22–45%"
+   }
+  ]
+ },
+ {
+  "id": "G006",
+  "cena": "C09",
+  "planos": [
+   "C09-1",
+   "C09-2",
+   "C09-3",
+   "C09-4"
+  ],
+  "dur_tela": 5.1,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C09-1.png",
+  "multi_shot": [
+   {
+    "plano": "C09-1",
+    "seg": 1.2,
+    "prompt": "he exhales smoke and looks down the street; slow push-in",
+    "enquadramento": "jovem de 20 e poucos anos fumando no ponto de ônibus, fim de tarde; rosto em ~30%"
+   },
+   {
+    "plano": "C09-2",
+    "seg": 1.2,
+    "prompt": "she takes a quick drag and checks her watch; handheld follow",
+    "enquadramento": "mulher de terninho fumando na calçada em frente a um prédio comercial; rosto em ~30%"
+   },
+   {
+    "plano": "C09-3",
+    "seg": 1.2,
+    "prompt": "he flicks ash out of the window; slow dolly along the truck door",
+    "enquadramento": "caminhoneiro na cabine, braço para fora da janela com cigarro; rosto em ~32%"
+   },
+   {
+    "plano": "C09-4",
+    "seg": 1.5,
+    "prompt": "she exhales slowly through the window; slow push-in",
+    "enquadramento": "senhora de uns 70 anos fumando na janela de casa; rosto em ~30%"
+   }
+  ]
+ },
+ {
+  "id": "G007",
+  "cena": "C09",
+  "planos": [
+   "C09-5",
+   "C09-6",
+   "C09-7"
+  ],
+  "dur_tela": 9.8,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C09-5.png",
+  "multi_shot": [
+   {
+    "plano": "C09-5",
+    "seg": 3.0,
+    "prompt": "a hand stubs out one more butt on the pile; slow overhead rotation",
+    "enquadramento": "plongée em cinzeiro transbordando de bitucas sobre mesa de bar/cozinha; cinzeiro em ~40%"
+   },
+   {
+    "plano": "C09-6",
+    "seg": 3.6,
+    "prompt": "the hands snap the cigarette, pause, then reach for a new one; static camera",
+    "enquadramento": "mãos quebrando um cigarro ao meio com raiva e, em seguida, pegando outro do maço; mãos em ~40%"
+   },
+   {
+    "plano": "C09-7",
+    "seg": 3.3,
+    "prompt": "she tilts her head slightly with empathy; slow push-in",
+    "enquadramento": "Márcia olhando para a câmera, acolhedora; rosto em 22–45%"
+   }
+  ]
+ },
+ {
+  "id": "G008",
+  "cena": "C10",
+  "planos": [
+   "C10-1",
+   "C10-2",
+   "C10-3",
+   "C10-4"
+  ],
+  "dur_tela": 11.0,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C10-1.png",
+  "multi_shot": [
+   {
+    "plano": "C10-1",
+    "seg": 3.3,
+    "prompt": "the pack drops into the trash and the lid snaps shut; static camera",
+    "enquadramento": "pessoa (anônima, 30–40 anos) joga um maço no lixo da cozinha com decisão; mão e lixeira em 30–55%"
+   },
+   {
+    "plano": "C10-2",
+    "seg": 3.3,
+    "prompt": "he rubs his temples and rocks slightly; slow handheld push-in",
+    "enquadramento": "a mesma pessoa à noite, sentada na beira da cama, mãos nas têmporas, suando; rosto em ~32%"
+   },
+   {
+    "plano": "C10-3",
+    "seg": 2.4,
+    "prompt": "the hand lifts the pack out of the trash slowly then fast; static camera",
+    "enquadramento": "mesmo enquadramento da lixeira: a mão abre a tampa e tira o maço do lixo; mão em 30–55%"
+   },
+   {
+    "plano": "C10-4",
+    "seg": 2.0,
+    "prompt": "the lighter flares, he takes a drag and drops his head; slow push-in",
+    "enquadramento": "ele acende o cigarro na janela escura e baixa a cabeça, derrotado; rosto em ~32%"
+   }
+  ]
+ },
+ {
+  "id": "G009",
+  "cena": "C11",
+  "planos": [
+   "C11-1",
+   "C11-2",
+   "C11-3"
+  ],
+  "dur_tela": 8.7,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C11-1.png",
+  "multi_shot": [
+   {
+    "plano": "C11-1",
+    "seg": 3.3,
+    "prompt": "she leans slightly forward; slow push-in",
+    "enquadramento": "close da Márcia, mais séria, luz mais lateral; rosto em 22–45%"
+   },
+   {
+    "plano": "C11-2",
+    "seg": 2.2,
+    "prompt": "she blinks once slowly; locked-off camera",
+    "enquadramento": "extreme close nos olhos dela, firmes; olhos em ~35%, topo livre para o 🅣"
+   },
+   {
+    "plano": "C11-3",
+    "seg": 3.3,
+    "prompt": "the fist tightens and the pack crumples; slow push-in",
+    "enquadramento": "mão fechada esmagando um maço sem marca, nós dos dedos brancos, luz dura; mão em ~40%"
+   }
+  ]
+ },
+ {
+  "id": "G010",
+  "cena": "C11",
+  "planos": [
+   "C11-4"
+  ],
+  "dur_tela": 3.4,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C11-4.png",
+  "multi_shot": [
+   {
+    "plano": "C11-4",
+    "seg": 3.4,
+    "prompt": "she raises her eyebrows slightly with a knowing smile; slow push-in",
+    "enquadramento": "plano médio dela, um meio sorriso de quem sabe o segredo; rosto em 25–45%"
+   }
+  ]
+ },
+ {
+  "id": "G011",
+  "cena": "C12",
+  "planos": [
+   "C12-1",
+   "C12-2",
+   "C12-3"
+  ],
+  "dur_tela": 10.1,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C12-1.png",
+  "multi_shot": [
+   {
+    "plano": "C12-1",
+    "seg": 3.5,
+    "prompt": "she extends her hand toward the lens; slow push-in to meet it",
+    "enquadramento": "ela estende a mão para a câmera como num aperto de mão; rosto em ~30%, mão vindo para frente em ~50%"
+   },
+   {
+    "plano": "C12-2",
+    "seg": 3.0,
+    "prompt": "the door swings shut; slow push-in",
+    "enquadramento": "flash: a porta da UTI se fechando no corredor azul; porta em 20–55%"
+   },
+   {
+    "plano": "C12-3",
+    "seg": 3.5,
+    "prompt": "the chest rises with a breath and a hand taps the lighter in the pocket; slow push-in",
+    "enquadramento": "detalhe do bolso da camisa xadrez com o isqueiro prateado; bolso em ~38%"
+   }
+  ]
+ },
+ {
+  "id": "G012",
+  "cena": "C13",
+  "planos": [
+   "C13-1",
+   "C13-2",
+   "C13-3"
+  ],
+  "dur_tela": 11.1,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C13-1.png",
+  "multi_shot": [
+   {
+    "plano": "C13-1",
+    "seg": 3.3,
+    "prompt": "the stretcher rolls away down the corridor; slow motion dolly forward",
+    "enquadramento": "corredor de hospital, luz fria, câmera lenta, maca passando; corredor em perspectiva"
+   },
+   {
+    "plano": "C13-2",
+    "seg": 4.4,
+    "prompt": "he lights one cigarette from the other and exhales; slow lateral dolly",
+    "enquadramento": "lembrança: o pai sentado na varanda acendendo um cigarro na brasa do outro; rosto em ~32%"
+   },
+   {
+    "plano": "C13-3",
+    "seg": 3.3,
+    "prompt": "the lid clicks shut and the lighter slides into the pocket; static camera",
+    "enquadramento": "detalhe: a mão dele fechando o isqueiro prateado e guardando no bolso da camisa; mão em ~40%"
+   }
+  ]
+ },
+ {
+  "id": "G013",
+  "cena": "C14",
+  "planos": [
+   "C14-1",
+   "C14-2",
+   "C14-3"
+  ],
+  "dur_tela": 11.4,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C14-1.png",
+  "multi_shot": [
+   {
+    "plano": "C14-1",
+    "seg": 3.4,
+    "prompt": "light glints across the scratches; slow orbit around the lighter",
+    "enquadramento": "close do isqueiro prateado antigo, gasto, sobre a mesa de madeira; isqueiro em ~40%"
+   },
+   {
+    "plano": "C14-2",
+    "seg": 4.0,
+    "prompt": "he cups the flame and she leans in to light her cigarette; slow push-in",
+    "enquadramento": "o pai acende o cigarro da filha jovem (25 anos) com o isqueiro prateado; os dois rostos em 25–45%"
+   },
+   {
+    "plano": "C14-3",
+    "seg": 4.0,
+    "prompt": "they laugh and she leans her head toward him; slow lateral dolly",
+    "enquadramento": "os dois nas cadeiras de plástico, rindo, fumaça subindo no pôr do sol; rostos em ~32%"
+   }
+  ]
+ },
+ {
+  "id": "G014",
+  "cena": "C15",
+  "planos": [
+   "C15-1"
+  ],
+  "dur_tela": 4.4,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C15-1.png",
+  "multi_shot": [
+   {
+    "plano": "C15-1",
+    "seg": 4.4,
+    "prompt": "smoke rises slowly between them; slow motion that ramps to normal speed, slow pull-back",
+    "enquadramento": "silhuetas de pai e filha na varanda em contraluz, fumaça subindo, câmera lenta; silhuetas em 25–50%"
+   }
+  ]
+ },
+ {
+  "id": "G015",
+  "cena": "C18",
+  "planos": [
+   "C18-2"
+  ],
+  "dur_tela": 5.4,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C18-2.png",
+  "multi_shot": [
+   {
+    "plano": "C18-2",
+    "seg": 5.4,
+    "prompt": "her thumb strokes his hand once; locked-off camera, very slow fade up from black",
+    "enquadramento": "quase preto: a mão dela segurando a mão dele no leito, só o brilho do monitor; mesmo enquadramento lateral de A01-2; mãos em ~40%"
+   }
+  ]
+ },
+ {
+  "id": "G016",
+  "cena": "C23",
+  "planos": [
+   "C23-1",
+   "C23-2",
+   "C23-3",
+   "C23-4"
+  ],
+  "dur_tela": 10.1,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C23-1.png",
+  "multi_shot": [
+   {
+    "plano": "C23-1",
+    "seg": 3.0,
+    "prompt": "dust and smoke drift in the light beams; slow dolly forward",
+    "enquadramento": "sala da casa de dia, raios de luz atravessando a névoa de fumaça parada no ar; sem pessoas"
+   },
+   {
+    "plano": "C23-2",
+    "seg": 4.0,
+    "prompt": "he sniffs the sleeve and wrinkles his nose; slow push-in",
+    "enquadramento": "Luciano no varal cheirando a manga de uma camisa e fazendo careta; rosto em ~32%"
+   },
+   {
+    "plano": "C23-3",
+    "seg": 1.5,
+    "prompt": "a little ash falls; quick push-in",
+    "enquadramento": "detalhe: banco do carro com cinzas e cinzeiro do carro cheio; em ~40%"
+   },
+   {
+    "plano": "C23-4",
+    "seg": 1.5,
+    "prompt": "the curtain sways in a breeze; slow tilt down",
+    "enquadramento": "detalhe: cortina amarelada balançando na janela; em 20–55%"
+   }
+  ]
+ },
+ {
+  "id": "G017",
+  "cena": "C24",
+  "planos": [
+   "C24-1",
+   "C24-2",
+   "C24-3"
+  ],
+  "dur_tela": 8.7,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C24-1.png",
+  "multi_shot": [
+   {
+    "plano": "C24-1",
+    "seg": 3.5,
+    "prompt": "he pushes the window open and stays still; static camera",
+    "enquadramento": "Luciano de costas na cozinha abrindo a janela sobre a pia; corpo em 20–60%"
+   },
+   {
+    "plano": "C24-2",
+    "seg": 2.2,
+    "prompt": "she exhales smoke toward the small window; static camera through the doorway",
+    "enquadramento": "pela porta da cozinha: Márcia (42) fumando na área de serviço, de lado; rosto em ~32%"
+   },
+   {
+    "plano": "C24-3",
+    "seg": 3.0,
+    "prompt": "he swallows and lowers his eyes; slow push-in",
+    "enquadramento": "close no rosto do Luciano, calado, olhando para fora pela janela aberta; rosto em 22–45%"
+   }
+  ]
+ },
+ {
+  "id": "G018",
+  "cena": "C25",
+  "planos": [
+   "C25-1",
+   "C25-2",
+   "C25-3",
+   "C25-4"
+  ],
+  "dur_tela": 11.1,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C25-1.png",
+  "multi_shot": [
+   {
+    "plano": "C25-1",
+    "seg": 2.8,
+    "prompt": "butts accumulate rapidly as daylight turns to night; static time-lapse camera",
+    "enquadramento": "time-lapse de um cinzeiro enchendo de bitucas ao longo do dia; cinzeiro em ~42%, topo livre"
+   },
+   {
+    "plano": "C25-2",
+    "seg": 2.8,
+    "prompt": "she lights the cigarette and sips coffee; fast push-in",
+    "enquadramento": "Márcia (42) acendendo cigarro na cozinha junto ao café da manhã; rosto em ~32%, topo livre"
+   },
+   {
+    "plano": "C25-3",
+    "seg": 2.8,
+    "prompt": "she takes a drag while driving; handheld from the passenger seat",
+    "enquadramento": "Márcia dirigindo com cigarro na mão, janela entreaberta; rosto em ~32%"
+   },
+   {
+    "plano": "C25-4",
+    "seg": 2.8,
+    "prompt": "she presses the cigarette to her lips and rubs her forehead; slow push-in",
+    "enquadramento": "Márcia no trabalho à noite, diante do computador (tela sem texto legível), cigarro aceso; rosto em ~32%"
+   }
+  ]
+ },
+ {
+  "id": "G019",
+  "cena": "C26",
+  "planos": [
+   "C26-1",
+   "C26-2",
+   "C26-3"
+  ],
+  "dur_tela": 10.4,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C26-1.png",
+  "multi_shot": [
+   {
+    "plano": "C26-1",
+    "seg": 3.1,
+    "prompt": "she leans toward the mirror and studies her face; slow push-in over her shoulder",
+    "enquadramento": "reflexo dela no espelho do banheiro, olheiras, pele cansada; rosto em 22–45%"
+   },
+   {
+    "plano": "C26-2",
+    "seg": 3.1,
+    "prompt": "the girl laughs and he tickles her; slow push-in from the doorway",
+    "enquadramento": "lembrança quente: Luciano e Sofia (8) rindo juntos à mesa da cozinha; rostos em 25–45%"
+   },
+   {
+    "plano": "C26-3",
+    "seg": 4.2,
+    "prompt": "she coughs, grips the sink, then raises her eyes to the mirror; static camera",
+    "enquadramento": "de volta ao espelho: ela tosse, curvada sobre a pia, depois se olha; rosto em ~35%"
+   }
+  ]
+ },
+ {
+  "id": "G020",
+  "cena": "C27",
+  "planos": [
+   "C27-1",
+   "C27-2"
+  ],
+  "dur_tela": 6.2,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C27-1.png",
+  "multi_shot": [
+   {
+    "plano": "C27-1",
+    "seg": 3.4,
+    "prompt": "a breath of air lifts the paper's corner slightly; slow push-in",
+    "enquadramento": "corte seco: uma folha pautada de costas sobre um travesseiro, desenho escondido, cor de giz transparecendo; folha em 25–55%"
+   },
+   {
+    "plano": "C27-2",
+    "seg": 2.8,
+    "prompt": "a hand-reach shadow falls across the paper; slow push-in",
+    "enquadramento": "detalhe: a ponta da folha; vermelho do giz atravessando o papel; em ~40%"
+   }
+  ]
+ },
+ {
+  "id": "G021",
+  "cena": "C31",
+  "planos": [
+   "C31-1",
+   "C31-2",
+   "C31-3"
+  ],
+  "dur_tela": 10.5,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C31-1.png",
+  "multi_shot": [
+   {
+    "plano": "C31-1",
+    "seg": 3.1,
+    "prompt": "she lifts her head toward the sound of the door and her smile fades; slow push-in at floor level",
+    "enquadramento": "Plano médio, menina no chão da sala brincando"
+   },
+   {
+    "plano": "C31-2",
+    "seg": 3.7,
+    "prompt": "the woman opens her arms and waits, the girl does not move; slow rack focus from the girl to the mother",
+    "enquadramento": "Plano geral, mãe entra pela porta com os braços abertos; a filha não se levanta"
+   },
+   {
+    "plano": "C31-3",
+    "seg": 3.7,
+    "prompt": "the girl pulls away from the hug and wrinkles her nose; slow motion that ramps back to normal speed, handheld",
+    "enquadramento": "Plano fechado a dois: abraço, a menina vira o rosto e se afasta"
+   }
+  ]
+ },
+ {
+  "id": "G022",
+  "cena": "C32",
+  "planos": [
+   "C32-1",
+   "C32-2",
+   "C32-3"
+  ],
+  "dur_tela": 7.0,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C32-1.png",
+  "multi_shot": [
+   {
+    "plano": "C32-1",
+    "seg": 2.1,
+    "prompt": "the two pinkies lock and squeeze; slow push-in",
+    "enquadramento": "Detalhe, mindinhos entrelaçados (promessa)"
+   },
+   {
+    "plano": "C32-2",
+    "seg": 2.4,
+    "prompt": "she lifts her eyes from the drawing with resolve and breathes in; slow push-in of about 4%",
+    "enquadramento": "Close frontal, olhando o desenho, determinada"
+   },
+   {
+    "plano": "C32-3",
+    "seg": 2.4,
+    "prompt": "the hand presses the magnet and slides away, leaving the drawing; slow pull-back",
+    "enquadramento": "Plano detalhe, a mão prende o desenho na porta da geladeira"
+   }
+  ]
+ },
+ {
+  "id": "G023",
+  "cena": "C33",
+  "planos": [
+   "C33-1",
+   "C33-2"
+  ],
+  "dur_tela": 4.9,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C33-1.png",
+  "multi_shot": [
+   {
+    "plano": "C33-1",
+    "seg": 1.7,
+    "prompt": "she smiles and nods to herself; slow push-in",
+    "enquadramento": "Close, sorriso confiante de manhã"
+   },
+   {
+    "plano": "C33-2",
+    "seg": 3.2,
+    "prompt": "a last thin trail of smoke rises from a butt; very slow top-down push-in",
+    "enquadramento": "Tela dividida: à esquerda o sorriso (C33-1), à direita cinzeiro cheio"
+   }
+  ]
+ },
+ {
+  "id": "G024",
+  "cena": "C34",
+  "planos": [
+   "C34-1",
+   "C34-2",
+   "C34-3",
+   "C34-4"
+  ],
+  "dur_tela": 7.5,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C34-1.png",
+  "multi_shot": [
+   {
+    "plano": "C34-1",
+    "seg": 2.0,
+    "prompt": "fingers press and smooth the patch onto the skin; slow push-in",
+    "enquadramento": "Detalhe, adesivo colado no braço"
+   },
+   {
+    "plano": "C34-2",
+    "seg": 1.5,
+    "prompt": "the thumb pushes the gum through the foil; quick push-in",
+    "enquadramento": "Detalhe, chiclete saindo da cartela"
+   },
+   {
+    "plano": "C34-3",
+    "seg": 1.5,
+    "prompt": "the hand closes around the pill; slow tilt down",
+    "enquadramento": "Detalhe, comprimido na palma + copo d'água"
+   },
+   {
+    "plano": "C34-4",
+    "seg": 2.5,
+    "prompt": "her knuckles tighten and she exhales through her teeth; slow push-in",
+    "enquadramento": "Close, apertando a borda da pia, olhos fechados (força de vontade)"
+   }
+  ]
+ },
+ {
+  "id": "G025",
+  "cena": "C34",
+  "planos": [
+   "C34-5"
+  ],
+  "dur_tela": 2.5,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C34-5.png",
+  "multi_shot": [
+   {
+    "plano": "C34-5",
+    "seg": 2.5,
+    "prompt": "her thumb hovers then taps the screen; slow push-in onto the screen",
+    "enquadramento": "Detalhe, celular na mão, tela acesa (app de dias)"
+   }
+  ]
+ },
+ {
+  "id": "G026",
+  "cena": "C35",
+  "planos": [
+   "C35-2",
+   "C35-3",
+   "C35-4"
+  ],
+  "dur_tela": 10.9,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C35-2.png",
+  "multi_shot": [
+   {
+    "plano": "C35-2",
+    "seg": 3.1,
+    "prompt": "the smoke curls up and drifts across the square; slow overhead push-in",
+    "enquadramento": "Plongée no quadrado do dia 4: cigarro aceso pousado em cima"
+   },
+   {
+    "plano": "C35-3",
+    "seg": 3.4,
+    "prompt": "her chest rises with a long shaky breath as the craving washes over her; slow push-in with a slight sway",
+    "enquadramento": "Close, na mesa da cozinha ao amanhecer, a vontade chegando"
+   },
+   {
+    "plano": "C35-4",
+    "seg": 4.4,
+    "prompt": "she slaps the table and turns away; handheld camera, slight shake",
+    "enquadramento": "Plano a dois: ela irritada, mão na testa, discutindo com o Luciano"
+   }
+  ]
+ },
+ {
+  "id": "G027",
+  "cena": "C35b",
+  "planos": [
+   "C35b-1",
+   "C35b-2"
+  ],
+  "dur_tela": 7.7,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C35b-1.png",
+  "multi_shot": [
+   {
+    "plano": "C35b-1",
+    "seg": 2.9,
+    "prompt": "she leans in and raises her eyebrows slightly; slow push-in of about 4%",
+    "enquadramento": "Close frontal, presente, olhando para a câmera"
+   },
+   {
+    "plano": "C35b-2",
+    "seg": 4.8,
+    "prompt": "faint smoky wisps keep seeping into the skin; slow macro slide",
+    "enquadramento": "Macro, adesivo na pele com fios de fumaça penetrando"
+   }
+  ]
+ },
+ {
+  "id": "G028",
+  "cena": "C35b",
+  "planos": [
+   "C35b-3",
+   "C35b-4"
+  ],
+  "dur_tela": 9.6,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C35b-3.png",
+  "multi_shot": [
+   {
+    "plano": "C35b-3",
+    "seg": 5.3,
+    "prompt": "the serpent keeps eating as the plate is swapped, never stopping; slow orbit around the table",
+    "enquadramento": "Plano médio: serpente de fumaça comendo do prato; o prato é trocado e ela continua"
+   },
+   {
+    "plano": "C35b-4",
+    "seg": 4.3,
+    "prompt": "she shakes her head gently and holds the look; slow lateral dolly",
+    "enquadramento": "Close, presente, outro ângulo (3/4)"
+   }
+  ]
+ },
+ {
+  "id": "G029",
+  "cena": "C35b",
+  "planos": [
+   "C35b-5",
+   "C35b-6"
+  ],
+  "dur_tela": 6.7,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C35b-5.png",
+  "multi_shot": [
+   {
+    "plano": "C35b-5",
+    "seg": 3.1,
+    "prompt": "coffee pours and steam rises; very slow push-in",
+    "enquadramento": "Plano médio da cozinha de manhã, café caindo na xícara (mesma câmera do A07)"
+   },
+   {
+    "plano": "C35b-6",
+    "seg": 3.6,
+    "prompt": "steam drifts over the untouched pack; slow push-in toward the lighter",
+    "enquadramento": "Detalhe: maço e isqueiro ao lado da xícara, intactos, esperando"
+   }
+  ]
+ },
+ {
+  "id": "G030",
+  "cena": "C36",
+  "planos": [
+   "C36-4",
+   "C36-5"
+  ],
+  "dur_tela": 4.9,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C36-4.png",
+  "multi_shot": [
+   {
+    "plano": "C36-4",
+    "seg": 2.2,
+    "prompt": "she flinches and her eyes fill with tears; very slow push-in",
+    "enquadramento": "Close extremo, olhos da menina com medo"
+   },
+   {
+    "plano": "C36-5",
+    "seg": 2.7,
+    "prompt": "she slides down a little and closes her eyes; slow pull-back",
+    "enquadramento": "Plano médio, sozinha sentada no chão contra o armário, mão na boca"
+   }
+  ]
+ },
+ {
+  "id": "G031",
+  "cena": "C37",
+  "planos": [
+   "C37-1",
+   "C37-2"
+  ],
+  "dur_tela": 5.7,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C37-1.png",
+  "multi_shot": [
+   {
+    "plano": "C37-1",
+    "seg": 3.1,
+    "prompt": "the lid flicks open and the flame bursts alive in slow motion; slow push-in",
+    "enquadramento": "Detalhe, câmera lenta: isqueiro abrindo e a chama acendendo"
+   },
+   {
+    "plano": "C37-2",
+    "seg": 2.6,
+    "prompt": "she inhales, the ember glows, she closes her eyes in guilt; very slow push-in",
+    "enquadramento": "Close, rosto iluminado pela chama, primeira tragada, culpa"
+   }
+  ]
+ },
+ {
+  "id": "G032",
+  "cena": "C37a",
+  "planos": [
+   "C37a-1",
+   "C37a-2",
+   "C37a-3"
+  ],
+  "dur_tela": 10.3,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C37a-1.png",
+  "multi_shot": [
+   {
+    "plano": "C37a-1",
+    "seg": 3.3,
+    "prompt": "smoke rushes down the airway; fast forward fly-through camera",
+    "enquadramento": "Animação 3D: interior da traqueia, fumaça descendo"
+   },
+   {
+    "plano": "C37a-2",
+    "seg": 3.8,
+    "prompt": "dark smoke spreads and the alveoli darken one cluster at a time; slow pull-back",
+    "enquadramento": "Animação 3D: árvore brônquica, alvéolos escurecendo"
+   },
+   {
+    "plano": "C37a-3",
+    "seg": 3.3,
+    "prompt": "one figure dissolves into smoke and vanishes while the other keeps smoking; static camera",
+    "enquadramento": "Plano médio: duas pessoas fumando lado a lado; uma vira fumaça e some"
+   }
+  ]
+ },
+ {
+  "id": "G033",
+  "cena": "C37a",
+  "planos": [
+   "C37a-4",
+   "C37a-5",
+   "C37a-6"
+  ],
+  "dur_tela": 11.1,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C37a-4.png",
+  "multi_shot": [
+   {
+    "plano": "C37a-4",
+    "seg": 3.8,
+    "prompt": "particles swarm upward from the ember; slow macro push-in",
+    "enquadramento": "Macro da ponta do cigarro: brasa e partículas"
+   },
+   {
+    "plano": "C37a-5",
+    "seg": 3.5,
+    "prompt": "particles touch the cells and some deform and darken; slow drift",
+    "enquadramento": "Animação 3D: partículas chegando às células, algumas escurecem"
+   },
+   {
+    "plano": "C37a-6",
+    "seg": 3.8,
+    "prompt": "red spots pulse at the mouth then the throat; slow tilt down",
+    "enquadramento": "Animação 3D: corpo translúcido, pontos vermelhos na boca e garganta"
+   }
+  ]
+ },
+ {
+  "id": "G034",
+  "cena": "C37a",
+  "planos": [
+   "C37a-7"
+  ],
+  "dur_tela": 3.8,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C37a-7.png",
+  "multi_shot": [
+   {
+    "plano": "C37a-7",
+    "seg": 3.8,
+    "prompt": "red spots pulse in the lungs then lower in the bladder; continuous tilt down",
+    "enquadramento": "Animação 3D: corpo translúcido, pontos no pulmão e na bexiga"
+   }
+  ]
+ },
+ {
+  "id": "G035",
+  "cena": "C37b",
+  "planos": [
+   "C37b-1",
+   "C37b-2",
+   "C37b-3",
+   "C37b-4"
+  ],
+  "dur_tela": 9.1,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C37b-1.png",
+  "multi_shot": [
+   {
+    "plano": "C37b-1",
+    "seg": 3.0,
+    "prompt": "the artery wall thickens and the channel narrows; slow push-in",
+    "enquadramento": "Animação 3D: artéria endurecendo e estreitando"
+   },
+   {
+    "plano": "C37b-2",
+    "seg": 2.7,
+    "prompt": "the cells slow down and clump into a clot; camera drifts along the vessel then stops",
+    "enquadramento": "Animação 3D: glóbulos se aglomerando, fluxo lento, coágulo"
+   },
+   {
+    "plano": "C37b-3",
+    "seg": 1.8,
+    "prompt": "he grabs his chest and sinks to one knee; handheld, slight push-in",
+    "enquadramento": "Plano médio, homem de 55 anos leva a mão ao peito na calçada"
+   },
+   {
+    "plano": "C37b-4",
+    "seg": 1.5,
+    "prompt": "one vessel flickers and goes dark; slow orbit",
+    "enquadramento": "Animação 3D: vasos do cérebro, um deles escurece"
+   }
+  ]
+ },
+ {
+  "id": "G036",
+  "cena": "C37c",
+  "planos": [
+   "C37c-1",
+   "C37c-2",
+   "C37c-3"
+  ],
+  "dur_tela": 10.3,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C37c-1.png",
+  "multi_shot": [
+   {
+    "plano": "C37c-1",
+    "seg": 3.6,
+    "prompt": "neither moves, only slow breathing; very slow overhead rotation",
+    "enquadramento": "Plongée: casal na cama, de costas um para o outro, luz azul"
+   },
+   {
+    "plano": "C37c-2",
+    "seg": 3.6,
+    "prompt": "he exhales slowly and rubs his eyes; slow push-in",
+    "enquadramento": "Close, o homem olhando o teto, frustrado"
+   },
+   {
+    "plano": "C37c-3",
+    "seg": 3.2,
+    "prompt": "the glowing flow weakens and stops short; slow tracking along the vessel",
+    "enquadramento": "Animação 3D abstrata: fluxo de sangue que perde força e não chega"
+   }
+  ]
+ },
+ {
+  "id": "G037",
+  "cena": "C37c",
+  "planos": [
+   "C37c-4"
+  ],
+  "dur_tela": 3.6,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C37c-4.png",
+  "multi_shot": [
+   {
+    "plano": "C37c-4",
+    "seg": 3.6,
+    "prompt": "collagen fibers fray and snap one by one; slow push-in",
+    "enquadramento": "Animação 3D: camadas da pele, fibras de colágeno se rompendo"
+   }
+  ]
+ },
+ {
+  "id": "G038",
+  "cena": "C37d",
+  "planos": [
+   "C37d-1",
+   "C37d-2",
+   "C37d-3"
+  ],
+  "dur_tela": 9.9,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C37d-1.png",
+  "multi_shot": [
+   {
+    "plano": "C37d-1",
+    "seg": 3.7,
+    "prompt": "the lungs struggle to inflate and slowly lose volume; slow pull-back",
+    "enquadramento": "Animação 3D: pulmões murchando, alvéolos colapsando"
+   },
+   {
+    "plano": "C37d-2",
+    "seg": 4.0,
+    "prompt": "he stops, leans on the cart and breathes hard; slow tracking alongside",
+    "enquadramento": "Plano médio, idoso puxando um cilindro de oxigênio até a padaria"
+   },
+   {
+    "plano": "C37d-3",
+    "seg": 2.2,
+    "prompt": "the mask fogs with each laboured breath, he blinks slowly; very slow push-in",
+    "enquadramento": "Close, o pai em casa com máscara de oxigênio, olhos úmidos"
+   }
+  ]
+ },
+ {
+  "id": "G039",
+  "cena": "C37d",
+  "planos": [
+   "C37d-4"
+  ],
+  "dur_tela": 2.5,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C37d-4.png",
+  "multi_shot": [
+   {
+    "plano": "C37d-4",
+    "seg": 2.5,
+    "prompt": "the chest heaves slowly with each difficult breath; static camera",
+    "enquadramento": "Detalhe, isqueiro no bolso da camisa subindo e descendo com a respiração"
+   }
+  ]
+ },
+ {
+  "id": "G040",
+  "cena": "C37e",
+  "planos": [
+   "C37e-1",
+   "C37e-2",
+   "C37e-3",
+   "C37e-4"
+  ],
+  "dur_tela": 11.1,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C37e-1.png",
+  "multi_shot": [
+   {
+    "plano": "C37e-1",
+    "seg": 3.5,
+    "prompt": "sand pours fast through the neck; slow push-in",
+    "enquadramento": "Plano médio, ampulheta com areia caindo rápido"
+   },
+   {
+    "plano": "C37e-2",
+    "seg": 1.9,
+    "prompt": "grains stream down; static",
+    "enquadramento": "Macro: grãos de areia caindo pelo gargalo"
+   },
+   {
+    "plano": "C37e-3",
+    "seg": 3.2,
+    "prompt": "candle flames flicker and the family laughs in the blur; slow push-in toward the empty chair",
+    "enquadramento": "Plano médio, ceia de Natal com uma cadeira vazia"
+   },
+   {
+    "plano": "C37e-4",
+    "seg": 2.5,
+    "prompt": "caps fly upward in slow motion; slow tilt down to the empty seat",
+    "enquadramento": "Plano geral, formatura: capelos para o alto; uma cadeira vazia na plateia"
+   }
+  ]
+ },
+ {
+  "id": "G041",
+  "cena": "C37e",
+  "planos": [
+   "C37e-5",
+   "C37e-6"
+  ],
+  "dur_tela": 4.7,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C37e-5.png",
+  "multi_shot": [
+   {
+    "plano": "C37e-5",
+    "seg": 2.2,
+    "prompt": "the tiny fingers squeeze; very slow push-in",
+    "enquadramento": "Detalhe: mãozinha de recém-nascido segurando um dedo adulto"
+   },
+   {
+    "plano": "C37e-6",
+    "seg": 2.5,
+    "prompt": "the ember eats the paper in accelerating time-lapse; static",
+    "enquadramento": "Macro: cigarro queimando até o filtro no cinzeiro"
+   }
+  ]
+ },
+ {
+  "id": "G042",
+  "cena": "C37f",
+  "planos": [
+   "C37f-1",
+   "C37f-2",
+   "C37f-3"
+  ],
+  "dur_tela": 7.8,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C37f-1.png",
+  "multi_shot": [
+   {
+    "plano": "C37f-1",
+    "seg": 2.7,
+    "prompt": "the smoke curls back into the car; slow pan toward the back seat",
+    "enquadramento": "Detalhe, mão com cigarro na janela do motorista, fumaça voltando para dentro"
+   },
+   {
+    "plano": "C37f-2",
+    "seg": 3.1,
+    "prompt": "she coughs and waves the smoke away; slow push-in",
+    "enquadramento": "Plano médio, menina no banco de trás, envolta em fumaça, tossindo"
+   },
+   {
+    "plano": "C37f-3",
+    "seg": 1.9,
+    "prompt": "her eyes blink slowly through the haze; static camera with slight car vibration",
+    "enquadramento": "Detalhe: olhos da menina no retrovisor, olhando para a mãe"
+   }
+  ]
+ },
+ {
+  "id": "G043",
+  "cena": "U01",
+  "planos": [
+   "U01-1",
+   "U01-2",
+   "U01-3",
+   "U01-4"
+  ],
+  "dur_tela": 11.2,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/U01-1.png",
+  "multi_shot": [
+   {
+    "plano": "U01-1",
+    "seg": 2.7,
+    "prompt": "her chest rises with the ventilator, the monitor light pulses; very slow push-in",
+    "enquadramento": "Plano alto do canto do quarto, por trás do monitor (outro ângulo da UTI da abertura)"
+   },
+   {
+    "plano": "U01-2",
+    "seg": 3.7,
+    "prompt": "she freezes mid-typing and presses her hand to her chest; slow push-in",
+    "enquadramento": "Plano médio no escritório, ela para de digitar e leva a mão ao peito"
+   },
+   {
+    "plano": "U01-3",
+    "seg": 2.7,
+    "prompt": "she sinks back into the chair fighting for breath; slow downward tilt pressing in",
+    "enquadramento": "Close, inclinando para trás, sem ar, como se algo pesasse sobre o peito"
+   },
+   {
+    "plano": "U01-4",
+    "seg": 2.1,
+    "prompt": "fingers tremble and the pen drops; static camera",
+    "enquadramento": "Insert: braço e mão esquerda tremendo, a caneta cai"
+   }
+  ]
+ },
+ {
+  "id": "G044",
+  "cena": "U01",
+  "planos": [
+   "U01-5"
+  ],
+  "dur_tela": 2.1,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/U01-5.png",
+  "multi_shot": [
+   {
+    "plano": "U01-5",
+    "seg": 2.1,
+    "prompt": "the image blurs and tilts as the vignette closes; handheld POV falling backward",
+    "enquadramento": "POV: luzes do teto do escritório girando e escurecendo"
+   }
+  ]
+ },
+ {
+  "id": "G045",
+  "cena": "U02",
+  "planos": [
+   "U02-1",
+   "U02-2"
+  ],
+  "dur_tela": 6.2,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/U02-1.png",
+  "multi_shot": [
+   {
+    "plano": "U02-1",
+    "seg": 3.4,
+    "prompt": "the ambulance rushes past the camera; low tracking shot",
+    "enquadramento": "Plano geral baixo, ambulância à noite no asfalto molhado"
+   },
+   {
+    "plano": "U02-2",
+    "seg": 2.8,
+    "prompt": "the stretcher bursts through the doors toward camera; fast backward dolly",
+    "enquadramento": "Contra-plongée: maca entrando pelas portas do pronto-socorro"
+   }
+  ]
+ },
+ {
+  "id": "G046",
+  "cena": "U03",
+  "planos": [
+   "U03-1",
+   "U03-2",
+   "U03-3",
+   "U03-4"
+  ],
+  "dur_tela": 11.7,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/U03-1.png",
+  "multi_shot": [
+   {
+    "plano": "U03-1",
+    "seg": 2.5,
+    "prompt": "she blinks twice and her eyes focus; slow rack focus",
+    "enquadramento": "Close lateral, piscando, recobrando a consciência"
+   },
+   {
+    "plano": "U03-2",
+    "seg": 3.1,
+    "prompt": "the doctor leans closer into frame; subtle POV breathing sway",
+    "enquadramento": "POV do leito: médico (fictício) se inclina e olha nos olhos"
+   },
+   {
+    "plano": "U03-3",
+    "seg": 3.7,
+    "prompt": "the man brings both hands to his face; slow push-in past the doctor's shoulder",
+    "enquadramento": "Plano médio no corredor: o médico de costas falando com o Luciano"
+   },
+   {
+    "plano": "U03-4",
+    "seg": 2.4,
+    "prompt": "his hands slide down his face; very slow push-in",
+    "enquadramento": "Close, Luciano com as mãos no rosto, olhos vermelhos"
+   }
+  ]
+ },
+ {
+  "id": "G047",
+  "cena": "U03",
+  "planos": [
+   "U03-5"
+  ],
+  "dur_tela": 2.4,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/U03-5.png",
+  "multi_shot": [
+   {
+    "plano": "U03-5",
+    "seg": 2.4,
+    "prompt": "the tear rolls down into the mask; static",
+    "enquadramento": "Close extremo, uma lágrima escorrendo até a máscara"
+   }
+  ]
+ },
+ {
+  "id": "G048",
+  "cena": "U04",
+  "planos": [
+   "U04-1",
+   "U04-2",
+   "U04-3",
+   "U04-4"
+  ],
+  "dur_tela": 10.6,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/U04-1.png",
+  "multi_shot": [
+   {
+    "plano": "U04-1",
+    "seg": 3.2,
+    "prompt": "a drop of water falls from the tap beside the band; slow push-in",
+    "enquadramento": "Detalhe: pulseira do hospital sobre a pia do banheiro de casa"
+   },
+   {
+    "plano": "U04-2",
+    "seg": 1.9,
+    "prompt": "the hand turns the lock with a quick twist; static",
+    "enquadramento": "Detalhe: mão girando a tranca da porta do banheiro"
+   },
+   {
+    "plano": "U04-3",
+    "seg": 2.9,
+    "prompt": "she flicks the lighter and the flame lights her crying face; slow push-in",
+    "enquadramento": "Plano médio baixo, sentada no chão contra a porta, acendendo o cigarro, chorando"
+   },
+   {
+    "plano": "U04-4",
+    "seg": 2.6,
+    "prompt": "the small shadows stop and stay still; static camera, smoke drifts",
+    "enquadramento": "Plano rente ao chão: vão da porta, sombra dos pezinhos parando do lado de fora"
+   }
+  ]
+ },
+ {
+  "id": "G049",
+  "cena": "U05",
+  "planos": [
+   "U05-1",
+   "U05-2",
+   "U05-3"
+  ],
+  "dur_tela": 8.2,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/U05-1.png",
+  "multi_shot": [
+   {
+    "plano": "U05-1",
+    "seg": 2.7,
+    "prompt": "the ash falls and breaks apart in slow motion; static",
+    "enquadramento": "Macro: cinza do cigarro caindo na pia branca"
+   },
+   {
+    "plano": "U05-2",
+    "seg": 3.1,
+    "prompt": "the smoke twists upward and forms the serpent's head; slow upward tilt",
+    "enquadramento": "Plano médio: a fumaça sobe da pia e toma forma de serpente"
+   },
+   {
+    "plano": "U05-3",
+    "seg": 2.4,
+    "prompt": "the serpent coils once around her neck; slow push-in",
+    "enquadramento": "Close no espelho: a serpente se enrola no pescoço dela"
+   }
+  ]
+ },
+ {
+  "id": "G050",
+  "cena": "U05",
+  "planos": [
+   "U05-4"
+  ],
+  "dur_tela": 3.9,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/U05-4.png",
+  "multi_shot": [
+   {
+    "plano": "U05-4",
+    "seg": 3.9,
+    "prompt": "she pulls at the smoke and it tightens harder; handheld push-in",
+    "enquadramento": "Close, ela tenta arrancar a serpente e ela aperta mais"
+   }
+  ]
+ },
+ {
+  "id": "G051",
+  "cena": "C37g",
+  "planos": [
+   "C37g-1",
+   "C37g-2",
+   "C37g-3"
+  ],
+  "dur_tela": 11.2,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C37g-1.png",
+  "multi_shot": [
+   {
+    "plano": "C37g-1",
+    "seg": 3.8,
+    "prompt": "reflections slide across the glass; slow upward glide",
+    "enquadramento": "Contra-plongée, arranha-céus de vidro ao entardecer"
+   },
+   {
+    "plano": "C37g-2",
+    "seg": 3.6,
+    "prompt": "glasses clink in slow motion; slow lateral dolly",
+    "enquadramento": "Plano médio, executivos brindando numa cobertura (rostos fora de foco)"
+   },
+   {
+    "plano": "C37g-3",
+    "seg": 3.8,
+    "prompt": "cigarettes rush along the belts; fast tracking shot",
+    "enquadramento": "Plano detalhe, linha de produção de cigarros (sem marca)"
+   }
+  ]
+ },
+ {
+  "id": "G052",
+  "cena": "C37g",
+  "planos": [
+   "C37g-4",
+   "C37g-5",
+   "C37g-6"
+  ],
+  "dur_tela": 10.4,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C37g-4.png",
+  "multi_shot": [
+   {
+    "plano": "C37g-4",
+    "seg": 3.8,
+    "prompt": "camera dollies down the aisle past endless boxes; slow dolly forward",
+    "enquadramento": "Travelling num corredor de farmácia com prateleiras de caixas"
+   },
+   {
+    "plano": "C37g-5",
+    "seg": 3.6,
+    "prompt": "box after box slides through; static, slightly accelerated",
+    "enquadramento": "Detalhe: caixas passando no caixa, uma atrás da outra"
+   },
+   {
+    "plano": "C37g-6",
+    "seg": 3.0,
+    "prompt": "the drawer slams open; quick push-in",
+    "enquadramento": "Detalhe: gaveta da caixa registradora abrindo"
+   }
+  ]
+ },
+ {
+  "id": "G053",
+  "cena": "C37g",
+  "planos": [
+   "C37g-7",
+   "C37g-8"
+  ],
+  "dur_tela": 8.0,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C37g-7.png",
+  "multi_shot": [
+   {
+    "plano": "C37g-7",
+    "seg": 4.1,
+    "prompt": "she lights the cigarette and stares at the empty boxes; slow push-in",
+    "enquadramento": "Plano médio, de madrugada na cozinha, acendendo outro cigarro ao lado de caixas vazias"
+   },
+   {
+    "plano": "C37g-8",
+    "seg": 3.8,
+    "prompt": "a falling note catches fire and curls; slow motion ramping to real time",
+    "enquadramento": "Macro, câmera lenta: notas caindo sobre um cinzeiro e pegando fogo"
+   }
+  ]
+ },
+ {
+  "id": "G054",
+  "cena": "C37h",
+  "planos": [
+   "C37h-2",
+   "C37h-3",
+   "C37h-4"
+  ],
+  "dur_tela": 9.5,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C37h-2.png",
+  "multi_shot": [
+   {
+    "plano": "C37h-2",
+    "seg": 4.2,
+    "prompt": "she holds the gaze, breathes and blinks once; very slow push-in of about 3%",
+    "enquadramento": "Close frontal, olhar fixo na câmera"
+   },
+   {
+    "plano": "C37h-3",
+    "seg": 3.5,
+    "prompt": "the hand slides the packs out of frame; slow push-in",
+    "enquadramento": "Detalhe: alguns maços (sem marca) sobre a mesa, uma mão os empurra para o lado"
+   },
+   {
+    "plano": "C37h-4",
+    "seg": 1.8,
+    "prompt": "she shakes her head once; static",
+    "enquadramento": "Close mais fechado: 'Ninguém.'"
+   }
+  ]
+ },
+ {
+  "id": "G055",
+  "cena": "C37h",
+  "planos": [
+   "C37h-5"
+  ],
+  "dur_tela": 3.5,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C37h-5.png",
+  "multi_shot": [
+   {
+    "plano": "C37h-5",
+    "seg": 3.5,
+    "prompt": "she leans in a few centimeters; slow push-in",
+    "enquadramento": "Close, ela se inclina para a câmera, voz baixa"
+   }
+  ]
+ },
+ {
+  "id": "G056",
+  "cena": "C38",
+  "planos": [
+   "C38-1",
+   "C38-2",
+   "C38-3",
+   "C38-4"
+  ],
+  "dur_tela": 11.1,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C38-1.png",
+  "multi_shot": [
+   {
+    "plano": "C38-1",
+    "seg": 2.8,
+    "prompt": "she lifts her chin slightly as she speaks; slow push-in",
+    "enquadramento": "Plano médio-close, fundo neutro, nova luz (lado oposto)"
+   },
+   {
+    "plano": "C38-2",
+    "seg": 2.8,
+    "prompt": "she opens her hand toward the lens; slow push-in",
+    "enquadramento": "Close, balança a cabeça e aponta de leve para a câmera ('Nem você')"
+   },
+   {
+    "plano": "C38-3",
+    "seg": 3.1,
+    "prompt": "she turns her eyes back to the lens; slow lateral dolly",
+    "enquadramento": "Close 3/4, séria"
+   },
+   {
+    "plano": "C38-4",
+    "seg": 2.4,
+    "prompt": "the fist crushes the pack in one violent squeeze; slow motion",
+    "enquadramento": "Detalhe, câmera lenta: um punho esmagando um maço inteiro de uma vez"
+   }
+  ]
+ },
+ {
+  "id": "G057",
+  "cena": "C39",
+  "planos": [
+   "C39-1"
+  ],
+  "dur_tela": 4.4,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C39-1.png",
+  "multi_shot": [
+   {
+    "plano": "C39-1",
+    "seg": 4.4,
+    "prompt": "her hand reaches for the pack before the coffee is even poured; slow push-in",
+    "enquadramento": "Plano médio, cozinha ao amanhecer, ainda de pijama, a mão vai ao maço ao lado do café"
+   }
+  ]
+ },
+ {
+  "id": "G058",
+  "cena": "C40",
+  "planos": [
+   "C40-1",
+   "C40-2",
+   "C40-3",
+   "C40-4"
+  ],
+  "dur_tela": 11.7,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C40-1.png",
+  "multi_shot": [
+   {
+    "plano": "C40-1",
+    "seg": 3.5,
+    "prompt": "the serpent rises and grows, coiling over the frame; slow pull-back",
+    "enquadramento": "Serpente de fumaça sobe do cigarro 'boss' e cresce sobre a linha do dia"
+   },
+   {
+    "plano": "C40-2",
+    "seg": 2.9,
+    "prompt": "her gaze drifts away and softens; slow push-in",
+    "enquadramento": "Close, olhar distante, lembrando"
+   },
+   {
+    "plano": "C40-3",
+    "seg": 3.2,
+    "prompt": "dust drifts in the backlight as he slowly raises his head; slow push-in",
+    "enquadramento": "Plano médio em contraluz: um velho numa cadeira de madeira, rosto na sombra"
+   },
+   {
+    "plano": "C40-4",
+    "seg": 2.1,
+    "prompt": "his eyes lift to meet the lens; static",
+    "enquadramento": "Close extremo só dos olhos, olhando para a lente"
+   }
+  ]
+ },
+ {
+  "id": "G059",
+  "cena": "C41",
+  "planos": [
+   "C41-1",
+   "C41-2",
+   "C41-3"
+  ],
+  "dur_tela": 10.3,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C41-1.png",
+  "multi_shot": [
+   {
+    "plano": "C41-1",
+    "seg": 3.6,
+    "prompt": "she takes slow careful steps forward while Luciano steadies her; slow handheld backward tracking shot, calm pace",
+    "enquadramento": "PM — saída do hospital, câmera recuando à frente deles"
+   },
+   {
+    "plano": "C41-2",
+    "seg": 3.2,
+    "prompt": "he turns his head and says one short sentence, firm and gentle; very slow push-in",
+    "enquadramento": "PP Luciano por cima do ombro dela, dentro do carro"
+   },
+   {
+    "plano": "C41-3",
+    "seg": 3.5,
+    "prompt": "the plane climbs and leaves the frame upward; slow tilt up following it",
+    "enquadramento": "PG avião decolando ao entardecer, sol atrás"
+   }
+  ]
+ },
+ {
+  "id": "G060",
+  "cena": "C42",
+  "planos": [
+   "C42-2",
+   "C42-3"
+  ],
+  "dur_tela": 6.6,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C42-2.png",
+  "multi_shot": [
+   {
+    "plano": "C42-2",
+    "seg": 3.2,
+    "prompt": "the zipper runs around the suitcase corner; slow lateral dolly",
+    "enquadramento": "PD mãos fechando a mala sobre a cama"
+   },
+   {
+    "plano": "C42-3",
+    "seg": 3.4,
+    "prompt": "she looks out of the window, then guiltily down at her bag; very slow push-in",
+    "enquadramento": "PP Márcia na janela do avião"
+   }
+  ]
+ },
+ {
+  "id": "G061",
+  "cena": "C43",
+  "planos": [
+   "C43-1",
+   "C43-2",
+   "C43-3",
+   "C43-4"
+  ],
+  "dur_tela": 10.0,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C43-1.png",
+  "multi_shot": [
+   {
+    "plano": "C43-1",
+    "seg": 2.5,
+    "prompt": "drone glides forward over the coast with a slow descent",
+    "enquadramento": "Aéreo da costa de Acra"
+   },
+   {
+    "plano": "C43-2",
+    "seg": 2.5,
+    "prompt": "she walks toward camera, turning her head to look around; steady backward tracking shot",
+    "enquadramento": "PM Márcia andando numa rua movimentada"
+   },
+   {
+    "plano": "C43-3",
+    "seg": 2.5,
+    "prompt": "vendors chat and unfold a bright fabric; slow lateral tracking through the stalls",
+    "enquadramento": "PC mercado colorido"
+   },
+   {
+    "plano": "C43-4",
+    "seg": 2.5,
+    "prompt": "children run across the frame splashing water; slow-motion lateral dolly",
+    "enquadramento": "PG praia com canoas pintadas"
+   }
+  ]
+ },
+ {
+  "id": "G062",
+  "cena": "C44",
+  "planos": [
+   "C44-1",
+   "C44-2"
+  ],
+  "dur_tela": 4.7,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C44-1.png",
+  "multi_shot": [
+   {
+    "plano": "C44-1",
+    "seg": 2.7,
+    "prompt": "she lowers the cigarette and glances around, embarrassed; slow push-in",
+    "enquadramento": "PP Márcia no meio do mercado, a única com cigarro"
+   },
+   {
+    "plano": "C44-2",
+    "seg": 2.0,
+    "prompt": "she hides the cigarette behind her hip; rack focus from the smoke to the crowd",
+    "enquadramento": "PD mão com o cigarro, multidão desfocada"
+   }
+  ]
+ },
+ {
+  "id": "G063",
+  "cena": "C45",
+  "planos": [
+   "C45-1"
+  ],
+  "dur_tela": 2.6,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C45-1.png",
+  "multi_shot": [
+   {
+    "plano": "C45-1",
+    "seg": 2.6,
+    "prompt": "she scrolls with her thumb and stops, surprised; slow push-in",
+    "enquadramento": "PP no quarto do hotel, luz do celular no rosto"
+   }
+  ]
+ },
+ {
+  "id": "G064",
+  "cena": "C46",
+  "planos": [
+   "C46-1",
+   "C46-2",
+   "C46-3"
+  ],
+  "dur_tela": 11.1,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C46-1.png",
+  "multi_shot": [
+   {
+    "plano": "C46-1",
+    "seg": 4.0,
+    "prompt": "Kofi throws his head back laughing and Luciano smiles; slow arc around them",
+    "enquadramento": "PC Kofi e Luciano rindo na varanda"
+   },
+   {
+    "plano": "C46-2",
+    "seg": 2.8,
+    "prompt": "she gestures with one hand as she asks; static camera with subtle drift",
+    "enquadramento": "PP Márcia pergunta (contraplano)"
+   },
+   {
+    "plano": "C46-3",
+    "seg": 4.3,
+    "prompt": "he speaks warmly and points softly off-frame; slow push-in",
+    "enquadramento": "PP Kofi responde, apontando o horizonte"
+   }
+  ]
+ },
+ {
+  "id": "G065",
+  "cena": "C47",
+  "planos": [
+   "C47-1",
+   "C47-2",
+   "C47-3"
+  ],
+  "dur_tela": 8.8,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C47-1.png",
+  "multi_shot": [
+   {
+    "plano": "C47-1",
+    "seg": 3.4,
+    "prompt": "the car moves forward bumping gently; handheld forward motion",
+    "enquadramento": "Câmera subjetiva do banco de trás, estrada de terra vermelha"
+   },
+   {
+    "plano": "C47-2",
+    "seg": 2.8,
+    "prompt": "slow crane down from the baobab crown to the houses",
+    "enquadramento": "PG vilarejo com baobá"
+   },
+   {
+    "plano": "C47-3",
+    "seg": 2.6,
+    "prompt": "they walk toward the seated elder; slow follow from behind",
+    "enquadramento": "PC chegada; Kwame de costas na cadeira"
+   }
+  ]
+ },
+ {
+  "id": "G066",
+  "cena": "C48",
+  "planos": [
+   "C48-1",
+   "C48-2"
+  ],
+  "dur_tela": 8.7,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C48-1.png",
+  "multi_shot": [
+   {
+    "plano": "C48-1",
+    "seg": 4.5,
+    "prompt": "he breathes slowly, blinks, a faint smile appears; very slow push-in, slow motion",
+    "enquadramento": "PP Kwame sob o baobá, olhar para a lente, câmera lenta"
+   },
+   {
+    "plano": "C48-2",
+    "seg": 4.2,
+    "prompt": "the baby's fingers curl around the elder's finger; slow push-in",
+    "enquadramento": "PD mãos de um ancião segurando a mãozinha de um recém-nascido"
+   }
+  ]
+ },
+ {
+  "id": "G067",
+  "cena": "C48",
+  "planos": [
+   "C48-3"
+  ],
+  "dur_tela": 4.2,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C48-3.png",
+  "multi_shot": [
+   {
+    "plano": "C48-3",
+    "seg": 4.2,
+    "prompt": "he raises his hand slowly as he explains; slow lateral arc",
+    "enquadramento": "PM Kwame explicando, vilarejo atrás"
+   }
+  ]
+ },
+ {
+  "id": "G068",
+  "cena": "C49",
+  "planos": [
+   "C49-1",
+   "C49-2",
+   "C49-3"
+  ],
+  "dur_tela": 7.8,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C49-1.png",
+  "multi_shot": [
+   {
+    "plano": "C49-1",
+    "seg": 2.6,
+    "prompt": "her eyes narrow and she tilts her head; static with micro handheld",
+    "enquadramento": "PP Márcia confusa"
+   },
+   {
+    "plano": "C49-2",
+    "seg": 2.6,
+    "prompt": "his fingers roll and twist the end; slow push-in",
+    "enquadramento": "PD mãos de Kwame enrolando folhas secas"
+   },
+   {
+    "plano": "C49-3",
+    "seg": 2.6,
+    "prompt": "the flame touches the tip and the ember flares; macro push-in",
+    "enquadramento": "PD a ponta acesa com um graveto em brasa"
+   }
+  ]
+ },
+ {
+  "id": "G069",
+  "cena": "C50",
+  "planos": [
+   "C50-1",
+   "C50-2",
+   "C50-3"
+  ],
+  "dur_tela": 10.0,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C50-1.png",
+  "multi_shot": [
+   {
+    "plano": "C50-1",
+    "seg": 3.6,
+    "prompt": "he exhales slowly; slow push-in",
+    "enquadramento": "PP Kwame traga com calma"
+   },
+   {
+    "plano": "C50-2",
+    "seg": 3.0,
+    "prompt": "he twists the ember out; static macro, slow pace",
+    "enquadramento": "PD apagando a metade numa pedra"
+   },
+   {
+    "plano": "C50-3",
+    "seg": 3.4,
+    "prompt": "the half falls onto the salt; slow motion ramping to real time, slight tilt down",
+    "enquadramento": "PD a metade cai no pote de vidro com sal"
+   }
+  ]
+ },
+ {
+  "id": "G070",
+  "cena": "C50",
+  "planos": [
+   "C50-4"
+  ],
+  "dur_tela": 4.5,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C50-4.png",
+  "multi_shot": [
+   {
+    "plano": "C50-4",
+    "seg": 4.5,
+    "prompt": "he speaks gently and nods once; very slow push-in",
+    "enquadramento": "PP Kwame fala para ela, pote no joelho"
+   }
+  ]
+ },
+ {
+  "id": "G071",
+  "cena": "C51",
+  "planos": [
+   "C51-1",
+   "C51-5"
+  ],
+  "dur_tela": 4.8,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C51-1.png",
+  "multi_shot": [
+   {
+    "plano": "C51-1",
+    "seg": 2.8,
+    "prompt": "she talks with open hands, the fire flickering; slow lateral dolly",
+    "enquadramento": "PG os dois frente a frente, fogueira entre eles, céu roxo"
+   },
+   {
+    "plano": "C51-5",
+    "seg": 2.0,
+    "prompt": "she wipes a tear and keeps talking; slow push-in",
+    "enquadramento": "PP Márcia contando, lágrimas na luz do fogo"
+   }
+  ]
+ },
+ {
+  "id": "G072",
+  "cena": "C52",
+  "planos": [
+   "C52-1",
+   "C52-2"
+  ],
+  "dur_tela": 8.4,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C52-1.png",
+  "multi_shot": [
+   {
+    "plano": "C52-1",
+    "seg": 4.0,
+    "prompt": "a slow nod, steady gaze; slow push-in",
+    "enquadramento": "PP Kwame escuta em silêncio"
+   },
+   {
+    "plano": "C52-2",
+    "seg": 4.4,
+    "prompt": "he leans in and speaks one short question; slow push-in tightening",
+    "enquadramento": "PPP Kwame inclina-se e pergunta"
+   }
+  ]
+ },
+ {
+  "id": "G073",
+  "cena": "C53",
+  "planos": [
+   "C53-1"
+  ],
+  "dur_tela": 3.9,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C53-1.png",
+  "multi_shot": [
+   {
+    "plano": "C53-1",
+    "seg": 3.9,
+    "prompt": "she looks down, then up, and speaks; static with slight drift",
+    "enquadramento": "PP Márcia hesita e responde"
+   }
+  ]
+ },
+ {
+  "id": "G074",
+  "cena": "C54",
+  "planos": [
+   "C54-1",
+   "C54-2"
+  ],
+  "dur_tela": 5.7,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C54-1.png",
+  "multi_shot": [
+   {
+    "plano": "C54-1",
+    "seg": 2.4,
+    "prompt": "he laughs softly and shakes his head; slight handheld",
+    "enquadramento": "PP Kwame ri"
+   },
+   {
+    "plano": "C54-2",
+    "seg": 3.3,
+    "prompt": "the stick traces the snake's body and finishes the head; slow tilt following the line",
+    "enquadramento": "PD plongée: galho desenha uma cobra na areia"
+   }
+  ]
+ },
+ {
+  "id": "G075",
+  "cena": "C55",
+  "planos": [
+   "C55-1",
+   "C55-2",
+   "C55-3"
+  ],
+  "dur_tela": 9.1,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C55-1.png",
+  "multi_shot": [
+   {
+    "plano": "C55-1",
+    "seg": 3.6,
+    "prompt": "smoke twists into the serpent's body and its head rises; slow push-in",
+    "enquadramento": "PG a fumaça da fogueira vira serpente"
+   },
+   {
+    "plano": "C55-2",
+    "seg": 2.6,
+    "prompt": "a fast strike toward camera; the camera jolts back",
+    "enquadramento": "PP a serpente se vira e ataca a lente"
+   },
+   {
+    "plano": "C55-3",
+    "seg": 2.9,
+    "prompt": "he blinks once, steady; imperceptible push-in",
+    "enquadramento": "PPP olhos do Kwame com o fogo refletido"
+   }
+  ]
+ },
+ {
+  "id": "G076",
+  "cena": "C56",
+  "planos": [
+   "C56-1",
+   "C56-2"
+  ],
+  "dur_tela": 8.4,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C56-1.png",
+  "multi_shot": [
+   {
+    "plano": "C56-1",
+    "seg": 4.2,
+    "prompt": "the body undulates slowly as the rings glow in sequence; slow lateral dolly along the body",
+    "enquadramento": "PG serpente de anéis luminosos"
+   },
+   {
+    "plano": "C56-2",
+    "seg": 4.2,
+    "prompt": "the camera glides along the body toward the head; accelerating dolly",
+    "enquadramento": "Travelling macro do rabo até a cabeça"
+   }
+  ]
+ },
+ {
+  "id": "G077",
+  "cena": "C56",
+  "planos": [
+   "C56-3"
+  ],
+  "dur_tela": 4.3,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C56-3.png",
+  "multi_shot": [
+   {
+    "plano": "C56-3",
+    "seg": 4.3,
+    "prompt": "the head lifts toward the sunrise and its eyes flare; slow push-in",
+    "enquadramento": "A cabeça, mais brilhante, ao lado do sol nascendo"
+   }
+  ]
+ },
+ {
+  "id": "G078",
+  "cena": "C57",
+  "planos": [
+   "C57-1",
+   "C57-2",
+   "C57-4"
+  ],
+  "dur_tela": 11.5,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C57-1.png",
+  "multi_shot": [
+   {
+    "plano": "C57-1",
+    "seg": 3.8,
+    "prompt": "he presses his palm to his chest and breathes in; slow push-in",
+    "enquadramento": "PP Kwame toca o próprio peito, brasas, madrugada"
+   },
+   {
+    "plano": "C57-2",
+    "seg": 3.8,
+    "prompt": "the head rises and the mouth opens; slow push-in",
+    "enquadramento": "A serpente faminta acorda no escuro"
+   },
+   {
+    "plano": "C57-4",
+    "seg": 3.9,
+    "prompt": "he extends his arm toward the horizon; slow arc revealing the sunrise",
+    "enquadramento": "PM Kwame aponta para o nascer do sol atrás do baobá"
+   }
+  ]
+ },
+ {
+  "id": "G079",
+  "cena": "C58",
+  "planos": [
+   "C58-1",
+   "C58-2",
+   "C58-4"
+  ],
+  "dur_tela": 10.2,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C58-1.png",
+  "multi_shot": [
+   {
+    "plano": "C58-1",
+    "seg": 3.2,
+    "prompt": "she exhales sharply as if punched; quick micro push-in",
+    "enquadramento": "PPP Márcia recebe o 'soco'"
+   },
+   {
+    "plano": "C58-2",
+    "seg": 3.4,
+    "prompt": "she takes the first drag and her shoulders drop; slow-motion push-in",
+    "enquadramento": "Flashback: de pijama, café e primeiro cigarro"
+   },
+   {
+    "plano": "C58-4",
+    "seg": 3.6,
+    "prompt": "she turns her head toward the nightstand; slow overhead push-in",
+    "enquadramento": "Plongée: acordada na cama à noite, maço no criado-mudo"
+   }
+  ]
+ },
+ {
+  "id": "G080",
+  "cena": "C58",
+  "planos": [
+   "C58-5"
+  ],
+  "dur_tela": 3.3,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C58-5.png",
+  "multi_shot": [
+   {
+    "plano": "C58-5",
+    "seg": 3.3,
+    "prompt": "a small nod, a tear catches the firelight; slow push-in",
+    "enquadramento": "PP de volta à fogueira: ela entende"
+   }
+  ]
+ },
+ {
+  "id": "G081",
+  "cena": "C59",
+  "planos": [
+   "C59-1",
+   "C59-2",
+   "C59-3"
+  ],
+  "dur_tela": 11.6,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C59-1.png",
+  "multi_shot": [
+   {
+    "plano": "C59-1",
+    "seg": 4.0,
+    "prompt": "he sets down the second jar; slow arc around the jars",
+    "enquadramento": "PD Kwame põe os dois frascos na mesa rústica"
+   },
+   {
+    "plano": "C59-2",
+    "seg": 3.8,
+    "prompt": "the sun rises quickly; static time-lapse camera",
+    "enquadramento": "Time-lapse: manhãs nascendo sobre o vilarejo"
+   },
+   {
+    "plano": "C59-3",
+    "seg": 3.8,
+    "prompt": "the head sags and fades; slow push-in",
+    "enquadramento": "A cabeça da serpente perde o brilho"
+   }
+  ]
+ },
+ {
+  "id": "G082",
+  "cena": "C59",
+  "planos": [
+   "C59-4"
+  ],
+  "dur_tela": 3.9,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C59-4.png",
+  "multi_shot": [
+   {
+    "plano": "C59-4",
+    "seg": 3.9,
+    "prompt": "she laughs and covers her mouth; slow drift",
+    "enquadramento": "PP Márcia ri, incrédula"
+   }
+  ]
+ },
+ {
+  "id": "G083",
+  "cena": "C60",
+  "planos": [
+   "C60-1",
+   "C60-2"
+  ],
+  "dur_tela": 7.6,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C60-1.png",
+  "multi_shot": [
+   {
+    "plano": "C60-1",
+    "seg": 3.8,
+    "prompt": "the jar passes from his hands into hers and her fingers close around it; slow push-in",
+    "enquadramento": "PD mãos: Kwame entrega um frasco"
+   },
+   {
+    "plano": "C60-2",
+    "seg": 3.8,
+    "prompt": "he speaks and gives a slight nod; slow push-in",
+    "enquadramento": "PP Kwame: 'no décimo quinto dia…'"
+   }
+  ]
+ },
+ {
+  "id": "G084",
+  "cena": "C61",
+  "planos": [
+   "C61-1",
+   "C61-2",
+   "C61-3"
+  ],
+  "dur_tela": 9.6,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C61-1.png",
+  "multi_shot": [
+   {
+    "plano": "C61-1",
+    "seg": 3.2,
+    "prompt": "she opens the laptop and the light hits her face; slow push-in",
+    "enquadramento": "PM em casa, madrugada, notebook"
+   },
+   {
+    "plano": "C61-2",
+    "seg": 3.0,
+    "prompt": "fingers type and pause; slow lateral slide",
+    "enquadramento": "PD dedos digitando"
+   },
+   {
+    "plano": "C61-3",
+    "seg": 3.4,
+    "prompt": "her eyes dart and she leans closer; slow push-in",
+    "enquadramento": "PP leitura intensa"
+   }
+  ]
+ },
+ {
+  "id": "G085",
+  "cena": "C62",
+  "planos": [
+   "C62-1",
+   "C62-2",
+   "C62-3"
+  ],
+  "dur_tela": 10.8,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C62-1.png",
+  "multi_shot": [
+   {
+    "plano": "C62-1",
+    "seg": 3.8,
+    "prompt": "she pulls back slightly in surprise; slow push-in",
+    "enquadramento": "PP ela congela diante da tela"
+   },
+   {
+    "plano": "C62-2",
+    "seg": 2.8,
+    "prompt": "goosebumps spread across the skin; slow macro slide",
+    "enquadramento": "Macro: arrepio no antebraço"
+   },
+   {
+    "plano": "C62-3",
+    "seg": 4.2,
+    "prompt": "the professional's pen moves down the page; slow push-in",
+    "enquadramento": "PD consultório anônimo, prancheta com questionário"
+   }
+  ]
+ },
+ {
+  "id": "G086",
+  "cena": "C63",
+  "planos": [
+   "C63-1",
+   "C63-3"
+  ],
+  "dur_tela": 8.1,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C63-1.png",
+  "multi_shot": [
+   {
+    "plano": "C63-1",
+    "seg": 4.2,
+    "prompt": "she leans back in the chair and covers her mouth; slow pull-out",
+    "enquadramento": "PM ela se afasta da tela, mão na boca"
+   },
+   {
+    "plano": "C63-3",
+    "seg": 3.9,
+    "prompt": "the smoke rises and wavers; slow push-in",
+    "enquadramento": "PD xícara fumegante e cigarro recém-aceso ao amanhecer"
+   }
+  ]
+ },
+ {
+  "id": "G087",
+  "cena": "C65",
+  "planos": [
+   "C65-1",
+   "C65-2"
+  ],
+  "dur_tela": 8.6,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C65-1.png",
+  "multi_shot": [
+   {
+    "plano": "C65-1",
+    "seg": 4.3,
+    "prompt": "the serpent spirals up and settles its head at the top; slow orbit",
+    "enquadramento": "A serpente se enrola na linha, cabeça no pico"
+   },
+   {
+    "plano": "C65-2",
+    "seg": 4.3,
+    "prompt": "a violent strike forward; camera shake",
+    "enquadramento": "A serpente ataca: a guerra contra o mais forte"
+   }
+  ]
+ },
+ {
+  "id": "G088",
+  "cena": "C65",
+  "planos": [
+   "C65-4"
+  ],
+  "dur_tela": 4.3,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C65-4.png",
+  "multi_shot": [
+   {
+    "plano": "C65-4",
+    "seg": 4.3,
+    "prompt": "the head fades first, then the body dissolves tail-last; slow pull-out",
+    "enquadramento": "A cabeça apaga e o corpo se desfaz"
+   }
+  ]
+ },
+ {
+  "id": "G089",
+  "cena": "C67",
+  "planos": [
+   "C67-2",
+   "C67-3"
+  ],
+  "dur_tela": 8.6,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C67-2.png",
+  "multi_shot": [
+   {
+    "plano": "C67-2",
+    "seg": 4.2,
+    "prompt": "her fingers push the pack away and rest on the table; slow push-in",
+    "enquadramento": "PD mão afasta o maço ao lado do café"
+   },
+   {
+    "plano": "C67-3",
+    "seg": 4.4,
+    "prompt": "time-lapse of the clock hands advancing and the light sweeping; static camera",
+    "enquadramento": "Relógio de parede sem números; sol varre os azulejos"
+   }
+  ]
+ },
+ {
+  "id": "G090",
+  "cena": "C67",
+  "planos": [
+   "C67-4"
+  ],
+  "dur_tela": 4.5,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C67-4.png",
+  "multi_shot": [
+   {
+    "plano": "C67-4",
+    "seg": 4.5,
+    "prompt": "she takes a slow deep breath and sips; slow push-in",
+    "enquadramento": "PP Márcia calma na janela com o café"
+   }
+  ]
+ },
+ {
+  "id": "G091",
+  "cena": "C68",
+  "planos": [
+   "C68-2",
+   "C68-3"
+  ],
+  "dur_tela": 9.2,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C68-2.png",
+  "multi_shot": [
+   {
+    "plano": "C68-2",
+    "seg": 4.6,
+    "prompt": "she takes the last short drag and lowers her hand; slow push-in",
+    "enquadramento": "PP de manhã ela fuma só a metade"
+   },
+   {
+    "plano": "C68-3",
+    "seg": 4.6,
+    "prompt": "the golden glow pulses once and fades to blue; slow orbit around the brain",
+    "enquadramento": "Animação 3D: o brilho de recompensa do cérebro se apaga"
+   }
+  ]
+ },
+ {
+  "id": "G092",
+  "cena": "C69",
+  "planos": [
+   "C69-2",
+   "C69-3",
+   "C69-4"
+  ],
+  "dur_tela": 11.0,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C69-2.png",
+  "multi_shot": [
+   {
+    "plano": "C69-2",
+    "seg": 3.8,
+    "prompt": "the half falls onto the salt in slow motion; slow tilt down",
+    "enquadramento": "PD a metade cai no frasco de sal"
+   },
+   {
+    "plano": "C69-3",
+    "seg": 3.4,
+    "prompt": "peppercorns cascade and the lid is pressed down; macro push-in",
+    "enquadramento": "Macro: pimenta e sal caem; tampa pressionada"
+   },
+   {
+    "plano": "C69-4",
+    "seg": 3.8,
+    "prompt": "steam curls up as she lifts the cup; slow push-in",
+    "enquadramento": "PD chá antes de dormir, abajur"
+   }
+  ]
+ },
+ {
+  "id": "G093",
+  "cena": "C69",
+  "planos": [
+   "C69-5",
+   "C69-6"
+  ],
+  "dur_tela": 6.4,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C69-5.png",
+  "multi_shot": [
+   {
+    "plano": "C69-5",
+    "seg": 3.4,
+    "prompt": "she smiles and closes her fist; slow push-in",
+    "enquadramento": "PP ela acorda: a pequena vitória"
+   },
+   {
+    "plano": "C69-6",
+    "seg": 3.0,
+    "prompt": "time-lapse of passing light; static camera",
+    "enquadramento": "Time-lapse: frascos na janela, manhãs passando"
+   }
+  ]
+ },
+ {
+  "id": "G094",
+  "cena": "C70",
+  "planos": [
+   "C70-1",
+   "C70-2"
+  ],
+  "dur_tela": 7.8,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C70-1.png",
+  "multi_shot": [
+   {
+    "plano": "C70-1",
+    "seg": 5.0,
+    "prompt": "she speaks with a slight smile and a small hand gesture; very slow push-in, natural blinking",
+    "enquadramento": "PP Márcia hoje, para a câmera"
+   },
+   {
+    "plano": "C70-2",
+    "seg": 2.8,
+    "prompt": "the hand lifts the cigarette; slow push-in",
+    "enquadramento": "PD cigarro aceso ao lado do café"
+   }
+  ]
+ },
+ {
+  "id": "G095",
+  "cena": "C71",
+  "planos": [
+   "C71-2",
+   "C71-3"
+  ],
+  "dur_tela": 6.1,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C71-2.png",
+  "multi_shot": [
+   {
+    "plano": "C71-2",
+    "seg": 3.0,
+    "prompt": "she raises an eyebrow and sighs; slow push-in",
+    "enquadramento": "PP de pijama, braços cruzados, cética"
+   },
+   {
+    "plano": "C71-3",
+    "seg": 3.1,
+    "prompt": "she opens the notebook and uncaps the pen; slow top-down push-in",
+    "enquadramento": "PD mãos abrem o caderno"
+   }
+  ]
+ },
+ {
+  "id": "G096",
+  "cena": "C72",
+  "planos": [
+   "C72-1",
+   "C72-2",
+   "C72-3"
+  ],
+  "dur_tela": 11.2,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C72-1.png",
+  "multi_shot": [
+   {
+    "plano": "C72-1",
+    "seg": 3.4,
+    "prompt": "her hand makes small writing movements; locked-off camera, barely perceptible push-in",
+    "enquadramento": "Plongée travada: caneta na página em branco"
+   },
+   {
+    "plano": "C72-2",
+    "seg": 3.6,
+    "prompt": "coffee pours and steam rises; slow lateral dolly",
+    "enquadramento": "PM de pijama passando o café"
+   },
+   {
+    "plano": "C72-3",
+    "seg": 4.2,
+    "prompt": "she grips the cup and exhales slowly; slow push-in",
+    "enquadramento": "PP a vontade: maxilar tenso diante do maço"
+   }
+  ]
+ },
+ {
+  "id": "G097",
+  "cena": "C72",
+  "planos": [
+   "C72-4"
+  ],
+  "dur_tela": 4.3,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C72-4.png",
+  "multi_shot": [
+   {
+    "plano": "C72-4",
+    "seg": 4.3,
+    "prompt": "she looks at the clock, nods and slides the pack; slow arc",
+    "enquadramento": "PP negociando: olha o relógio, afasta o maço"
+   }
+  ]
+ },
+ {
+  "id": "G098",
+  "cena": "C73",
+  "planos": [
+   "C73-3",
+   "C73-4"
+  ],
+  "dur_tela": 7.0,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C73-3.png",
+  "multi_shot": [
+   {
+    "plano": "C73-3",
+    "seg": 4.0,
+    "prompt": "she sips the tea and leans her head on his shoulder; slow push-in",
+    "enquadramento": "PC chá à noite na varanda com o Luciano"
+   },
+   {
+    "plano": "C73-4",
+    "seg": 3.0,
+    "prompt": "he smiles and speaks; slow push-in",
+    "enquadramento": "PP Luciano percebe e sorri"
+   }
+  ]
+ },
+ {
+  "id": "G099",
+  "cena": "C74",
+  "planos": [
+   "C74-1",
+   "C74-2",
+   "C74-3"
+  ],
+  "dur_tela": 9.0,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C74-1.png",
+  "multi_shot": [
+   {
+    "plano": "C74-1",
+    "seg": 2.6,
+    "prompt": "sunlight shifts slightly across the page; locked-off camera",
+    "enquadramento": "Plongée: página do Dia 5, frasco na borda"
+   },
+   {
+    "plano": "C74-2",
+    "seg": 3.4,
+    "prompt": "a new half drops in; slow push-in",
+    "enquadramento": "PD o frasco já com várias metades"
+   },
+   {
+    "plano": "C74-3",
+    "seg": 3.0,
+    "prompt": "the minute hand ticks forward; static camera, slight push-in",
+    "enquadramento": "Relógio da cozinha passando das 9"
+   }
+  ]
+ },
+ {
+  "id": "G100",
+  "cena": "C74",
+  "planos": [
+   "C74-4",
+   "C74-5"
+  ],
+  "dur_tela": 6.9,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C74-4.png",
+  "multi_shot": [
+   {
+    "plano": "C74-4",
+    "seg": 3.6,
+    "prompt": "her hand stops halfway and returns to the keyboard; slow lateral dolly",
+    "enquadramento": "PP no trabalho: a mão desiste do maço"
+   },
+   {
+    "plano": "C74-5",
+    "seg": 3.3,
+    "prompt": "the serpent sags and drifts slightly apart; slow push-in",
+    "enquadramento": "A serpente, magra, perdendo a força"
+   }
+  ]
+ },
+ {
+  "id": "G101",
+  "cena": "C75",
+  "planos": [
+   "C75-2",
+   "C75-3",
+   "C75-4"
+  ],
+  "dur_tela": 9.8,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C75-2.png",
+  "multi_shot": [
+   {
+    "plano": "C75-2",
+    "seg": 4.5,
+    "prompt": "Sofia leaps into her arms and Marcia catches and hugs her; handheld follow, slight slow motion",
+    "enquadramento": "PC Sofia corre e pula no colo dela"
+   },
+   {
+    "plano": "C75-3",
+    "seg": 3.0,
+    "prompt": "she sniffs and opens her eyes smiling; slow push-in",
+    "enquadramento": "PP Sofia cheira a blusa da mãe"
+   },
+   {
+    "plano": "C75-4",
+    "seg": 2.3,
+    "prompt": "she speaks happily; static with slight drift",
+    "enquadramento": "PP Sofia: 'cheiro de mãe'"
+   }
+  ]
+ },
+ {
+  "id": "G102",
+  "cena": "C76",
+  "planos": [
+   "C76-2",
+   "C76-3"
+  ],
+  "dur_tela": 3.3,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C76-2.png",
+  "multi_shot": [
+   {
+    "plano": "C76-2",
+    "seg": 1.7,
+    "prompt": "a tear forms and she swallows; imperceptible push-in",
+    "enquadramento": "PPP olhos marejados"
+   },
+   {
+    "plano": "C76-3",
+    "seg": 1.6,
+    "prompt": "she slides down slightly against the door; static camera",
+    "enquadramento": "PM no banheiro, costas na porta"
+   }
+  ]
+ },
+ {
+  "id": "G103",
+  "cena": "C77",
+  "planos": [
+   "C77-2",
+   "C77-3"
+  ],
+  "dur_tela": 7.2,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C77-2.png",
+  "multi_shot": [
+   {
+    "plano": "C77-2",
+    "seg": 3.4,
+    "prompt": "she pulls it out and turns it over, puzzled; slow push-in",
+    "enquadramento": "PD a mão tira um maço esquecido do bolso da jaqueta"
+   },
+   {
+    "plano": "C77-3",
+    "seg": 3.8,
+    "prompt": "dust drifts in the beam; very slow push-in",
+    "enquadramento": "PD maço intocado na mesa, poeira na luz"
+   }
+  ]
+ },
+ {
+  "id": "G104",
+  "cena": "C78",
+  "planos": [
+   "C78-1",
+   "C78-2"
+  ],
+  "dur_tela": 8.2,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C78-1.png",
+  "multi_shot": [
+   {
+    "plano": "C78-1",
+    "seg": 4.2,
+    "prompt": "she lifts the cup and sips, birds outside; locked-off camera, imperceptible push-in",
+    "enquadramento": "PM mesma câmera da A07: ela na cadeira de sempre, com o café"
+   },
+   {
+    "plano": "C78-2",
+    "seg": 4.0,
+    "prompt": "she drinks and puts the empty cup down; slow push-in",
+    "enquadramento": "PD o último gole e a xícara vazia"
+   }
+  ]
+ },
+ {
+  "id": "G105",
+  "cena": "C78",
+  "planos": [
+   "C78-3"
+  ],
+  "dur_tela": 4.3,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C78-3.png",
+  "multi_shot": [
+   {
+    "plano": "C78-3",
+    "seg": 4.3,
+    "prompt": "she stops, eyes widening slowly; very slow push-in",
+    "enquadramento": "PM na pia com a xícara, ela para"
+   }
+  ]
+ },
+ {
+  "id": "G106",
+  "cena": "C79",
+  "planos": [
+   "C79-1",
+   "C79-2"
+  ],
+  "dur_tela": 3.7,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C79-1.png",
+  "multi_shot": [
+   {
+    "plano": "C79-1",
+    "seg": 1.9,
+    "prompt": "she laughs in disbelief and covers her mouth; quick micro push-in",
+    "enquadramento": "PPP surpresa e riso nervoso"
+   },
+   {
+    "plano": "C79-2",
+    "seg": 1.8,
+    "prompt": "a sunbeam slides over the lighter; static, slow push-in",
+    "enquadramento": "PD o isqueiro do pai, fechado, sobre a mesa"
+   }
+  ]
+ },
+ {
+  "id": "G107",
+  "cena": "C80",
+  "planos": [
+   "C80-1",
+   "C80-2",
+   "C80-3"
+  ],
+  "dur_tela": 10.2,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C80-1.png",
+  "multi_shot": [
+   {
+    "plano": "C80-1",
+    "seg": 3.0,
+    "prompt": "she laughs through tears; slow push-in",
+    "enquadramento": "PP rindo e chorando"
+   },
+   {
+    "plano": "C80-2",
+    "seg": 2.0,
+    "prompt": "she runs past the camera; whip pan following her",
+    "enquadramento": "PM ela corre pelo corredor"
+   },
+   {
+    "plano": "C80-3",
+    "seg": 5.2,
+    "prompt": "they hold each other and sway as he whispers; slow arc around them",
+    "enquadramento": "PC o abraço: Luciano chora e ri"
+   }
+  ]
+ },
+ {
+  "id": "G108",
+  "cena": "C81",
+  "planos": [
+   "C81-1",
+   "C81-2"
+  ],
+  "dur_tela": 5.0,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C81-1.png",
+  "multi_shot": [
+   {
+    "plano": "C81-1",
+    "seg": 2.8,
+    "prompt": "her finger smooths the sticker down; slow push-in",
+    "enquadramento": "PD a mãozinha cola a estrela no desenho da geladeira"
+   },
+   {
+    "plano": "C81-2",
+    "seg": 2.2,
+    "prompt": "slow push-in toward the star",
+    "enquadramento": "PD o desenho com a estrelinha"
+   }
+  ]
+ },
+ {
+  "id": "G109",
+  "cena": "C82",
+  "planos": [
+   "C82-1",
+   "C82-2",
+   "C82-3"
+  ],
+  "dur_tela": 10.7,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C82-1.png",
+  "multi_shot": [
+   {
+    "plano": "C82-1",
+    "seg": 3.6,
+    "prompt": "handheld gentle drift right through the party, people moving naturally, smoke curling from the grill; relaxed pace",
+    "enquadramento": "PG quintal, churrasco de família"
+   },
+   {
+    "plano": "C82-2",
+    "seg": 4.3,
+    "prompt": "the man gestures with the cigarette while talking, she laughs and answers; slow push-in on the two; natural pace",
+    "enquadramento": "PM dois, cunhado de lado com o cigarro, Márcia sorrindo"
+   },
+   {
+    "plano": "C82-3",
+    "seg": 2.9,
+    "prompt": "coworker leans in and asks, she turns and smiles; slow lateral dolly; natural pace",
+    "enquadramento": "PM escritório, colega encostado na mesa"
+   }
+  ]
+ },
+ {
+  "id": "G110",
+  "cena": "C82",
+  "planos": [
+   "C82-4"
+  ],
+  "dur_tela": 3.6,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C82-4.png",
+  "multi_shot": [
+   {
+    "plano": "C82-4",
+    "seg": 3.6,
+    "prompt": "the other mother asks something with hope in her face, the woman nods; slight handheld push; natural pace",
+    "enquadramento": "PM portão da escola, mãe da amiga"
+   }
+  ]
+ },
+ {
+  "id": "G111",
+  "cena": "C83b",
+  "planos": [
+   "C83b-1",
+   "C83b-2",
+   "C83b-3"
+  ],
+  "dur_tela": 10.4,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C83b-1.png",
+  "multi_shot": [
+   {
+    "plano": "C83b-1",
+    "seg": 4.2,
+    "prompt": "slow drone push forward over the rooftops as the sun rises, lights switch on in windows; slow then building pace",
+    "enquadramento": "PG cidade amanhecendo"
+   },
+   {
+    "plano": "C83b-2",
+    "seg": 3.1,
+    "prompt": "she takes a slow sip and smiles; slow push-in; gentle pace",
+    "enquadramento": "PM senhora à janela com café"
+   },
+   {
+    "plano": "C83b-3",
+    "seg": 3.1,
+    "prompt": "he laughs and looks at the road ahead, sunlight flickers across the cab; camera static then slight drift; lively pace",
+    "enquadramento": "PM caminhoneiro na boleia"
+   }
+  ]
+ },
+ {
+  "id": "G112",
+  "cena": "C83b",
+  "planos": [
+   "C83b-4",
+   "C83b-5"
+  ],
+  "dur_tela": 6.0,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C83b-4.png",
+  "multi_shot": [
+   {
+    "plano": "C83b-4",
+    "seg": 3.1,
+    "prompt": "he runs toward the camera in slow motion that ramps to normal speed; tracking backwards; energetic",
+    "enquadramento": "PA homem correndo no parque"
+   },
+   {
+    "plano": "C83b-5",
+    "seg": 2.9,
+    "prompt": "children run in and she wraps them in a hug; slight handheld push; warm pace",
+    "enquadramento": "PM mãe abraçando os filhos"
+   }
+  ]
+ },
+ {
+  "id": "G113",
+  "cena": "C83c",
+  "planos": [
+   "C83c-2",
+   "C83c-3",
+   "C83c-4"
+  ],
+  "dur_tela": 11.3,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C83c-2.png",
+  "multi_shot": [
+   {
+    "plano": "C83c-2",
+    "seg": 4.1,
+    "prompt": "hands pour coffee, steam rises, sunlight flickers; subtle handheld POV breathing; slow intimate pace",
+    "enquadramento": "POV mãos do espectador fazendo café"
+   },
+   {
+    "plano": "C83c-3",
+    "seg": 4.4,
+    "prompt": "hand lowers the empty mug, pauses, the POV glances at the untouched pack; slow tilt down; contemplative pace",
+    "enquadramento": "POV xícara vazia e maço intocado"
+   },
+   {
+    "plano": "C83c-4",
+    "seg": 2.8,
+    "prompt": "the child rubs her eyes and starts walking toward the camera; static POV with breathing; gentle pace",
+    "enquadramento": "POV porta da cozinha, alguém chegando"
+   }
+  ]
+ },
+ {
+  "id": "G114",
+  "cena": "C83c",
+  "planos": [
+   "C83c-5"
+  ],
+  "dur_tela": 3.1,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C83c-5.png",
+  "multi_shot": [
+   {
+    "plano": "C83c-5",
+    "seg": 3.1,
+    "prompt": "she hugs the camera in slow motion that eases into real time; POV tilts slightly with the hug; tender pace",
+    "enquadramento": "POV abraço sem virar o rosto"
+   }
+  ]
+ },
+ {
+  "id": "G115",
+  "cena": "C84",
+  "planos": [
+   "C84-1",
+   "C84-2",
+   "C84-3",
+   "C84-4"
+  ],
+  "dur_tela": 11.3,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C84-1.png",
+  "multi_shot": [
+   {
+    "plano": "C84-1",
+    "seg": 2.4,
+    "prompt": "the phone vibrates repeatedly and slides slightly, light pulses from beneath it; locked-off camera; insistent rhythm",
+    "enquadramento": "PD celular vibrando no criado-mudo"
+   },
+   {
+    "plano": "C84-2",
+    "seg": 3.5,
+    "prompt": "barely perceptible slow push-in, the screen glow flickers; calm",
+    "enquadramento": "prints reais sobre fundo escuro"
+   },
+   {
+    "plano": "C84-3",
+    "seg": 3.1,
+    "prompt": "she types, pauses, keeps typing; very slow push-in; quiet pace",
+    "enquadramento": "PP Márcia na cama respondendo"
+   },
+   {
+    "plano": "C84-4",
+    "seg": 2.4,
+    "prompt": "she lowers the phone and exhales; the frame freezes for half a second; then slow push-in resumes",
+    "enquadramento": "PP Márcia baixa o celular"
+   }
+  ]
+ },
+ {
+  "id": "G116",
+  "cena": "C84",
+  "planos": [
+   "C84-5"
+  ],
+  "dur_tela": 2.0,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C84-5.png",
+  "multi_shot": [
+   {
+    "plano": "C84-5",
+    "seg": 2.0,
+    "prompt": "fingers close slowly around the phone; static; deliberate pace",
+    "enquadramento": "PD mão fechando sobre o celular"
+   }
+  ]
+ },
+ {
+  "id": "G117",
+  "cena": "C85",
+  "planos": [
+   "C85-1",
+   "C85-2",
+   "C85-3"
+  ],
+  "dur_tela": 10.6,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C85-1.png",
+  "multi_shot": [
+   {
+    "plano": "C85-1",
+    "seg": 3.4,
+    "prompt": "she walks slowly toward the elder, dust floating in sunbeams; slow crane down; nostalgic 24fps pace",
+    "enquadramento": "PG estrada de terra, despedida"
+   },
+   {
+    "plano": "C85-2",
+    "seg": 3.8,
+    "prompt": "his hands tighten gently around hers; slow push-in; tender pace",
+    "enquadramento": "PD mãos de Kwame segurando as de Márcia"
+   },
+   {
+    "plano": "C85-3",
+    "seg": 3.4,
+    "prompt": "he speaks slowly and nods once; very slow push-in, breathing; solemn pace",
+    "enquadramento": "PP Kwame falando"
+   }
+  ]
+ },
+ {
+  "id": "G118",
+  "cena": "C85",
+  "planos": [
+   "C85-4"
+  ],
+  "dur_tela": 3.0,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C85-4.png",
+  "multi_shot": [
+   {
+    "plano": "C85-4",
+    "seg": 3.0,
+    "prompt": "a tear forms, she swallows and nods; micro-movement, slow push-in; emotional pace",
+    "enquadramento": "PP Márcia ouvindo, contraplano"
+   }
+  ]
+ },
+ {
+  "id": "G119",
+  "cena": "C86",
+  "planos": [
+   "C86-1",
+   "C86-2",
+   "C86-3",
+   "C86-4"
+  ],
+  "dur_tela": 10.0,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C86-1.png",
+  "multi_shot": [
+   {
+    "plano": "C86-1",
+    "seg": 3.8,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C86-2",
+    "seg": 2.2,
+    "prompt": "hands slide the objects together into a neat group; slow overhead push; purposeful pace",
+    "enquadramento": "PD mãos juntando tudo na mesa"
+   },
+   {
+    "plano": "C86-3",
+    "seg": 2.4,
+    "prompt": "pages flip slowly in the breeze; static; calm",
+    "enquadramento": "PD caderno folheando + cartões"
+   },
+   {
+    "plano": "C86-4",
+    "seg": 1.6,
+    "prompt": "salt falls in slow motion; slight rack focus; quick",
+    "enquadramento": "PD frascos"
+   }
+  ]
+ },
+ {
+  "id": "G120",
+  "cena": "C86",
+  "planos": [
+   "C86-5",
+   "C86-6",
+   "C86-7"
+  ],
+  "dur_tela": 4.8,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C86-5.png",
+  "multi_shot": [
+   {
+    "plano": "C86-5",
+    "seg": 1.4,
+    "prompt": "steam rises and curls; static; quick",
+    "enquadramento": "PD chá fumegante"
+   },
+   {
+    "plano": "C86-6",
+    "seg": 1.6,
+    "prompt": "the hand closes the notebook and taps it; static; quick",
+    "enquadramento": "PD diário fechando"
+   },
+   {
+    "plano": "C86-7",
+    "seg": 1.9,
+    "prompt": "thumb scrolls gently; slow push-in; calm",
+    "enquadramento": "PD mãos com celular"
+   }
+  ]
+ },
+ {
+  "id": "G121",
+  "cena": "C87",
+  "planos": [
+   "C87-1",
+   "C87-2",
+   "C87-3"
+  ],
+  "dur_tela": 9.6,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C87-1.png",
+  "multi_shot": [
+   {
+    "plano": "C87-1",
+    "seg": 3.3,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C87-2",
+    "seg": 4.1,
+    "prompt": "very slow push-in, soft light glint on coins; calm",
+    "enquadramento": "calculadora sobre mesa com maço e moedas"
+   },
+   {
+    "plano": "C87-3",
+    "seg": 2.2,
+    "prompt": "pages flip fast; static; brisk",
+    "enquadramento": "calendário folheando"
+   }
+  ]
+ },
+ {
+  "id": "G122",
+  "cena": "C87",
+  "planos": [
+   "C87-5",
+   "C87-6"
+  ],
+  "dur_tela": 6.3,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C87-5.png",
+  "multi_shot": [
+   {
+    "plano": "C87-5",
+    "seg": 3.3,
+    "prompt": "slow orbit around the stack; calm",
+    "enquadramento": "cédulas genéricas empilhadas"
+   },
+   {
+    "plano": "C87-6",
+    "seg": 3.0,
+    "prompt": "ember glows, smoke rises in slow motion then accelerates; static camera; slow-to-fast",
+    "enquadramento": "PD brasa do cigarro virando fumaça"
+   }
+  ]
+ },
+ {
+  "id": "G123",
+  "cena": "C88",
+  "planos": [
+   "C88-1",
+   "C88-2",
+   "C88-3",
+   "C88-4"
+  ],
+  "dur_tela": 8.5,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C88-1.png",
+  "multi_shot": [
+   {
+    "plano": "C88-1",
+    "seg": 2.2,
+    "prompt": "family walks toward camera, kids run; handheld tracking backward; joyful",
+    "enquadramento": "PG viagem em família na praia"
+   },
+   {
+    "plano": "C88-2",
+    "seg": 2.0,
+    "prompt": "roller glides up the wall, they laugh; slow lateral dolly; happy",
+    "enquadramento": "PM reforma da casa"
+   },
+   {
+    "plano": "C88-3",
+    "seg": 2.2,
+    "prompt": "they hug and sway; slow push-in; emotional",
+    "enquadramento": "PM formatura"
+   },
+   {
+    "plano": "C88-4",
+    "seg": 2.0,
+    "prompt": "paper curls and blackens in slow motion; static; heavy pace",
+    "enquadramento": "PD dinheiro queimando no cinzeiro"
+   }
+  ]
+ },
+ {
+  "id": "G124",
+  "cena": "C88",
+  "planos": [
+   "C88-5"
+  ],
+  "dur_tela": 1.6,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C88-5.png",
+  "multi_shot": [
+   {
+    "plano": "C88-5",
+    "seg": 1.6,
+    "prompt": "cigarette pressed and twisted; static; abrupt",
+    "enquadramento": "PD cigarro apagado no cinzeiro"
+   }
+  ]
+ },
+ {
+  "id": "G125",
+  "cena": "C89",
+  "planos": [
+   "C89-1",
+   "C89-2",
+   "C89-3",
+   "C89-4"
+  ],
+  "dur_tela": 9.6,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C89-1.png",
+  "multi_shot": [
+   {
+    "plano": "C89-1",
+    "seg": 2.5,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C89-2",
+    "seg": 2.2,
+    "prompt": "curtains billow, light shifts; slow push toward window; airy",
+    "enquadramento": "PM janela aberta, cortina ao vento"
+   },
+   {
+    "plano": "C89-3",
+    "seg": 2.4,
+    "prompt": "they chase the ball in slow motion that ramps to real speed; tracking; joyful",
+    "enquadramento": "PA pai brincando com filho no quintal"
+   },
+   {
+    "plano": "C89-4",
+    "seg": 2.5,
+    "prompt": "they squeeze in the hug and rock slightly; slow push-in; tender",
+    "enquadramento": "PP abraço rosto com rosto"
+   }
+  ]
+ },
+ {
+  "id": "G126",
+  "cena": "C90",
+  "planos": [
+   "C90-1",
+   "C90-2",
+   "C90-4"
+  ],
+  "dur_tela": 11.2,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C90-1.png",
+  "multi_shot": [
+   {
+    "plano": "C90-1",
+    "seg": 5.4,
+    "prompt": "hands tilt the phone slightly toward camera, steam from coffee; slow push-in; calm",
+    "enquadramento": "mãos segurando celular, café de manhã"
+   },
+   {
+    "plano": "C90-2",
+    "seg": 3.6,
+    "prompt": "very slow lateral slide; calm",
+    "enquadramento": "fundo escuro, frascos desfocados"
+   },
+   {
+    "plano": "C90-4",
+    "seg": 2.2,
+    "prompt": "hands set the jar down together; slow push; nostalgic",
+    "enquadramento": "PD flashback mãos com frascos"
+   }
+  ]
+ },
+ {
+  "id": "G127",
+  "cena": "C90",
+  "planos": [
+   "C90-5"
+  ],
+  "dur_tela": 2.5,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C90-5.png",
+  "multi_shot": [
+   {
+    "plano": "C90-5",
+    "seg": 2.5,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   }
+  ]
+ },
+ {
+  "id": "G128",
+  "cena": "C91",
+  "planos": [
+   "C91-1",
+   "C91-2",
+   "C91-3"
+  ],
+  "dur_tela": 8.9,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C91-1.png",
+  "multi_shot": [
+   {
+    "plano": "C91-1",
+    "seg": 4.3,
+    "prompt": "subtle handheld sway, steam rises; calm",
+    "enquadramento": "celular na mão, café ao lado"
+   },
+   {
+    "plano": "C91-2",
+    "seg": 1.4,
+    "prompt": "the cigarette breaks in two; static; sharp",
+    "enquadramento": "PD mãos partindo cigarro"
+   },
+   {
+    "plano": "C91-3",
+    "seg": 3.2,
+    "prompt": "salt pours over the halves; slow push-in; methodical",
+    "enquadramento": "PD mãos montando os frascos"
+   }
+  ]
+ },
+ {
+  "id": "G129",
+  "cena": "C91",
+  "planos": [
+   "C91-4"
+  ],
+  "dur_tela": 4.0,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C91-4.png",
+  "multi_shot": [
+   {
+    "plano": "C91-4",
+    "seg": 4.0,
+    "prompt": "sip of coffee, glance at phone; POV breathing; relaxed",
+    "enquadramento": "POV celular + café"
+   }
+  ]
+ },
+ {
+  "id": "G130",
+  "cena": "C92",
+  "planos": [
+   "C92-1",
+   "C92-3",
+   "C92-4"
+  ],
+  "dur_tela": 7.5,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C92-1.png",
+  "multi_shot": [
+   {
+    "plano": "C92-1",
+    "seg": 3.6,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C92-3",
+    "seg": 1.9,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C92-4",
+    "seg": 1.9,
+    "prompt": "bokeh drifts slowly; calm",
+    "enquadramento": "fundo escuro com bokeh dourado"
+   }
+  ]
+ },
+ {
+  "id": "G131",
+  "cena": "C93",
+  "planos": [
+   "C93-1"
+  ],
+  "dur_tela": 4.5,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C93-1.png",
+  "multi_shot": [
+   {
+    "plano": "C93-1",
+    "seg": 4.5,
+    "prompt": "slow push-in toward the phone; steady",
+    "enquadramento": "celular com app sobre mesa escura"
+   }
+  ]
+ },
+ {
+  "id": "G132",
+  "cena": "C94",
+  "planos": [
+   "C94-1",
+   "C94-2"
+  ],
+  "dur_tela": 6.8,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C94-1.png",
+  "multi_shot": [
+   {
+    "plano": "C94-1",
+    "seg": 3.7,
+    "prompt": "the pans swing and the phone side sinks in slow motion; static; weighty",
+    "enquadramento": "PD balança: maço × celular"
+   },
+   {
+    "plano": "C94-2",
+    "seg": 3.1,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   }
+  ]
+ },
+ {
+  "id": "G133",
+  "cena": "C95",
+  "planos": [
+   "C95-1"
+  ],
+  "dur_tela": 2.8,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C95-1.png",
+  "multi_shot": [
+   {
+    "plano": "C95-1",
+    "seg": 2.8,
+    "prompt": "the lid lifts and light bursts out; slow push-in; magical",
+    "enquadramento": "PD caixa de presente abrindo"
+   }
+  ]
+ },
+ {
+  "id": "G134",
+  "cena": "C96",
+  "planos": [
+   "C96-1",
+   "C96-2",
+   "C96-3",
+   "C96-4"
+  ],
+  "dur_tela": 9.5,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C96-1.png",
+  "multi_shot": [
+   {
+    "plano": "C96-1",
+    "seg": 3.0,
+    "prompt": "slow push; calm",
+    "enquadramento": "mesa escura com celular"
+   },
+   {
+    "plano": "C96-2",
+    "seg": 3.6,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C96-3",
+    "seg": 1.6,
+    "prompt": "sits up and sighs; quick handheld; brisk",
+    "enquadramento": "PM acordando"
+   },
+   {
+    "plano": "C96-4",
+    "seg": 1.3,
+    "prompt": "fingers hover and stop; static; brisk",
+    "enquadramento": "PD mão hesita depois do café"
+   }
+  ]
+ },
+ {
+  "id": "G135",
+  "cena": "C96",
+  "planos": [
+   "C96-5",
+   "C96-6"
+  ],
+  "dur_tela": 5.4,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C96-5.png",
+  "multi_shot": [
+   {
+    "plano": "C96-5",
+    "seg": 1.5,
+    "prompt": "plate slides, hand moves; quick dolly; brisk",
+    "enquadramento": "PD prato do almoço afastado"
+   },
+   {
+    "plano": "C96-6",
+    "seg": 3.9,
+    "prompt": "she closes her eyes and breathes hard; slow push-in; tense",
+    "enquadramento": "PP flashback Márcia 42 segurando a caneca"
+   }
+  ]
+ },
+ {
+  "id": "G136",
+  "cena": "C97",
+  "planos": [
+   "C97-1",
+   "C97-2"
+  ],
+  "dur_tela": 7.6,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C97-1.png",
+  "multi_shot": [
+   {
+    "plano": "C97-1",
+    "seg": 3.4,
+    "prompt": "steam rises slowly; slow push-in; serene",
+    "enquadramento": "xícara de chá com camomila e lavanda"
+   },
+   {
+    "plano": "C97-2",
+    "seg": 4.2,
+    "prompt": "hands crush herbs and sprinkle them; slow push; ritual pace",
+    "enquadramento": "PD flashback mãos de Kwame com ervas"
+   }
+  ]
+ },
+ {
+  "id": "G137",
+  "cena": "C97",
+  "planos": [
+   "C97-3"
+  ],
+  "dur_tela": 4.5,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C97-3.png",
+  "multi_shot": [
+   {
+    "plano": "C97-3",
+    "seg": 4.5,
+    "prompt": "she sips and exhales slowly, slight slow-motion; slow push-in; serene",
+    "enquadramento": "PM Márcia tomando chá antes de dormir"
+   }
+  ]
+ },
+ {
+  "id": "G138",
+  "cena": "C98",
+  "planos": [
+   "C98-1",
+   "C98-2"
+  ],
+  "dur_tela": 10.0,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C98-1.png",
+  "multi_shot": [
+   {
+    "plano": "C98-1",
+    "seg": 5.4,
+    "prompt": "lungs breathe slowly as color shifts from grey to pink; slow orbit; calm",
+    "enquadramento": "pulmão 3D cinza ficando rosado"
+   },
+   {
+    "plano": "C98-2",
+    "seg": 4.6,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   }
+  ]
+ },
+ {
+  "id": "G139",
+  "cena": "C98",
+  "planos": [
+   "C98-3",
+   "C98-4",
+   "C98-8"
+  ],
+  "dur_tela": 11.2,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C98-3.png",
+  "multi_shot": [
+   {
+    "plano": "C98-3",
+    "seg": 3.1,
+    "prompt": "heartbeat slows down gradually; static; calming",
+    "enquadramento": "coração 3D desacelerando"
+   },
+   {
+    "plano": "C98-4",
+    "seg": 4.2,
+    "prompt": "cells flow and brighten; slow tracking along the vessel; fluid",
+    "enquadramento": "hemácias ficando vermelho vivo"
+   },
+   {
+    "plano": "C98-8",
+    "seg": 3.9,
+    "prompt": "hands set the plate down; slow overhead push; fresh",
+    "enquadramento": "PD prato simples e colorido"
+   }
+  ]
+ },
+ {
+  "id": "G140",
+  "cena": "C98",
+  "planos": [
+   "C98-9"
+  ],
+  "dur_tela": 3.5,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C98-9.png",
+  "multi_shot": [
+   {
+    "plano": "C98-9",
+    "seg": 3.5,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   }
+  ]
+ },
+ {
+  "id": "G141",
+  "cena": "C98b",
+  "planos": [
+   "C98b-1",
+   "C98b-3",
+   "C98b-4",
+   "C98b-5"
+  ],
+  "dur_tela": 10.4,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C98b-1.png",
+  "multi_shot": [
+   {
+    "plano": "C98b-1",
+    "seg": 3.1,
+    "prompt": "shield rotates slowly and catches light; static; strong",
+    "enquadramento": "escudo dourado"
+   },
+   {
+    "plano": "C98b-3",
+    "seg": 1.8,
+    "prompt": "glasses clink in slow motion; handheld; festive",
+    "enquadramento": "PM festa, brinde"
+   },
+   {
+    "plano": "C98b-4",
+    "seg": 1.6,
+    "prompt": "he exhales and pushes back from the desk; handheld; tense",
+    "enquadramento": "PM estresse no trabalho"
+   },
+   {
+    "plano": "C98b-5",
+    "seg": 3.9,
+    "prompt": "the hand moves in real time then slows to a near stop above the pack; static; suspense",
+    "enquadramento": "PD mão indo ao cigarro e parando"
+   }
+  ]
+ },
+ {
+  "id": "G142",
+  "cena": "C99",
+  "planos": [
+   "C99-1",
+   "C99-3",
+   "C99-5"
+  ],
+  "dur_tela": 10.8,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C99-1.png",
+  "multi_shot": [
+   {
+    "plano": "C99-1",
+    "seg": 3.5,
+    "prompt": "slow push; steady",
+    "enquadramento": "selo dourado sobre fundo escuro"
+   },
+   {
+    "plano": "C99-3",
+    "seg": 4.2,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C99-5",
+    "seg": 3.1,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   }
+  ]
+ },
+ {
+  "id": "G143",
+  "cena": "C100",
+  "planos": [
+   "C100-1",
+   "C100-2",
+   "C100-5"
+  ],
+  "dur_tela": 9.7,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C100-1.png",
+  "multi_shot": [
+   {
+    "plano": "C100-1",
+    "seg": 3.6,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C100-2",
+    "seg": 3.0,
+    "prompt": "subtle handheld sway; calm",
+    "enquadramento": "mãos segurando celular (moldura)"
+   },
+   {
+    "plano": "C100-5",
+    "seg": 3.0,
+    "prompt": "the screen lights up and the phone buzzes; static; light",
+    "enquadramento": "PD celular acende com notificação"
+   }
+  ]
+ },
+ {
+  "id": "G144",
+  "cena": "C100",
+  "planos": [
+   "C100-6"
+  ],
+  "dur_tela": 3.2,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C100-6.png",
+  "multi_shot": [
+   {
+    "plano": "C100-6",
+    "seg": 3.2,
+    "prompt": "sunlight slowly fills the room; very slow push-in; hopeful",
+    "enquadramento": "PG cozinha ao amanhecer"
+   }
+  ]
+ },
+ {
+  "id": "G145",
+  "cena": "C101",
+  "planos": [
+   "C101-1",
+   "C101-3",
+   "C101-4"
+  ],
+  "dur_tela": 11.4,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C101-1.png",
+  "multi_shot": [
+   {
+    "plano": "C101-1",
+    "seg": 4.4,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C101-3",
+    "seg": 3.3,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C101-4",
+    "seg": 3.7,
+    "prompt": "slow push-in a bit closer; micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   }
+  ]
+ },
+ {
+  "id": "G146",
+  "cena": "C101",
+  "planos": [
+   "C101-5"
+  ],
+  "dur_tela": 3.7,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C101-5.png",
+  "multi_shot": [
+   {
+    "plano": "C101-5",
+    "seg": 3.7,
+    "prompt": "light slowly brightens on the cigarette; slow push-in; focused",
+    "enquadramento": "PD um cigarro no pires ao lado do café"
+   }
+  ]
+ },
+ {
+  "id": "G147",
+  "cena": "C102",
+  "planos": [
+   "C102-2",
+   "C102-3",
+   "C102-4"
+  ],
+  "dur_tela": 8.9,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C102-2.png",
+  "multi_shot": [
+   {
+    "plano": "C102-2",
+    "seg": 3.2,
+    "prompt": "the serpent head rises and hisses toward camera; slow push-in; menacing",
+    "enquadramento": "PM cabeça da serpente"
+   },
+   {
+    "plano": "C102-3",
+    "seg": 4.0,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C102-4",
+    "seg": 1.7,
+    "prompt": "the serpent dissolves into drifting smoke; static; release",
+    "enquadramento": "PM serpente se desfazendo"
+   }
+  ]
+ },
+ {
+  "id": "G148",
+  "cena": "C103",
+  "planos": [
+   "C103-2",
+   "C103-3",
+   "C103-4",
+   "C103-5"
+  ],
+  "dur_tela": 10.5,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C103-2.png",
+  "multi_shot": [
+   {
+    "plano": "C103-2",
+    "seg": 1.2,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C103-3",
+    "seg": 3.7,
+    "prompt": "she crushes the pack, breath shaky; handheld; tense",
+    "enquadramento": "PM flashback Márcia 42 amassando o maço"
+   },
+   {
+    "plano": "C103-4",
+    "seg": 2.0,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C103-5",
+    "seg": 3.6,
+    "prompt": "slow-motion movement easing to real time; static; unhurried",
+    "enquadramento": "PD mão movendo frasco devagar ao sol"
+   }
+  ]
+ },
+ {
+  "id": "G149",
+  "cena": "C104",
+  "planos": [
+   "C104-2",
+   "C104-3",
+   "C104-4"
+  ],
+  "dur_tela": 9.1,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C104-2.png",
+  "multi_shot": [
+   {
+    "plano": "C104-2",
+    "seg": 1.6,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C104-3",
+    "seg": 4.1,
+    "prompt": "blisters slide out, jars slide in; static overhead; clean",
+    "enquadramento": "PD blísteres sem rótulo afastados, frascos entram"
+   },
+   {
+    "plano": "C104-4",
+    "seg": 3.4,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   }
+  ]
+ },
+ {
+  "id": "G150",
+  "cena": "C104",
+  "planos": [
+   "C104-5"
+  ],
+  "dur_tela": 3.4,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C104-5.png",
+  "multi_shot": [
+   {
+    "plano": "C104-5",
+    "seg": 3.4,
+    "prompt": "hand picks up the coffee cup; slow push; everyday",
+    "enquadramento": "PD bancada com rotina da manhã"
+   }
+  ]
+ },
+ {
+  "id": "G151",
+  "cena": "C105",
+  "planos": [
+   "C105-3"
+  ],
+  "dur_tela": 4.0,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C105-3.png",
+  "multi_shot": [
+   {
+    "plano": "C105-3",
+    "seg": 4.0,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   }
+  ]
+ },
+ {
+  "id": "G152",
+  "cena": "C106",
+  "planos": [
+   "C106-1",
+   "C106-2",
+   "C106-3"
+  ],
+  "dur_tela": 9.9,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C106-1.png",
+  "multi_shot": [
+   {
+    "plano": "C106-1",
+    "seg": 2.6,
+    "prompt": "both halves push forward slowly down the road; steady; ominous vs hopeful",
+    "enquadramento": "split vertical: estrada escura × estrada iluminada"
+   },
+   {
+    "plano": "C106-2",
+    "seg": 3.3,
+    "prompt": "thumb swipes, the screen goes dark; static; cold",
+    "enquadramento": "PD polegar fechando o vídeo"
+   },
+   {
+    "plano": "C106-3",
+    "seg": 4.0,
+    "prompt": "the flame flares and the cigarette lights; static; heavy",
+    "enquadramento": "PM cozinha fria, acendendo o 1º cigarro"
+   }
+  ]
+ },
+ {
+  "id": "G153",
+  "cena": "C106",
+  "planos": [
+   "C106-4",
+   "C106-5"
+  ],
+  "dur_tela": 8.5,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C106-4.png",
+  "multi_shot": [
+   {
+    "plano": "C106-4",
+    "seg": 2.9,
+    "prompt": "time-lapse accelerates; static; relentless",
+    "enquadramento": "PD cinzeiro enchendo em time-lapse"
+   },
+   {
+    "plano": "C106-5",
+    "seg": 5.5,
+    "prompt": "the serpent uncoils and lunges slowly toward camera; push-in; menacing",
+    "enquadramento": "PM serpente faminta sobre o cinzeiro"
+   }
+  ]
+ },
+ {
+  "id": "G154",
+  "cena": "C106b",
+  "planos": [
+   "C106b-1",
+   "C106b-2",
+   "C106b-3",
+   "C106b-4"
+  ],
+  "dur_tela": 11.2,
+  "dur_gerar": 10,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C106b-1.png",
+  "multi_shot": [
+   {
+    "plano": "C106b-1",
+    "seg": 3.6,
+    "prompt": "POV breathes heavily, slight blur and focus pulsing; locked; oppressive",
+    "enquadramento": "POV deitado no leito de hospital"
+   },
+   {
+    "plano": "C106b-2",
+    "seg": 2.0,
+    "prompt": "fog comes and goes with each breath; static; slow",
+    "enquadramento": "POV máscara embaçando"
+   },
+   {
+    "plano": "C106b-3",
+    "seg": 2.5,
+    "prompt": "hand trembles and drops back; slight slow motion; painful",
+    "enquadramento": "POV mão trêmula não alcança o copo"
+   },
+   {
+    "plano": "C106b-4",
+    "seg": 3.1,
+    "prompt": "the younger hand squeezes gently; very slow push-in; heartbreaking",
+    "enquadramento": "PD mãos no enquadramento de A01"
+   }
+  ]
+ },
+ {
+  "id": "G155",
+  "cena": "C106b",
+  "planos": [
+   "C106b-7"
+  ],
+  "dur_tela": 2.4,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C106b-7.png",
+  "multi_shot": [
+   {
+    "plano": "C106b-7",
+    "seg": 2.4,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   }
+  ]
+ },
+ {
+  "id": "G156",
+  "cena": "C107",
+  "planos": [
+   "C107-2",
+   "C107-3"
+  ],
+  "dur_tela": 4.6,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C107-2.png",
+  "multi_shot": [
+   {
+    "plano": "C107-2",
+    "seg": 2.0,
+    "prompt": "slow push; hopeful",
+    "enquadramento": "cozinha ensolarada (fundo)"
+   },
+   {
+    "plano": "C107-3",
+    "seg": 2.6,
+    "prompt": "the girl runs in and wraps her arms around his neck; slow push-in; warm",
+    "enquadramento": "PM criança abraçando o pai na cozinha"
+   }
+  ]
+ },
+ {
+  "id": "G157",
+  "cena": "C108",
+  "planos": [
+   "C108-1"
+  ],
+  "dur_tela": 2.9,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C108-1.png",
+  "multi_shot": [
+   {
+    "plano": "C108-1",
+    "seg": 2.9,
+    "prompt": "a hand slowly pushes the drawer closed; static; tender",
+    "enquadramento": "PD isqueiro na gaveta"
+   }
+  ]
+ },
+ {
+  "id": "G158",
+  "cena": "C109",
+  "planos": [
+   "C109-2"
+  ],
+  "dur_tela": 3.2,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C109-2.png",
+  "multi_shot": [
+   {
+    "plano": "C109-2",
+    "seg": 3.2,
+    "prompt": "she touches the drawing and smiles; slow push-in; intimate",
+    "enquadramento": "PM Márcia olhando o desenho"
+   }
+  ]
+ },
+ {
+  "id": "G159",
+  "cena": "C109b",
+  "planos": [
+   "C109b-1",
+   "C109b-2",
+   "C109b-4"
+  ],
+  "dur_tela": 9.9,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C109b-1.png",
+  "multi_shot": [
+   {
+    "plano": "C109b-1",
+    "seg": 2.5,
+    "prompt": "the woman tucks the blanket; slow push-in; gentle",
+    "enquadramento": "PG quarto da Sofia à noite"
+   },
+   {
+    "plano": "C109b-2",
+    "seg": 3.9,
+    "prompt": "the small hand squeezes; very slow push-in; tender",
+    "enquadramento": "PD mãos — mesmo enquadramento de A01"
+   },
+   {
+    "plano": "C109b-4",
+    "seg": 3.4,
+    "prompt": "she blinks slowly and whispers; slow push-in; tender",
+    "enquadramento": "PP Sofia no travesseiro"
+   }
+  ]
+ },
+ {
+  "id": "G160",
+  "cena": "C109b",
+  "planos": [
+   "C109b-5",
+   "C109b-6"
+  ],
+  "dur_tela": 5.1,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C109b-5.png",
+  "multi_shot": [
+   {
+    "plano": "C109b-5",
+    "seg": 3.1,
+    "prompt": "she smiles through tears and nods; slow push-in; tender",
+    "enquadramento": "PP Márcia respondendo"
+   },
+   {
+    "plano": "C109b-6",
+    "seg": 2.0,
+    "prompt": "kiss, lamp dims slowly; static; peaceful",
+    "enquadramento": "PM beijo na testa"
+   }
+  ]
+ },
+ {
+  "id": "G161",
+  "cena": "C110",
+  "planos": [
+   "C110-1",
+   "C110-2",
+   "C110-3",
+   "C110-4"
+  ],
+  "dur_tela": 8.4,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C110-1.png",
+  "multi_shot": [
+   {
+    "plano": "C110-1",
+    "seg": 3.0,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C110-2",
+    "seg": 2.1,
+    "prompt": "fingers tighten; static; tender",
+    "enquadramento": "PD mão de filho(a) segurando a de um pai"
+   },
+   {
+    "plano": "C110-3",
+    "seg": 1.2,
+    "prompt": "the small hand pats; static; tender",
+    "enquadramento": "PD mão de neto na do avô"
+   },
+   {
+    "plano": "C110-4",
+    "seg": 2.1,
+    "prompt": "fingers interlace; static; tender",
+    "enquadramento": "PD mãos do casal na cama"
+   }
+  ]
+ },
+ {
+  "id": "G162",
+  "cena": "C110",
+  "planos": [
+   "C110-5",
+   "C110-6",
+   "C110-7"
+  ],
+  "dur_tela": 9.7,
+  "dur_gerar": 10,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C110-5.png",
+  "multi_shot": [
+   {
+    "plano": "C110-5",
+    "seg": 3.7,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C110-6",
+    "seg": 2.6,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   },
+   {
+    "plano": "C110-7",
+    "seg": 3.5,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   }
+  ]
+ },
+ {
+  "id": "G163",
+  "cena": "C110",
+  "planos": [
+   "C110-8",
+   "C110-9"
+  ],
+  "dur_tela": 5.1,
+  "dur_gerar": 5,
+  "nivel": "premium",
+  "quadro_inicial": "kf/C110-8.png",
+  "multi_shot": [
+   {
+    "plano": "C110-8",
+    "seg": 2.6,
+    "prompt": "coffee pours, sunlight grows; static; hopeful",
+    "enquadramento": "PG cozinha ao amanhecer, café sendo servido"
+   },
+   {
+    "plano": "C110-9",
+    "seg": 2.6,
+    "prompt": "micro-movement: she breathes, blinks naturally, subtle head movement; very slow camera push-in 3-5%; calm pace",
+    "enquadramento": "PP Márcia para a câmera, olhar direto"
+   }
+  ]
+ },
+ {
+  "id": "G164",
+  "cena": "C111",
+  "planos": [
+   "C111-1"
+  ],
+  "dur_tela": 2.9,
+  "dur_gerar": 5,
+  "nivel": "economico",
+  "quadro_inicial": "kf/C111-1.png",
+  "multi_shot": [
+   {
+    "plano": "C111-1",
+    "seg": 2.9,
+    "prompt": "smoke drifts apart in slow motion revealing the sky; slow tilt up; release",
+    "enquadramento": "fumaça se dissipando, céu limpo"
+   }
+  ]
+ }
+]
