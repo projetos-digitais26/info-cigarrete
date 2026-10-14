@@ -145,6 +145,9 @@ es la misma de la versión PT-BR; aquí va adaptada y en español para el editor
 **C35 · 5:48** 🎬 Calendario: día 1, 2, 3 tachados… y en el día 4, un cigarrillo encendido encima.
 > Y siempre era la misma historia. Uno, dos, tres días, aguantaba. Al cuarto día, por la mañana, las ganas llegaban como una ola. Me ponía irritable, con la cabeza pesada, peleaba con todos en la casa.
 
+**C35b · 5:58** 🎬 Animación: la serpiente de humo comiendo de un plato que dice "CIGARRILLO"; le cambian el plato por otro, "PARCHE", y la serpiente sigue comiendo, sin parar. 🔁 · 🅣 **LA NICOTINA SIGUE ENTRANDO**
+> ¿Y sabes lo que entendí después? El parche y el chicle siguen metiendo nicotina en tu cuerpo, todos los días. Cambias el cigarrillo por otro plato, pero la serpiente sigue comiendo. Y ninguno toca la raíz del problema: el ritual de la mañana. Ese momento del café, del primer cigarrillo, sigue ahí, intacto, esperándote.
+
 **C36 · 6:02** 🎬 El narrador gritándole a Mateo por una tontería; el niño se encoge. Después, el narrador solo, arrepentido.
 > Un día le grité a Mateo por un vaso de jugo derramado. Un vaso. Y vi el miedo en sus ojos. Me había convertido en otra persona.
 
@@ -170,7 +173,7 @@ es la misma de la versión PT-BR; aquí va adaptada y en español para el editor
 > Y no eres solo tú. El humo de tu cigarrillo entra en los pulmones de quien más amas.
 
 **C37g · 7:28** 🎬 Edificios de vidrio, ejecutivos brindando, línea de producción de cigarrillos, billetes cayendo. Luego estantes de farmacia llenos de cajas. · 🅣 **MILES DE MILLONES AL AÑO** · 🔊 música tensa
-> Y mientras eso pasa, hay gente haciéndose muy rica. La industria del tabaco factura miles de millones cada año con gente como tú y como yo. Y cuando intentas dejarlo y no puedes, hay otra fila de empresas esperando, vendiéndote parches, chicles, tratamientos, caja tras caja. Cada recaída tuya es una venta más.
+> Y mientras eso pasa, hay gente haciéndose muy rica. La industria del tabaco factura miles de millones cada año con gente como tú y como yo. Y cuando intentas dejarlo y no puedes, hay otra fila de empresas esperando, vendiéndote parches, chicles, tratamientos, caja tras caja. Cada recaída tuya es una venta más. Y la mayoría de las personas que intenta dejarlo termina recayendo `[FUENTE: dato de recaída en intentos de dejar de fumar sin acompañamiento]`. Es un ciclo que le deja ganancias a todos. Menos a ti.
 
 **C37h · 7:46** 🎬 El narrador mirando fijo a la cámara. Silencio de 1 s. 🔁
 > Piénsalo conmigo: ¿quién gana dinero si logras dejarlo tú solo, con un método sencillo que cuesta menos que unas cuantas cajetillas? Nadie. Por eso nadie te cuenta lo que yo te voy a contar ahora.
@@ -340,6 +343,12 @@ es la misma de la versión PT-BR; aquí va adaptada y en español para el editor
 > [Testimonio real 3]
 
 **C84 · 16:35** 🎬 Un celular vibrando sin parar; llegan notificaciones (capturas reales con el nombre abreviado). `[PRUEBA NECESARIA: capturas reales autorizadas]` 🔓
+**C83b · 16:30** 🎬 Montaje acelerado de mañanas distintas en casas distintas: una señora tomando café sin cigarrillo, un camionero sonriendo en la cabina, una mamá abrazando a sus hijos, un hombre corriendo en el parque. Los rostros se multiplican en un mosaico hasta llenar la pantalla. 🔁 · 🅣 **[NÚMERO REAL] PERSONAS YA APLICARON EL TRUCO** `[PRUEBA NECESARIA: número real de compradores]` · 🔊 cuerdas en crescendo
+> Ahora mismo, mientras ves este video, hay gente que mañana va a despertar sin necesitar ese primer cigarrillo. Gente que fumaba desde hace 20, 30, 40 años. Gente que ya se había rendido. Gente igualita a ti. Y si ellos lo lograron… tú también lo vas a lograr.
+
+**C83c · 16:45** 🎬 Cámara subjetiva: las manos del propio espectador preparando el café por la mañana, la luz cálida entrando por la ventana, la taza vacía, la cajetilla sin tocar. · 🅣 **IMAGINA TU DÍA 15**
+> Cierra los ojos un segundo e imagina tu día 15. Despiertas, preparas el café, te lo tomas hasta el último sorbo… y te das cuenta de que se te olvidó fumar. ¿Quién está a tu lado esa mañana? ¿Quién te va a abrazar sin voltear la cara?
+
 > Y mi celular no paraba. Pasaba las noches respondiendo mensajes, explicando cada paso, uno por uno. Hasta que me di cuenta de que no iba a poder con todos. Pero yo había hecho una promesa.
 
 ---

@@ -142,6 +142,9 @@
 **C35 · 5:48** 🎬 Calendário: dia 1, dia 2, dia 3 riscados… e no dia 4, um cigarro aceso em cima.
 > E toda vez era a mesma história. Um, dois, três dias, eu aguentava. No quarto dia, de manhã, a vontade vinha como uma onda. Eu ficava irritado, com a cabeça pesada, brigava com todo mundo em casa.
 
+**C35b · 5:58** 🎬 Animação: a serpente de fumaça comendo de um prato onde está escrito "CIGARRO"; o prato é trocado por outro, "ADESIVO", e a serpente continua comendo, sem parar. 🔁 · 🅣 **A NICOTINA CONTINUA ENTRANDO**
+> E sabe o que eu só fui entender depois? O adesivo e o chiclete continuam colocando nicotina no seu corpo, todos os dias. Você troca o cigarro por outro prato, mas a serpente continua sendo alimentada. E nenhum deles mexe na raiz do problema: o ritual da manhã. Aquele momento do café, do primeiro cigarro, continua lá, intacto, esperando você.
+
 **C36 · 6:02** 🎬 O narrador gritando com o Davi por uma bobagem; o menino se encolhe. Logo depois, o narrador sozinho, arrependido.
 > Teve um dia que eu gritei com o Davi por causa de um copo derramado. Um copo. E eu vi no olho dele o medo. Eu tinha virado outra pessoa.
 
@@ -167,7 +170,7 @@
 > E não é só você. A fumaça que sai do seu cigarro entra no pulmão de quem você mais ama.
 
 **C37g · 7:28** 🎬 Prédios de vidro, executivos brindando, linha de produção de cigarros, notas de dinheiro caindo. Depois prateleiras de farmácia cheias de caixas. · 🅣 **BILHÕES POR ANO** · 🔊 trilha tensa
-> E enquanto isso acontece, tem gente ficando muito rica. A indústria do cigarro fatura bilhões todos os anos com gente como eu e você. E quando você tenta parar e não consegue, tem outra fila de empresas esperando, vendendo adesivo, chiclete, tratamento, caixa atrás de caixa. Cada recaída sua vira mais uma venda.
+> E enquanto isso acontece, tem gente ficando muito rica. A indústria do cigarro fatura bilhões todos os anos com gente como eu e você. E quando você tenta parar e não consegue, tem outra fila de empresas esperando, vendendo adesivo, chiclete, tratamento, caixa atrás de caixa. Cada recaída sua vira mais uma venda. E a maioria das pessoas que tenta parar acaba recaindo `[FONTE: dado de recaída em tentativas de parar sem acompanhamento]`. É um ciclo que dá lucro pra todo mundo. Menos pra você.
 
 **C37h · 7:46** 🎬 O narrador olhando fixo para a câmera. Silêncio de 1 s. 🔁
 > Pensa comigo: quem ganha dinheiro se você conseguir parar sozinho, com um método simples, que custa menos que alguns maços de cigarro? Ninguém. É por isso que ninguém te conta o que eu vou te contar agora.
@@ -337,6 +340,12 @@
 > [Depoimento real 3]
 
 **C84 · 16:35** 🎬 Celular vibrando sem parar; notificações de mensagens chegando (prints reais com nome abreviado). `[PROVA NECESSÁRIA: prints reais autorizados]` 🔓
+**C83b · 16:30** 🎬 Montagem acelerada de manhãs diferentes em casas diferentes: uma senhora tomando café sem cigarro, um caminhoneiro sorrindo na boleia, uma mãe abraçando os filhos, um homem correndo no parque. Os rostos vão se multiplicando num mosaico até preencher a tela. 🔁 · 🅣 **[NÚMERO REAL] PESSOAS JÁ APLICARAM O TRUQUE** `[PROVA NECESSÁRIA: número real de compradores]` · 🔊 cordas em crescendo
+> Agora mesmo, enquanto você assiste a este vídeo, tem gente acordando amanhã cedo sem precisar daquele primeiro cigarro. Gente que fumava há 20, 30, 40 anos. Gente que já tinha desistido de si mesma. Gente igualzinha a você. E se elas conseguiram… você também vai conseguir.
+
+**C83c · 16:45** 🎬 Câmera subjetiva: as mãos do próprio espectador fazendo o café de manhã, a luz quente entrando pela janela, a xícara vazia, o maço intocado. · 🅣 **IMAGINE O SEU DIA 15**
+> Fecha os olhos por um segundo e imagina o seu dia 15. Você acorda, faz o café, toma até o último gole… e percebe que esqueceu de fumar. Quem está do seu lado nessa manhã? Quem vai te abraçar sem virar o rosto?
+
 > E o meu celular não parava. Eu passava as noites respondendo mensagens, explicando cada passo, um por um. Até que eu percebi que não ia dar conta. Mas eu tinha feito uma promessa.
 
 ---
