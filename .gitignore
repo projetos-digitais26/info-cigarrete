@@ -3,3 +3,6 @@ clientes/**/render/
 __pycache__/
 ofertas/**/bruto/
 ofertas/**/audio/eleven-cenas/
+ofertas/**/cinematografia/render/
+ofertas/**/cinematografia/kf/*.anterior
+ofertas/**/cinematografia/clips/*.anterior

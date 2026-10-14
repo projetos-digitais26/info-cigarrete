@@ -1,0 +1,23 @@
+{
+ "MARCIA_43_UTI": {"tipo": "pessoa", "descricao": "Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on a pillow, pale and sweaty, dark circles, transparent oxygen mask, hospital gown, IV line in the hand and pulse oximeter on the finger, lying in an ICU bed"},
+ "MARCIA_42": {"tipo": "pessoa", "descricao": "Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt"},
+ "MARCIA_44": {"tipo": "pessoa", "descricao": "Brazilian woman, 44, healthy and serene, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile"},
+ "SOFIA_8": {"tipo": "pessoa", "descricao": "Brazilian girl, 8 years old, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with a small star"},
+ "SOFIA_9": {"tipo": "pessoa", "descricao": "Brazilian girl, 9 years old, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with a small star"},
+ "SOFIA_12": {"tipo": "pessoa", "descricao": "Brazilian girl, 12 years old, light-brown skin, long curly dark-brown hair down, big brown eyes, pajamas with small stars"},
+ "LUCIANO": {"tipo": "pessoa", "descricao": "Brazilian man, 46, tan skin, short black hair greying at the temples, light beard, gentle face, light-blue button shirt"},
+ "PAI": {"tipo": "pessoa", "descricao": "Brazilian man in his 60s, white-grey hair, thick grey moustache, tan wrinkled skin, short-sleeve plaid shirt with an old silver flip lighter in the chest pocket"},
+ "PAI_HOSPITAL": {"tipo": "pessoa", "descricao": "Brazilian man, 67, very thin, white-grey hair, grey moustache, hollow cheeks, transparent oxygen mask, hospital gown, lying in a hospital bed"},
+ "KWAME": {"tipo": "pessoa", "descricao": "Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair"},
+ "KOFI": {"tipo": "pessoa", "descricao": "Ghanaian man, 50, dark skin, shaved head, wide warm smile, colorful printed short-sleeve shirt"},
+ "CUNHADO": {"tipo": "pessoa", "descricao": "Brazilian man, 50, stocky, tan skin, baseball cap, polo shirt"},
+ "ISQUEIRO": {"tipo": "objeto", "descricao": "old silver flip lighter, worn engraving, small scratches, on dark wood"},
+ "DESENHO": {"tipo": "objeto", "descricao": "child's crayon drawing on lined notebook paper: a woman holding a cigarette crossed out by a big red X, and a small crying girl beside her, naive child style, no readable words"},
+ "FRASCOS": {"tipo": "objeto", "descricao": "two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt"},
+ "CADERNO": {"tipo": "objeto", "descricao": "simple brown kraft paper notebook, open, handwriting in blue pen, a pen beside it"},
+ "COZINHA": {"tipo": "local", "descricao": "small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup"},
+ "UTI": {"tipo": "local", "descricao": "hospital ICU room at night, blue monitor light, mechanical ventilator, bed with rails, cold dim light"},
+ "VARANDA": {"tipo": "local", "descricao": "simple Brazilian house porch at sunset, two plastic chairs, potted plants, warm light"},
+ "VILAREJO": {"tipo": "local", "descricao": "Ghanaian village at golden hour, mud-brick houses, red dirt road, baobab tree, dust in the air"},
+ "SERPENTE": {"tipo": "objeto", "descricao": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark"}
+}

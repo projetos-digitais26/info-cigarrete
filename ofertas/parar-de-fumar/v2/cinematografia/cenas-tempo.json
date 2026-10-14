@@ -1,0 +1,1342 @@
+[
+ {
+  "cena": "A01",
+  "inicio": 3.2,
+  "dur": 6.5,
+  "emocao": "dor",
+  "fase": "uti",
+  "sfx": [
+   "respirador"
+  ],
+  "texto": "Mamãe… fica mais um pouquinho. Por favor."
+ },
+ {
+  "cena": "A02",
+  "inicio": 9.7,
+  "dur": 4.4,
+  "emocao": "dor",
+  "fase": "uti",
+  "sfx": [],
+  "texto": "Essa foi a última coisa que eu ouvi antes de apagar."
+ },
+ {
+  "cena": "A03",
+  "inicio": 14.1,
+  "dur": 5.0,
+  "emocao": "dor",
+  "fase": "uti",
+  "sfx": [],
+  "texto": "Você prometeu que ia me ver crescer…"
+ },
+ {
+  "cena": "A04",
+  "inicio": 19.1,
+  "dur": 16.9,
+  "emocao": "choque",
+  "fase": "uti",
+  "sfx": [
+   "alarme",
+   "impacto"
+  ],
+  "texto": "Eu tinha 43 anos. Estava numa UTI, com o coração falhando e o pulmão sem força pra respirar sozinho. E a minha filha de 9 anos estava sendo levada pra fora do quarto por uma enfermeira, gritando o meu nome."
+ },
+ {
+  "cena": "A05",
+  "inicio": 36.0,
+  "dur": 4.8,
+  "emocao": "dor",
+  "fase": "uti",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "Mamãe! Mamãe!"
+ },
+ {
+  "cena": "A06",
+  "inicio": 40.8,
+  "dur": 8.4,
+  "emocao": "choque",
+  "fase": "silencio",
+  "sfx": [
+   "silencio"
+  ],
+  "texto": "E sabe qual foi o último pensamento que passou pela minha cabeça? Não foi medo de morrer."
+ },
+ {
+  "cena": "A07",
+  "inicio": 49.2,
+  "dur": 7.5,
+  "emocao": "misterio",
+  "fase": "memoria",
+  "sfx": [
+   "isqueiro"
+  ],
+  "texto": "Foi uma manhã comum. Uma xícara de café. E um cigarro. O primeiro cigarro do dia."
+ },
+ {
+  "cena": "A08",
+  "inicio": 56.7,
+  "dur": 17.3,
+  "emocao": "dor",
+  "fase": "uti",
+  "sfx": [],
+  "texto": "Porque ali, quase sem forças, eu entendi tudo. Eu entendi exatamente onde eu tinha errado durante 19 anos. E que se eu tivesse feito uma coisa diferente com aquele primeiro cigarro, lá atrás, a minha filha não estaria chorando no corredor de um hospital."
+ },
+ {
+  "cena": "A09",
+  "inicio": 74.0,
+  "dur": 4.4,
+  "emocao": "intimo",
+  "fase": "piano",
+  "sfx": [
+   "whoosh"
+  ],
+  "texto": "Eu sobrevivi. E é por isso que eu estou aqui."
+ },
+ {
+  "cena": "A10",
+  "inicio": 78.4,
+  "dur": 20.6,
+  "emocao": "intimo",
+  "fase": "piano",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "Eu não vou te pedir pra parar de fumar hoje. Nem amanhã. Eu só quero que você escute o que eu descobri depois daquela noite. Porque o meu passado pode ser o seu presente. E talvez você tenha parado neste vídeo justamente pra fazer diferente do que eu fiz… pra que o seu fim não seja aquele que quase foi o meu."
+ },
+ {
+  "cena": "A11",
+  "inicio": 99.0,
+  "dur": 16.6,
+  "emocao": "misterio",
+  "fase": "tensao",
+  "sfx": [
+   "sibilo"
+  ],
+  "texto": "Amanhã de manhã, quando você acender o primeiro cigarro do dia, aquele junto com o café, eu quero que você faça uma coisa simples com ele. Porque é nesse cigarro, o primeiro, que mora a cabeça do seu vício. Todos os outros dependem dele."
+ },
+ {
+  "cena": "A12",
+  "inicio": 115.6,
+  "dur": 18.9,
+  "emocao": "esperanca",
+  "fase": "tensao",
+  "sfx": [],
+  "texto": "E quando você aprende a mexer nesse primeiro cigarro do jeito certo, durante 14 dias, a vontade vai perdendo força. Até que, numa manhã qualquer, você termina o seu café… e percebe que esqueceu de fumar. Sem adesivo. Sem remédio. Sem a guerra de parar de uma vez."
+ },
+ {
+  "cena": "A13",
+  "inicio": 134.5,
+  "dur": 12.6,
+  "emocao": "intimo",
+  "fase": "tensao",
+  "sfx": [],
+  "texto": "Meu nome é Márcia. E neste vídeo eu vou te mostrar o que eu aprendi com um velho, do outro lado do mundo, num lugar onde quase ninguém fuma… e por que a ciência confirma que ele estava certo."
+ },
+ {
+  "cena": "A14",
+  "inicio": 147.1,
+  "dur": 10.5,
+  "emocao": "misterio",
+  "fase": "tensao",
+  "sfx": [
+   "riser"
+  ],
+  "texto": "Assista até o final. Porque tem muita gente ganhando dinheiro todos os dias com o seu vício. E eu não sei por quanto tempo este vídeo vai continuar no ar."
+ },
+ {
+  "cena": "C09",
+  "inicio": 157.6,
+  "dur": 14.9,
+  "emocao": "intimo",
+  "fase": "piano",
+  "sfx": [],
+  "texto": "Se você fuma há 5, 10, 20 ou 40 anos… se você fuma meio maço ou dois por dia… se você já tentou parar e voltou, uma, duas, dez vezes… este vídeo é pra você."
+ },
+ {
+  "cena": "C10",
+  "inicio": 172.5,
+  "dur": 11.0,
+  "emocao": "dor",
+  "fase": "piano",
+  "sfx": [],
+  "texto": "Principalmente se você já ficou três dias sem fumar, com a cabeça explodindo, e no quarto dia acendeu um cigarro sentindo que tinha falhado de novo."
+ },
+ {
+  "cena": "C11",
+  "inicio": 183.5,
+  "dur": 12.1,
+  "emocao": "revelacao",
+  "fase": "piano",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "Eu quero te dizer uma coisa que ninguém te disse: não foi fraqueza. Você só começou a luta pelo lado errado. E até o final deste vídeo você vai entender exatamente o que eu quero dizer."
+ },
+ {
+  "cena": "C12",
+  "inicio": 195.6,
+  "dur": 10.1,
+  "emocao": "misterio",
+  "fase": "piano",
+  "sfx": [],
+  "texto": "Mas antes, eu preciso te contar como eu cheguei naquela UTI. Porque tudo começou muito antes, com o meu pai."
+ },
+ {
+  "cena": "C13",
+  "inicio": 205.7,
+  "dur": 11.1,
+  "emocao": "dor",
+  "fase": "hospital",
+  "sfx": [
+   "monitor"
+  ],
+  "texto": "Meu pai fumou a vida inteira. Eu cresci vendo ele acender um cigarro no outro, sentado na varanda, com aquele isqueiro prateado que ele carregava no bolso da camisa."
+ },
+ {
+  "cena": "C14",
+  "inicio": 216.8,
+  "dur": 11.4,
+  "emocao": "intimo",
+  "fase": "hospital",
+  "sfx": [],
+  "texto": "Eu comecei a fumar com 25 anos. E sabe por quê? Pra ficar perto dele. Era o nosso momento. Eu e ele, na varanda, fumando e conversando sobre a vida."
+ },
+ {
+  "cena": "C15",
+  "inicio": 228.2,
+  "dur": 4.4,
+  "emocao": "dor",
+  "fase": "hospital",
+  "sfx": [],
+  "texto": "Eu nunca imaginei que aquele momento ia custar tão caro."
+ },
+ {
+  "cena": "C16",
+  "inicio": 232.6,
+  "dur": 14.9,
+  "emocao": "dor",
+  "fase": "hospital",
+  "sfx": [],
+  "texto": "Aos 67 anos, ele foi diagnosticado com câncer de pulmão. Em poucos meses, aquele homem forte, que me carregava nos ombros, não conseguia mais subir um degrau sem perder o ar."
+ },
+ {
+  "cena": "C17",
+  "inicio": 247.5,
+  "dur": 5.1,
+  "emocao": "choque",
+  "fase": "hospital",
+  "sfx": [
+   "silencio"
+  ],
+  "texto": "No final, ele não conseguia nem beber água sozinho."
+ },
+ {
+  "cena": "C18",
+  "inicio": 252.6,
+  "dur": 7.2,
+  "emocao": "choque",
+  "fase": "hospital",
+  "sfx": [],
+  "texto": "E eu estava lá. Segurando a mão dele."
+ },
+ {
+  "cena": "C19",
+  "inicio": 259.8,
+  "dur": 5.0,
+  "emocao": "choque",
+  "fase": "hospital",
+  "sfx": [
+   "linha_reta"
+  ],
+  "texto": "Ele morreu numa terça-feira, às 4 da tarde."
+ },
+ {
+  "cena": "C20",
+  "inicio": 264.8,
+  "dur": 9.4,
+  "emocao": "dor",
+  "fase": "hospital",
+  "sfx": [],
+  "texto": "E sabe o que eu fiz dez minutos depois? Eu desci até o estacionamento, entrei no carro… e acendi um cigarro."
+ },
+ {
+  "cena": "C21",
+  "inicio": 274.2,
+  "dur": 7.1,
+  "emocao": "choque",
+  "fase": "hospital",
+  "sfx": [
+   "isqueiro",
+   "impacto"
+  ],
+  "texto": "Dez minutos depois de ver o meu pai morrer por causa do cigarro, eu estava fumando."
+ },
+ {
+  "cena": "C22",
+  "inicio": 281.3,
+  "dur": 6.4,
+  "emocao": "dor",
+  "fase": "hospital",
+  "sfx": [],
+  "texto": "Naquele momento eu entendi que não era eu que mandava no cigarro. Era ele que mandava em mim."
+ },
+ {
+  "cena": "C23",
+  "inicio": 287.7,
+  "dur": 10.1,
+  "emocao": "intimo",
+  "fase": "hospital",
+  "sfx": [],
+  "texto": "E não era só comigo. A minha casa tinha cheiro de cigarro. As minhas roupas, as roupas do Luciano, meu marido. O carro. As cortinas."
+ },
+ {
+  "cena": "C24",
+  "inicio": 297.8,
+  "dur": 8.7,
+  "emocao": "dor",
+  "fase": "hospital",
+  "sfx": [],
+  "texto": "Ele nunca brigou comigo. Ele só abria a janela. Todo dia. E aquele silêncio doía mais do que qualquer briga."
+ },
+ {
+  "cena": "C25",
+  "inicio": 306.5,
+  "dur": 11.1,
+  "emocao": "impacto",
+  "fase": "hospital",
+  "sfx": [],
+  "texto": "Eu chegava a fumar um maço por dia. Não conseguia tomar um café sem um cigarro. Não conseguia dirigir sem um cigarro. Não conseguia nem pensar sem um cigarro."
+ },
+ {
+  "cena": "C26",
+  "inicio": 317.6,
+  "dur": 10.4,
+  "emocao": "dor",
+  "fase": "hospital",
+  "sfx": [],
+  "texto": "Eu tinha 42 anos, um marido que me amava e uma filha linda. E estava trocando tudo isso, devagar, por um maço de cigarro."
+ },
+ {
+  "cena": "C27",
+  "inicio": 328.0,
+  "dur": 6.2,
+  "emocao": "misterio",
+  "fase": "hospital",
+  "sfx": [
+   "whoosh"
+  ],
+  "texto": "Mas o que me fez decidir de verdade não foi a morte do meu pai. Foi um desenho."
+ },
+ {
+  "cena": "C28",
+  "inicio": 334.2,
+  "dur": 9.4,
+  "emocao": "dor",
+  "fase": "filho",
+  "sfx": [],
+  "texto": "A Sofia, minha filha, tinha 8 anos. Uma semana depois do enterro do avô, ela deixou esse desenho em cima do meu travesseiro."
+ },
+ {
+  "cena": "C29",
+  "inicio": 343.6,
+  "dur": 9.8,
+  "emocao": "choque",
+  "fase": "filho",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "Estava escrito assim, com a letra torta dela: \"Mamãe, não fuma. Eu não quero que você morra igual o vovô.\""
+ },
+ {
+  "cena": "C30",
+  "inicio": 353.4,
+  "dur": 4.6,
+  "emocao": "choque",
+  "fase": "filho",
+  "sfx": [],
+  "texto": "Eu chorei como não tinha chorado nem no velório."
+ },
+ {
+  "cena": "C31",
+  "inicio": 358.0,
+  "dur": 10.5,
+  "emocao": "dor",
+  "fase": "filho",
+  "sfx": [],
+  "texto": "E naquele dia eu percebi que a minha filha já estava se afastando de mim. Ela não pulava mais no meu colo quando eu chegava. Ela dizia que eu tinha cheiro de cinzeiro."
+ },
+ {
+  "cena": "C32",
+  "inicio": 368.5,
+  "dur": 7.0,
+  "emocao": "impacto",
+  "fase": "filho",
+  "sfx": [],
+  "texto": "Eu prometi pra ela, e prometi pra mim, que eu ia parar. Custasse o que custasse."
+ },
+ {
+  "cena": "C33",
+  "inicio": 375.5,
+  "dur": 4.9,
+  "emocao": "choque",
+  "fase": "filho",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "E durante um ano inteiro, eu fracassei."
+ },
+ {
+  "cena": "C34",
+  "inicio": 380.4,
+  "dur": 10.0,
+  "emocao": "impacto",
+  "fase": "tensao",
+  "sfx": [],
+  "texto": "Eu tentei de tudo. Adesivo. Chiclete. Remédio. Parar de uma vez, na força de vontade. Contei os dias num aplicativo."
+ },
+ {
+  "cena": "C35",
+  "inicio": 390.4,
+  "dur": 15.6,
+  "emocao": "dor",
+  "fase": "tensao",
+  "sfx": [],
+  "texto": "E toda vez era a mesma história. Um, dois, três dias, eu aguentava. No quarto dia, de manhã, a vontade vinha como uma onda. Eu ficava irritada, com a cabeça pesada, brigava com todo mundo em casa."
+ },
+ {
+  "cena": "C35b",
+  "inicio": 406.0,
+  "dur": 24.0,
+  "emocao": "revelacao",
+  "fase": "tensao",
+  "sfx": [
+   "whoosh"
+  ],
+  "texto": "E sabe o que eu só fui entender depois? O adesivo e o chiclete continuam colocando nicotina no seu corpo, todos os dias. Você troca o cigarro por outro prato, mas a serpente continua sendo alimentada. E nenhum deles mexe na raiz do problema: o ritual da manhã. Aquele momento do café, do primeiro cigarro, continua lá, intacto, esperando você."
+ },
+ {
+  "cena": "C36",
+  "inicio": 430.0,
+  "dur": 10.9,
+  "emocao": "dor",
+  "fase": "tensao",
+  "sfx": [],
+  "texto": "Teve um dia que eu gritei com a Sofia por causa de um copo derramado. Um copo. E eu vi no olho dela o medo. Eu tinha virado outra pessoa."
+ },
+ {
+  "cena": "C37",
+  "inicio": 440.9,
+  "dur": 5.7,
+  "emocao": "dor",
+  "fase": "tensao",
+  "sfx": [
+   "isqueiro"
+  ],
+  "texto": "E aí eu acendia um cigarro. E a culpa vinha junto."
+ },
+ {
+  "cena": "C37a",
+  "inicio": 446.6,
+  "dur": 25.2,
+  "emocao": "medo",
+  "fase": "medo",
+  "sfx": [
+   "impacto",
+   "coracao"
+  ],
+  "texto": "E sabe o que acontecia toda vez que eu recaía? A Organização Mundial da Saúde diz que o cigarro mata até metade das pessoas que fumam. Metade. Um em cada dois. E cada cigarro que eu acendia mandava pra dentro de mim mais de 7 mil substâncias químicas. Pelo menos 70 delas causam câncer. Na boca, na garganta, no pulmão, na bexiga."
+ },
+ {
+  "cena": "C37b",
+  "inicio": 471.8,
+  "dur": 9.1,
+  "emocao": "medo",
+  "fase": "medo",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "Cada tragada endurece as suas artérias e deixa o seu sangue mais grosso. É por isso que fumante infarta mais. Tem AVC mais cedo."
+ },
+ {
+  "cena": "C37c",
+  "inicio": 480.9,
+  "dur": 17.8,
+  "emocao": "medo",
+  "fase": "medo",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "E é por isso que tanto homem que fuma começa a falhar na cama. O sangue simplesmente não chega onde precisa chegar. E nas mulheres, o cigarro destrói o colágeno, envelhece a pele, apaga o brilho do rosto. Eu via isso no espelho, todo santo dia."
+ },
+ {
+  "cena": "C37d",
+  "inicio": 498.7,
+  "dur": 12.4,
+  "emocao": "dor",
+  "fase": "medo",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "E tem o enfisema. Os pulmões vão perdendo a força, até o dia em que você precisa arrastar um cilindro de oxigênio pra ir até a padaria. Eu vi isso acontecer. No meu pai."
+ },
+ {
+  "cena": "C37e",
+  "inicio": 511.1,
+  "dur": 15.8,
+  "emocao": "choque",
+  "fase": "medo",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "Quem fuma vive, em média, pelo menos dez anos a menos. Dez anos. Dez Natais. A formatura do seu filho. O nascimento do seu neto. Tudo isso queimando junto com o cigarro."
+ },
+ {
+  "cena": "C37f",
+  "inicio": 526.9,
+  "dur": 7.8,
+  "emocao": "dor",
+  "fase": "medo",
+  "sfx": [],
+  "texto": "E não é só você. A fumaça que sai do seu cigarro entra no pulmão de quem você mais ama."
+ },
+ {
+  "cena": "U01",
+  "inicio": 534.7,
+  "dur": 13.3,
+  "emocao": "medo",
+  "fase": "uti",
+  "sfx": [
+   "impacto",
+   "monitor"
+  ],
+  "texto": "E um dia, a conta chegou. Eu estava no trabalho quando senti uma pressão no peito, como se alguém estivesse sentado em cima de mim. O braço esquerdo formigando. O ar que não vinha."
+ },
+ {
+  "cena": "U02",
+  "inicio": 548.0,
+  "dur": 11.3,
+  "emocao": "dor",
+  "fase": "uti",
+  "sfx": [
+   "sirene"
+  ],
+  "texto": "Eu tive um infarto aos 43 anos. Acordei dois dias depois, numa UTI. Foi ali que a Sofia segurou a minha mão e me pediu pra ficar."
+ },
+ {
+  "cena": "U03",
+  "inicio": 559.3,
+  "dur": 14.1,
+  "emocao": "choque",
+  "fase": "uti",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "Quando eu acordei, o médico olhou nos meus olhos e disse uma frase que eu nunca vou esquecer: \"Márcia, se você continuar fumando, da próxima vez você não volta.\""
+ },
+ {
+  "cena": "U04",
+  "inicio": 573.4,
+  "dur": 10.6,
+  "emocao": "dor",
+  "fase": "uti",
+  "sfx": [
+   "isqueiro"
+  ],
+  "texto": "E sabe o que eu fiz três semanas depois de sair daquele hospital? Eu me tranquei no banheiro… e acendi um cigarro. Escondida da minha própria filha."
+ },
+ {
+  "cena": "U05",
+  "inicio": 584.0,
+  "dur": 12.1,
+  "emocao": "impacto",
+  "fase": "uti",
+  "sfx": [
+   "sibilo"
+  ],
+  "texto": "Foi aí que eu tive certeza: aquilo não era um hábito. Era uma serpente enrolada no meu pescoço. E cada vez que eu tentava arrancá-la de uma vez, ela apertava mais."
+ },
+ {
+  "cena": "C37g",
+  "inicio": 596.1,
+  "dur": 29.6,
+  "emocao": "impacto",
+  "fase": "tensao",
+  "sfx": [
+   "whoosh"
+  ],
+  "texto": "E enquanto isso acontece, tem gente ficando muito rica. A indústria do cigarro fatura bilhões todos os anos com gente como eu e você. E quando você tenta parar e não consegue, tem outra fila de empresas esperando, vendendo adesivo, chiclete, tratamento, caixa atrás de caixa. Cada recaída sua vira mais uma venda. E a maioria das pessoas que tenta parar acaba recaindo . É um ciclo que dá lucro pra todo mundo. Menos pra você."
+ },
+ {
+  "cena": "C37h",
+  "inicio": 625.7,
+  "dur": 13.9,
+  "emocao": "misterio",
+  "fase": "tensao",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "Pensa comigo: quem ganha dinheiro se você conseguir parar sozinho, com um método simples, que custa menos que alguns maços de cigarro? Ninguém. É por isso que ninguém te conta o que eu vou te contar agora."
+ },
+ {
+  "cena": "C38",
+  "inicio": 639.6,
+  "dur": 11.1,
+  "emocao": "revelacao",
+  "fase": "tensao",
+  "sfx": [
+   "riser"
+  ],
+  "texto": "Hoje eu sei por que eu falhava. E o problema nunca fui eu. Nem você. O problema foi a estratégia que venderam pra gente a vida inteira: parar de uma vez."
+ },
+ {
+  "cena": "C39",
+  "inicio": 650.7,
+  "dur": 9.7,
+  "emocao": "revelacao",
+  "fase": "tensao",
+  "sfx": [],
+  "texto": "E parar de uma vez significa uma coisa que ninguém te explica: logo no primeiro minuto do dia, você tem que enfrentar o cigarro mais forte de todos."
+ },
+ {
+  "cena": "C40",
+  "inicio": 660.4,
+  "dur": 11.7,
+  "emocao": "misterio",
+  "fase": "tensao",
+  "sfx": [],
+  "texto": "Eu não sabia disso. Eu só fui entender quando um velho, sentado numa cadeira de madeira, me olhou nos olhos e me disse uma frase que eu nunca mais esqueci."
+ },
+ {
+  "cena": "C41",
+  "inicio": 672.1,
+  "dur": 10.3,
+  "emocao": "intimo",
+  "fase": "gana",
+  "sfx": [
+   "whoosh"
+  ],
+  "texto": "Quando eu saí do hospital, o médico foi direto: \"Você precisa descansar, longe de tudo.\" O Luciano olhou pra mim e disse: \"A gente precisa sair daqui.\""
+ },
+ {
+  "cena": "C42",
+  "inicio": 682.4,
+  "dur": 10.2,
+  "emocao": "intimo",
+  "fase": "gana",
+  "sfx": [],
+  "texto": "Ele tinha um amigo de infância que morava em Gana, na África. E insistiu tanto que eu acabei indo. Eu achava que ia passar duas semanas tentando fumar escondido."
+ },
+ {
+  "cena": "C43",
+  "inicio": 692.6,
+  "dur": 10.0,
+  "emocao": "esperanca",
+  "fase": "gana",
+  "sfx": [],
+  "texto": "Mas lá aconteceu uma coisa que eu não entendia. Eu andava pelas ruas, pelos mercados, pelas praias… e não via quase ninguém fumando."
+ },
+ {
+  "cena": "C44",
+  "inicio": 702.6,
+  "dur": 4.7,
+  "emocao": "intimo",
+  "fase": "gana",
+  "sfx": [],
+  "texto": "Eu era a única. Eu, a turista, com o cigarro na mão."
+ },
+ {
+  "cena": "C45",
+  "inicio": 707.3,
+  "dur": 6.2,
+  "emocao": "revelacao",
+  "fase": "gana",
+  "sfx": [
+   "tum"
+  ],
+  "texto": "Depois eu fui pesquisar e descobri que Gana está entre os países onde menos se fuma no mundo."
+ },
+ {
+  "cena": "C46",
+  "inicio": 713.5,
+  "dur": 11.1,
+  "emocao": "esperanca",
+  "fase": "gana",
+  "sfx": [],
+  "texto": "Eu perguntei pro amigo do Luciano, o Kofi, como aquilo era possível. Ele riu e disse: \"Aqui, quando alguém quer largar um vício, a gente leva pra falar com os mais velhos.\""
+ },
+ {
+  "cena": "C47",
+  "inicio": 724.6,
+  "dur": 8.8,
+  "emocao": "misterio",
+  "fase": "gana",
+  "sfx": [],
+  "texto": "No dia seguinte ele me levou até um vilarejo a duas horas da capital. E me apresentou a um homem chamado Kwame."
+ },
+ {
+  "cena": "C48",
+  "inicio": 733.4,
+  "dur": 12.9,
+  "emocao": "misterio",
+  "fase": "gana",
+  "sfx": [],
+  "texto": "Kwame tinha uns 75 anos. Ele me explicou que Kwame quer dizer \"nascido no sábado\". Na tradição do povo dele, cada pessoa recebe o nome do dia em que nasceu."
+ },
+ {
+  "cena": "C49",
+  "inicio": 746.3,
+  "dur": 7.8,
+  "emocao": "misterio",
+  "fase": "gana",
+  "sfx": [],
+  "texto": "E aí ele fez uma coisa que me deixou completamente confusa. Ele acendeu um cigarro na minha frente."
+ },
+ {
+  "cena": "C50",
+  "inicio": 754.1,
+  "dur": 14.5,
+  "emocao": "misterio",
+  "fase": "gana",
+  "sfx": [
+   "riser"
+  ],
+  "texto": "Fumou só a metade. Apagou com calma. E guardou a outra metade dentro de um pote de vidro. E me disse: \"Esse foi o meu único cigarro de hoje. E amanhã eu não vou querer nenhum.\""
+ },
+ {
+  "cena": "C51",
+  "inicio": 768.6,
+  "dur": 8.4,
+  "emocao": "intimo",
+  "fase": "fogo",
+  "sfx": [],
+  "texto": "Eu contei tudo pra ele. Do meu pai, da Sofia, do desenho, da UTI, de todas as vezes que eu tentei parar."
+ },
+ {
+  "cena": "C52",
+  "inicio": 777.0,
+  "dur": 8.4,
+  "emocao": "misterio",
+  "fase": "fogo",
+  "sfx": [],
+  "texto": "Ele ouviu em silêncio. E quando eu terminei, ele perguntou: \"Quando você tenta parar, qual cigarro você tira primeiro?\""
+ },
+ {
+  "cena": "C53",
+  "inicio": 785.4,
+  "dur": 3.9,
+  "emocao": "intimo",
+  "fase": "fogo",
+  "sfx": [],
+  "texto": "Eu disse: \"Todos. Eu paro de uma vez.\""
+ },
+ {
+  "cena": "C54",
+  "inicio": 789.3,
+  "dur": 5.7,
+  "emocao": "misterio",
+  "fase": "fogo",
+  "sfx": [],
+  "texto": "Ele riu. E disse a frase que mudou a minha vida:"
+ },
+ {
+  "cena": "C55",
+  "inicio": 795.0,
+  "dur": 9.1,
+  "emocao": "choque",
+  "fase": "fogo",
+  "sfx": [
+   "sibilo",
+   "impacto"
+  ],
+  "texto": "\"Vocês tentam matar a serpente pelo rabo. E ela se vira e morde vocês. Nós cortamos a cabeça.\""
+ },
+ {
+  "cena": "C56",
+  "inicio": 804.1,
+  "dur": 12.7,
+  "emocao": "revelacao",
+  "fase": "fogo",
+  "sfx": [],
+  "texto": "Ele me explicou que, pra eles, o vício é como uma serpente. O corpo é feito de todos os cigarros do dia. Mas a cabeça, o lugar de onde vem toda a força, é o primeiro."
+ },
+ {
+  "cena": "C57",
+  "inicio": 816.8,
+  "dur": 15.3,
+  "emocao": "misterio",
+  "fase": "fogo",
+  "sfx": [],
+  "texto": "\"Quando você acorda, a serpente está com fome. Ela passou a noite inteira sem comer. O primeiro cigarro é a comida mais gostosa que ela recebe no dia. É ele que dá força pra ela pedir todos os outros.\""
+ },
+ {
+  "cena": "C58",
+  "inicio": 832.1,
+  "dur": 16.7,
+  "emocao": "impacto",
+  "fase": "fogo",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "Aquilo bateu em mim como um soco. Porque era verdade. O primeiro cigarro sempre foi o melhor. Aquele com o café, ainda de pijama. Os outros eu fumava quase no automático. Mas o primeiro… o primeiro eu esperava a noite inteira."
+ },
+ {
+  "cena": "C59",
+  "inicio": 848.8,
+  "dur": 15.5,
+  "emocao": "revelacao",
+  "fase": "fogo",
+  "sfx": [],
+  "texto": "Kwame me ensinou o que o povo dele faz com a cabeça da serpente. Não é parar de uma vez. É ir enfraquecendo a cabeça, um pouco a cada manhã, durante 14 dias. Com um ritual tão simples que no começo eu achei que era brincadeira."
+ },
+ {
+  "cena": "C60",
+  "inicio": 864.3,
+  "dur": 7.6,
+  "emocao": "misterio",
+  "fase": "fogo",
+  "sfx": [],
+  "texto": "E me disse: \"Faça isso por 14 dias. No décimo quinto dia, você vai entender.\""
+ },
+ {
+  "cena": "C61",
+  "inicio": 871.9,
+  "dur": 9.6,
+  "emocao": "revelacao",
+  "fase": "ciencia",
+  "sfx": [
+   "whoosh"
+  ],
+  "texto": "Quando eu voltei pro Brasil, a primeira coisa que eu fiz foi pesquisar. Eu precisava saber se aquilo tinha algum sentido ou se era só uma história bonita."
+ },
+ {
+  "cena": "C62",
+  "inicio": 881.5,
+  "dur": 18.9,
+  "emocao": "impacto",
+  "fase": "ciencia",
+  "sfx": [
+   "tum"
+  ],
+  "texto": "E eu descobri uma coisa que me deixou arrepiada. Existe um teste que profissionais de saúde do mundo inteiro usam pra medir o grau de dependência de nicotina. E uma das primeiras perguntas desse teste é exatamente esta: quanto tempo depois de acordar você fuma o seu primeiro cigarro?"
+ },
+ {
+  "cena": "C63",
+  "inicio": 900.4,
+  "dur": 12.1,
+  "emocao": "choque",
+  "fase": "ciencia",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "A ciência e um velho de um vilarejo africano estavam dizendo a mesma coisa. O primeiro cigarro do dia é um dos sinais mais fortes do tamanho do seu vício."
+ },
+ {
+  "cena": "C64",
+  "inicio": 912.5,
+  "dur": 15.7,
+  "emocao": "revelacao",
+  "fase": "ciencia",
+  "sfx": [],
+  "texto": "E faz todo sentido. Você passa a noite inteira dormindo, sem nicotina. Quando acorda, o seu corpo está no ponto mais baixo. Por isso o primeiro cigarro dá aquele alívio enorme. É ele que \"recarrega\" o vício pro resto do dia."
+ },
+ {
+  "cena": "C65",
+  "inicio": 928.2,
+  "dur": 17.2,
+  "emocao": "impacto",
+  "fase": "ciencia",
+  "sfx": [],
+  "texto": "É por isso que parar de uma vez é tão brutal. Você começa a guerra justamente contra o cigarro mais forte. E é por isso que o que o Kwame me ensinou funciona ao contrário: você enfraquece a cabeça primeiro, devagar, e o resto do corpo da serpente vai junto."
+ },
+ {
+  "cena": "C66",
+  "inicio": 945.4,
+  "dur": 7.1,
+  "emocao": "impacto",
+  "fase": "pulso",
+  "sfx": [
+   "tum"
+  ],
+  "texto": "O truque do primeiro cigarro do dia tem três movimentos. Eu vou te mostrar o que cada um faz."
+ },
+ {
+  "cena": "C67",
+  "inicio": 952.5,
+  "dur": 17.5,
+  "emocao": "revelacao",
+  "fase": "pulso",
+  "sfx": [
+   "tum"
+  ],
+  "texto": "O primeiro é empurrar. Você não deixa de fumar o primeiro cigarro. Você só muda a hora dele, de um jeito muito específico, todos os dias. E com isso você ensina o seu corpo que as suas manhãs sobrevivem sem nicotina, sem sofrimento, porque é aos pouquinhos."
+ },
+ {
+  "cena": "C68",
+  "inicio": 970.0,
+  "dur": 13.7,
+  "emocao": "revelacao",
+  "fase": "pulso",
+  "sfx": [
+   "tum"
+  ],
+  "texto": "O segundo é partir. O cigarro mais gostoso do dia deixa de ser inteiro. E quando o prazer mais forte do dia deixa de ser completo, o seu cérebro começa a perder o interesse por ele."
+ },
+ {
+  "cena": "C69",
+  "inicio": 983.7,
+  "dur": 21.6,
+  "emocao": "revelacao",
+  "fase": "pulso",
+  "sfx": [
+   "tum"
+  ],
+  "texto": "E o terceiro é selar. É o ritual dos dois frascos que o Kwame me ensinou, junto com um chá simples que você toma antes de dormir. Ele transforma cada manhã numa vitória que o seu cérebro registra e não esquece. Parece simples demais. E é exatamente por isso que funciona: você consegue fazer todos os dias."
+ },
+ {
+  "cena": "C70",
+  "inicio": 1005.3,
+  "dur": 11.7,
+  "emocao": "esperanca",
+  "fase": "pulso",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "Repara numa coisa: em nenhum desses três movimentos você precisa parar de fumar. Você começa fumando. É isso que faz esse método ser diferente de tudo o que você já tentou."
+ },
+ {
+  "cena": "C71",
+  "inicio": 1017.0,
+  "dur": 9.7,
+  "emocao": "misterio",
+  "fase": "pulso",
+  "sfx": [],
+  "texto": "Mas eu confesso: no primeiro dia eu não acreditei. E o que aconteceu nos 15 dias seguintes eu anotei tudo, num caderno."
+ },
+ {
+  "cena": "C72",
+  "inicio": 1026.7,
+  "dur": 15.5,
+  "emocao": "intimo",
+  "fase": "diario",
+  "sfx": [],
+  "texto": "Dia 1. Acordei, fiz o café, e fiz o primeiro movimento. Foi estranho. A vontade estava lá. Mas era possível. Pela primeira vez, eu não estava brigando com a vontade. Eu estava negociando com ela."
+ },
+ {
+  "cena": "C73",
+  "inicio": 1042.2,
+  "dur": 11.5,
+  "emocao": "esperanca",
+  "fase": "diario",
+  "sfx": [],
+  "texto": "Dia 3. Nas outras tentativas, era o dia em que eu explodia. Desta vez eu estava tranquila. O Luciano percebeu antes de mim: \"Você não gritou com ninguém hoje.\""
+ },
+ {
+  "cena": "C74",
+  "inicio": 1053.7,
+  "dur": 15.9,
+  "emocao": "esperanca",
+  "fase": "diario",
+  "sfx": [],
+  "texto": "Dia 5. O meu primeiro cigarro, que antes era às 6 e meia da manhã, já estava pra depois das 9. E o mais estranho: o resto do dia eu estava fumando menos, sem fazer força nenhuma. A serpente estava ficando mais fraca."
+ },
+ {
+  "cena": "C75",
+  "inicio": 1069.6,
+  "dur": 11.8,
+  "emocao": "alegria",
+  "fase": "diario",
+  "sfx": [],
+  "texto": "Dia 8. A Sofia pulou no meu colo quando eu cheguei do trabalho. Fazia meses que ela não fazia isso. Ela cheirou a minha blusa e disse: \"Mãe, você tá com cheiro de mãe.\""
+ },
+ {
+  "cena": "C76",
+  "inicio": 1081.4,
+  "dur": 3.8,
+  "emocao": "dor",
+  "fase": "diario",
+  "sfx": [],
+  "texto": "Eu tive que ir pro banheiro pra ela não me ver chorando."
+ },
+ {
+  "cena": "C77",
+  "inicio": 1085.2,
+  "dur": 9.4,
+  "emocao": "esperanca",
+  "fase": "diario",
+  "sfx": [],
+  "texto": "Dia 11. Encontrei um maço esquecido no bolso da jaqueta. Nem lembrava de ter comprado. A vontade estava ficando… pequena."
+ },
+ {
+  "cena": "C78",
+  "inicio": 1094.6,
+  "dur": 12.5,
+  "emocao": "misterio",
+  "fase": "silencio",
+  "sfx": [],
+  "texto": "Dia 15. Eu acordei, fiz o café, sentei na mesma cadeira de sempre… tomei o café inteiro. E quando eu levantei pra lavar a xícara… eu percebi."
+ },
+ {
+  "cena": "C79",
+  "inicio": 1107.1,
+  "dur": 3.7,
+  "emocao": "choque",
+  "fase": "silencio",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "Eu tinha esquecido de fumar."
+ },
+ {
+  "cena": "C80",
+  "inicio": 1110.8,
+  "dur": 10.2,
+  "emocao": "alegria",
+  "fase": "vitoria",
+  "sfx": [],
+  "texto": "Dezenove anos fumando. E eu tinha esquecido. Eu corri pra contar pro Luciano. Ele me abraçou e só disse: \"Seu pai ia ficar orgulhoso.\""
+ },
+ {
+  "cena": "C81",
+  "inicio": 1121.0,
+  "dur": 5.0,
+  "emocao": "alegria",
+  "fase": "vitoria",
+  "sfx": [],
+  "texto": "E a Sofia grudou uma estrelinha no desenho dela, que ainda estava na geladeira."
+ },
+ {
+  "cena": "C82",
+  "inicio": 1126.0,
+  "dur": 14.3,
+  "emocao": "alegria",
+  "fase": "manada",
+  "sfx": [],
+  "texto": "Quando as pessoas perceberam que eu não fumava mais, começaram a me perguntar o que eu tinha feito. Primeiro o meu cunhado, que fumava há mais de 25 anos. Depois um colega do trabalho. Depois a mãe de uma amiga da Sofia."
+ },
+ {
+  "cena": "C83",
+  "inicio": 1140.3,
+  "dur": 0.4,
+  "emocao": "alegria",
+  "fase": "manada",
+  "sfx": [],
+  "texto": ""
+ },
+ {
+  "cena": "C83b",
+  "inicio": 1140.7,
+  "dur": 20.8,
+  "emocao": "esperanca",
+  "fase": "manada",
+  "sfx": [
+   "riser"
+  ],
+  "texto": "Agora mesmo, enquanto você assiste a este vídeo, tem gente acordando amanhã cedo sem precisar daquele primeiro cigarro. Gente que fumava há 20, 30, 40 anos. Gente que já tinha desistido de si mesma. Gente igualzinha a você. E se elas conseguiram… você também vai conseguir."
+ },
+ {
+  "cena": "C83c",
+  "inicio": 1161.5,
+  "dur": 15.7,
+  "emocao": "intimo",
+  "fase": "manada",
+  "sfx": [],
+  "texto": "Fecha os olhos por um segundo e imagina o seu dia 15. Você acorda, faz o café, toma até o último gole… e percebe que esqueceu de fumar. Quem está do seu lado nessa manhã? Quem vai te abraçar sem virar o rosto?"
+ },
+ {
+  "cena": "C84",
+  "inicio": 1177.2,
+  "dur": 13.3,
+  "emocao": "misterio",
+  "fase": "manada",
+  "sfx": [],
+  "texto": "E o meu celular não parava. Eu passava as noites respondendo mensagens, explicando cada passo, um por um. Até que eu percebi que não ia dar conta. Mas eu tinha feito uma promessa."
+ },
+ {
+  "cena": "C85",
+  "inicio": 1190.5,
+  "dur": 13.6,
+  "emocao": "intimo",
+  "fase": "gana",
+  "sfx": [],
+  "texto": "No último dia em Gana, quando eu fui agradecer, o Kwame segurou as minhas mãos e me pediu uma coisa. Ele disse: \"Isso foi dado a você de graça. Não transforme isso em algo que só os ricos podem ter.\""
+ },
+ {
+  "cena": "C86",
+  "inicio": 1204.1,
+  "dur": 17.3,
+  "emocao": "impacto",
+  "fase": "gana",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "E eu prometi. Por isso eu juntei tudo o que ele me ensinou, o passo a passo dos três movimentos, o ritual dos frascos, o chá, o meu diário de 15 dias, num método simples, que você acessa pelo celular. E decidi que o preço nunca seria um obstáculo."
+ },
+ {
+  "cena": "C87",
+  "inicio": 1221.4,
+  "dur": 18.5,
+  "emocao": "revelacao",
+  "fase": "gana",
+  "sfx": [],
+  "texto": "Mas antes de te falar o valor, faz uma conta comigo. Se você fuma um maço por dia, você gasta mais ou menos 12 reais por dia. São 360 reais por mês. Mais de 4 mil reais por ano. Em 10 anos, mais de 40 mil reais virando fumaça."
+ },
+ {
+  "cena": "C88",
+  "inicio": 1239.9,
+  "dur": 10.1,
+  "emocao": "dor",
+  "fase": "gana",
+  "sfx": [],
+  "texto": "Uma viagem com a família. A reforma da casa. A faculdade do seu filho. Tudo isso queimado, um cigarro de cada vez."
+ },
+ {
+  "cena": "C89",
+  "inicio": 1250.0,
+  "dur": 9.6,
+  "emocao": "esperanca",
+  "fase": "gana",
+  "sfx": [],
+  "texto": "E ainda tem o que não tem preço: o cheiro que sai da sua casa, o fôlego pra brincar com o seu filho, o abraço sem ninguém virar o rosto."
+ },
+ {
+  "cena": "C90",
+  "inicio": 1259.6,
+  "dur": 18.0,
+  "emocao": "venda",
+  "fase": "oferta",
+  "sfx": [],
+  "texto": "Então aqui está o que você vai receber. O método completo do truque do primeiro cigarro do dia: os três movimentos, empurrar, partir e selar, explicados passo a passo, dia por dia, durante os 14 dias. Exatamente como o Kwame me ensinou e como eu apliquei."
+ },
+ {
+  "cena": "C91",
+  "inicio": 1277.6,
+  "dur": 12.9,
+  "emocao": "venda",
+  "fase": "oferta",
+  "sfx": [],
+  "texto": "Você vai saber exatamente a que horas fumar o primeiro cigarro em cada dia, como partir, como montar os dois frascos, e o que fazer com eles. Tudo no seu celular, pra você seguir enquanto toma o seu café."
+ },
+ {
+  "cena": "C92",
+  "inicio": 1290.5,
+  "dur": 13.9,
+  "emocao": "venda",
+  "fase": "oferta",
+  "sfx": [],
+  "texto": "Muita gente me disse que pagaria 300 reais por isso sem pensar. E faz sentido, é menos de um mês de cigarro. Mas eu fiz uma promessa. Então não vai ser 300. Nem 200. Nem 100."
+ },
+ {
+  "cena": "C93",
+  "inicio": 1304.4,
+  "dur": 9.1,
+  "emocao": "impacto",
+  "fase": "oferta",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "Hoje você leva o método completo por apenas 37 reais. Ou em até 12 parcelas, que custam menos que um maço de cigarro."
+ },
+ {
+  "cena": "C94",
+  "inicio": 1313.5,
+  "dur": 6.8,
+  "emocao": "venda",
+  "fase": "oferta",
+  "sfx": [],
+  "texto": "Menos do que você gasta com cigarro em três dias. Pra você nunca mais precisar gastar com isso."
+ },
+ {
+  "cena": "C95",
+  "inicio": 1320.3,
+  "dur": 5.0,
+  "emocao": "alegria",
+  "fase": "oferta",
+  "sfx": [
+   "brilho"
+  ],
+  "texto": "E como você confiou em mim até aqui, eu quero te dar quatro presentes."
+ },
+ {
+  "cena": "C96",
+  "inicio": 1325.3,
+  "dur": 14.9,
+  "emocao": "venda",
+  "fase": "oferta",
+  "sfx": [],
+  "texto": "O primeiro é o Kit dos 3 Primeiros Dias. Eu te mostro o que fazer nos três momentos em que a vontade aperta mais: quando você acorda, depois do café e depois do almoço. São os três momentos em que eu mais precisei de ajuda."
+ },
+ {
+  "cena": "C97",
+  "inicio": 1340.2,
+  "dur": 12.1,
+  "emocao": "venda",
+  "fase": "oferta",
+  "sfx": [],
+  "texto": "O segundo é o Ritual do Chá da Noite Serena. A receita simples que o Kwame me ensinou, com ervas fáceis de achar, e como fazer esse ritual antes de dormir pra acordar mais tranquilo."
+ },
+ {
+  "cena": "C98",
+  "inicio": 1352.3,
+  "dur": 38.6,
+  "emocao": "venda",
+  "fase": "oferta",
+  "sfx": [],
+  "texto": "O terceiro vai mudar a forma como você enxerga o seu corpo: o Protocolo de Recuperação do Corpo. Você vai ver, dia a dia, o que acontece dentro de você depois do último cigarro. Em 20 minutos o seu coração desacelera. Em 12 horas o monóxido de carbono do seu sangue volta ao normal. Em poucas semanas a circulação melhora e o fôlego volta. Em um ano o risco de infarto cai pela metade. E em dez anos o risco de câncer de pulmão cai pra cerca da metade do de quem continua fumando. E a alimentação simples pra ajudar o seu corpo nessa recuperação, sem engordar."
+ },
+ {
+  "cena": "C98b",
+  "inicio": 1390.9,
+  "dur": 13.0,
+  "emocao": "venda",
+  "fase": "oferta",
+  "sfx": [],
+  "texto": "E o quarto é a Blindagem Antirrecaída: o plano dos 30 dias depois do dia 15, pra festa, cerveja, estresse no trabalho. Os momentos em que a maioria das pessoas volta a fumar."
+ },
+ {
+  "cena": "C99",
+  "inicio": 1403.9,
+  "dur": 17.4,
+  "emocao": "impacto",
+  "fase": "oferta",
+  "sfx": [
+   "impacto"
+  ],
+  "texto": "E você ainda tem a Garantia do Primeiro Cigarro. Você aplica o método durante os 14 dias. Se você não sentir a diferença, é só mandar uma mensagem dentro de 30 dias e você recebe todo o seu dinheiro de volta. Sem perguntas. O risco é todo meu."
+ },
+ {
+  "cena": "C100",
+  "inicio": 1421.3,
+  "dur": 17.9,
+  "emocao": "urgencia",
+  "fase": "leve",
+  "sfx": [],
+  "texto": "É simples. Clique no botão que está aqui embaixo do vídeo. Você vai pra uma página de pagamento segura. Preencha os seus dados, escolha Pix ou cartão, e finalize. Em poucos minutos o acesso chega no seu e-mail e você já pode começar amanhã de manhã, no seu primeiro cigarro."
+ },
+ {
+  "cena": "C101",
+  "inicio": 1439.2,
+  "dur": 17.6,
+  "emocao": "intimo",
+  "fase": "leve",
+  "sfx": [],
+  "texto": "Eu sei que você pode estar com algumas dúvidas. As mesmas que eu tinha. \"Márcia, eu fumo há 30 anos.\" Eu fumava há 19, o meu cunhado há mais de 25. O método não depende de há quanto tempo você fuma. Ele trabalha no cigarro que você vai fumar amanhã."
+ },
+ {
+  "cena": "C102",
+  "inicio": 1456.8,
+  "dur": 10.9,
+  "emocao": "intimo",
+  "fase": "leve",
+  "sfx": [],
+  "texto": "\"Eu fumo dois maços por dia.\" Quanto mais você fuma, mais forte é a cabeça da serpente, e mais você vai sentir a diferença quando começar a enfraquecê-la."
+ },
+ {
+  "cena": "C103",
+  "inicio": 1467.7,
+  "dur": 12.3,
+  "emocao": "intimo",
+  "fase": "leve",
+  "sfx": [],
+  "texto": "\"Eu sou muito ansioso.\" Eu também. Foi exatamente por isso que parar de uma vez nunca funcionou pra mim. Aqui você não para de uma vez. Você vai devagar, no seu ritmo."
+ },
+ {
+  "cena": "C104",
+  "inicio": 1480.0,
+  "dur": 14.6,
+  "emocao": "intimo",
+  "fase": "leve",
+  "sfx": [],
+  "texto": "\"Eu preciso de remédio pra fazer?\" Não. Você não precisa de nenhum remédio pra aplicar o truque do primeiro cigarro. E se você já usa algum por indicação médica, não precisa parar: o método entra junto com a sua rotina."
+ },
+ {
+  "cena": "C105",
+  "inicio": 1494.6,
+  "dur": 8.1,
+  "emocao": "intimo",
+  "fase": "leve",
+  "sfx": [],
+  "texto": "\"E se não funcionar comigo?\" Você tem 30 dias de garantia. Se você não sentir a diferença, eu devolvo o seu dinheiro."
+ },
+ {
+  "cena": "C106",
+  "inicio": 1502.7,
+  "dur": 18.4,
+  "emocao": "dor",
+  "fase": "fechamento",
+  "sfx": [],
+  "texto": "Agora você tem dois caminhos. O primeiro é fechar este vídeo e continuar como está. Amanhã de manhã você vai acender o primeiro cigarro do dia, como sempre. E o próximo. E o próximo. E a serpente vai continuar com fome."
+ },
+ {
+  "cena": "C106b",
+  "inicio": 1521.1,
+  "dur": 17.0,
+  "emocao": "choque",
+  "fase": "hospital",
+  "sfx": [
+   "monitor",
+   "impacto"
+  ],
+  "texto": "E daqui a alguns anos, pode ser você naquela cama de hospital, com uma máscara de oxigênio, sem conseguir beber água sozinho. E alguém que você ama segurando a sua mão. Eu já estive dos dois lados dessa mão. E eu não desejo isso pra ninguém."
+ },
+ {
+  "cena": "C107",
+  "inicio": 1538.1,
+  "dur": 8.6,
+  "emocao": "esperanca",
+  "fase": "fechamento",
+  "sfx": [],
+  "texto": "O segundo é clicar no botão aqui embaixo, e amanhã de manhã fazer diferente. Com um único cigarro. O primeiro."
+ },
+ {
+  "cena": "C108",
+  "inicio": 1546.7,
+  "dur": 4.7,
+  "emocao": "intimo",
+  "fase": "fechamento",
+  "sfx": [
+   "whoosh"
+  ],
+  "texto": "O isqueiro do meu pai está guardado numa gaveta. Eu nunca mais usei."
+ },
+ {
+  "cena": "C109",
+  "inicio": 1551.4,
+  "dur": 6.2,
+  "emocao": "intimo",
+  "fase": "fechamento",
+  "sfx": [],
+  "texto": "E o desenho da Sofia continua na geladeira. Pra eu lembrar todo dia por que eu fiz isso."
+ },
+ {
+  "cena": "C109b",
+  "inicio": 1557.6,
+  "dur": 17.0,
+  "emocao": "intimo",
+  "fase": "ninar",
+  "sfx": [],
+  "texto": "A Sofia tem 12 anos hoje. E toda noite, antes de dormir, ela ainda segura a minha mão, do mesmo jeito que segurou naquela UTI. E me pergunta: Você fica, mãe? E agora eu posso responder: fico, filha. Por muito tempo."
+ },
+ {
+  "cena": "C110",
+  "inicio": 1574.6,
+  "dur": 23.2,
+  "emocao": "impacto",
+  "fase": "fechamento",
+  "sfx": [
+   "riser"
+  ],
+  "texto": "Eu não sei quem segura a sua mão aí. Um filho, uma filha, um neto, a pessoa que dorme do seu lado. Mas eu sei que essa pessoa merece te ter por muito tempo. Clique no botão aqui embaixo agora, porque eu não sei por quanto tempo este vídeo vai continuar no ar. Amanhã de manhã, no seu primeiro cigarro, a sua história começa a mudar."
+ },
+ {
+  "cena": "C111",
+  "inicio": 1597.8,
+  "dur": 4.2,
+  "emocao": "choque",
+  "fase": "fechamento",
+  "sfx": [
+   "isqueiro_falha"
+  ],
+  "texto": ""
+ }
+]
