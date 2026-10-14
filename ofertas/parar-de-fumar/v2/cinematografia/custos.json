@@ -1,5 +1,5 @@
 {
- "total": 15.616,
+ "total": 19.266,
  "itens": [
   {
    "arquivo": "refs/MARCIA_44.png",
@@ -462,6 +462,174 @@
    "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
    "usd": 0.35,
    "quando": "2026-10-14 18:49"
+  },
+  {
+   "arquivo": "kf/A08-4.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 18:52"
+  },
+  {
+   "arquivo": "kf/A04-4.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 18:52"
+  },
+  {
+   "arquivo": "kf/A05-1.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 18:52"
+  },
+  {
+   "arquivo": "kf/A10-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:52"
+  },
+  {
+   "arquivo": "kf/A10-3.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:53"
+  },
+  {
+   "arquivo": "kf/A11-3.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 18:53"
+  },
+  {
+   "arquivo": "clips/A08-4.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 18:54"
+  },
+  {
+   "arquivo": "clips/A10-2.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 18:54"
+  },
+  {
+   "arquivo": "clips/A05-1.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 18:54"
+  },
+  {
+   "arquivo": "clips/A11-3.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 18:54"
+  },
+  {
+   "arquivo": "kf/A11-4.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 18:54"
+  },
+  {
+   "arquivo": "kf/A11-5.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 18:54"
+  },
+  {
+   "arquivo": "kf/A12-1.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 18:54"
+  },
+  {
+   "arquivo": "kf/A12-3.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 18:54"
+  },
+  {
+   "arquivo": "clips/A04-4.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 18:54"
+  },
+  {
+   "arquivo": "kf/A12-5.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 18:54"
+  },
+  {
+   "arquivo": "kf/A12-4.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:54"
+  },
+  {
+   "arquivo": "kf/A12-6.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:54"
+  },
+  {
+   "arquivo": "kf/A13-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:54"
+  },
+  {
+   "arquivo": "kf/A13-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:54"
+  },
+  {
+   "arquivo": "kf/A13-3.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 18:55"
+  },
+  {
+   "arquivo": "kf/A13-4.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:55"
+  },
+  {
+   "arquivo": "kf/A14-2.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 18:55"
+  },
+  {
+   "arquivo": "kf/A14-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:55"
+  },
+  {
+   "arquivo": "kf/A14-3.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 18:55"
+  },
+  {
+   "arquivo": "clips/A11-4.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 18:55"
+  },
+  {
+   "arquivo": "kf/A14-4.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:55"
+  },
+  {
+   "arquivo": "clips/A11-5.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 18:55"
   }
  ]
 }
