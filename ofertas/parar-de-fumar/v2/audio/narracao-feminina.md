@@ -76,7 +76,7 @@ Texto exato do áudio de validação, com a emoção de cada cena. 🧒 = voz da
 
 **C31** _(dor)_ E naquele dia eu percebi que a minha filha já estava se afastando de mim. Ela não pulava mais no meu colo quando eu chegava. Ela dizia que eu tinha cheiro de cinzeiro.
 
-**C32** _(impacto)_ Eu prometi pra ele, e prometi pra mim, que eu ia parar. Custasse o que custasse.
+**C32** _(impacto)_ Eu prometi pra ela, e prometi pra mim, que eu ia parar. Custasse o que custasse.
 
 **C33** _(choque)_ E durante um ano inteiro, eu fracassei.
 
@@ -269,6 +269,4 @@ Texto exato do áudio de validação, com a emoção de cada cena. 🧒 = voz da
 **C109b** _(intimo)_ A Sofia tem 12 anos hoje. E toda noite, antes de dormir, ela ainda segura a minha mão, do mesmo jeito que segurou naquela UTI. E me pergunta: 🧒 Você fica, mãe? E agora eu posso responder: fico, filha. Por muito tempo.
 
 **C110** _(impacto)_ Eu não sei quem segura a sua mão aí. Um filho, uma filha, um neto, a pessoa que dorme do seu lado. Mas eu sei que essa pessoa merece te ter por muito tempo. Clique no botão aqui embaixo agora, porque eu não sei por quanto tempo este vídeo vai continuar no ar. Amanhã de manhã, no seu primeiro cigarro, a sua história começa a mudar.
-
-**C111** _(choque)_ Imagens ilustrativas e cenas dramatizadas. Os resultados podem variar de pessoa para pessoa. Este método não substitui orientação médica. Se você usa medicação ou tem acompanhamento de saúde, continue e converse com seu médico.
 

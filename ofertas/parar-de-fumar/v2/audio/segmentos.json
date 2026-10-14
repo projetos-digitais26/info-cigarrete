@@ -844,7 +844,7 @@
   "sfx": [],
   "frases": [
    {
-    "texto": "Eu prometi pra ele, e prometi pra mim, que eu ia parar.",
+    "texto": "Eu prometi pra ela, e prometi pra mim, que eu ia parar.",
     "voz": "narradora"
    },
    {
@@ -3371,27 +3371,6 @@
   "sfx": [
    "isqueiro_falha"
   ],
-  "frases": [
-   {
-    "texto": "Imagens ilustrativas e cenas dramatizadas.",
-    "voz": "narradora"
-   },
-   {
-    "texto": "Os resultados podem variar de pessoa para pessoa.",
-    "voz": "narradora"
-   },
-   {
-    "texto": "Este método não substitui orientação médica.",
-    "voz": "narradora"
-   },
-   {
-    "texto": "Se você usa medicação ou tem acompanhamento de saúde,",
-    "voz": "narradora"
-   },
-   {
-    "texto": "continue e converse com seu médico.",
-    "voz": "narradora"
-   }
-  ]
+  "frases": []
  }
 ]

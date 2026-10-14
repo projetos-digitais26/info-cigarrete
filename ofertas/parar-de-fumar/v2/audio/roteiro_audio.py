@@ -6,6 +6,7 @@ import json, re, sys
 
 src, out_json, out_md = sys.argv[1], sys.argv[2], sys.argv[3]
 texto = open(src).read()
+texto = texto.split("\n## Rodapé")[0]   # o rodapé da página não é narrado
 
 # ---------- cenas ----------
 cenas = []

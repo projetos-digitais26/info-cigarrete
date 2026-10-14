@@ -144,7 +144,7 @@
 > E naquele dia eu percebi que a minha filha já estava se afastando de mim. Ela não pulava mais no meu colo quando eu chegava. Ela dizia que eu tinha cheiro de cinzeiro.
 
 **C32 · 5:22** 🎬 A narradora olhando o desenho, determinado. Corte para o desenho preso na porta da geladeira.
-> Eu prometi pra ele, e prometi pra mim, que eu ia parar. Custasse o que custasse.
+> Eu prometi pra ela, e prometi pra mim, que eu ia parar. Custasse o que custasse.
 
 **C33 · 5:30** 🎬 Corte rápido: a narradora sorrindo, confiante… e depois um cinzeiro cheio. 🔁
 > E durante um ano inteiro, eu fracassei.
