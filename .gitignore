@@ -6,3 +6,7 @@ ofertas/**/audio/eleven-cenas/
 ofertas/**/cinematografia/render/
 ofertas/**/cinematografia/kf/*.anterior
 ofertas/**/cinematografia/clips/*.anterior
+ofertas/**/cinematografia/kf/
+ofertas/**/cinematografia/clips/
+ofertas/**/cinematografia/refs/*.anterior*
+ofertas/**/cinematografia/overlay/dados.js

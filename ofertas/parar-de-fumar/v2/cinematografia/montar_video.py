@@ -8,7 +8,7 @@ Para cada plano usa, nesta ordem: clips/<id>.mp4 → kf/<id>.png (com zoom lento
 Duração do plano = peso × duração da cena (cenas-tempo.json). Aplica o grade da fase e a quebra de padrão do plano.
 Texto na tela e legendas entram depois, pelo overlay HTML (ferramentas/render_overlay.js).
 """
-import argparse, json, os, subprocess, textwrap
+import argparse, json, os, re, subprocess, textwrap
 AQUI = os.path.dirname(os.path.abspath(__file__))
 AUDIO = os.path.join(AQUI, "..", "audio", "vsl-v2-pt-elevenlabs.mp3")
 FONTE = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
@@ -55,6 +55,19 @@ def esc(t):
     return t.replace("\\", "\\\\").replace(":", "\\:").replace("'", "’").replace("%", "\\%").replace(",", "\\,")
 
 
+def fonte_reuso(p):
+    """plano que diz 'reusa X' usa o take de X (id de plano, ou o 1º plano com vídeo da cena X)"""
+    m = re.search(r"reusa\D{0,30}?([AUC]\d+[a-z]?(?:-\d+)?)", p.get("nota") or "", re.I)
+    if not m:
+        return None
+    alvo = m.group(1)
+    if "-" in alvo:
+        return alvo
+    cands = sorted([q for q in planos if q["cena"] == alvo], key=lambda q: q["ordem"])
+    com_video = [q for q in cands if os.path.exists(os.path.join(AQUI, "clips", q["id"] + ".mp4"))]
+    return (com_video or cands or [{"id": alvo}])[0]["id"]
+
+
 # linha do tempo: início de cada plano
 linha = []
 for k in range(i0, i1 + 1):
@@ -75,7 +88,8 @@ lista = []
 for p, c, t0, d in linha:
     n = max(1, round((t0 + d - inicio_trecho) * FPS) - round((t0 - inicio_trecho) * FPS))   # quadros inteiros sem acumular erro
     d = n / FPS
-    clip, kf = os.path.join(AQUI, "clips", p["id"] + ".mp4"), os.path.join(AQUI, "kf", p["id"] + ".png")
+    src_id = fonte_reuso(p) or p["id"]
+    clip, kf = os.path.join(AQUI, "clips", src_id + ".mp4"), os.path.join(AQUI, "kf", src_id + ".png")
     alvo = os.path.join(seg_dir, p["id"] + ".mp4")
     grade = GRADE.get(c["fase"], "eq=saturation=1")
     fx = [QUEBRA.get(p.get("quebra") or "", "")]

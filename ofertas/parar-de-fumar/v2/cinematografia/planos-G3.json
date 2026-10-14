@@ -1,0 +1,2301 @@
+[
+ {
+  "id": "C41-1",
+  "cena": "C41",
+  "ordem": 1,
+  "peso": 0.35,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42",
+   "LUCIANO"
+  ],
+  "enquadramento": "PM — saída do hospital, câmera recuando à frente deles",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; Luciano: Brazilian man, 46, tan skin, short black hair greying at the temples, light beard, gentle face, light-blue button shirt. Marcia walks out through glass hospital doors into grey overcast daylight, pale and fragile, holding a small paper bag of medicines, Luciano holding her arm; a doctor in a white coat is seen only from behind, out of focus, in the doorway. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. cold grey-blue overcast light, desaturated colors, fine film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she takes slow careful steps forward while Luciano steadies her; slow handheld backward tracking shot, calm pace",
+  "quebra": "corte_seco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "o médico só de costas e fora de foco (personagem genérico, sem rosto); sai da serpente escura (C40) para o cinza do hospital"
+ },
+ {
+  "id": "C41-2",
+  "cena": "C41",
+  "ordem": 2,
+  "peso": 0.311,
+  "tipo": "hero",
+  "refs": [
+   "LUCIANO",
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP Luciano por cima do ombro dela, dentro do carro",
+  "keyframe_prompt": "Luciano: Brazilian man, 46, tan skin, short black hair greying at the temples, light beard, gentle face, light-blue button shirt; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. inside a parked car, Luciano turns toward Marcia in the passenger seat, eyes wet but determined; her blurred hair in the foreground as an over-the-shoulder shot. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. cold grey-blue overcast light, desaturated colors, fine film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he turns his head and says one short sentence, firm and gentle; very slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C41-3",
+  "cena": "C41",
+  "ordem": 3,
+  "peso": 0.339,
+  "tipo": "broll",
+  "refs": [],
+  "enquadramento": "PG avião decolando ao entardecer, sol atrás",
+  "keyframe_prompt": "a commercial passenger airplane with plain white livery and no markings lifting off a runway at sunset, sun flare behind it, heat shimmer over the asphalt. vertical 9:16 frame, the plane in the upper-middle third, wide golden sky, the lower band simple runway. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the plane climbs and leaves the frame upward; slow tilt up following it",
+  "quebra": "corte_seco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "transição cinza frio → dourado; percussão africana entra"
+ },
+ {
+  "id": "C42-1",
+  "cena": "C42",
+  "ordem": 1,
+  "peso": 0.353,
+  "tipo": "grafico",
+  "refs": [],
+  "enquadramento": "Mapa animado sobre janela de avião",
+  "keyframe_prompt": "",
+  "motion_prompt": "",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": "Mapa da África estilizado em traço dourado fino (#C9A24A) sobre véu escuro translúcido; desenha-se em 1 s; uma linha pontilhada curva sai do Brasil (borda esquerda) e cruza o Atlântico até a costa oeste, onde um ponto âmbar pulsa e acende com o rótulo GANA (Montserrat bold, creme #FFF3E0). Mapa ocupa 18%–58% da altura. FUNDO (broll Kling 2.5, EN): 'view through an airplane window at golden hour, a sea of clouds lit orange below, wing tip in frame, slow drift, no text'.",
+  "nota": "o rótulo GANA é do overlay, nunca do vídeo"
+ },
+ {
+  "id": "C42-2",
+  "cena": "C42",
+  "ordem": 2,
+  "peso": 0.314,
+  "tipo": "acao",
+  "refs": [
+   "LUCIANO",
+   "MARCIA_42"
+  ],
+  "enquadramento": "PD mãos fechando a mala sobre a cama",
+  "keyframe_prompt": "Luciano: Brazilian man, 46, tan skin, short black hair greying at the temples, light beard, gentle face, light-blue button shirt; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. close on hands over a half-packed suitcase on a bed: Luciano's hands press the lid down while Marcia's hands hesitantly pull the zipper closed, a folded colorful scarf peeking out. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the zipper runs around the suitcase corner; slow lateral dolly",
+  "quebra": "whip",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C42-3",
+  "cena": "C42",
+  "ordem": 3,
+  "peso": 0.333,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP Márcia na janela do avião",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia seated by an airplane window, golden light on her face, her hand inside her handbag secretly touching a plain unbranded cigarette pack, glancing sideways to check that nobody sees. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she looks out of the window, then guiltily down at her bag; very slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C43-1",
+  "cena": "C43",
+  "ordem": 1,
+  "peso": 0.25,
+  "tipo": "broll",
+  "refs": [],
+  "enquadramento": "Aéreo da costa de Acra",
+  "keyframe_prompt": "aerial view of the Accra coastline at golden hour, modern buildings, palm trees, Atlantic waves breaking, warm haze. vertical 9:16 frame, any people small with faces in the upper half of the frame, horizon around 40% of the height, the lower band simple (ground, sand, road). golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "drone glides forward over the coast with a slow descent",
+  "quebra": "whip",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "Gana moderna, vibrante e próspera"
+ },
+ {
+  "id": "C43-2",
+  "cena": "C43",
+  "ordem": 2,
+  "peso": 0.25,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PM Márcia andando numa rua movimentada",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia walks down a lively Accra street with colorful painted storefronts, minibuses and well-dressed pedestrians, looking around with curiosity. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she walks toward camera, turning her head to look around; steady backward tracking shot",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C43-3",
+  "cena": "C43",
+  "ordem": 3,
+  "peso": 0.25,
+  "tipo": "broll",
+  "refs": [],
+  "enquadramento": "PC mercado colorido",
+  "keyframe_prompt": "a bustling Ghanaian open-air market, women vendors in vivid printed dresses laughing while arranging stacks of kente and wax-print fabrics, baskets of mangoes and pineapples, warm sunbeams. vertical 9:16 frame, any people small with faces in the upper half of the frame, horizon around 40% of the height, the lower band simple (ground, sand, road). golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "vendors chat and unfold a bright fabric; slow lateral tracking through the stalls",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "retrato alegre e digno; sem clichê de pobreza"
+ },
+ {
+  "id": "C43-4",
+  "cena": "C43",
+  "ordem": 4,
+  "peso": 0.25,
+  "tipo": "broll",
+  "refs": [],
+  "enquadramento": "PG praia com canoas pintadas",
+  "keyframe_prompt": "a golden beach lined with long hand-painted wooden fishing canoes, children running and laughing at the water's edge, fishermen pulling a net together. vertical 9:16 frame, any people small with faces in the upper half of the frame, horizon around 40% of the height, the lower band simple (ground, sand, road). golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "children run across the frame splashing water; slow-motion lateral dolly",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C44-1",
+  "cena": "C44",
+  "ordem": 1,
+  "peso": 0.574,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP Márcia no meio do mercado, a única com cigarro",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. in the middle of the busy colorful market Marcia stands holding a lit cigarette, smoke rising, self-conscious, as people pass by around her, none of them smoking. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she lowers the cigarette and glances around, embarrassed; slow push-in",
+  "quebra": "zoom_punch",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "zoom_punch em 'a única'"
+ },
+ {
+  "id": "C44-2",
+  "cena": "C44",
+  "ordem": 2,
+  "peso": 0.426,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PD mão com o cigarro, multidão desfocada",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. close on Marcia's hand holding the cigarette, smoke drifting across a blurred background of bright kente fabrics and passers-by. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she hides the cigarette behind her hip; rack focus from the smoke to the crowd",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C45-1",
+  "cena": "C45",
+  "ordem": 1,
+  "peso": 0.419,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP no quarto do hotel, luz do celular no rosto",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia sitting on a hotel bed at night, the light of her phone on her face (the screen faces away from camera), eyebrows rising in surprise, warm lamp behind her. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. dark blue night light, a faint warm glow from a bedside lamp. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she scrolls with her thumb and stops, surprised; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C45-2",
+  "cena": "C45",
+  "ordem": 2,
+  "peso": 0.581,
+  "tipo": "grafico",
+  "refs": [],
+  "enquadramento": "Gráfico de barras sobre aéreo dourado desfocado",
+  "keyframe_prompt": "",
+  "motion_prompt": "",
+  "quebra": "freeze",
+  "texto_tela": {
+   "texto": "GANA: UM DOS PAÍSES ONDE MENOS SE FUMA NO MUNDO",
+   "posicao": "topo"
+  },
+  "grafico": "Duas barras horizontais limpas, rótulos 'Brasil' e 'Gana' (Montserrat), crescem da esquerda em 0,8 s: Brasil cinza-claro, Gana dourada e visivelmente menor; percentuais só entram quando o dado for confirmado. Barras entre 30% e 55% da altura. FUNDO: plano aéreo dourado da costa (reusa C43-1) com desfoque gaussiano forte e vinheta.",
+  "nota": "[PROVA NECESSÁRIA: dado da OMS de prevalência de tabagismo em Gana e no Brasil] — sem número até confirmar"
+ },
+ {
+  "id": "C46-1",
+  "cena": "C46",
+  "ordem": 1,
+  "peso": 0.36,
+  "tipo": "hero",
+  "refs": [
+   "KOFI",
+   "LUCIANO"
+  ],
+  "enquadramento": "PC Kofi e Luciano rindo na varanda",
+  "keyframe_prompt": "Kofi: Ghanaian man, 50, dark skin, shaved head, wide warm smile, colorful printed short-sleeve shirt; Luciano: Brazilian man, 46, tan skin, short black hair greying at the temples, light beard, gentle face, light-blue button shirt. on the shaded veranda of a pastel-painted Ghanaian house with potted plants, Kofi laughs warmly with an arm around Luciano's shoulder, both holding glasses of cold juice. vertical 9:16 frame, both faces positioned between 20% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "Kofi throws his head back laughing and Luciano smiles; slow arc around them",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C46-2",
+  "cena": "C46",
+  "ordem": 2,
+  "peso": 0.252,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP Márcia pergunta (contraplano)",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia seated on the veranda leans forward asking a sincere question, curious and a little skeptical. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she gestures with one hand as she asks; static camera with subtle drift",
+  "quebra": "zoom_punch",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "zoom_punch em 'possível'"
+ },
+ {
+  "id": "C46-3",
+  "cena": "C46",
+  "ordem": 3,
+  "peso": 0.388,
+  "tipo": "hero",
+  "refs": [
+   "KOFI"
+  ],
+  "enquadramento": "PP Kofi responde, apontando o horizonte",
+  "keyframe_prompt": "Kofi: Ghanaian man, 50, dark skin, shaved head, wide warm smile, colorful printed short-sleeve shirt. Kofi, smiling kindly, answers while gesturing gently toward the horizon, golden light on his face. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he speaks warmly and points softly off-frame; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C47-1",
+  "cena": "C47",
+  "ordem": 1,
+  "peso": 0.386,
+  "tipo": "broll",
+  "refs": [],
+  "enquadramento": "Câmera subjetiva do banco de trás, estrada de terra vermelha",
+  "keyframe_prompt": "point of view from the back seat of a car driving along a red dirt road toward a village at golden hour, dust rising, tall grass, a baobab on the horizon, the driver's shoulder softly blurred in the foreground. vertical 9:16 frame, any people small with faces in the upper half of the frame, horizon around 40% of the height, the lower band simple (ground, sand, road). golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the car moves forward bumping gently; handheld forward motion",
+  "quebra": "speed_ramp",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "subjetiva da Márcia (não é o pov do espectador)"
+ },
+ {
+  "id": "C47-2",
+  "cena": "C47",
+  "ordem": 2,
+  "peso": 0.318,
+  "tipo": "broll",
+  "refs": [
+   "VILAREJO"
+  ],
+  "enquadramento": "PG vilarejo com baobá",
+  "keyframe_prompt": "Ghanaian village at golden hour, mud-brick houses, red dirt road, baobab tree, dust in the air. wide view of the village: neat mud-brick houses with clean swept yards, women chatting in front of a house, children playing, a great baobab tree. vertical 9:16 frame, any people small with faces in the upper half of the frame, horizon around 40% of the height, the lower band simple (ground, sand, road). golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "slow crane down from the baobab crown to the houses",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C47-3",
+  "cena": "C47",
+  "ordem": 3,
+  "peso": 0.296,
+  "tipo": "acao",
+  "refs": [
+   "KOFI",
+   "MARCIA_42",
+   "KWAME"
+  ],
+  "enquadramento": "PC chegada; Kwame de costas na cadeira",
+  "keyframe_prompt": "Kofi: Ghanaian man, 50, dark skin, shaved head, wide warm smile, colorful printed short-sleeve shirt; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. Kofi leads Marcia into a courtyard; in the background Kwame sits with his back to camera on his carved chair, silhouetted against the sunset. vertical 9:16 frame, any people small with faces in the upper half of the frame, horizon around 40% of the height, the lower band simple (ground, sand, road). golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "they walk toward the seated elder; slow follow from behind",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "rosto do Kwame só aparece na C48"
+ },
+ {
+  "id": "C48-1",
+  "cena": "C48",
+  "ordem": 1,
+  "peso": 0.349,
+  "tipo": "hero",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PP Kwame sob o baobá, olhar para a lente, câmera lenta",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. Kwame seated on his carved chair under the baobab, serene, looking straight into the lens. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered, clean dark negative space in the bottom 20% of the frame. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he breathes slowly, blinks, a faint smile appears; very slow push-in, slow motion",
+  "quebra": "freeze",
+  "texto_tela": {
+   "texto": "KWAME",
+   "posicao": "baixo"
+  },
+  "grafico": null,
+  "nota": "freeze de 0,6 s com o nome entrando (faixa 76–86%)"
+ },
+ {
+  "id": "C48-2",
+  "cena": "C48",
+  "ordem": 2,
+  "peso": 0.326,
+  "tipo": "acao",
+  "refs": [],
+  "enquadramento": "PD mãos de um ancião segurando a mãozinha de um recém-nascido",
+  "keyframe_prompt": "close on an elder's weathered hands gently holding a newborn's tiny hand, the baby wrapped in bright kente cloth, the mother's arms around the baby. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the baby's fingers curl around the elder's finger; slow push-in",
+  "quebra": "corte_seco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "ilustra 'o nome do dia em que nasceu'; ritual de nomeação, respeitoso; vilarejo ao entardecer → manhã do batizado"
+ },
+ {
+  "id": "C48-3",
+  "cena": "C48",
+  "ordem": 3,
+  "peso": 0.325,
+  "tipo": "hero",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PM Kwame explicando, vilarejo atrás",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. Kwame speaks calmly to someone off-frame, one open hand raised, the village glowing behind him. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he raises his hand slowly as he explains; slow lateral arc",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C49-1",
+  "cena": "C49",
+  "ordem": 1,
+  "peso": 0.333,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP Márcia confusa",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia's face, confused, brows knitting as she watches something off-frame. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "her eyes narrow and she tilts her head; static with micro handheld",
+  "quebra": "whip",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "chicote do Kwame para o contraplano dela"
+ },
+ {
+  "id": "C49-2",
+  "cena": "C49",
+  "ordem": 2,
+  "peso": 0.333,
+  "tipo": "acao",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PD mãos de Kwame enrolando folhas secas",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. close on Kwame's weathered hands rolling dried leaves into a thin hand-rolled straw cigarette on his knee. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "his fingers roll and twist the end; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C49-3",
+  "cena": "C49",
+  "ordem": 3,
+  "peso": 0.334,
+  "tipo": "acao",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PD a ponta acesa com um graveto em brasa",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. close on the tip of the hand-rolled cigarette as Kwame lights it with a glowing wooden twig, the ember flaring, the first smoke. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the flame touches the tip and the ember flares; macro push-in",
+  "quebra": "zoom_punch",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "zoom_punch em 'acendeu'"
+ },
+ {
+  "id": "C50-1",
+  "cena": "C50",
+  "ordem": 1,
+  "peso": 0.248,
+  "tipo": "hero",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PP Kwame traga com calma",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. Kwame takes a slow calm drag of the hand-rolled cigarette, smoke drifting in the golden light, eyes half-closed, unhurried. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he exhales slowly; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C50-2",
+  "cena": "C50",
+  "ordem": 2,
+  "peso": 0.207,
+  "tipo": "acao",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PD apagando a metade numa pedra",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. close on Kwame's fingers pressing the half-smoked cigarette out against a flat stone, deliberately and calmly. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he twists the ember out; static macro, slow pace",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C50-3",
+  "cena": "C50",
+  "ordem": 3,
+  "peso": 0.234,
+  "tipo": "acao",
+  "refs": [
+   "KWAME",
+   "FRASCOS"
+  ],
+  "enquadramento": "PD a metade cai no pote de vidro com sal",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair; two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. Kwame drops the remaining half into a small glass jar with coarse salt and presses the cork lid; only the first jar (cigarette halves and coarse salt) is in frame. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the half falls onto the salt; slow motion ramping to real time, slight tilt down",
+  "quebra": "speed_ramp",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "primeira aparição dos FRASCOS (só um pote)"
+ },
+ {
+  "id": "C50-4",
+  "cena": "C50",
+  "ordem": 4,
+  "peso": 0.311,
+  "tipo": "hero",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PP Kwame fala para ela, pote no joelho",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. Kwame looks at her with calm certainty, saying a short sentence, the closed glass jar resting on his knee. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he speaks gently and nods once; very slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C51-1",
+  "cena": "C51",
+  "ordem": 1,
+  "peso": 0.333,
+  "tipo": "hero",
+  "refs": [
+   "KWAME",
+   "MARCIA_42"
+  ],
+  "enquadramento": "PG os dois frente a frente, fogueira entre eles, céu roxo",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Kwame and Marcia seated face to face on low wooden stools, a small campfire between them, the sky turning deep purple over the village. vertical 9:16 frame, both faces positioned between 20% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she talks with open hands, the fire flickering; slow lateral dolly",
+  "quebra": "corte_seco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "dourado → laranja-preto da fogueira; percussão some"
+ },
+ {
+  "id": "C51-2",
+  "cena": "C51",
+  "ordem": 2,
+  "peso": 0.143,
+  "tipo": "acao",
+  "refs": [
+   "ISQUEIRO"
+  ],
+  "enquadramento": "Insert de memória: isqueiro do pai",
+  "keyframe_prompt": "old silver flip lighter, worn engraving, small scratches, on dark wood. close on the old silver flip lighter on dark wood. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the lid flips open; slow push-in",
+  "quebra": "flash_branco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "reusa take de C14 (isqueiro do pai), flash de memória com halation; flashes de memória de 1,2 s cada"
+ },
+ {
+  "id": "C51-3",
+  "cena": "C51",
+  "ordem": 3,
+  "peso": 0.143,
+  "tipo": "acao",
+  "refs": [
+   "DESENHO"
+  ],
+  "enquadramento": "Insert de memória: o desenho da Sofia",
+  "keyframe_prompt": "child's crayon drawing on lined notebook paper: a woman holding a cigarette crossed out by a big red X, and a small crying girl beside her, naive child style, no readable words. close on the child's crayon drawing. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the paper trembles slightly; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "reusa take de C28 (desenho)"
+ },
+ {
+  "id": "C51-4",
+  "cena": "C51",
+  "ordem": 4,
+  "peso": 0.143,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_43_UTI",
+   "UTI"
+  ],
+  "enquadramento": "Insert de memória: a UTI",
+  "keyframe_prompt": "Marcia: Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on a pillow, pale and sweaty, dark circles, transparent oxygen mask, hospital gown, IV line in the hand and pulse oximeter on the finger, lying in an ICU bed; hospital ICU room at night, blue monitor light, mechanical ventilator, bed with rails, cold dim light. Marcia in the ICU bed, mask fogging. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. cold grey-blue overcast light, desaturated colors, fine film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the mask fogs with a breath; static",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "reusa take de A02 (UTI), grade frio"
+ },
+ {
+  "id": "C51-5",
+  "cena": "C51",
+  "ordem": 5,
+  "peso": 0.238,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP Márcia contando, lágrimas na luz do fogo",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. close on Marcia's face, firelight on her wet eyes as she speaks, voice breaking. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she wipes a tear and keeps talking; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C52-1",
+  "cena": "C52",
+  "ordem": 1,
+  "peso": 0.476,
+  "tipo": "hero",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PP Kwame escuta em silêncio",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. Kwame listening in silence across the fire, nodding very slowly, firelight dancing on his face. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "a slow nod, steady gaze; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "plano-âncora (volta em C65)"
+ },
+ {
+  "id": "C52-2",
+  "cena": "C52",
+  "ordem": 2,
+  "peso": 0.524,
+  "tipo": "hero",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PPP Kwame inclina-se e pergunta",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. tighter close on Kwame leaning slightly forward, asking a question with raised eyebrows and a curious gaze. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he leans in and speaks one short question; slow push-in tightening",
+  "quebra": "zoom_punch",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "zoom_punch em 'qual cigarro'"
+ },
+ {
+  "id": "C53-1",
+  "cena": "C53",
+  "ordem": 1,
+  "peso": 1,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP Márcia hesita e responde",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia hesitates, looks down at the fire, then answers with a small shrug, proud and defeated at once. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she looks down, then up, and speaks; static with slight drift",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C54-1",
+  "cena": "C54",
+  "ordem": 1,
+  "peso": 0.421,
+  "tipo": "hero",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PP Kwame ri",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. Kwame breaks into a warm knowing laugh, shoulders shaking. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he laughs softly and shakes his head; slight handheld",
+  "quebra": "zoom_punch",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C54-2",
+  "cena": "C54",
+  "ordem": 2,
+  "peso": 0.579,
+  "tipo": "acao",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PD plongée: galho desenha uma cobra na areia",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. top-down close on the sandy ground beside the fire: Kwame's hand draws a long snake with a wooden stick, the head larger than the body. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the stick traces the snake's body and finishes the head; slow tilt following the line",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C55-1",
+  "cena": "C55",
+  "ordem": 1,
+  "peso": 0.396,
+  "tipo": "fx",
+  "refs": [
+   "SERPENTE"
+  ],
+  "enquadramento": "PG a fumaça da fogueira vira serpente",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the smoke rising from the campfire curls into a serpent of translucent grey smoke with glowing ember eyes, coiling above the flames against a dark purple night sky. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered, empty negative space in the top 18% of the frame. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "smoke twists into the serpent's body and its head rises; slow push-in",
+  "quebra": null,
+  "texto_tela": {
+   "texto": "\"VOCÊS TENTAM MATAR A SERPENTE PELO RABO.\"",
+   "posicao": "topo"
+  },
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C55-2",
+  "cena": "C55",
+  "ordem": 2,
+  "peso": 0.286,
+  "tipo": "fx",
+  "refs": [
+   "SERPENTE"
+  ],
+  "enquadramento": "PP a serpente se vira e ataca a lente",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the smoke serpent whips around, mouth open, striking toward the lens, embers scattering. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "a fast strike toward camera; the camera jolts back",
+  "quebra": "flash_branco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "flash_branco em 'morde'"
+ },
+ {
+  "id": "C55-3",
+  "cena": "C55",
+  "ordem": 3,
+  "peso": 0.318,
+  "tipo": "hero",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PPP olhos do Kwame com o fogo refletido",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. extreme close on Kwame's calm eyes, the reflection of the fire in his pupils. vertical 9:16 frame, eyes positioned between 30% and 38% of the frame height, the band from 60% to 75% kept dark and calm. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he blinks once, steady; imperceptible push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C56-1",
+  "cena": "C56",
+  "ordem": 1,
+  "peso": 0.331,
+  "tipo": "fx",
+  "refs": [
+   "SERPENTE"
+  ],
+  "enquadramento": "PG serpente de anéis luminosos",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. a long serpent of translucent smoke stretched across a dark background, its body made of about twenty glowing rings, each ring a softly burning cigarette ember. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the body undulates slowly as the rings glow in sequence; slow lateral dolly along the body",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "anéis = cigarros do dia"
+ },
+ {
+  "id": "C56-2",
+  "cena": "C56",
+  "ordem": 2,
+  "peso": 0.331,
+  "tipo": "fx",
+  "refs": [
+   "SERPENTE"
+  ],
+  "enquadramento": "Travelling macro do rabo até a cabeça",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. macro journey along the smoke serpent's body from the thin tail toward the head, each glowing ring brighter than the last. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the camera glides along the body toward the head; accelerating dolly",
+  "quebra": "speed_ramp",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C56-3",
+  "cena": "C56",
+  "ordem": 3,
+  "peso": 0.338,
+  "tipo": "fx",
+  "refs": [
+   "SERPENTE"
+  ],
+  "enquadramento": "A cabeça, mais brilhante, ao lado do sol nascendo",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the serpent's large glowing head, far brighter than its body, raised beside a sun rising on the horizon. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the head lifts toward the sunrise and its eyes flare; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "cabeça = o primeiro cigarro"
+ },
+ {
+  "id": "C57-1",
+  "cena": "C57",
+  "ordem": 1,
+  "peso": 0.248,
+  "tipo": "hero",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PP Kwame toca o próprio peito, brasas, madrugada",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. before dawn by the dying embers, Kwame places his open hand on his chest, eyes closed, first blue of dawn on the horizon. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he presses his palm to his chest and breathes in; slow push-in",
+  "quebra": "corte_seco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "animação escura → madrugada com brasas"
+ },
+ {
+  "id": "C57-2",
+  "cena": "C57",
+  "ordem": 2,
+  "peso": 0.248,
+  "tipo": "fx",
+  "refs": [
+   "SERPENTE"
+  ],
+  "enquadramento": "A serpente faminta acorda no escuro",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. a smoke serpent coiled asleep in darkness slowly lifts its head, ember eyes opening, hungry. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the head rises and the mouth opens; slow push-in",
+  "quebra": "corte_seco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C57-3",
+  "cena": "C57",
+  "ordem": 3,
+  "peso": 0.248,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "Insert: café e o primeiro cigarro (memória)",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. Marcia's hand lighting the first cigarette over a steaming coffee cup. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "slow-motion lighting",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "reusa take de A07 (cozinha, primeiro cigarro com café) — 'a comida mais gostosa'"
+ },
+ {
+  "id": "C57-4",
+  "cena": "C57",
+  "ordem": 4,
+  "peso": 0.256,
+  "tipo": "hero",
+  "refs": [
+   "KWAME",
+   "VILAREJO"
+  ],
+  "enquadramento": "PM Kwame aponta para o nascer do sol atrás do baobá",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair; Ghanaian village at golden hour, mud-brick houses, red dirt road, baobab tree, dust in the air. Kwame raises his arm and points toward the sun rising behind the baobab, warm first light on his face. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he extends his arm toward the horizon; slow arc revealing the sunrise",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C58-1",
+  "cena": "C58",
+  "ordem": 1,
+  "peso": 0.192,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PPP Márcia recebe o 'soco'",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. extreme close on Marcia's face lit by embers as the words hit her, breath catching, eyes wide. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she exhales sharply as if punched; quick micro push-in",
+  "quebra": "flash_branco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "flash_branco em 'soco'"
+ },
+ {
+  "id": "C58-2",
+  "cena": "C58",
+  "ordem": 2,
+  "peso": 0.204,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "Flashback: de pijama, café e primeiro cigarro",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. memory: Marcia in pajamas at dawn in the kitchen lights her first cigarette over a steaming coffee cup, eyes closed in relief. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she takes the first drag and her shoulders drop; slow-motion push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C58-3",
+  "cena": "C58",
+  "ordem": 3,
+  "peso": 0.192,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "Montagem: cigarros no automático",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia smoking absent-mindedly in the car, at work, at the front door. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm amber memory light, soft halation, gentle film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "fast montage",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "reusa takes de C25 (montagem acelerada), cortes de 0,8 s"
+ },
+ {
+  "id": "C58-4",
+  "cena": "C58",
+  "ordem": 4,
+  "peso": 0.216,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "Plongée: acordada na cama à noite, maço no criado-mudo",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. at night Marcia lies awake in bed staring at the ceiling, a plain cigarette pack and a lighter on the nightstand beside her. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. dark blue night light, a faint warm glow from a bedside lamp. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she turns her head toward the nightstand; slow overhead push-in",
+  "quebra": "corte_seco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "fogueira laranja → quarto azul da noite"
+ },
+ {
+  "id": "C58-5",
+  "cena": "C58",
+  "ordem": 5,
+  "peso": 0.196,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP de volta à fogueira: ela entende",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. back by the campfire, Marcia slowly nods to Kwame, eyes glistening, understanding. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "a small nod, a tear catches the firelight; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C59-1",
+  "cena": "C59",
+  "ordem": 1,
+  "peso": 0.258,
+  "tipo": "acao",
+  "refs": [
+   "KWAME",
+   "FRASCOS"
+  ],
+  "enquadramento": "PD Kwame põe os dois frascos na mesa rústica",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair; two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. Kwame's hands set the two glass jars side by side on a rustic wooden table, the firelight shining through the glass. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he sets down the second jar; slow arc around the jars",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C59-2",
+  "cena": "C59",
+  "ordem": 2,
+  "peso": 0.245,
+  "tipo": "broll",
+  "refs": [
+   "VILAREJO"
+  ],
+  "enquadramento": "Time-lapse: manhãs nascendo sobre o vilarejo",
+  "keyframe_prompt": "Ghanaian village at golden hour, mud-brick houses, red dirt road, baobab tree, dust in the air. time-lapse of the sun rising over the village and the baobab, the sky shifting from deep blue to gold. vertical 9:16 frame, any people small with faces in the upper half of the frame, horizon around 40% of the height, the lower band simple (ground, sand, road). golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the sun rises quickly; static time-lapse camera",
+  "quebra": "speed_ramp",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "'um pouco a cada manhã, durante 14 dias'"
+ },
+ {
+  "id": "C59-3",
+  "cena": "C59",
+  "ordem": 3,
+  "peso": 0.245,
+  "tipo": "fx",
+  "refs": [
+   "SERPENTE"
+  ],
+  "enquadramento": "A cabeça da serpente perde o brilho",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the smoke serpent's glowing head dims a little, its ember eyes fading, the smoke thinning. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the head sags and fades; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C59-4",
+  "cena": "C59",
+  "ordem": 4,
+  "peso": 0.252,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP Márcia ri, incrédula",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. by the fire Marcia lets out a small incredulous laugh, looking at the jars as if it were a joke. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she laughs and covers her mouth; slow drift",
+  "quebra": "zoom_punch",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "zoom_punch em 'brincadeira'"
+ },
+ {
+  "id": "C60-1",
+  "cena": "C60",
+  "ordem": 1,
+  "peso": 0.5,
+  "tipo": "acao",
+  "refs": [
+   "KWAME",
+   "MARCIA_42",
+   "FRASCOS"
+  ],
+  "enquadramento": "PD mãos: Kwame entrega um frasco",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. close on Kwame's old hands placing one glass jar into Marcia's open hands, firelight glinting on the glass. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the jar passes from his hands into hers and her fingers close around it; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C60-2",
+  "cena": "C60",
+  "ordem": 2,
+  "peso": 0.5,
+  "tipo": "hero",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PP Kwame: 'no décimo quinto dia…'",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. Kwame looks into her eyes, giving a final instruction with quiet authority. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he speaks and gives a slight nod; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C61-1",
+  "cena": "C61",
+  "ordem": 1,
+  "peso": 0.333,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PM em casa, madrugada, notebook",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. late at night at home Marcia sits at a small table with a laptop, its cold white light on her face (the screen faces away from camera), the glass jar from Ghana beside the laptop. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she opens the laptop and the light hits her face; slow push-in",
+  "quebra": "corte_seco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "fogo laranja → branco frio"
+ },
+ {
+  "id": "C61-2",
+  "cena": "C61",
+  "ordem": 2,
+  "peso": 0.312,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PD dedos digitando",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. close on Marcia's fingers typing quickly on a laptop keyboard in cold cyan light. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "fingers type and pause; slow lateral slide",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C61-3",
+  "cena": "C61",
+  "ordem": 3,
+  "peso": 0.355,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP leitura intensa",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. close on Marcia's face reading intently, eyes scanning, screen light flickering on her skin. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "her eyes dart and she leans closer; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C62-1",
+  "cena": "C62",
+  "ordem": 1,
+  "peso": 0.201,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP ela congela diante da tela",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia freezes reading the screen, lips parting, eyes widening. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she pulls back slightly in surprise; slow push-in",
+  "quebra": "zoom_punch",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "zoom_punch em 'arrepiada'"
+ },
+ {
+  "id": "C62-2",
+  "cena": "C62",
+  "ordem": 2,
+  "peso": 0.148,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "Macro: arrepio no antebraço",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. macro of the skin of Marcia's forearm in cyan screen light as goosebumps rise and the fine hairs stand up. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "goosebumps spread across the skin; slow macro slide",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C62-3",
+  "cena": "C62",
+  "ordem": 3,
+  "peso": 0.222,
+  "tipo": "broll",
+  "refs": [],
+  "enquadramento": "PD consultório anônimo, prancheta com questionário",
+  "keyframe_prompt": "an anonymous clinic consultation: the hands of a health professional in a white coat, face out of frame, holding a clipboard with a printed questionnaire (blurred and unreadable) across a desk from a patient's hands. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the professional's pen moves down the page; slow push-in",
+  "quebra": "glitch",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "sem rosto, sem nome: não é médico real"
+ },
+ {
+  "id": "C62-4",
+  "cena": "C62",
+  "ordem": 4,
+  "peso": 0.238,
+  "tipo": "grafico",
+  "refs": [],
+  "enquadramento": "Tela do computador com o questionário",
+  "keyframe_prompt": "",
+  "motion_prompt": "",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": "Overlay HTML em perspectiva sobre a área da tela: formulário clínico neutro (fundo branco, título genérico 'Teste de dependência de nicotina', linhas de perguntas em cinza); um marca-texto amarelo (#FFE14D) corre da esquerda para a direita sobre a 1ª pergunta. Tela entre 20% e 58% da altura. FUNDO (broll Kling, EN): 'a laptop screen glowing blank white in a dark room seen at a slight angle, the edge of a woman's silhouette in the foreground, slow push-in toward the screen, no text'.",
+  "nota": "[PROVA NECESSÁRIA: teste de Fagerström — reproduzir a pergunta oficial]"
+ },
+ {
+  "id": "C62-5",
+  "cena": "C62",
+  "ordem": 5,
+  "peso": 0.191,
+  "tipo": "grafico",
+  "refs": [],
+  "enquadramento": "Zoom na pergunta destacada",
+  "keyframe_prompt": "",
+  "motion_prompt": "",
+  "quebra": "zoom_punch",
+  "texto_tela": {
+   "texto": "\"QUANTO TEMPO DEPOIS DE ACORDAR VOCÊ FUMA O PRIMEIRO CIGARRO?\"",
+   "posicao": "centro"
+  },
+  "grafico": "Continuação: zoom-in contínuo no overlay até a pergunta destacada encher a largura; marca-texto amarelo #FFE14D, texto grafite; leve aberração cromática nas bordas. FUNDO: mesmo take do plano anterior (reusa C62-4), mais desfocado.",
+  "nota": "zoom_punch em 'exatamente esta'"
+ },
+ {
+  "id": "C63-1",
+  "cena": "C63",
+  "ordem": 1,
+  "peso": 0.347,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PM ela se afasta da tela, mão na boca",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia pushes back from the laptop, hand over her mouth, stunned. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she leans back in the chair and covers her mouth; slow pull-out",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C63-2",
+  "cena": "C63",
+  "ordem": 2,
+  "peso": 0.331,
+  "tipo": "hero",
+  "refs": [
+   "KWAME",
+   "MARCIA_42"
+  ],
+  "enquadramento": "Split vertical: Kwame (fogo) × Márcia (tela)",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. split composition: Kwame by the fire on one side, Marcia at the laptop on the other. vertical 9:16 frame, both faces positioned between 20% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "both look forward; slow push-in",
+  "quebra": "split",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "reusa C48-1 (Kwame, metade esquerda) + C63-1 (Márcia, metade direita); duas faixas de 540 px recortadas no rosto, rostos entre 25% e 45% da altura — 'a ciência e um velho… a mesma coisa'"
+ },
+ {
+  "id": "C63-3",
+  "cena": "C63",
+  "ordem": 3,
+  "peso": 0.322,
+  "tipo": "acao",
+  "refs": [],
+  "enquadramento": "PD xícara fumegante e cigarro recém-aceso ao amanhecer",
+  "keyframe_prompt": "close on a steaming coffee cup and a freshly lit cigarette resting on a saucer at dawn, a thin line of smoke rising. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the smoke rises and wavers; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C64-1",
+  "cena": "C64",
+  "ordem": 1,
+  "peso": 0.331,
+  "tipo": "grafico",
+  "refs": [],
+  "enquadramento": "Gráfico de nicotina 1 — a noite",
+  "keyframe_prompt": "",
+  "motion_prompt": "",
+  "quebra": "corte_seco",
+  "texto_tela": null,
+  "grafico": "Gráfico de linha limpo (ciano #5CE1E6, traço 6 px, véu escuro 55%): eixo do tempo 22h → 7h com ícone de lua; a linha 'nicotina no corpo' desce suavemente durante a noite. Área do gráfico 22%–58% da altura. FUNDO (broll Kling, EN): 'a dark bedroom at night, a woman asleep under a blanket seen from the side, moonlight through the curtains, very slow push-in, no text'.",
+  "nota": "[PROVA NECESSÁRIA: fonte sobre a queda da nicotina durante a noite]"
+ },
+ {
+  "id": "C64-2",
+  "cena": "C64",
+  "ordem": 2,
+  "peso": 0.331,
+  "tipo": "grafico",
+  "refs": [],
+  "enquadramento": "Gráfico de nicotina 2 — o ponto mais baixo ao amanhecer",
+  "keyframe_prompt": "",
+  "motion_prompt": "",
+  "quebra": null,
+  "texto_tela": {
+   "texto": "8 HORAS SEM NICOTINA →",
+   "posicao": "topo"
+  },
+  "grafico": "A linha chega ao mínimo ao amanhecer; marcador vermelho pulsando no ponto mais baixo; ícone de sol nasce na borda direita. FUNDO (broll Kling, EN): 'the same bedroom at dawn, first sunlight on the pillow, the woman opening her eyes, slow push-in, no text'.",
+  "nota": null
+ },
+ {
+  "id": "C64-3",
+  "cena": "C64",
+  "ordem": 3,
+  "peso": 0.338,
+  "tipo": "grafico",
+  "refs": [],
+  "enquadramento": "Gráfico de nicotina 3 — o pico do primeiro cigarro",
+  "keyframe_prompt": "",
+  "motion_prompt": "",
+  "quebra": "zoom_punch",
+  "texto_tela": {
+   "texto": "O PICO MAIS FORTE DO DIA",
+   "posicao": "topo"
+  },
+  "grafico": "Primeiro cigarro: a linha dispara num pico enorme (brilho laranja-dourado, partículas), depois se estabiliza mais alta para o resto do dia ('recarrega'). FUNDO (acao Kling, EN): 'macro of a lighter flame igniting the tip of a cigarette in a dim morning kitchen, ember flaring, slow motion, no text'.",
+  "nota": "zoom_punch no pico ('alívio enorme')"
+ },
+ {
+  "id": "C65-1",
+  "cena": "C65",
+  "ordem": 1,
+  "peso": 0.25,
+  "tipo": "fx",
+  "refs": [
+   "SERPENTE"
+  ],
+  "enquadramento": "A serpente se enrola na linha, cabeça no pico",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. a translucent smoke serpent coiling upward around a thin glowing cyan line of light in darkness, its head resting at the highest point. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the serpent spirals up and settles its head at the top; slow orbit",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": "Overlay: a mesma curva ciano do C64 alinhada ao rastro de luz, com o pico marcado",
+  "nota": null
+ },
+ {
+  "id": "C65-2",
+  "cena": "C65",
+  "ordem": 2,
+  "peso": 0.25,
+  "tipo": "fx",
+  "refs": [
+   "SERPENTE"
+  ],
+  "enquadramento": "A serpente ataca: a guerra contra o mais forte",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the serpent rears its huge head and strikes violently toward camera, ember sparks flying. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "a violent strike forward; camera shake",
+  "quebra": "flash_branco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C65-3",
+  "cena": "C65",
+  "ordem": 3,
+  "peso": 0.25,
+  "tipo": "hero",
+  "refs": [
+   "KWAME"
+  ],
+  "enquadramento": "PP Kwame assente (memória)",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. Kwame listening by the fire, nodding slowly. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "slow nod; slow push-in",
+  "quebra": "corte_seco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "reusa C52-1 (Kwame assentindo), com corte_seco do ciano para o laranja"
+ },
+ {
+  "id": "C65-4",
+  "cena": "C65",
+  "ordem": 4,
+  "peso": 0.25,
+  "tipo": "fx",
+  "refs": [
+   "SERPENTE"
+  ],
+  "enquadramento": "A cabeça apaga e o corpo se desfaz",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the serpent's head slowly dims and shrinks, then its whole smoky body unravels into thin wisps drifting away. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. cold white screen light, cyan tint, clean modern look. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the head fades first, then the body dissolves tail-last; slow pull-out",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C66-1",
+  "cena": "C66",
+  "ordem": 1,
+  "peso": 0.493,
+  "tipo": "grafico",
+  "refs": [],
+  "enquadramento": "Três cartões — 1 e 2 viram",
+  "keyframe_prompt": "",
+  "motion_prompt": "",
+  "quebra": "corte_seco",
+  "texto_tela": {
+   "texto": "1. EMPURRAR · 2. PARTIR · 3. SELAR",
+   "posicao": "centro"
+  },
+  "grafico": "Três cartões verticais empilhados (preto fosco, borda e numeral dourados #C9A24A, título em Montserrat bold creme) entram de costas entre 20% e 58% da altura; o cartão 1 vira (flip 3D, 0,4 s) com um 'tum' grave, depois o cartão 2. FUNDO (broll Kling, EN): 'slow-drifting smoke and floating gold dust particles on a deep black background, gentle light rays, no text'.",
+  "nota": "o 🅣 está nos cartões"
+ },
+ {
+  "id": "C66-2",
+  "cena": "C66",
+  "ordem": 2,
+  "peso": 0.507,
+  "tipo": "grafico",
+  "refs": [],
+  "enquadramento": "Três cartões — o 3 vira, brilho dourado",
+  "keyframe_prompt": "",
+  "motion_prompt": "",
+  "quebra": null,
+  "texto_tela": {
+   "texto": "1. EMPURRAR · 2. PARTIR · 3. SELAR",
+   "posicao": "centro"
+  },
+  "grafico": "Cartão 3 vira com 'tum'; um brilho dourado varre os três da esquerda para a direita; leve push-in. FUNDO: continuação (reusa C66-1).",
+  "nota": null
+ },
+ {
+  "id": "C67-1",
+  "cena": "C67",
+  "ordem": 1,
+  "peso": 0.251,
+  "tipo": "grafico",
+  "refs": [],
+  "enquadramento": "Cartão 1 EMPURRAR em tela cheia, relógio",
+  "keyframe_prompt": "",
+  "motion_prompt": "",
+  "quebra": "zoom_punch",
+  "texto_tela": {
+   "texto": "EMPURRAR",
+   "posicao": "topo"
+  },
+  "grafico": "O cartão 1 cresce para a tela cheia; dentro, um relógio em traço dourado (sem números) cujo ponteiro avança um passo a cada 'dia' (marcadores D1, D2, D3… pequenos), com um tique por passo. FUNDO: reusa C66-1 (fumaça e poeira dourada).",
+  "nota": null
+ },
+ {
+  "id": "C67-2",
+  "cena": "C67",
+  "ordem": 2,
+  "peso": 0.24,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "PD mão afasta o maço ao lado do café",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. early morning kitchen: next to a steaming coffee cup, Marcia's hand calmly slides a plain unbranded cigarette pack and lighter a few centimeters away across the table. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "her fingers push the pack away and rest on the table; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C67-3",
+  "cena": "C67",
+  "ordem": 3,
+  "peso": 0.251,
+  "tipo": "acao",
+  "refs": [
+   "COZINHA"
+  ],
+  "enquadramento": "Relógio de parede sem números; sol varre os azulejos",
+  "keyframe_prompt": "small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. a simple round kitchen wall clock with no numerals, its hands moving forward as a beam of sunlight sweeps across the white tiles. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "time-lapse of the clock hands advancing and the light sweeping; static camera",
+  "quebra": "speed_ramp",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "relógio sem números (nada de texto no vídeo); plano-âncora, volta em C74"
+ },
+ {
+  "id": "C67-4",
+  "cena": "C67",
+  "ordem": 4,
+  "peso": 0.258,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "PP Márcia calma na janela com o café",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. Marcia stands at the kitchen window with her coffee, breathing calmly, morning light on her face, no cigarette in her hands. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she takes a slow deep breath and sips; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C68-1",
+  "cena": "C68",
+  "ordem": 1,
+  "peso": 0.328,
+  "tipo": "grafico",
+  "refs": [],
+  "enquadramento": "Cartão 2 PARTIR sobre macro do cigarro partindo",
+  "keyframe_prompt": "",
+  "motion_prompt": "",
+  "quebra": "corte_seco",
+  "texto_tela": {
+   "texto": "PARTIR",
+   "posicao": "topo"
+  },
+  "grafico": "Cartão 2 em tela cheia, translúcido: numeral 2 dourado e um traço dourado que corta um ícone de cigarro ao meio, sincronizado com a quebra no fundo. FUNDO (acao Kling, EN): 'extreme macro of a cigarette held between two fingers being snapped in half in slow motion, tobacco flakes and ash falling, dark background, single warm rim light, no text'.",
+  "nota": null
+ },
+ {
+  "id": "C68-2",
+  "cena": "C68",
+  "ordem": 2,
+  "peso": 0.336,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "PP de manhã ela fuma só a metade",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. in the morning kitchen Marcia smokes a cigarette that is only half its length, it ends quickly, she looks at the short stub with mild indifference. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she takes the last short drag and lowers her hand; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C68-3",
+  "cena": "C68",
+  "ordem": 3,
+  "peso": 0.336,
+  "tipo": "fx",
+  "refs": [],
+  "enquadramento": "Animação 3D: o brilho de recompensa do cérebro se apaga",
+  "keyframe_prompt": "3D medical-style visualization of a translucent human brain floating in darkness, a warm golden reward glow at its center slowly fading into calm blue. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the golden glow pulses once and fades to blue; slow orbit around the brain",
+  "quebra": "speed_ramp",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "'o cérebro perde o interesse' — ilustrativo, sem dado"
+ },
+ {
+  "id": "C69-1",
+  "cena": "C69",
+  "ordem": 1,
+  "peso": 0.194,
+  "tipo": "grafico",
+  "refs": [],
+  "enquadramento": "Cartão 3 SELAR sobre os dois frascos",
+  "keyframe_prompt": "",
+  "motion_prompt": "",
+  "quebra": null,
+  "texto_tela": {
+   "texto": "SELAR",
+   "posicao": "topo"
+  },
+  "grafico": "Cartão 3 em tela cheia, translúcido: numeral 3 dourado e ícone de dois frascos cuja tampa fecha com um 'clique' dourado. FUNDO (acao Kling, EN): 'two small glass jars with cork lids on rustic wood in a dark room, one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt, a single warm light beam, dust floating, slow push-in, no text'.",
+  "nota": null
+ },
+ {
+  "id": "C69-2",
+  "cena": "C69",
+  "ordem": 2,
+  "peso": 0.176,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42",
+   "FRASCOS"
+  ],
+  "enquadramento": "PD a metade cai no frasco de sal",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. close on Marcia's fingers dropping a cigarette half into the glass jar with coarse salt. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the half falls onto the salt in slow motion; slow tilt down",
+  "quebra": "speed_ramp",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C69-3",
+  "cena": "C69",
+  "ordem": 3,
+  "peso": 0.157,
+  "tipo": "acao",
+  "refs": [
+   "FRASCOS"
+  ],
+  "enquadramento": "Macro: pimenta e sal caem; tampa pressionada",
+  "keyframe_prompt": "two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. black peppercorns and coarse salt pour into the second glass jar, then a hand presses the cork lid shut. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "peppercorns cascade and the lid is pressed down; macro push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C69-4",
+  "cena": "C69",
+  "ordem": 4,
+  "peso": 0.176,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PD chá antes de dormir, abajur",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. at night by a warm bedside lamp, Marcia's hands hold a steaming cup of herbal tea with chamomile flowers floating. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. dark blue night light, a faint warm glow from a bedside lamp. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "steam curls up as she lifts the cup; slow push-in",
+  "quebra": "corte_seco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "escuro premium → luz de abajur"
+ },
+ {
+  "id": "C69-5",
+  "cena": "C69",
+  "ordem": 5,
+  "peso": 0.157,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP ela acorda: a pequena vitória",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. in the morning Marcia sits up in bed, sunlight on her face, a small proud smile, softly closing her fist. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she smiles and closes her fist; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C69-6",
+  "cena": "C69",
+  "ordem": 6,
+  "peso": 0.14,
+  "tipo": "broll",
+  "refs": [
+   "FRASCOS",
+   "COZINHA"
+  ],
+  "enquadramento": "Time-lapse: frascos na janela, manhãs passando",
+  "keyframe_prompt": "two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. the two glass jars on a kitchen windowsill; time-lapse of several mornings as the light changes and the cigarette jar slowly fills with halves. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "time-lapse of passing light; static camera",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "'você consegue fazer todos os dias'"
+ },
+ {
+  "id": "C70-1",
+  "cena": "C70",
+  "ordem": 1,
+  "peso": 0.427,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_44"
+  ],
+  "enquadramento": "PP Márcia hoje, para a câmera",
+  "keyframe_prompt": "Marcia: Brazilian woman, 44, healthy and serene, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. present day: in her bright living room in warm morning light Marcia looks straight into the lens with a gentle smile, as if sharing a secret. vertical 9:16 frame, face positioned between 28% and 46% of the frame height, clean negative space in the top 16% of the frame, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, glowing skin, joyful warmth. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she speaks with a slight smile and a small hand gesture; very slow push-in, natural blinking",
+  "quebra": "corte_seco",
+  "texto_tela": {
+   "texto": "VOCÊ NÃO PRECISA PARAR DE FUMAR PARA COMEÇAR",
+   "posicao": "topo"
+  },
+  "grafico": null,
+  "nota": "escuro premium → manhã quente; voz da narradora no presente"
+ },
+ {
+  "id": "C70-2",
+  "cena": "C70",
+  "ordem": 2,
+  "peso": 0.239,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "PD cigarro aceso ao lado do café",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. close on Marcia's hand holding a lit cigarette next to a coffee cup in morning light. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the hand lifts the cigarette; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "'você começa fumando'"
+ },
+ {
+  "id": "C70-3",
+  "cena": "C70",
+  "ordem": 3,
+  "peso": 0.334,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_44"
+  ],
+  "enquadramento": "PPP Márcia hoje, mais fechado",
+  "keyframe_prompt": "Marcia: Brazilian woman, 44, healthy and serene, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. closer on Marcia's face, confident and warm, eyebrows lifting. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, glowing skin, joyful warmth. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she nods; slow push-in",
+  "quebra": "zoom_punch",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "reusa C70-1 (recorte 120%, outro trecho do take)"
+ },
+ {
+  "id": "C71-1",
+  "cena": "C71",
+  "ordem": 1,
+  "peso": 0.371,
+  "tipo": "grafico",
+  "refs": [],
+  "enquadramento": "Calendário: o dia 1 circulado",
+  "keyframe_prompt": "",
+  "motion_prompt": "",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": "Calendário minimalista (papel creme, grade de 15 dias, números em Montserrat grafite) entre 20% e 58% da altura; um círculo de caneta vermelha se desenha à mão em volta do dia 1 (traço animado, 0,8 s). FUNDO (broll Kling, EN): 'a plain cream kitchen wall in soft dawn light, gentle moving shadow of a window frame, slow push-in, no text'.",
+  "nota": null
+ },
+ {
+  "id": "C71-2",
+  "cena": "C71",
+  "ordem": 2,
+  "peso": 0.309,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "PP de pijama, braços cruzados, cética",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. at the kitchen table at dawn in pajamas, Marcia looks at the glass jar with her arms crossed, doubtful. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she raises an eyebrow and sighs; slow push-in",
+  "quebra": "zoom_punch",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "zoom_punch em 'não acreditei'"
+ },
+ {
+  "id": "C71-3",
+  "cena": "C71",
+  "ordem": 3,
+  "peso": 0.32,
+  "tipo": "acao",
+  "refs": [
+   "CADERNO",
+   "MARCIA_42"
+  ],
+  "enquadramento": "PD mãos abrem o caderno",
+  "keyframe_prompt": "simple brown kraft paper notebook, open, handwriting in blue pen, a pen beside it; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia's hands open the brown kraft notebook to a blank page and uncap a blue pen. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she opens the notebook and uncaps the pen; slow top-down push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C72-1",
+  "cena": "C72",
+  "ordem": 1,
+  "peso": 0.219,
+  "tipo": "acao",
+  "refs": [
+   "CADERNO",
+   "MARCIA_42"
+  ],
+  "enquadramento": "Plongée travada: caneta na página em branco",
+  "keyframe_prompt": "simple brown kraft paper notebook, open, handwriting in blue pen, a pen beside it; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. the pen tip resting on a blank page of the open notebook, Marcia's hand about to write, earlier lines softly out of focus and illegible. vertical 9:16 frame, locked-off top-down view, the open notebook page fills the middle of the frame with a blank clean area in its upper half. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "her hand makes small writing movements; locked-off camera, barely perceptible push-in",
+  "quebra": "preto",
+  "texto_tela": null,
+  "grafico": "Overlay: 'Dia 1' manuscrito em azul caneta se desenhando (traço animado, fonte manuscrita) na área limpa da página; câmera travada para o overlay assentar.",
+  "nota": "plano-âncora do diário (volta com outro dia em C73, C75, C77); 6 quadros de preto abrindo o diário"
+ },
+ {
+  "id": "C72-2",
+  "cena": "C72",
+  "ordem": 2,
+  "peso": 0.232,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "PM de pijama passando o café",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. in pajamas at dawn Marcia pours coffee from the glass coffee pot into the white cup. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "coffee pours and steam rises; slow lateral dolly",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C72-3",
+  "cena": "C72",
+  "ordem": 3,
+  "peso": 0.271,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "PP a vontade: maxilar tenso diante do maço",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. seated at the kitchen table Marcia stares at a plain cigarette pack next to her cup, jaw tense, fighting the urge. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she grips the cup and exhales slowly; slow push-in",
+  "quebra": "zoom_punch",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "zoom_punch em 'a vontade estava lá'"
+ },
+ {
+  "id": "C72-4",
+  "cena": "C72",
+  "ordem": 4,
+  "peso": 0.278,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "PP negociando: olha o relógio, afasta o maço",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. Marcia glances at the wall clock, gives a small calm nod and slides the pack aside for later, a tiny surprised smile. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she looks at the clock, nods and slides the pack; slow arc",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C73-1",
+  "cena": "C73",
+  "ordem": 1,
+  "peso": 0.217,
+  "tipo": "acao",
+  "refs": [
+   "CADERNO"
+  ],
+  "enquadramento": "Plongée: página do Dia 3",
+  "keyframe_prompt": "simple brown kraft paper notebook, open, handwriting in blue pen, a pen beside it. the open notebook page. vertical 9:16 frame, locked-off top-down view, the open notebook page fills the middle of the frame with a blank clean area in its upper half. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "locked-off",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": "Overlay: 'Dia 3' manuscrito se desenhando.",
+  "nota": "reusa C72-1 (outro trecho do take), overlay 'Dia 3'"
+ },
+ {
+  "id": "C73-2",
+  "cena": "C73",
+  "ordem": 2,
+  "peso": 0.174,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42",
+   "SOFIA_9"
+  ],
+  "enquadramento": "Flash: a explosão das outras tentativas",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; Sofia: Brazilian girl, 9 years old, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with a small star. Marcia shouting at Sofia. vertical 9:16 frame, both faces positioned between 20% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. cold grey-blue overcast light, desaturated colors, fine film grain. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "fast",
+  "quebra": "corte_seco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "reusa take de C36 (grito com a Sofia), grade frio e dessaturado"
+ },
+ {
+  "id": "C73-3",
+  "cena": "C73",
+  "ordem": 3,
+  "peso": 0.348,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42",
+   "LUCIANO",
+   "VARANDA"
+  ],
+  "enquadramento": "PC chá à noite na varanda com o Luciano",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; Luciano: Brazilian man, 46, tan skin, short black hair greying at the temples, light beard, gentle face, light-blue button shirt; simple Brazilian house porch at sunset, two plastic chairs, potted plants, warm light. at night on the porch Marcia and Luciano sit side by side in plastic chairs sipping herbal tea, relaxed, a warm lamp glowing. vertical 9:16 frame, both faces positioned between 20% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. dark blue night light, a faint warm glow from a bedside lamp. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she sips the tea and leans her head on his shoulder; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C73-4",
+  "cena": "C73",
+  "ordem": 4,
+  "peso": 0.261,
+  "tipo": "hero",
+  "refs": [
+   "LUCIANO",
+   "VARANDA"
+  ],
+  "enquadramento": "PP Luciano percebe e sorri",
+  "keyframe_prompt": "Luciano: Brazilian man, 46, tan skin, short black hair greying at the temples, light beard, gentle face, light-blue button shirt; simple Brazilian house porch at sunset, two plastic chairs, potted plants, warm light. Luciano looks at her with a surprised, tender smile and says something softly. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. dark blue night light, a faint warm glow from a bedside lamp. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "he smiles and speaks; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C74-1",
+  "cena": "C74",
+  "ordem": 1,
+  "peso": 0.164,
+  "tipo": "acao",
+  "refs": [
+   "CADERNO",
+   "FRASCOS"
+  ],
+  "enquadramento": "Plongée: página do Dia 5, frasco na borda",
+  "keyframe_prompt": "simple brown kraft paper notebook, open, handwriting in blue pen, a pen beside it; two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. the open notebook on the windowsill with the edge of the cigarette-halves jar in the corner of the frame, pen resting on the blank area. vertical 9:16 frame, locked-off top-down view, the open notebook page fills the middle of the frame with a blank clean area in its upper half. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "sunlight shifts slightly across the page; locked-off camera",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": "Overlay: 'Dia 5' manuscrito se desenhando.",
+  "nota": null
+ },
+ {
+  "id": "C74-2",
+  "cena": "C74",
+  "ordem": 2,
+  "peso": 0.214,
+  "tipo": "acao",
+  "refs": [
+   "FRASCOS"
+  ],
+  "enquadramento": "PD o frasco já com várias metades",
+  "keyframe_prompt": "two small glass jars with cork lids on rustic wood: one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt. close on the cigarette-halves jar, now holding several halves on the coarse salt, morning light through the glass. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "a new half drops in; slow push-in",
+  "quebra": "zoom_punch",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C74-3",
+  "cena": "C74",
+  "ordem": 3,
+  "peso": 0.189,
+  "tipo": "acao",
+  "refs": [
+   "COZINHA"
+  ],
+  "enquadramento": "Relógio da cozinha passando das 9",
+  "keyframe_prompt": "small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. the round kitchen wall clock with no numerals, its hands just past nine o'clock, bright mid-morning sun on the tiles. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the minute hand ticks forward; static camera, slight push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "mesmo enquadramento do relógio de C67-3"
+ },
+ {
+  "id": "C74-4",
+  "cena": "C74",
+  "ordem": 4,
+  "peso": 0.226,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP no trabalho: a mão desiste do maço",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. at her office desk in daylight Marcia reaches toward her bag for the cigarette pack, pauses, and goes back to work with a light expression. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "her hand stops halfway and returns to the keyboard; slow lateral dolly",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C74-5",
+  "cena": "C74",
+  "ordem": 5,
+  "peso": 0.207,
+  "tipo": "fx",
+  "refs": [
+   "SERPENTE"
+  ],
+  "enquadramento": "A serpente, magra, perdendo a força",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the smoke serpent, now thin and faded, its ember eyes dim, slumping low in the dark. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. high contrast, crushed shadows, a single warm sunbeam as accent. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "the serpent sags and drifts slightly apart; slow push-in",
+  "quebra": "corte_seco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "escritório claro → serpente no escuro"
+ },
+ {
+  "id": "C75-1",
+  "cena": "C75",
+  "ordem": 1,
+  "peso": 0.169,
+  "tipo": "acao",
+  "refs": [
+   "CADERNO"
+  ],
+  "enquadramento": "Plongée: página do Dia 8",
+  "keyframe_prompt": "simple brown kraft paper notebook, open, handwriting in blue pen, a pen beside it. the open notebook page. vertical 9:16 frame, locked-off top-down view, the open notebook page fills the middle of the frame with a blank clean area in its upper half. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "locked-off",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": "Overlay: 'Dia 8' manuscrito se desenhando.",
+  "nota": "reusa C72-1, overlay 'Dia 8'"
+ },
+ {
+  "id": "C75-2",
+  "cena": "C75",
+  "ordem": 2,
+  "peso": 0.381,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42",
+   "SOFIA_9"
+  ],
+  "enquadramento": "PC Sofia corre e pula no colo dela",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; Sofia: Brazilian girl, 9 years old, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with a small star. Marcia, looking more rested, walks in the front door after work; Sofia runs across the living room and jumps into her arms. vertical 9:16 frame, both faces positioned between 20% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "Sofia leaps into her arms and Marcia catches and hugs her; handheld follow, slight slow motion",
+  "quebra": "speed_ramp",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "câmera lenta no salto que volta ao tempo real no abraço"
+ },
+ {
+  "id": "C75-3",
+  "cena": "C75",
+  "ordem": 3,
+  "peso": 0.254,
+  "tipo": "hero",
+  "refs": [
+   "SOFIA_9",
+   "MARCIA_42"
+  ],
+  "enquadramento": "PP Sofia cheira a blusa da mãe",
+  "keyframe_prompt": "Sofia: Brazilian girl, 9 years old, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with a small star; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. close: Sofia in her mother's arms sniffs the shoulder of Marcia's blouse with eyes closed. vertical 9:16 frame, both faces positioned between 20% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she sniffs and opens her eyes smiling; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C75-4",
+  "cena": "C75",
+  "ordem": 4,
+  "peso": 0.196,
+  "tipo": "hero",
+  "refs": [
+   "SOFIA_9"
+  ],
+  "enquadramento": "PP Sofia: 'cheiro de mãe'",
+  "keyframe_prompt": "Sofia: Brazilian girl, 9 years old, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with a small star. Sofia looks up at her mother with a huge smile, saying a short sentence. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she speaks happily; static with slight drift",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C76-1",
+  "cena": "C76",
+  "ordem": 1,
+  "peso": 0.132,
+  "tipo": "preto",
+  "refs": [],
+  "enquadramento": "Preto",
+  "keyframe_prompt": "",
+  "motion_prompt": "",
+  "quebra": "preto",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "~15 quadros de preto com o silêncio de 1 s"
+ },
+ {
+  "id": "C76-2",
+  "cena": "C76",
+  "ordem": 2,
+  "peso": 0.447,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PPP olhos marejados",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. extreme close on Marcia's face, eyes filling with tears, lips pressed, holding back. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "a tear forms and she swallows; imperceptible push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C76-3",
+  "cena": "C76",
+  "ordem": 3,
+  "peso": 0.421,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PM no banheiro, costas na porta",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. in a small bathroom Marcia closes the door and leans her back against it, hand over her mouth, crying with relief. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she slides down slightly against the door; static camera",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C77-1",
+  "cena": "C77",
+  "ordem": 1,
+  "peso": 0.234,
+  "tipo": "acao",
+  "refs": [
+   "CADERNO"
+  ],
+  "enquadramento": "Plongée: página do Dia 11",
+  "keyframe_prompt": "simple brown kraft paper notebook, open, handwriting in blue pen, a pen beside it. the open notebook page. vertical 9:16 frame, locked-off top-down view, the open notebook page fills the middle of the frame with a blank clean area in its upper half. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "locked-off",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": "Overlay: 'Dia 11' manuscrito se desenhando.",
+  "nota": "reusa C72-1, overlay 'Dia 11'"
+ },
+ {
+  "id": "C77-2",
+  "cena": "C77",
+  "ordem": 2,
+  "peso": 0.362,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PD a mão tira um maço esquecido do bolso da jaqueta",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia's hand pulls a forgotten, slightly crumpled plain cigarette pack out of a denim jacket pocket. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she pulls it out and turns it over, puzzled; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C77-3",
+  "cena": "C77",
+  "ordem": 3,
+  "peso": 0.404,
+  "tipo": "acao",
+  "refs": [],
+  "enquadramento": "PD maço intocado na mesa, poeira na luz",
+  "keyframe_prompt": "an untouched plain cigarette pack on a wooden table, dust particles floating in a beam of morning light around it. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, soft glowing skin. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "dust drifts in the beam; very slow push-in",
+  "quebra": "speed_ramp",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "'a vontade estava ficando… pequena'"
+ },
+ {
+  "id": "C78-1",
+  "cena": "C78",
+  "ordem": 1,
+  "peso": 0.336,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "PM mesma câmera da A07: ela na cadeira de sempre, com o café",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. the same kitchen and exact camera position as the first-cigarette memory, now in warm golden morning light: Marcia sits in the same wooden chair holding a coffee cup, no cigarette anywhere. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. quiet warm early-morning light, still air, slightly muted colors. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she lifts the cup and sips, birds outside; locked-off camera, imperceptible push-in",
+  "quebra": "match_cut",
+  "texto_tela": null,
+  "grafico": "Overlay pequeno manuscrito 'Dia 15' (azul caneta) no topo, 8%–14% da altura.",
+  "nota": "match_cut com A07: mesma lente, altura e enquadramento; a música para"
+ },
+ {
+  "id": "C78-2",
+  "cena": "C78",
+  "ordem": 2,
+  "peso": 0.32,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "PD o último gole e a xícara vazia",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. close on Marcia's hands tilting the white cup to drink the last sip, then setting the empty cup on the table. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. quiet warm early-morning light, still air, slightly muted colors. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she drinks and puts the empty cup down; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C78-3",
+  "cena": "C78",
+  "ordem": 3,
+  "peso": 0.344,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "PM na pia com a xícara, ela para",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. at the sink under the window with the empty cup in her hand, Marcia stops mid-motion, frozen, realizing something. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. quiet warm early-morning light, still air, slightly muted colors. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she stops, eyes widening slowly; very slow push-in",
+  "quebra": "speed_ramp",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "desacelera no 'eu percebi'"
+ },
+ {
+  "id": "C79-1",
+  "cena": "C79",
+  "ordem": 1,
+  "peso": 0.514,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "PPP surpresa e riso nervoso",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. close on Marcia's face breaking into a nervous astonished laugh, a hand rising to her mouth. vertical 9:16 frame, face positioned between 28% and 46% of the frame height, clean negative space in the top 16% of the frame, the band from 60% to 75% of the height kept calm and uncluttered. quiet warm early-morning light, still air, slightly muted colors. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she laughs in disbelief and covers her mouth; quick micro push-in",
+  "quebra": "zoom_punch",
+  "texto_tela": {
+   "texto": "EU ESQUECI DE FUMAR",
+   "posicao": "topo"
+  },
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C79-2",
+  "cena": "C79",
+  "ordem": 2,
+  "peso": 0.486,
+  "tipo": "acao",
+  "refs": [
+   "ISQUEIRO",
+   "COZINHA"
+  ],
+  "enquadramento": "PD o isqueiro do pai, fechado, sobre a mesa",
+  "keyframe_prompt": "old silver flip lighter, worn engraving, small scratches, on dark wood; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. her father's old silver flip lighter closed and unlit on the kitchen table in warm morning light. vertical 9:16 frame, the object sits in the lower part of the frame (76% to 88% of the height), wide clean negative space above it, top 20% of the frame empty. quiet warm early-morning light, still air, slightly muted colors. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "a sunbeam slides over the lighter; static, slow push-in",
+  "quebra": "freeze",
+  "texto_tela": {
+   "texto": "EU ESQUECI DE FUMAR",
+   "posicao": "topo"
+  },
+  "grafico": null,
+  "nota": "o 🅣 atravessa os dois planos (3,7 s); freeze 0,5 s no isqueiro"
+ },
+ {
+  "id": "C80-1",
+  "cena": "C80",
+  "ordem": 1,
+  "peso": 0.294,
+  "tipo": "hero",
+  "refs": [
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "PP rindo e chorando",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. in the sunlit kitchen Marcia laughs and cries at once, both hands on her cheeks. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, glowing skin, joyful warmth. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she laughs through tears; slow push-in",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C80-2",
+  "cena": "C80",
+  "ordem": 2,
+  "peso": 0.196,
+  "tipo": "acao",
+  "refs": [
+   "MARCIA_42"
+  ],
+  "enquadramento": "PM ela corre pelo corredor",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt. Marcia rushes barefoot down a short apartment hallway toward the bedroom, morning light. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, glowing skin, joyful warmth. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "she runs past the camera; whip pan following her",
+  "quebra": "whip",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C80-3",
+  "cena": "C80",
+  "ordem": 3,
+  "peso": 0.51,
+  "tipo": "hero",
+  "refs": [
+   "LUCIANO",
+   "MARCIA_42",
+   "COZINHA"
+  ],
+  "enquadramento": "PC o abraço: Luciano chora e ri",
+  "keyframe_prompt": "Luciano: Brazilian man, 46, tan skin, short black hair greying at the temples, light beard, gentle face, light-blue button shirt; Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. in the kitchen Luciano hugs Marcia tightly, crying and laughing, eyes closed, she buries her face in his shoulder. vertical 9:16 frame, both faces positioned between 20% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, glowing skin, joyful warmth. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "they hold each other and sway as he whispers; slow arc around them",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C81-1",
+  "cena": "C81",
+  "ordem": 1,
+  "peso": 0.56,
+  "tipo": "acao",
+  "refs": [
+   "SOFIA_9",
+   "DESENHO"
+  ],
+  "enquadramento": "PD a mãozinha cola a estrela no desenho da geladeira",
+  "keyframe_prompt": "Sofia: Brazilian girl, 9 years old, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with a small star; child's crayon drawing on lined notebook paper: a woman holding a cigarette crossed out by a big red X, and a small crying girl beside her, naive child style, no readable words. close on the child's crayon drawing held by a magnet on a white fridge door; Sofia's small hand presses a shiny gold star sticker onto the corner of the drawing. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, glowing skin, joyful warmth. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "her finger smooths the sticker down; slow push-in",
+  "quebra": "corte_seco",
+  "texto_tela": null,
+  "grafico": null,
+  "nota": null
+ },
+ {
+  "id": "C81-2",
+  "cena": "C81",
+  "ordem": 2,
+  "peso": 0.44,
+  "tipo": "acao",
+  "refs": [
+   "DESENHO"
+  ],
+  "enquadramento": "PD o desenho com a estrelinha",
+  "keyframe_prompt": "child's crayon drawing on lined notebook paper: a woman holding a cigarette crossed out by a big red X, and a small crying girl beside her, naive child style, no readable words. the child's crayon drawing on the white fridge door with a small gold star sticker in its corner, morning light, a child's shadow leaving the frame. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered. warm morning light, blown-out window, glowing skin, joyful warmth. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "motion_prompt": "slow push-in toward the star",
+  "quebra": null,
+  "texto_tela": null,
+  "grafico": null,
+  "nota": "plano-âncora para C109 (mesmo take)"
+ }
+]

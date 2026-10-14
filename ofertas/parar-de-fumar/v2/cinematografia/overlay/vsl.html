@@ -1,0 +1,123 @@
+<!doctype html>
+<!--
+Overlay da VSL (9:16): legendas palavra a palavra, textos na tela (🅣) e selo "Cenas dramatizadas".
+Dados em dados.js (gerado por ../legendas.py): CAP=[ini, fim, 'texto com *destaque*', voz], TT=[ini, fim, texto, topo|centro|baixo], SELO=[[ini, fim]].
+Rosto fica entre 18% e 48% da altura → legenda em 62–72% (top 1190px), 🅣 "topo" em 6–17%, "centro" em 50–58%.
+Render: node ../../../../../ferramentas/render_overlay.js vsl.html ../render/ov --total N --workers 4
+-->
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Overlay VSL</title>
+<style>
+@font-face{font-family:Mont;font-weight:600;src:url(fonts/montserrat-600-normal.woff2)}
+@font-face{font-family:Mont;font-weight:700;src:url(fonts/montserrat-700-normal.woff2)}
+@font-face{font-family:Mont;font-weight:800;src:url(fonts/montserrat-800-normal.woff2)}
+@font-face{font-family:Play;font-weight:700;src:url(fonts/playfair-display-700-normal.woff2)}
+/* paleta: dourado (destaque), quase preto (contorno), rosa claro (voz da Sofia) */
+:root{--gold:#FFC94A;--ink:#141010;--kid:#FFD1DC}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:transparent}
+body{font-family:Mont,sans-serif;font-variant-numeric:lining-nums;color:#fff;-webkit-font-smoothing:antialiased}
+#stage{position:relative;width:1080px;height:1920px;overflow:hidden}
+.it{position:absolute;opacity:0}
+#botScrim{left:0;right:0;top:1060px;height:520px;background:linear-gradient(to bottom,rgba(0,0,0,0),rgba(0,0,0,.38) 45%,rgba(0,0,0,.38) 70%,rgba(0,0,0,0))}
+#topScrim{left:0;right:0;top:0;height:560px;background:linear-gradient(to bottom,rgba(0,0,0,.55),rgba(0,0,0,0))}
+/* legenda */
+#cap{left:56px;right:56px;top:1190px;text-align:center;font-weight:800;font-size:70px;line-height:1.18;letter-spacing:-.005em}
+#cap .w{display:inline-block;margin:0 .11em;-webkit-text-stroke:10px var(--ink);paint-order:stroke fill;text-shadow:0 6px 20px rgba(0,0,0,.55)}
+#cap .g{display:inline-block;background:var(--gold);border-radius:14px;padding:0 .14em;margin:.05em .08em;box-shadow:0 8px 22px rgba(0,0,0,.4)}
+#cap .g .w{color:var(--ink);-webkit-text-stroke:0;text-shadow:none;margin:0 .07em}
+#cap.kid{font-style:italic}
+#cap.kid .w{color:var(--kid)}
+#cap.kid .g{background:var(--kid)}
+#cap.kid .g .w{color:var(--ink)}
+/* textos na tela */
+.tt{left:60px;right:60px;text-align:center;font-weight:800;font-size:74px;line-height:1.08;letter-spacing:.01em;text-transform:uppercase}
+.tt span{display:inline;background:var(--ink);color:#fff;padding:.06em .26em;border-radius:12px;box-decoration-break:clone;-webkit-box-decoration-break:clone;
+  box-shadow:0 10px 30px rgba(0,0,0,.45)}
+.tt b{color:var(--gold)}
+#tt-topo{top:120px} #tt-centro{top:960px} #tt-baixo{top:1430px}
+#selo{left:40px;top:1795px;font-weight:600;font-size:26px;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.72);
+  padding:8px 16px;border:1.5px solid rgba(255,255,255,.4);border-radius:30px;background:rgba(0,0,0,.25)}
+</style>
+</head>
+<body>
+<div id="stage">
+  <div class="it" id="topScrim"></div>
+  <div class="it" id="botScrim"></div>
+  <div class="it tt" id="tt-topo"></div>
+  <div class="it tt" id="tt-centro"></div>
+  <div class="it tt" id="tt-baixo"></div>
+  <div class="it" id="cap"></div>
+  <div class="it" id="selo">Cenas dramatizadas</div>
+</div>
+<script src="dados.js"></script>
+<script>
+const $ = s => document.querySelector(s);
+const clamp = (x,a=0,b=1) => Math.max(a, Math.min(b, x));
+const eo = x => 1 - Math.pow(1 - clamp(x), 3);
+const eback = x => { x = clamp(x); const c = 1.7; return 1 + (c+1)*Math.pow(x-1,3) + c*Math.pow(x-1,2); };
+const CAP = window.CAP || [], TT = window.TT || [], SELO = window.SELO || [];
+
+// palavras com tempo estimado dentro da legenda (o tempo real de início/fim de cada linha já vem do Whisper)
+const WORDS = [];
+CAP.forEach(([a,b,txt,voz], ci) => {
+  const toks = []; let hl = false;
+  txt.split(/(\*)/).forEach(p => { if (p === '*') { hl = !hl; return; } p.split(/\s+/).filter(Boolean).forEach(w => toks.push({w, hl})); });
+  const L = toks.reduce((s, t) => s + t.w.length + 1, 0); let acc = 0;
+  toks.forEach(tk => { WORDS.push({ ci, s: a + (b - a - .25) * acc / L, ...tk }); acc += tk.w.length + 1; });
+});
+let cur = -1;
+function renderCaption(t) {
+  const ci = CAP.findIndex(([a,b]) => t >= a - .04 && t < b);
+  const el = $('#cap');
+  if (ci < 0) { el.style.opacity = 0; return; }
+  if (cur !== ci) {
+    cur = ci; el.className = 'it' + (CAP[ci][3] === 'crianca' ? ' kid' : '');
+    let h = '', open = false;
+    WORDS.filter(w => w.ci === ci).forEach(w => {
+      if (w.hl && !open) { h += '<span class="g">'; open = true; }
+      if (!w.hl && open) { h += '</span> '; open = false; }
+      h += `<span class="w">${w.w}</span> `; });
+    el.innerHTML = h + (open ? '</span>' : '');
+  }
+  el.style.opacity = 1;
+  const ws = WORDS.filter(w => w.ci === ci), spans = el.querySelectorAll('.w');
+  ws.forEach((w, i) => { const k = clamp((t - w.s + .04) / .13), sp = spans[i];
+    sp.style.opacity = k > 0 ? 1 : 0;
+    sp.style.transform = `scale(${k > 0 ? 0.86 + 0.14*eo(k) : .8}) translateY(${(1-eo(k))*12}px)`; });
+  el.querySelectorAll('.g').forEach(g => { const gw = [...g.querySelectorAll('.w')], first = ws[[...spans].indexOf(gw[0])], k = clamp((t - first.s + .04) / .18);
+    g.style.opacity = k > 0 ? 1 : 0; g.style.transform = `scale(${k > 0 ? 0.92 + 0.08*eback(k) : .92})`;
+    let right = 0; gw.forEach(w => { const wi = ws[[...spans].indexOf(w)], kk = clamp((t - wi.s + .04) / .13);
+      if (kk > 0) right = Math.max(right, w.offsetLeft + w.offsetWidth * (0.6 + 0.4*eo(kk))); });
+    const pad = parseFloat(getComputedStyle(g).paddingRight);
+    g.style.clipPath = `inset(-20px ${Math.max(0, g.offsetWidth - right - pad)}px -20px -20px round 14px)`; });
+}
+const ultimo = {};
+function renderTT(t) {
+  let topo = 0;
+  ['topo','centro','baixo'].forEach(pos => {
+    const el = $('#tt-' + pos), x = TT.find(([a,b,,p]) => p === pos && t >= a && t < b);
+    if (!x) { el.style.opacity = 0; return; }
+    const [a,b,txt] = x;
+    if (ultimo[pos] !== txt) { ultimo[pos] = txt;
+      // número e palavra depois de "·" ou "→" ganham o dourado
+      el.innerHTML = '<span>' + txt.replace(/(\d[\d.,]*%?|R\$\s?[\d.,]+)/g, '<b>$1</b>') + '</span>'; }
+    const k = Math.min(eo((t - a) / .22), clamp((b - t) / .18));
+    el.style.opacity = k; el.style.transform = `scale(${.9 + .1*eback(clamp((t - a) / .3))}) translateY(${(1-eo((t-a)/.25))*-18}px)`;
+    if (pos === 'topo') topo = k;
+  });
+  $('#topScrim').style.opacity = topo;
+}
+function render(t) {
+  renderCaption(t); renderTT(t);
+  $('#botScrim').style.opacity = CAP.some(([a,b]) => t >= a - .3 && t < b + .3) ? 1 : 0;
+  const s = SELO.find(([a,b]) => t >= a && t < b);
+  $('#selo').style.opacity = s ? Math.min(eo((t - s[0]) / .4), clamp((s[1] - t) / .4)) * .9 : 0;
+}
+window.render = render;
+document.fonts.ready.then(() => { render(+(new URLSearchParams(location.search).get('t') || 0)); window.ready = true; });
+</script>
+</body>
+</html>

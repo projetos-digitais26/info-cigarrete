@@ -1,0 +1,347 @@
+{
+ "total": 10.024,
+ "itens": [
+  {
+   "arquivo": "refs/MARCIA_44.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:45"
+  },
+  {
+   "arquivo": "refs/MARCIA_43_UTI.png",
+   "modelo": "fal-ai/nano-banana/edit",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:46"
+  },
+  {
+   "arquivo": "refs/MARCIA_42.png",
+   "modelo": "fal-ai/nano-banana/edit",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:46"
+  },
+  {
+   "arquivo": "refs/SOFIA_9.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:46"
+  },
+  {
+   "arquivo": "refs/KWAME.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:46"
+  },
+  {
+   "arquivo": "refs/COZINHA.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:47"
+  },
+  {
+   "arquivo": "refs/UTI.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:47"
+  },
+  {
+   "arquivo": "refs/VILAREJO.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:47"
+  },
+  {
+   "arquivo": "refs/SERPENTE.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:47"
+  },
+  {
+   "arquivo": "refs/SOFIA_9.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:47"
+  },
+  {
+   "arquivo": "refs/SOFIA_9.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:48"
+  },
+  {
+   "arquivo": "kf/A01-2.png",
+   "modelo": "fal-ai/nano-banana/edit",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:48"
+  },
+  {
+   "arquivo": "clips/A01-2.mp4",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.336,
+   "quando": "2026-10-14 17:49"
+  },
+  {
+   "arquivo": "kf/A01-3.png",
+   "modelo": "fal-ai/nano-banana/edit",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:50"
+  },
+  {
+   "arquivo": "clips/A01-3.mp4",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.336,
+   "quando": "2026-10-14 17:51"
+  },
+  {
+   "arquivo": "kf/A02-1.png",
+   "modelo": "fal-ai/nano-banana/edit",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:51"
+  },
+  {
+   "arquivo": "clips/A02-1.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 17:52"
+  },
+  {
+   "arquivo": "kf/A02-2.png",
+   "modelo": "fal-ai/nano-banana/edit",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:53"
+  },
+  {
+   "arquivo": "clips/A02-2.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 17:54"
+  },
+  {
+   "arquivo": "kf/A02-1.png",
+   "modelo": "fal-ai/nano-banana/edit",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:55"
+  },
+  {
+   "arquivo": "clips/A02-1.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 17:56"
+  },
+  {
+   "arquivo": "kf/A01-3.png",
+   "modelo": "fal-ai/nano-banana/edit",
+   "usd": 0.04,
+   "quando": "2026-10-14 17:57"
+  },
+  {
+   "arquivo": "clips/A01-3.mp4",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.336,
+   "quando": "2026-10-14 17:58"
+  },
+  {
+   "arquivo": "kf/A02-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 17:59"
+  },
+  {
+   "arquivo": "clips/A02-1.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 18:00"
+  },
+  {
+   "arquivo": "kf/A03-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:01"
+  },
+  {
+   "arquivo": "kf/A04-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:03"
+  },
+  {
+   "arquivo": "kf/A03-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:03"
+  },
+  {
+   "arquivo": "kf/A04-3.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:03"
+  },
+  {
+   "arquivo": "kf/A04-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:03"
+  },
+  {
+   "arquivo": "kf/A06-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:03"
+  },
+  {
+   "arquivo": "clips/A03-1.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 18:04"
+  },
+  {
+   "arquivo": "clips/A04-1.mp4",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.448,
+   "quando": "2026-10-14 18:04"
+  },
+  {
+   "arquivo": "clips/A03-2.mp4",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.336,
+   "quando": "2026-10-14 18:04"
+  },
+  {
+   "arquivo": "clips/A04-3.mp4",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.448,
+   "quando": "2026-10-14 18:04"
+  },
+  {
+   "arquivo": "kf/A07-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:04"
+  },
+  {
+   "arquivo": "kf/A07-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:04"
+  },
+  {
+   "arquivo": "kf/A06-3.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:04"
+  },
+  {
+   "arquivo": "kf/A07-3.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:04"
+  },
+  {
+   "arquivo": "clips/A04-2.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 18:04"
+  },
+  {
+   "arquivo": "kf/A07-4.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:04"
+  },
+  {
+   "arquivo": "clips/A06-2.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 18:05"
+  },
+  {
+   "arquivo": "kf/A08-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:05"
+  },
+  {
+   "arquivo": "clips/A07-2.mp4",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.336,
+   "quando": "2026-10-14 18:05"
+  },
+  {
+   "arquivo": "clips/A07-3.mp4",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.336,
+   "quando": "2026-10-14 18:05"
+  },
+  {
+   "arquivo": "kf/A08-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:06"
+  },
+  {
+   "arquivo": "kf/A08-3.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:06"
+  },
+  {
+   "arquivo": "clips/A07-4.mp4",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.336,
+   "quando": "2026-10-14 18:06"
+  },
+  {
+   "arquivo": "clips/A06-3.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 18:06"
+  },
+  {
+   "arquivo": "kf/A09-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:06"
+  },
+  {
+   "arquivo": "kf/A09-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:06"
+  },
+  {
+   "arquivo": "clips/A08-2.mp4",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.448,
+   "quando": "2026-10-14 18:07"
+  },
+  {
+   "arquivo": "clips/A08-3.mp4",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.448,
+   "quando": "2026-10-14 18:07"
+  },
+  {
+   "arquivo": "kf/A10-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:07"
+  },
+  {
+   "arquivo": "kf/A10-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:07"
+  },
+  {
+   "arquivo": "clips/A08-1.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 18:07"
+  },
+  {
+   "arquivo": "kf/A10-3.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:08"
+  }
+ ]
+}
