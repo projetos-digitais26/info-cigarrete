@@ -1,5 +1,5 @@
 {
- "total": 21.776,
+ "total": 32.476,
  "itens": [
   {
    "arquivo": "refs/MARCIA_44.png",
@@ -720,6 +720,534 @@
    "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
    "usd": 0.35,
    "quando": "2026-10-14 19:12"
+  },
+  {
+   "arquivo": "refs/SOFIA_8.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:31"
+  },
+  {
+   "arquivo": "refs/LUCIANO.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:31"
+  },
+  {
+   "arquivo": "refs/PAI.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:31"
+  },
+  {
+   "arquivo": "refs/ISQUEIRO.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:31"
+  },
+  {
+   "arquivo": "refs/DESENHO.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:31"
+  },
+  {
+   "arquivo": "refs/VARANDA.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:31"
+  },
+  {
+   "arquivo": "kf/C09-3.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C09-6.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C09-1.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C09-5.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C09-2.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C09-4.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C10-1.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C10-3.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C10-2.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C10-4.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C09-7.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C11-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C11-3.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C11-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C12-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C11-4.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C12-2.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C12-3.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C13-1.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C14-1.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C13-3.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C13-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C15-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C14-3.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:32"
+  },
+  {
+   "arquivo": "kf/C14-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:33"
+  },
+  {
+   "arquivo": "kf/C16-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:33"
+  },
+  {
+   "arquivo": "kf/C16-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:33"
+  },
+  {
+   "arquivo": "kf/C16-3.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:33"
+  },
+  {
+   "arquivo": "kf/C17-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:33"
+  },
+  {
+   "arquivo": "kf/C18-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:33"
+  },
+  {
+   "arquivo": "kf/C17-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:33"
+  },
+  {
+   "arquivo": "kf/C19-1.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:33"
+  },
+  {
+   "arquivo": "clips/C17-2.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 19:34"
+  },
+  {
+   "arquivo": "kf/C19-2.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:34"
+  },
+  {
+   "arquivo": "clips/C16-1.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 19:34"
+  },
+  {
+   "arquivo": "clips/C16-3.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.7,
+   "quando": "2026-10-14 19:34"
+  },
+  {
+   "arquivo": "kf/C20-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:34"
+  },
+  {
+   "arquivo": "kf/C20-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:34"
+  },
+  {
+   "arquivo": "clips/C17-1.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 19:34"
+  },
+  {
+   "arquivo": "kf/C20-3.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:35"
+  },
+  {
+   "arquivo": "clips/C16-2.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.7,
+   "quando": "2026-10-14 19:35"
+  },
+  {
+   "arquivo": "kf/C21-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:35"
+  },
+  {
+   "arquivo": "clips/C20-1.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 19:35"
+  },
+  {
+   "arquivo": "clips/C19-2.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 19:35"
+  },
+  {
+   "arquivo": "kf/C21-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:36"
+  },
+  {
+   "arquivo": "kf/C22-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:36"
+  },
+  {
+   "arquivo": "clips/C20-3.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 19:36"
+  },
+  {
+   "arquivo": "kf/C22-2.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:36"
+  },
+  {
+   "arquivo": "clips/C21-1.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 19:36"
+  },
+  {
+   "arquivo": "kf/C23-1.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:36"
+  },
+  {
+   "arquivo": "kf/C23-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:37"
+  },
+  {
+   "arquivo": "clips/C22-1.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 19:37"
+  },
+  {
+   "arquivo": "kf/C23-3.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:37"
+  },
+  {
+   "arquivo": "kf/C23-4.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:37"
+  },
+  {
+   "arquivo": "clips/C19-1.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 19:37"
+  },
+  {
+   "arquivo": "kf/C24-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:37"
+  },
+  {
+   "arquivo": "kf/C24-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:37"
+  },
+  {
+   "arquivo": "kf/C24-3.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:37"
+  },
+  {
+   "arquivo": "kf/C25-1.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:37"
+  },
+  {
+   "arquivo": "clips/C22-2.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 19:37"
+  },
+  {
+   "arquivo": "kf/C25-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:37"
+  },
+  {
+   "arquivo": "kf/C25-3.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:37"
+  },
+  {
+   "arquivo": "kf/C25-4.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:37"
+  },
+  {
+   "arquivo": "kf/C26-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:38"
+  },
+  {
+   "arquivo": "kf/C26-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:38"
+  },
+  {
+   "arquivo": "kf/C26-3.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:38"
+  },
+  {
+   "arquivo": "kf/C27-1.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:38"
+  },
+  {
+   "arquivo": "kf/C27-2.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:38"
+  },
+  {
+   "arquivo": "clips/C20-2.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 19:38"
+  },
+  {
+   "arquivo": "clips/C21-2.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 19:40"
+  },
+  {
+   "arquivo": "kf/C10-4.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:41"
+  },
+  {
+   "arquivo": "kf/C22-2.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:41"
+  },
+  {
+   "arquivo": "kf/C21-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:41"
+  },
+  {
+   "arquivo": "kf/C11-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:41"
+  },
+  {
+   "arquivo": "clips/C22-2.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 19:42"
+  },
+  {
+   "arquivo": "clips/C21-2.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 19:43"
+  },
+  {
+   "arquivo": "kf/C29-3.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:44"
+  },
+  {
+   "arquivo": "kf/C29-1.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:44"
+  },
+  {
+   "arquivo": "kf/C28-3.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.04,
+   "quando": "2026-10-14 19:44"
+  },
+  {
+   "arquivo": "kf/C28-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:44"
+  },
+  {
+   "arquivo": "kf/C28-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:44"
+  },
+  {
+   "arquivo": "kf/C30-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 19:44"
   }
  ]
 }

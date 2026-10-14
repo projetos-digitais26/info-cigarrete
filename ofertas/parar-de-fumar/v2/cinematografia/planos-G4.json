@@ -214,7 +214,7 @@
    "COZINHA"
   ],
   "enquadramento": "POV mãos do espectador fazendo café",
-  "keyframe_prompt": "small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot; first-person point of view of the viewer's own hands pouring coffee from a glass coffee pot into a mug, warm sun streaming through the window over the sink, top quarter of the frame is soft bright window glow; vertical 9:16 frame, subject in the lower-middle (40%-60% height), empty dark negative space in the top third for a title; bright warm morning light through a window, blown-out highlights, soft and clean; cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "small Brazilian apartment kitchen, white tiles, window over the sink, wooden chair, glass coffee pot; first-person point of view of the viewer's own hands pouring coffee from a glass coffee pot into a mug, warm sun streaming through the window over the sink, top quarter of the frame is soft bright window glow; vertical 9:16 frame, subject in the lower-middle (40%-60% height), soft natural background continuing the scene (full-bleed photo, no blank bars); bright warm morning light through a window, blown-out highlights, soft and clean; cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "hands pour coffee, steam rises, sunlight flickers; subtle handheld POV breathing; slow intimate pace",
   "quebra": "pov",
   "texto_tela": {
@@ -1176,7 +1176,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "PD balança: maço × celular",
-  "keyframe_prompt": "an old brass balance scale on a dark table: a generic unbranded cigarette pack on one pan and a smartphone on the other, the scale tipping toward the phone; vertical 9:16 frame, subject in the lower-middle (40%-60% height), empty dark negative space in the top third for a title; clean dark premium look, low-key warm light, deep shadows with subtle gold highlights; cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "an old brass balance scale on a dark table: a generic unbranded cigarette pack on one pan and a smartphone on the other, the scale tipping toward the phone; vertical 9:16 frame, subject in the lower-middle (40%-60% height), soft natural background continuing the scene (full-bleed photo, no blank bars); clean dark premium look, low-key warm light, deep shadows with subtle gold highlights; cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the pans swing and the phone side sinks in slow motion; static; weighty",
   "quebra": "speed_ramp",
   "texto_tela": {

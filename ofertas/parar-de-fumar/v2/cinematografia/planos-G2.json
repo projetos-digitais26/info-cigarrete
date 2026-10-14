@@ -322,7 +322,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "Detalhe, adesivo colado no braço",
-  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. close-up of the woman's upper arm as her fingers press a plain beige transdermal patch onto the skin. close-up, arm in the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, clean negative space in the top 6-16% for on-screen text. high contrast, crushed shadows, cold desaturated grey-blue tones with a single small red accent, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. close-up of the woman's upper arm as her fingers press a plain beige transdermal patch onto the skin. close-up, arm in the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). high contrast, crushed shadows, cold desaturated grey-blue tones with a single small red accent, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "fingers press and smooth the patch onto the skin; slow push-in",
   "quebra": null,
   "texto_tela": {
@@ -343,7 +343,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "Detalhe, chiclete saindo da cartela",
-  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. close-up of fingers popping a piece of nicotine gum out of a plain unbranded blister pack. close-up, hands in the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, clean negative space in the top 6-16% for on-screen text. high contrast, crushed shadows, cold desaturated grey-blue tones with a single small red accent, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. close-up of fingers popping a piece of nicotine gum out of a plain unbranded blister pack. close-up, hands in the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). high contrast, crushed shadows, cold desaturated grey-blue tones with a single small red accent, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the thumb pushes the gum through the foil; quick push-in",
   "quebra": null,
   "texto_tela": {
@@ -364,7 +364,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "Detalhe, comprimido na palma + copo d'água",
-  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. a single white pill in an open palm beside a glass of water on a cold grey kitchen counter, plain unbranded blister pack. close-up from above, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, clean negative space in the top 6-16% for on-screen text. high contrast, crushed shadows, cold desaturated grey-blue tones with a single small red accent, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. a single white pill in an open palm beside a glass of water on a cold grey kitchen counter, plain unbranded blister pack. close-up from above, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). high contrast, crushed shadows, cold desaturated grey-blue tones with a single small red accent, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the hand closes around the pill; slow tilt down",
   "quebra": null,
   "texto_tela": {
@@ -385,7 +385,7 @@
    "MARCIA_42"
   ],
   "enquadramento": "Close, apertando a borda da pia, olhos fechados (força de vontade)",
-  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. the woman grips the edge of a sink with white knuckles, eyes squeezed shut, jaw clenched, resisting. close-up, face between 20% and 45% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, clean dark negative space in the top 6-16% for on-screen text. high contrast, crushed shadows, cold desaturated grey-blue tones with a single small red accent, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman at 42 (smoker years), light-brown skin, dark wavy hair tied loosely, tired eyes, dark circles, slightly yellowed teeth, grey cotton t-shirt or simple office blouse. the woman grips the edge of a sink with white knuckles, eyes squeezed shut, jaw clenched, resisting. close-up, face between 20% and 45% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). high contrast, crushed shadows, cold desaturated grey-blue tones with a single small red accent, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "her knuckles tighten and she exhales through her teeth; slow push-in",
   "quebra": "zoom_punch",
   "texto_tela": {
@@ -531,7 +531,7 @@
    "SERPENTE"
   ],
   "enquadramento": "Plano médio: serpente de fumaça comendo do prato; o prato é trocado e ela continua",
-  "keyframe_prompt": "serpent made of cigarette smoke, translucent grey, glowing ember eyes. the smoke serpent coils on a dark wooden table, its head dipping into a white plate full of cigarettes; a hand slides in a second plate full of nicotine patches and gum, and the serpent keeps feeding. medium shot, serpent and plates in the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, clean negative space in the top 6-16% for on-screen text. high contrast, crushed shadows, cold desaturated grey-blue tones with a single small red accent, subtle vignette. cinematic still, photorealistic, volumetric smoke simulation, shallow depth of field, no text, no logos",
+  "keyframe_prompt": "serpent made of cigarette smoke, translucent grey, glowing ember eyes. the smoke serpent coils on a dark wooden table, its head dipping into a white plate full of cigarettes; a hand slides in a second plate full of nicotine patches and gum, and the serpent keeps feeding. medium shot, serpent and plates in the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). high contrast, crushed shadows, cold desaturated grey-blue tones with a single small red accent, subtle vignette. cinematic still, photorealistic, volumetric smoke simulation, shallow depth of field, no text, no logos",
   "motion_prompt": "the serpent keeps eating as the plate is swapped, never stopping; slow orbit around the table",
   "quebra": "whip",
   "texto_tela": {
@@ -700,7 +700,7 @@
    "ISQUEIRO"
   ],
   "enquadramento": "Detalhe, câmera lenta: isqueiro abrindo e a chama acendendo",
-  "keyframe_prompt": "old silver flip lighter, worn engraving, scratches. close-up of the old silver flip lighter in a woman's fingers, the lid flicked open and a flame igniting, dark background. close-up, flame at about 40% height, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, clean negative space in the top 6-16% for on-screen text. high contrast, crushed shadows, cold desaturated grey-blue tones with a single small red accent, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "old silver flip lighter, worn engraving, scratches. close-up of the old silver flip lighter in a woman's fingers, the lid flicked open and a flame igniting, dark background. close-up, flame at about 40% height, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). high contrast, crushed shadows, cold desaturated grey-blue tones with a single small red accent, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the lid flicks open and the flame bursts alive in slow motion; slow push-in",
   "quebra": "match_cut",
   "texto_tela": {
@@ -753,7 +753,7 @@
   "tipo": "fx",
   "refs": [],
   "enquadramento": "Animação 3D: árvore brônquica, alvéolos escurecendo",
-  "keyframe_prompt": "3D medical animation of the bronchial tree and alveoli, healthy pink clusters gradually turning dark grey as smoke spreads through them. vertical 9:16, lungs in the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, clean negative space in the top 6-16% for on-screen text. dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, photorealistic 3D medical render, macro depth of field, no blood, no gore, no text, no logos",
+  "keyframe_prompt": "3D medical animation of the bronchial tree and alveoli, healthy pink clusters gradually turning dark grey as smoke spreads through them. vertical 9:16, lungs in the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, photorealistic 3D medical render, macro depth of field, no blood, no gore, no text, no logos",
   "motion_prompt": "dark smoke spreads and the alveoli darken one cluster at a time; slow pull-back",
   "quebra": null,
   "texto_tela": {
@@ -788,7 +788,7 @@
   "tipo": "fx",
   "refs": [],
   "enquadramento": "Macro da ponta do cigarro: brasa e partículas",
-  "keyframe_prompt": "extreme macro of a burning cigarette ember, thousands of tiny glowing particles rising in the smoke. extreme macro, ember in the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, clean negative space in the top 6-16% for on-screen text. dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, photorealistic macro, shallow depth of field, no text, no logos",
+  "keyframe_prompt": "extreme macro of a burning cigarette ember, thousands of tiny glowing particles rising in the smoke. extreme macro, ember in the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, photorealistic macro, shallow depth of field, no text, no logos",
   "motion_prompt": "particles swarm upward from the ember; slow macro push-in",
   "quebra": null,
   "texto_tela": {
@@ -807,7 +807,7 @@
   "tipo": "fx",
   "refs": [],
   "enquadramento": "Animação 3D: partículas chegando às células, algumas escurecem",
-  "keyframe_prompt": "3D medical animation of dark smoke particles reaching a field of healthy cells, a few cells turning dark red and irregular. vertical 9:16, cells filling the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, clean negative space in the top 6-16% for on-screen text. dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, photorealistic 3D medical render, macro depth of field, no blood, no gore, no text, no logos",
+  "keyframe_prompt": "3D medical animation of dark smoke particles reaching a field of healthy cells, a few cells turning dark red and irregular. vertical 9:16, cells filling the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, photorealistic 3D medical render, macro depth of field, no blood, no gore, no text, no logos",
   "motion_prompt": "particles touch the cells and some deform and darken; slow drift",
   "quebra": null,
   "texto_tela": {
@@ -890,7 +890,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "Plano médio, homem de 55 anos leva a mão ao peito na calçada",
-  "keyframe_prompt": "a Brazilian man in his mid-50s in a work shirt on a city sidewalk, clutching his chest, face contorted, starting to kneel. medium shot, face between 22% and 45% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, clean dark negative space in the top 6-16% for on-screen text. dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "a Brazilian man in his mid-50s in a work shirt on a city sidewalk, clutching his chest, face contorted, starting to kneel. medium shot, face between 22% and 45% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "he grabs his chest and sinks to one knee; handheld, slight push-in",
   "quebra": "corte_seco",
   "texto_tela": {
@@ -909,7 +909,7 @@
   "tipo": "fx",
   "refs": [],
   "enquadramento": "Animação 3D: vasos do cérebro, um deles escurece",
-  "keyframe_prompt": "3D medical animation of a translucent human brain with glowing vessels, one vessel suddenly turning dark. vertical 9:16, brain between 18% and 48% height, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, clean negative space in the top 6-16% for on-screen text. dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, photorealistic 3D medical render, macro depth of field, no blood, no gore, no text, no logos",
+  "keyframe_prompt": "3D medical animation of a translucent human brain with glowing vessels, one vessel suddenly turning dark. vertical 9:16, brain between 18% and 48% height, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, photorealistic 3D medical render, macro depth of field, no blood, no gore, no text, no logos",
   "motion_prompt": "one vessel flickers and goes dark; slow orbit",
   "quebra": null,
   "texto_tela": {
@@ -928,7 +928,7 @@
   "tipo": "hero",
   "refs": [],
   "enquadramento": "Plongée: casal na cama, de costas um para o outro, luz azul",
-  "keyframe_prompt": "a middle-aged Brazilian couple lying in bed with their backs to each other, not touching, cold blue light from the window, an ashtray on the nightstand. top-down shot, both heads between 20% and 45% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, clean dark negative space in the top 6-16% for on-screen text. dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, fully clothed in pajamas, no text, no logos",
+  "keyframe_prompt": "a middle-aged Brazilian couple lying in bed with their backs to each other, not touching, cold blue light from the window, an ashtray on the nightstand. top-down shot, both heads between 20% and 45% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, fully clothed in pajamas, no text, no logos",
   "motion_prompt": "neither moves, only slow breathing; very slow overhead rotation",
   "quebra": null,
   "texto_tela": {
@@ -947,7 +947,7 @@
   "tipo": "hero",
   "refs": [],
   "enquadramento": "Close, o homem olhando o teto, frustrado",
-  "keyframe_prompt": "close-up of the man lying on his back staring at the ceiling, frustrated, jaw tight, cold blue light. close-up, face between 22% and 45% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, clean dark negative space in the top 6-16% for on-screen text. dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "close-up of the man lying on his back staring at the ceiling, frustrated, jaw tight, cold blue light. close-up, face between 22% and 45% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "he exhales slowly and rubs his eyes; slow push-in",
   "quebra": null,
   "texto_tela": {
@@ -1016,7 +1016,7 @@
   "tipo": "fx",
   "refs": [],
   "enquadramento": "Animação 3D: pulmões murchando, alvéolos colapsando",
-  "keyframe_prompt": "3D medical animation of a pair of lungs, the alveoli collapsing like deflating bubbles, the lungs shrinking and losing volume. vertical 9:16, lungs in the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, clean negative space in the top 6-16% for on-screen text. dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, photorealistic 3D medical render, macro depth of field, no blood, no gore, no text, no logos",
+  "keyframe_prompt": "3D medical animation of a pair of lungs, the alveoli collapsing like deflating bubbles, the lungs shrinking and losing volume. vertical 9:16, lungs in the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, photorealistic 3D medical render, macro depth of field, no blood, no gore, no text, no logos",
   "motion_prompt": "the lungs struggle to inflate and slowly lose volume; slow pull-back",
   "quebra": "flash_branco",
   "texto_tela": {
@@ -1035,7 +1035,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "Plano médio, idoso puxando um cilindro de oxigênio até a padaria",
-  "keyframe_prompt": "an elderly Brazilian man with a nasal oxygen cannula pulls a small oxygen cylinder on a wheeled cart along a sidewalk toward a neighborhood bakery, stopping to catch his breath. medium shot, face between 22% and 45% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, clean dark negative space in the top 6-16% for on-screen text. dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "an elderly Brazilian man with a nasal oxygen cannula pulls a small oxygen cylinder on a wheeled cart along a sidewalk toward a neighborhood bakery, stopping to catch his breath. medium shot, face between 22% and 45% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "he stops, leans on the cart and breathes hard; slow tracking alongside",
   "quebra": null,
   "texto_tela": {
@@ -1091,7 +1091,7 @@
   "tipo": "acao",
   "refs": [],
   "enquadramento": "Plano médio, ampulheta com areia caindo rápido",
-  "keyframe_prompt": "a tall antique hourglass on a dark wooden table, sand pouring fast, a cigarette smoldering in an ashtray beside it. medium close-up, hourglass in the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, clean negative space in the top 6-16% for on-screen text. dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "a tall antique hourglass on a dark wooden table, sand pouring fast, a cigarette smoldering in an ashtray beside it. medium close-up, hourglass in the middle band, vertical 9:16 frame, subject in the middle band (25-55% height), lower band at 62-72% height kept clean for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "sand pours fast through the neck; slow push-in",
   "quebra": "freeze",
   "texto_tela": {
@@ -1210,7 +1210,7 @@
    "SOFIA_8"
   ],
   "enquadramento": "Plano médio, menina no banco de trás, envolta em fumaça, tossindo",
-  "keyframe_prompt": "Brazilian girl, 8, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with small star. the girl sits in a booster seat in the back of a car, grey smoke swirling around her, coughing into her hand. medium close shot, face between 22% and 45% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, clean dark negative space in the top 6-16% for on-screen text. dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian girl, 8, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with small star. the girl sits in a booster seat in the back of a car, grey smoke swirling around her, coughing into her hand. medium close shot, face between 22% and 45% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "she coughs and waves the smoke away; slow push-in",
   "quebra": null,
   "texto_tela": {
@@ -1231,7 +1231,7 @@
    "SOFIA_8"
   ],
   "enquadramento": "Detalhe: olhos da menina no retrovisor, olhando para a mãe",
-  "keyframe_prompt": "Brazilian girl, 8, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with small star. the girl's big brown eyes reflected in the car's rear-view mirror, looking at her mother, smoke haze. close-up of the rear-view mirror, eyes at about 35% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, clean dark negative space in the top 6-16% for on-screen text. dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian girl, 8, light-brown skin, curly dark-brown hair in two puffs, big brown eyes, yellow t-shirt with small star. the girl's big brown eyes reflected in the car's rear-view mirror, looking at her mother, smoke haze. close-up of the rear-view mirror, eyes at about 35% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). dark high-contrast lighting, crushed blacks, deep red and black palette, subtle vignette. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "her eyes blink slowly through the haze; static camera with slight car vibration",
   "quebra": null,
   "texto_tela": {
@@ -1467,7 +1467,7 @@
    "LUCIANO"
   ],
   "enquadramento": "Close, Luciano com as mãos no rosto, olhos vermelhos",
-  "keyframe_prompt": "Brazilian man, 46, tan skin, short black hair greying at temples, light beard, gentle face, blue button shirt. close-up of the man with both hands over his mouth and nose, red wet eyes, cold corridor light. close-up, face between 22% and 45% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, clean dark negative space in the top 6-16% for on-screen text. cold blue ICU night light, faint hospital-green tint, desaturated, heavy film grain, glow of the patient monitor. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian man, 46, tan skin, short black hair greying at temples, light beard, gentle face, blue button shirt. close-up of the man with both hands over his mouth and nose, red wet eyes, cold corridor light. close-up, face between 22% and 45% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). cold blue ICU night light, faint hospital-green tint, desaturated, heavy film grain, glow of the patient monitor. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "his hands slide down his face; very slow push-in",
   "quebra": "freeze",
   "texto_tela": {
@@ -1488,7 +1488,7 @@
    "MARCIA_43_UTI"
   ],
   "enquadramento": "Close extremo, uma lágrima escorrendo até a máscara",
-  "keyframe_prompt": "Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger. extreme close-up of the woman's eye and cheek above the oxygen mask, a single tear running down into the mask. extreme close-up, eye at about 35% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, clean dark negative space in the top 6-16% for on-screen text. cold blue ICU night light, faint hospital-green tint, desaturated, heavy film grain, glow of the patient monitor. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
+  "keyframe_prompt": "Brazilian woman, 43, light-brown skin, shoulder-length dark wavy hair messy on pillow, pale and sweaty, dark circles, oxygen mask, hospital gown, IV line and pulse oximeter on finger. extreme close-up of the woman's eye and cheek above the oxygen mask, a single tear running down into the mask. extreme close-up, eye at about 35% of frame height, vertical 9:16 frame, face placed between 18% and 48% of frame height, lower band at 62-72% height kept clean and uncluttered for captions, soft natural background continuing the scene (full-bleed photo, no blank bars). cold blue ICU night light, faint hospital-green tint, desaturated, heavy film grain, glow of the patient monitor. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos",
   "motion_prompt": "the tear rolls down into the mask; static",
   "quebra": null,
   "texto_tela": {

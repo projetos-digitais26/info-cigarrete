@@ -364,7 +364,7 @@
    "KWAME"
   ],
   "enquadramento": "PP Kwame sob o baobá, olhar para a lente, câmera lenta",
-  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. Kwame seated on his carved chair under the baobab, serene, looking straight into the lens. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered, clean dark negative space in the bottom 20% of the frame. golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Kwame: Ghanaian elder, about 75, dark skin, short white hair and short white beard, deep calm eyes, kente-pattern cloth draped over one shoulder, sitting on a carved wooden chair. Kwame seated on his carved chair under the baobab, serene, looking straight into the lens. vertical 9:16 frame, face positioned between 22% and 45% of the frame height, the band from 60% to 75% of the height kept calm and uncluttered, soft natural background continuing the scene (full-bleed photo, no blank bars). golden hour sunset light, warm vivid colors, bright kente and wax-print accents, dust floating in the air. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "he breathes slowly, blinks, a faint smile appears; very slow push-in, slow motion",
   "quebra": "freeze",
   "texto_tela": {
@@ -728,7 +728,7 @@
    "SERPENTE"
   ],
   "enquadramento": "PG a fumaça da fogueira vira serpente",
-  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the smoke rising from the campfire curls into a serpent of translucent grey smoke with glowing ember eyes, coiling above the flames against a dark purple night sky. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered, empty negative space in the top 18% of the frame. firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "a serpent made of cigarette smoke, translucent grey, glowing ember eyes, coiling in the dark. the smoke rising from the campfire curls into a serpent of translucent grey smoke with glowing ember eyes, coiling above the flames against a dark purple night sky. vertical 9:16 frame, main subject in the upper-middle of the frame (25% to 55% of the height), the lower band kept simple and uncluttered, soft natural background continuing the scene (full-bleed photo, no blank bars). firelight as the only light source, orange and black palette, drifting smoke, deep shadows. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "smoke twists into the serpent's body and its head rises; slow push-in",
   "quebra": null,
   "texto_tela": {
@@ -1713,7 +1713,7 @@
    "MARCIA_44"
   ],
   "enquadramento": "PP Márcia hoje, para a câmera",
-  "keyframe_prompt": "Marcia: Brazilian woman, 44, healthy and serene, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. present day: in her bright living room in warm morning light Marcia looks straight into the lens with a gentle smile, as if sharing a secret. vertical 9:16 frame, face positioned between 28% and 46% of the frame height, clean negative space in the top 16% of the frame, the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, glowing skin, joyful warmth. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Marcia: Brazilian woman, 44, healthy and serene, light-brown skin, dark wavy shoulder-length hair, warm brown eyes, natural light makeup, cream knit sweater, small gold necklace, calm half-smile. present day: in her bright living room in warm morning light Marcia looks straight into the lens with a gentle smile, as if sharing a secret. vertical 9:16 frame, face positioned between 28% and 46% of the frame height, soft natural background continuing the scene (full-bleed photo, no blank bars), the band from 60% to 75% of the height kept calm and uncluttered. warm morning light, blown-out window, glowing skin, joyful warmth. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "she speaks with a slight smile and a small hand gesture; very slow push-in, natural blinking",
   "quebra": "corte_seco",
   "texto_tela": {
@@ -2304,7 +2304,7 @@
    "COZINHA"
   ],
   "enquadramento": "PPP surpresa e riso nervoso",
-  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. close on Marcia's face breaking into a nervous astonished laugh, a hand rising to her mouth. vertical 9:16 frame, face positioned between 28% and 46% of the frame height, clean negative space in the top 16% of the frame, the band from 60% to 75% of the height kept calm and uncluttered. quiet warm early-morning light, still air, slightly muted colors. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Marcia: Brazilian woman, 42, light-brown skin, dark wavy shoulder-length hair tied loosely, tired eyes with dark circles, slightly yellowed teeth, grey cotton t-shirt; small Brazilian apartment kitchen in the early morning, white tiles, window over the sink, wooden chair at a small table, glass coffee pot and a white cup. close on Marcia's face breaking into a nervous astonished laugh, a hand rising to her mouth. vertical 9:16 frame, face positioned between 28% and 46% of the frame height, soft natural background continuing the scene (full-bleed photo, no blank bars), the band from 60% to 75% of the height kept calm and uncluttered. quiet warm early-morning light, still air, slightly muted colors. cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "she laughs in disbelief and covers her mouth; quick micro push-in",
   "quebra": "zoom_punch",
   "texto_tela": {
