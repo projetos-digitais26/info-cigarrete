@@ -297,8 +297,8 @@ for t0, nome in eventos_sfx:
 # fade final; ganho fixo para a fala ficar em ~-19 dBFS RMS (~-16 LUFS) e limitador suave só nos picos dos efeitos
 mix[-int(2.5 * SR):] *= np.linspace(1, 0, int(2.5 * SR))
 mix *= db(-15.5 - v_db)
-lim = db(-3); acima = np.abs(mix) > lim
-mix[acima] = np.sign(mix[acima]) * (lim + (db(-2) - lim) * np.tanh((np.abs(mix[acima]) - lim) / (db(-2) - lim)))
+lim = db(-5); acima = np.abs(mix) > lim
+mix[acima] = np.sign(mix[acima]) * (lim + (db(-3) - lim) * np.tanh((np.abs(mix[acima]) - lim) / (db(-3) - lim)))
 tmp = saida + ".wav"
 subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "f32le", "-ar", str(SR), "-ac", "1", "-i", "-", "-ac", "2", "-ar", "44100", tmp],
                input=mix.astype(np.float32).tobytes(), check=True)

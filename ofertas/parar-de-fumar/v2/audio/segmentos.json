@@ -95,6 +95,10 @@
    {
     "texto": "Mamãe!",
     "voz": "crianca"
+   },
+   {
+    "texto": "Mamãe!",
+    "voz": "crianca"
    }
   ]
  },
@@ -780,7 +784,7 @@
   ],
   "frases": [
    {
-    "texto": "Estava escrito assim, com a letra torta dele: \"Mamãe, não fuma.",
+    "texto": "Estava escrito assim, com a letra torta dela: \"Mamãe, não fuma.",
     "voz": "narradora"
    },
    {
@@ -862,7 +866,7 @@
   ],
   "frases": [
    {
-    "texto": "E durante um ano inteiro, eu falhei.",
+    "texto": "E durante um ano inteiro, eu fracassei.",
     "voz": "narradora"
    }
   ]
@@ -1105,7 +1109,7 @@
     "voz": "narradora"
    },
    {
-    "texto": "E nas mulheres, o cigarro rouba o colágeno, envelhece a pele, apaga o brilho do rosto.",
+    "texto": "E nas mulheres, o cigarro destrói o colágeno, envelhece a pele, apaga o brilho do rosto.",
     "voz": "narradora"
    },
    {
@@ -2099,7 +2103,7 @@
     "voz": "narradora"
    },
    {
-    "texto": "E com isso você ensina o seu corpo que a manhã sobrevive sem nicotina, sem sofrimento, porque é aos pouquinhos.",
+    "texto": "E com isso você ensina o seu corpo que as suas manhãs sobrevivem sem nicotina, sem sofrimento, porque é aos pouquinhos.",
     "voz": "narradora"
    }
   ]
@@ -2479,7 +2483,7 @@
     "voz": "narradora"
    },
    {
-    "texto": "Primeiro o meu cunhado, que fumava havia mais de 25 anos.",
+    "texto": "Primeiro o meu cunhado, que fumava há mais de 25 anos.",
     "voz": "narradora"
    },
    {
@@ -2958,7 +2962,7 @@
   "sfx": [],
   "frases": [
    {
-    "texto": "E o quarto é a Blindagem Anti-Recaída: o plano dos 30 dias depois do dia 15, pra festa, cerveja, estresse no trabalho.",
+    "texto": "E o quarto é a Blindagem Antirrecaída: o plano dos 30 dias depois do dia 15, pra festa, cerveja, estresse no trabalho.",
     "voz": "narradora"
    },
    {
@@ -3235,7 +3239,7 @@
     "voz": "narradora"
    },
    {
-    "texto": "Só com um cigarro.",
+    "texto": "Com um único cigarro.",
     "voz": "narradora"
    },
    {

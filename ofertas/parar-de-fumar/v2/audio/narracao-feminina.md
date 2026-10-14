@@ -10,7 +10,7 @@ Texto exato do áudio de validação, com a emoção de cada cena. 🧒 = voz da
 
 **A04** _(choque)_ Eu tinha 43 anos. Estava numa UTI, com o coração falhando e o pulmão sem força pra respirar sozinho. E a minha filha de 9 anos estava sendo levada pra fora do quarto por uma enfermeira, gritando o meu nome.
 
-**A05** _(dor)_ 🧒 Mamãe!
+**A05** _(dor)_ 🧒 Mamãe! 🧒 Mamãe!
 
 **A06** _(choque)_ E sabe qual foi o último pensamento que passou pela minha cabeça? Não foi medo de morrer.
 
@@ -70,7 +70,7 @@ Texto exato do áudio de validação, com a emoção de cada cena. 🧒 = voz da
 
 **C28** _(dor)_ A Sofia, minha filha, tinha 8 anos. Uma semana depois do enterro do avô, ela deixou esse desenho em cima do meu travesseiro.
 
-**C29** _(choque)_ Estava escrito assim, com a letra torta dele: "Mamãe, não fuma. Eu não quero que você morra igual o vovô."
+**C29** _(choque)_ Estava escrito assim, com a letra torta dela: "Mamãe, não fuma. Eu não quero que você morra igual o vovô."
 
 **C30** _(choque)_ Eu chorei como não tinha chorado nem no velório.
 
@@ -78,7 +78,7 @@ Texto exato do áudio de validação, com a emoção de cada cena. 🧒 = voz da
 
 **C32** _(impacto)_ Eu prometi pra ele, e prometi pra mim, que eu ia parar. Custasse o que custasse.
 
-**C33** _(choque)_ E durante um ano inteiro, eu falhei.
+**C33** _(choque)_ E durante um ano inteiro, eu fracassei.
 
 **C34** _(impacto)_ Eu tentei de tudo. Adesivo. Chiclete. Remédio. Parar de uma vez, na força de vontade. Contei os dias num aplicativo.
 
@@ -94,7 +94,7 @@ Texto exato do áudio de validação, com a emoção de cada cena. 🧒 = voz da
 
 **C37b** _(medo)_ Cada tragada endurece as suas artérias e deixa o seu sangue mais grosso. É por isso que fumante infarta mais. Tem AVC mais cedo.
 
-**C37c** _(medo)_ E é por isso que tanto homem que fuma começa a falhar na cama. O sangue simplesmente não chega onde precisa chegar. E nas mulheres, o cigarro rouba o colágeno, envelhece a pele, apaga o brilho do rosto. Eu via isso no espelho, todo santo dia.
+**C37c** _(medo)_ E é por isso que tanto homem que fuma começa a falhar na cama. O sangue simplesmente não chega onde precisa chegar. E nas mulheres, o cigarro destrói o colágeno, envelhece a pele, apaga o brilho do rosto. Eu via isso no espelho, todo santo dia.
 
 **C37d** _(dor)_ E tem o enfisema. Os pulmões vão perdendo a força, até o dia em que você precisa arrastar um cilindro de oxigênio pra ir até a padaria. Eu vi isso acontecer. No meu pai.
 
@@ -174,7 +174,7 @@ Texto exato do áudio de validação, com a emoção de cada cena. 🧒 = voz da
 
 **C66** _(impacto)_ O truque do primeiro cigarro do dia tem três movimentos. Eu vou te mostrar o que cada um faz.
 
-**C67** _(revelacao)_ O primeiro é empurrar. Você não deixa de fumar o primeiro cigarro. Você só muda a hora dele, de um jeito muito específico, todos os dias. E com isso você ensina o seu corpo que a manhã sobrevive sem nicotina, sem sofrimento, porque é aos pouquinhos.
+**C67** _(revelacao)_ O primeiro é empurrar. Você não deixa de fumar o primeiro cigarro. Você só muda a hora dele, de um jeito muito específico, todos os dias. E com isso você ensina o seu corpo que as suas manhãs sobrevivem sem nicotina, sem sofrimento, porque é aos pouquinhos.
 
 **C68** _(revelacao)_ O segundo é partir. O cigarro mais gostoso do dia deixa de ser inteiro. E quando o prazer mais forte do dia deixa de ser completo, o seu cérebro começa a perder o interesse por ele.
 
@@ -204,7 +204,7 @@ Texto exato do áudio de validação, com a emoção de cada cena. 🧒 = voz da
 
 **C81** _(alegria)_ E a Sofia grudou uma estrelinha no desenho dela, que ainda estava na geladeira.
 
-**C82** _(alegria)_ Quando as pessoas perceberam que eu não fumava mais, começaram a me perguntar o que eu tinha feito. Primeiro o meu cunhado, que fumava havia mais de 25 anos. Depois um colega do trabalho. Depois a mãe de uma amiga da Sofia.
+**C82** _(alegria)_ Quando as pessoas perceberam que eu não fumava mais, começaram a me perguntar o que eu tinha feito. Primeiro o meu cunhado, que fumava há mais de 25 anos. Depois um colega do trabalho. Depois a mãe de uma amiga da Sofia.
 
 **C83b** _(esperanca)_ Agora mesmo, enquanto você assiste a este vídeo, tem gente acordando amanhã cedo sem precisar daquele primeiro cigarro. Gente que fumava há 20, 30, 40 anos. Gente que já tinha desistido de si mesma. Gente igualzinha a você. E se elas conseguiram… você também vai conseguir.
 
@@ -240,7 +240,7 @@ Texto exato do áudio de validação, com a emoção de cada cena. 🧒 = voz da
 
 **C98** _(venda)_ O terceiro vai mudar a forma como você enxerga o seu corpo: o Protocolo de Recuperação do Corpo. Você vai ver, dia a dia, o que acontece dentro de você depois do último cigarro. Em 20 minutos o seu coração desacelera. Em 12 horas o monóxido de carbono do seu sangue volta ao normal. Em poucas semanas a circulação melhora e o fôlego volta. Em um ano o risco de infarto cai pela metade. E em dez anos o risco de câncer de pulmão cai pra cerca da metade do de quem continua fumando. E a alimentação simples pra ajudar o seu corpo nessa recuperação, sem engordar.
 
-**C98b** _(venda)_ E o quarto é a Blindagem Anti-Recaída: o plano dos 30 dias depois do dia 15, pra festa, cerveja, estresse no trabalho. Os momentos em que a maioria das pessoas volta a fumar.
+**C98b** _(venda)_ E o quarto é a Blindagem Antirrecaída: o plano dos 30 dias depois do dia 15, pra festa, cerveja, estresse no trabalho. Os momentos em que a maioria das pessoas volta a fumar.
 
 **C99** _(impacto)_ E você ainda tem a Garantia do Primeiro Cigarro. Você aplica o método durante os 14 dias. Se você não sentir a diferença, é só mandar uma mensagem dentro de 30 dias e você recebe todo o seu dinheiro de volta. Sem perguntas. O risco é todo meu.
 
@@ -260,7 +260,7 @@ Texto exato do áudio de validação, com a emoção de cada cena. 🧒 = voz da
 
 **C106b** _(choque)_ E daqui a alguns anos, pode ser você naquela cama de hospital, com uma máscara de oxigênio, sem conseguir beber água sozinho. E alguém que você ama segurando a sua mão. Eu já estive dos dois lados dessa mão. E eu não desejo isso pra ninguém.
 
-**C107** _(esperanca)_ O segundo é clicar no botão aqui embaixo, e amanhã de manhã fazer diferente. Só com um cigarro. O primeiro.
+**C107** _(esperanca)_ O segundo é clicar no botão aqui embaixo, e amanhã de manhã fazer diferente. Com um único cigarro. O primeiro.
 
 **C108** _(intimo)_ O isqueiro do meu pai está guardado numa gaveta. Eu nunca mais usei.
 

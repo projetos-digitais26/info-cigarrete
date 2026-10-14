@@ -33,7 +33,7 @@
 > Eu tinha 43 anos. Estava numa UTI, com o coração falhando e o pulmão sem força pra respirar sozinho. E a minha filha de 9 anos estava sendo levada pra fora do quarto por uma enfermeira, gritando o meu nome.
 
 **A05 · 0:32** 🎬 Corredor do hospital: a menina com o rosto colado no vidro da porta, a mão espalmada no vidro. 🔁
-> 🧒 Mamãe!
+> 🧒 Mamãe! Mamãe!
 
 **A06 · 0:35** 🎬 Tela preta. Silêncio total por 1,5 s. · 🔊 nada
 > E sabe qual foi o último pensamento que passou pela minha cabeça? Não foi medo de morrer.
@@ -135,7 +135,7 @@
 > A Sofia, minha filha, tinha 8 anos. Uma semana depois do enterro do avô, ela deixou esse desenho em cima do meu travesseiro.
 
 **C29 · 4:48** 🎬 Close na frase escrita com letra de criança: **"MAMÃE NÃO FUMA. EU NÃO QUERO QUE VOCÊ MORA IGUAL O VOVÔ"**
-> Estava escrito assim, com a letra torta dele: "Mamãe, não fuma. Eu não quero que você morra igual o vovô."
+> Estava escrito assim, com a letra torta dela: "Mamãe, não fuma. Eu não quero que você morra igual o vovô."
 
 **C30 · 5:00** 🎬 A narradora sentado na cama segurando o desenho, de costas para a câmera. Silêncio de 1 s. 🔁
 > Eu chorei como não tinha chorado nem no velório.
@@ -147,7 +147,7 @@
 > Eu prometi pra ele, e prometi pra mim, que eu ia parar. Custasse o que custasse.
 
 **C33 · 5:30** 🎬 Corte rápido: a narradora sorrindo, confiante… e depois um cinzeiro cheio. 🔁
-> E durante um ano inteiro, eu falhei.
+> E durante um ano inteiro, eu fracassei.
 
 ---
 
@@ -175,7 +175,7 @@
 > Cada tragada endurece as suas artérias e deixa o seu sangue mais grosso. É por isso que fumante infarta mais. Tem AVC mais cedo.
 
 **C37c · 6:44** 🎬 Casal na cama, de costas um para o outro; ele olhando o teto, frustrado. Luz azul. · 🅣 **IMPOTÊNCIA**
-> E é por isso que tanto homem que fuma começa a falhar na cama. O sangue simplesmente não chega onde precisa chegar. E nas mulheres, o cigarro rouba o colágeno, envelhece a pele, apaga o brilho do rosto. Eu via isso no espelho, todo santo dia.
+> E é por isso que tanto homem que fuma começa a falhar na cama. O sangue simplesmente não chega onde precisa chegar. E nas mulheres, o cigarro destrói o colágeno, envelhece a pele, apaga o brilho do rosto. Eu via isso no espelho, todo santo dia.
 
 **C37d · 6:56** 🎬 Uma pessoa idosa no supermercado, puxando um cilindro de oxigênio, andando devagar, parando para respirar. · 🅣 **ENFISEMA**
 > E tem o enfisema. Os pulmões vão perdendo a força, até o dia em que você precisa arrastar um cilindro de oxigênio pra ir até a padaria. Eu vi isso acontecer. No meu pai.
@@ -311,7 +311,7 @@
 > O truque do primeiro cigarro do dia tem três movimentos. Eu vou te mostrar o que cada um faz.
 
 **C67 · 12:22** 🎬 Cartão 1: relógio cujo ponteiro avança a cada dia. · 🅣 **EMPURRAR**
-> O primeiro é empurrar. Você não deixa de fumar o primeiro cigarro. Você só muda a hora dele, de um jeito muito específico, todos os dias. E com isso você ensina o seu corpo que a manhã sobrevive sem nicotina, sem sofrimento, porque é aos pouquinhos.
+> O primeiro é empurrar. Você não deixa de fumar o primeiro cigarro. Você só muda a hora dele, de um jeito muito específico, todos os dias. E com isso você ensina o seu corpo que as suas manhãs sobrevivem sem nicotina, sem sofrimento, porque é aos pouquinhos.
 
 **C68 · 12:40** 🎬 Cartão 2: um cigarro sendo partido ao meio em câmera lenta, a cinza caindo. · 🅣 **PARTIR**
 > O segundo é partir. O cigarro mais gostoso do dia deixa de ser inteiro. E quando o prazer mais forte do dia deixa de ser completo, o seu cérebro começa a perder o interesse por ele.
@@ -364,7 +364,7 @@
 ## BLOCO 11 — A família, os amigos e outras pessoas (15:45–16:55)
 
 **C82 · 15:45** 🎬 Churrasco de família no quintal. A narradora conversando com o cunhado, que fuma. · 🔊 trilha alegre e leve
-> Quando as pessoas perceberam que eu não fumava mais, começaram a me perguntar o que eu tinha feito. Primeiro o meu cunhado, que fumava havia mais de 25 anos. Depois um colega do trabalho. Depois a mãe de uma amiga da Sofia.
+> Quando as pessoas perceberam que eu não fumava mais, começaram a me perguntar o que eu tinha feito. Primeiro o meu cunhado, que fumava há mais de 25 anos. Depois um colega do trabalho. Depois a mãe de uma amiga da Sofia.
 
 **C83 · 16:00** 🎬 Bloco de depoimentos em vídeo, 8–12 s cada, com nome, idade e há quantos anos fumava na tela. `[PROVA NECESSÁRIA: 3–5 vídeos reais e autorizados de compradores — ver estratégia §8]` · 🅣 ex.: **"Fumava há 30 anos · 1 maço/dia"**
 > [Depoimento real 1]
@@ -434,8 +434,8 @@
 **C98 · 20:02** 🎬 Capa do Bônus 3: um pulmão que vai do cinza ao rosado numa linha do tempo. · 🅣 **BÔNUS 3 · PROTOCOLO DE RECUPERAÇÃO DO CORPO** `[FONTE da linha do tempo: OMS/CDC]`
 > O terceiro vai mudar a forma como você enxerga o seu corpo: o Protocolo de Recuperação do Corpo. Você vai ver, dia a dia, o que acontece dentro de você depois do último cigarro. Em 20 minutos o seu coração desacelera. Em 12 horas o monóxido de carbono do seu sangue volta ao normal. Em poucas semanas a circulação melhora e o fôlego volta. Em um ano o risco de infarto cai pela metade. E em dez anos o risco de câncer de pulmão cai pra cerca da metade do de quem continua fumando. E a alimentação simples pra ajudar o seu corpo nessa recuperação, sem engordar.
 
-**C98b · 20:30** 🎬 Capa do Bônus 4: um escudo dourado. · 🅣 **BÔNUS 4 · BLINDAGEM ANTI-RECAÍDA**
-> E o quarto é a Blindagem Anti-Recaída: o plano dos 30 dias depois do dia 15, pra festa, cerveja, estresse no trabalho. Os momentos em que a maioria das pessoas volta a fumar.
+**C98b · 20:30** 🎬 Capa do Bônus 4: um escudo dourado. · 🅣 **BÔNUS 4 · BLINDAGEM ANTIRRECAÍDA**
+> E o quarto é a Blindagem Antirrecaída: o plano dos 30 dias depois do dia 15, pra festa, cerveja, estresse no trabalho. Os momentos em que a maioria das pessoas volta a fumar.
 
 **C99 · 20:16** 🎬 Selo de garantia dourado com o desenho do frasco no centro. · 🅣 **GARANTIA DO PRIMEIRO CIGARRO · 30 DIAS**
 > E você ainda tem a Garantia do Primeiro Cigarro. Você aplica o método durante os 14 dias. Se você não sentir a diferença, é só mandar uma mensagem dentro de 30 dias e você recebe todo o seu dinheiro de volta. Sem perguntas. O risco é todo meu.
@@ -470,7 +470,7 @@
 > E daqui a alguns anos, pode ser você naquela cama de hospital, com uma máscara de oxigênio, sem conseguir beber água sozinho. E alguém que você ama segurando a sua mão. Eu já estive dos dois lados dessa mão. E eu não desejo isso pra ninguém.
 
 **C107 · 22:16** 🎬 Lado iluminado: manhã, café, uma criança abraçando o pai.
-> O segundo é clicar no botão aqui embaixo, e amanhã de manhã fazer diferente. Só com um cigarro. O primeiro.
+> O segundo é clicar no botão aqui embaixo, e amanhã de manhã fazer diferente. Com um único cigarro. O primeiro.
 
 **C108 · 22:26** 🎬 Close no isqueiro prateado do pai, agora dentro de uma gaveta, fechada devagar. 🔁
 > O isqueiro do meu pai está guardado numa gaveta. Eu nunca mais usei.

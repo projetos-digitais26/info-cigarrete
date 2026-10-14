@@ -1,0 +1,2581 @@
+[
+ {
+  "id": "A01",
+  "emocao": "dor",
+  "fase": "uti",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "respirador"
+  ],
+  "frases": [
+   {
+    "texto": "Mamãe… fica mais um pouquinho. Por favor.",
+    "voz": "crianca"
+   }
+  ]
+ },
+ {
+  "id": "A02",
+  "emocao": "dor",
+  "fase": "uti",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Essa foi a última coisa que eu ouvi antes de apagar.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A03",
+  "emocao": "dor",
+  "fase": "uti",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Você prometeu que ia me ver crescer…",
+    "voz": "crianca"
+   }
+  ]
+ },
+ {
+  "id": "A04",
+  "emocao": "choque",
+  "fase": "uti",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "alarme",
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Eu tinha 43 anos. Estava numa UTI, com o coração falhando e o pulmão sem força pra respirar sozinho.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E a minha filha de 9 anos estava sendo levada pra fora do quarto por uma enfermeira, gritando o meu nome.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A05",
+  "emocao": "dor",
+  "fase": "uti",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Mamãe! Mamãe!",
+    "voz": "crianca"
+   }
+  ]
+ },
+ {
+  "id": "A06",
+  "emocao": "choque",
+  "fase": "silencio",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "silencio"
+  ],
+  "frases": [
+   {
+    "texto": "E sabe qual foi o último pensamento que passou pela minha cabeça? Não foi medo de morrer.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A07",
+  "emocao": "misterio",
+  "fase": "memoria",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "isqueiro"
+  ],
+  "frases": [
+   {
+    "texto": "Foi uma manhã comum. Uma xícara de café. E um cigarro. O primeiro cigarro do dia.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A08",
+  "emocao": "dor",
+  "fase": "uti",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Porque ali, quase sem forças, eu entendi tudo. Eu entendi exatamente onde eu tinha errado durante 19 anos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E que se eu tivesse feito uma coisa diferente com aquele primeiro cigarro, lá atrás, a minha filha não estaria chorando no corredor de um hospital.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A09",
+  "emocao": "intimo",
+  "fase": "piano",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [
+   "whoosh"
+  ],
+  "frases": [
+   {
+    "texto": "Eu sobrevivi. E é por isso que eu estou aqui.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A10",
+  "emocao": "intimo",
+  "fase": "piano",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Eu não vou te pedir pra parar de fumar hoje. Nem amanhã. Eu só quero que você escute o que eu descobri depois daquela noite.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Porque o meu passado pode ser o seu presente.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E talvez você tenha parado neste vídeo justamente pra fazer diferente do que eu fiz… pra que o seu fim não seja aquele que quase foi o meu.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A11",
+  "emocao": "misterio",
+  "fase": "tensao",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "sibilo"
+  ],
+  "frases": [
+   {
+    "texto": "Amanhã de manhã, quando você acender o primeiro cigarro do dia, aquele junto com o café, eu quero que você faça uma coisa simples com ele.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Porque é nesse cigarro, o primeiro, que mora a cabeça do seu vício. Todos os outros dependem dele.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A12",
+  "emocao": "esperanca",
+  "fase": "tensao",
+  "rate": "-5%",
+  "pitch": "+2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E quando você aprende a mexer nesse primeiro cigarro do jeito certo, durante 14 dias, a vontade vai perdendo força.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Até que, numa manhã qualquer, você termina o seu café… e percebe que esqueceu de fumar. Sem adesivo. Sem remédio. Sem a guerra de parar de uma vez.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A13",
+  "emocao": "intimo",
+  "fase": "tensao",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Meu nome é Márcia. E neste vídeo eu vou te mostrar o que eu aprendi com um velho, do outro lado do mundo, num lugar onde quase ninguém fuma… e por que a ciência confirma que ele estava certo.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "A14",
+  "emocao": "misterio",
+  "fase": "tensao",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "riser"
+  ],
+  "frases": [
+   {
+    "texto": "Assista até o final. Porque tem muita gente ganhando dinheiro todos os dias com o seu vício. E eu não sei por quanto tempo este vídeo vai continuar no ar.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C09",
+  "emocao": "intimo",
+  "fase": "piano",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Se você fuma há 5, 10, 20 ou 40 anos… se você fuma meio maço ou dois por dia… se você já tentou parar e voltou, uma, duas, dez vezes… este vídeo é pra você.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C10",
+  "emocao": "dor",
+  "fase": "piano",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Principalmente se você já ficou três dias sem fumar, com a cabeça explodindo, e no quarto dia acendeu um cigarro sentindo que tinha falhado de novo.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C11",
+  "emocao": "revelacao",
+  "fase": "piano",
+  "rate": "-7%",
+  "pitch": "-1Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Eu quero te dizer uma coisa que ninguém te disse: não foi fraqueza. Você só começou a luta pelo lado errado.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E até o final deste vídeo você vai entender exatamente o que eu quero dizer.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C12",
+  "emocao": "misterio",
+  "fase": "piano",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Mas antes, eu preciso te contar como eu cheguei naquela UTI. Porque tudo começou muito antes, com o meu pai.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C13",
+  "emocao": "dor",
+  "fase": "hospital",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "monitor"
+  ],
+  "frases": [
+   {
+    "texto": "Meu pai fumou a vida inteira. Eu cresci vendo ele acender um cigarro no outro, sentado na varanda, com aquele isqueiro prateado que ele carregava no bolso da camisa.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C14",
+  "emocao": "intimo",
+  "fase": "hospital",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Eu comecei a fumar com 25 anos. E sabe por quê? Pra ficar perto dele. Era o nosso momento. Eu e ele, na varanda, fumando e conversando sobre a vida.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C15",
+  "emocao": "dor",
+  "fase": "hospital",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Eu nunca imaginei que aquele momento ia custar tão caro.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C16",
+  "emocao": "dor",
+  "fase": "hospital",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Aos 67 anos, ele foi diagnosticado com câncer de pulmão.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Em poucos meses, aquele homem forte, que me carregava nos ombros, não conseguia mais subir um degrau sem perder o ar.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C17",
+  "emocao": "choque",
+  "fase": "hospital",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "silencio"
+  ],
+  "frases": [
+   {
+    "texto": "No final, ele não conseguia nem beber água sozinho.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C18",
+  "emocao": "choque",
+  "fase": "hospital",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E eu estava lá. Segurando a mão dele.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C19",
+  "emocao": "choque",
+  "fase": "hospital",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "linha_reta"
+  ],
+  "frases": [
+   {
+    "texto": "Ele morreu numa terça-feira, às 4 da tarde.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C20",
+  "emocao": "dor",
+  "fase": "hospital",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E sabe o que eu fiz dez minutos depois? Eu desci até o estacionamento, entrei no carro… e acendi um cigarro.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C21",
+  "emocao": "choque",
+  "fase": "hospital",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "isqueiro",
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Dez minutos depois de ver o meu pai morrer por causa do cigarro, eu estava fumando.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C22",
+  "emocao": "dor",
+  "fase": "hospital",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Naquele momento eu entendi que não era eu que mandava no cigarro. Era ele que mandava em mim.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C23",
+  "emocao": "intimo",
+  "fase": "hospital",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E não era só comigo. A minha casa tinha cheiro de cigarro. As minhas roupas, as roupas do Luciano, meu marido. O carro. As cortinas.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C24",
+  "emocao": "dor",
+  "fase": "hospital",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Ele nunca brigou comigo. Ele só abria a janela. Todo dia. E aquele silêncio doía mais do que qualquer briga.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C25",
+  "emocao": "impacto",
+  "fase": "hospital",
+  "rate": "-12%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.55,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Eu chegava a fumar um maço por dia. Não conseguia tomar um café sem um cigarro. Não conseguia dirigir sem um cigarro. Não conseguia nem pensar sem um cigarro.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C26",
+  "emocao": "dor",
+  "fase": "hospital",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Eu tinha 42 anos, um marido que me amava e uma filha linda. E estava trocando tudo isso, devagar, por um maço de cigarro.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C27",
+  "emocao": "misterio",
+  "fase": "hospital",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "whoosh"
+  ],
+  "frases": [
+   {
+    "texto": "Mas o que me fez decidir de verdade não foi a morte do meu pai. Foi um desenho.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C28",
+  "emocao": "dor",
+  "fase": "filho",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "A Sofia, minha filha, tinha 8 anos. Uma semana depois do enterro do avô, ela deixou esse desenho em cima do meu travesseiro.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C29",
+  "emocao": "choque",
+  "fase": "filho",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Estava escrito assim, com a letra torta dela: \"Mamãe, não fuma. Eu não quero que você morra igual o vovô.\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C30",
+  "emocao": "choque",
+  "fase": "filho",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Eu chorei como não tinha chorado nem no velório.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C31",
+  "emocao": "dor",
+  "fase": "filho",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E naquele dia eu percebi que a minha filha já estava se afastando de mim. Ela não pulava mais no meu colo quando eu chegava.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ela dizia que eu tinha cheiro de cinzeiro.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C32",
+  "emocao": "impacto",
+  "fase": "filho",
+  "rate": "-12%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.55,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Eu prometi pra ele, e prometi pra mim, que eu ia parar. Custasse o que custasse.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C33",
+  "emocao": "choque",
+  "fase": "filho",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "E durante um ano inteiro, eu fracassei.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C34",
+  "emocao": "impacto",
+  "fase": "tensao",
+  "rate": "-12%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.55,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Eu tentei de tudo. Adesivo. Chiclete. Remédio. Parar de uma vez, na força de vontade. Contei os dias num aplicativo.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C35",
+  "emocao": "dor",
+  "fase": "tensao",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E toda vez era a mesma história. Um, dois, três dias, eu aguentava. No quarto dia, de manhã, a vontade vinha como uma onda.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu ficava irritada, com a cabeça pesada, brigava com todo mundo em casa.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C35b",
+  "emocao": "revelacao",
+  "fase": "tensao",
+  "rate": "-7%",
+  "pitch": "-1Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [
+   "whoosh"
+  ],
+  "frases": [
+   {
+    "texto": "E sabe o que eu só fui entender depois? O adesivo e o chiclete continuam colocando nicotina no seu corpo, todos os dias.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você troca o cigarro por outro prato, mas a serpente continua sendo alimentada. E nenhum deles mexe na raiz do problema: o ritual da manhã.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Aquele momento do café, do primeiro cigarro, continua lá, intacto, esperando você.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C36",
+  "emocao": "dor",
+  "fase": "tensao",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Teve um dia que eu gritei com a Sofia por causa de um copo derramado. Um copo. E eu vi no olho dela o medo. Eu tinha virado outra pessoa.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C37",
+  "emocao": "dor",
+  "fase": "tensao",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "isqueiro"
+  ],
+  "frases": [
+   {
+    "texto": "E aí eu acendia um cigarro. E a culpa vinha junto.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C37a",
+  "emocao": "medo",
+  "fase": "medo",
+  "rate": "-10%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [
+   "impacto",
+   "coracao"
+  ],
+  "frases": [
+   {
+    "texto": "E sabe o que acontecia toda vez que eu recaía? A Organização Mundial da Saúde diz que o cigarro mata até metade das pessoas que fumam. Metade.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Um em cada dois. E cada cigarro que eu acendia mandava pra dentro de mim mais de 7 mil substâncias químicas. Pelo menos 70 delas causam câncer.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Na boca, na garganta, no pulmão, na bexiga.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C37b",
+  "emocao": "medo",
+  "fase": "medo",
+  "rate": "-10%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Cada tragada endurece as suas artérias e deixa o seu sangue mais grosso. É por isso que fumante infarta mais. Tem AVC mais cedo.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C37c",
+  "emocao": "medo",
+  "fase": "medo",
+  "rate": "-10%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "E é por isso que tanto homem que fuma começa a falhar na cama. O sangue simplesmente não chega onde precisa chegar.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E nas mulheres, o cigarro destrói o colágeno, envelhece a pele, apaga o brilho do rosto. Eu via isso no espelho, todo santo dia.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C37d",
+  "emocao": "dor",
+  "fase": "medo",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "E tem o enfisema. Os pulmões vão perdendo a força, até o dia em que você precisa arrastar um cilindro de oxigênio pra ir até a padaria.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu vi isso acontecer. No meu pai.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C37e",
+  "emocao": "choque",
+  "fase": "medo",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Quem fuma vive, em média, pelo menos dez anos a menos. Dez anos. Dez Natais. A formatura do seu filho. O nascimento do seu neto.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Tudo isso queimando junto com o cigarro.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C37f",
+  "emocao": "dor",
+  "fase": "medo",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E não é só você. A fumaça que sai do seu cigarro entra no pulmão de quem você mais ama.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "U01",
+  "emocao": "medo",
+  "fase": "uti",
+  "rate": "-10%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [
+   "impacto",
+   "monitor"
+  ],
+  "frases": [
+   {
+    "texto": "E um dia, a conta chegou. Eu estava no trabalho quando senti uma pressão no peito, como se alguém estivesse sentado em cima de mim. O braço esquerdo formigando.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O ar que não vinha.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "U02",
+  "emocao": "dor",
+  "fase": "uti",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "sirene"
+  ],
+  "frases": [
+   {
+    "texto": "Eu tive um infarto aos 43 anos. Acordei dois dias depois, numa UTI. Foi ali que a Sofia segurou a minha mão e me pediu pra ficar.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "U03",
+  "emocao": "choque",
+  "fase": "uti",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Quando eu acordei, o médico olhou nos meus olhos e disse uma frase que eu nunca vou esquecer: \"Márcia, se você continuar fumando, da próxima vez você não volta.\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "U04",
+  "emocao": "dor",
+  "fase": "uti",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "isqueiro"
+  ],
+  "frases": [
+   {
+    "texto": "E sabe o que eu fiz três semanas depois de sair daquele hospital? Eu me tranquei no banheiro… e acendi um cigarro. Escondida da minha própria filha.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "U05",
+  "emocao": "impacto",
+  "fase": "uti",
+  "rate": "-12%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.55,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "sibilo"
+  ],
+  "frases": [
+   {
+    "texto": "Foi aí que eu tive certeza: aquilo não era um hábito. Era uma serpente enrolada no meu pescoço.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E cada vez que eu tentava arrancá-la de uma vez, ela apertava mais.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C37g",
+  "emocao": "impacto",
+  "fase": "tensao",
+  "rate": "-12%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.55,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "whoosh"
+  ],
+  "frases": [
+   {
+    "texto": "E enquanto isso acontece, tem gente ficando muito rica. A indústria do cigarro fatura bilhões todos os anos com gente como eu e você.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E quando você tenta parar e não consegue, tem outra fila de empresas esperando, vendendo adesivo, chiclete, tratamento, caixa atrás de caixa. Cada recaída sua vira mais uma venda.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E a maioria das pessoas que tenta parar acaba recaindo . É um ciclo que dá lucro pra todo mundo. Menos pra você.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C37h",
+  "emocao": "misterio",
+  "fase": "tensao",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Pensa comigo: quem ganha dinheiro se você conseguir parar sozinho, com um método simples, que custa menos que alguns maços de cigarro? Ninguém.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "É por isso que ninguém te conta o que eu vou te contar agora.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C38",
+  "emocao": "revelacao",
+  "fase": "tensao",
+  "rate": "-7%",
+  "pitch": "-1Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [
+   "riser"
+  ],
+  "frases": [
+   {
+    "texto": "Hoje eu sei por que eu falhava. E o problema nunca fui eu. Nem você.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O problema foi a estratégia que venderam pra gente a vida inteira: parar de uma vez.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C39",
+  "emocao": "revelacao",
+  "fase": "tensao",
+  "rate": "-7%",
+  "pitch": "-1Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E parar de uma vez significa uma coisa que ninguém te explica: logo no primeiro minuto do dia, você tem que enfrentar o cigarro mais forte de todos.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C40",
+  "emocao": "misterio",
+  "fase": "tensao",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Eu não sabia disso. Eu só fui entender quando um velho, sentado numa cadeira de madeira, me olhou nos olhos e me disse uma frase que eu nunca mais esqueci.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C41",
+  "emocao": "intimo",
+  "fase": "gana",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [
+   "whoosh"
+  ],
+  "frases": [
+   {
+    "texto": "Quando eu saí do hospital, o médico foi direto: \"Você precisa descansar, longe de tudo.\" O Luciano olhou pra mim e disse: \"A gente precisa sair daqui.\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C42",
+  "emocao": "intimo",
+  "fase": "gana",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Ele tinha um amigo de infância que morava em Gana, na África. E insistiu tanto que eu acabei indo. Eu achava que ia passar duas semanas tentando fumar escondido.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C43",
+  "emocao": "esperanca",
+  "fase": "gana",
+  "rate": "-5%",
+  "pitch": "+2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Mas lá aconteceu uma coisa que eu não entendia. Eu andava pelas ruas, pelos mercados, pelas praias… e não via quase ninguém fumando.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C44",
+  "emocao": "intimo",
+  "fase": "gana",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Eu era a única. Eu, a turista, com o cigarro na mão.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C45",
+  "emocao": "revelacao",
+  "fase": "gana",
+  "rate": "-7%",
+  "pitch": "-1Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [
+   "tum"
+  ],
+  "frases": [
+   {
+    "texto": "Depois eu fui pesquisar e descobri que Gana está entre os países onde menos se fuma no mundo.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C46",
+  "emocao": "esperanca",
+  "fase": "gana",
+  "rate": "-5%",
+  "pitch": "+2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Eu perguntei pro amigo do Luciano, o Kofi, como aquilo era possível.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ele riu e disse: \"Aqui, quando alguém quer largar um vício, a gente leva pra falar com os mais velhos.\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C47",
+  "emocao": "misterio",
+  "fase": "gana",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "No dia seguinte ele me levou até um vilarejo a duas horas da capital. E me apresentou a um homem chamado Kwame.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C48",
+  "emocao": "misterio",
+  "fase": "gana",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Kwame tinha uns 75 anos. Ele me explicou que Kwame quer dizer \"nascido no sábado\". Na tradição do povo dele, cada pessoa recebe o nome do dia em que nasceu.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C49",
+  "emocao": "misterio",
+  "fase": "gana",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E aí ele fez uma coisa que me deixou completamente confusa. Ele acendeu um cigarro na minha frente.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C50",
+  "emocao": "misterio",
+  "fase": "gana",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "riser"
+  ],
+  "frases": [
+   {
+    "texto": "Fumou só a metade. Apagou com calma. E guardou a outra metade dentro de um pote de vidro. E me disse: \"Esse foi o meu único cigarro de hoje.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E amanhã eu não vou querer nenhum.\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C51",
+  "emocao": "intimo",
+  "fase": "fogo",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Eu contei tudo pra ele. Do meu pai, da Sofia, do desenho, da UTI, de todas as vezes que eu tentei parar.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C52",
+  "emocao": "misterio",
+  "fase": "fogo",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Ele ouviu em silêncio. E quando eu terminei, ele perguntou: \"Quando você tenta parar, qual cigarro você tira primeiro?\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C53",
+  "emocao": "intimo",
+  "fase": "fogo",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Eu disse: \"Todos. Eu paro de uma vez.\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C54",
+  "emocao": "misterio",
+  "fase": "fogo",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Ele riu. E disse a frase que mudou a minha vida:",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C55",
+  "emocao": "choque",
+  "fase": "fogo",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "sibilo",
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "\"Vocês tentam matar a serpente pelo rabo. E ela se vira e morde vocês. Nós cortamos a cabeça.\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C56",
+  "emocao": "revelacao",
+  "fase": "fogo",
+  "rate": "-7%",
+  "pitch": "-1Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Ele me explicou que, pra eles, o vício é como uma serpente. O corpo é feito de todos os cigarros do dia.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Mas a cabeça, o lugar de onde vem toda a força, é o primeiro.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C57",
+  "emocao": "misterio",
+  "fase": "fogo",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "\"Quando você acorda, a serpente está com fome. Ela passou a noite inteira sem comer. O primeiro cigarro é a comida mais gostosa que ela recebe no dia.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "É ele que dá força pra ela pedir todos os outros.\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C58",
+  "emocao": "impacto",
+  "fase": "fogo",
+  "rate": "-12%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.55,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Aquilo bateu em mim como um soco. Porque era verdade. O primeiro cigarro sempre foi o melhor. Aquele com o café, ainda de pijama.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Os outros eu fumava quase no automático. Mas o primeiro… o primeiro eu esperava a noite inteira.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C59",
+  "emocao": "revelacao",
+  "fase": "fogo",
+  "rate": "-7%",
+  "pitch": "-1Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Kwame me ensinou o que o povo dele faz com a cabeça da serpente. Não é parar de uma vez.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "É ir enfraquecendo a cabeça, um pouco a cada manhã, durante 14 dias. Com um ritual tão simples que no começo eu achei que era brincadeira.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C60",
+  "emocao": "misterio",
+  "fase": "fogo",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E me disse: \"Faça isso por 14 dias. No décimo quinto dia, você vai entender.\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C61",
+  "emocao": "revelacao",
+  "fase": "ciencia",
+  "rate": "-7%",
+  "pitch": "-1Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [
+   "whoosh"
+  ],
+  "frases": [
+   {
+    "texto": "Quando eu voltei pro Brasil, a primeira coisa que eu fiz foi pesquisar. Eu precisava saber se aquilo tinha algum sentido ou se era só uma história bonita.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C62",
+  "emocao": "impacto",
+  "fase": "ciencia",
+  "rate": "-12%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.55,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "tum"
+  ],
+  "frases": [
+   {
+    "texto": "E eu descobri uma coisa que me deixou arrepiada. Existe um teste que profissionais de saúde do mundo inteiro usam pra medir o grau de dependência de nicotina.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E uma das primeiras perguntas desse teste é exatamente esta: quanto tempo depois de acordar você fuma o seu primeiro cigarro?",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C63",
+  "emocao": "choque",
+  "fase": "ciencia",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "A ciência e um velho de um vilarejo africano estavam dizendo a mesma coisa. O primeiro cigarro do dia é um dos sinais mais fortes do tamanho do seu vício.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C64",
+  "emocao": "revelacao",
+  "fase": "ciencia",
+  "rate": "-7%",
+  "pitch": "-1Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E faz todo sentido. Você passa a noite inteira dormindo, sem nicotina. Quando acorda, o seu corpo está no ponto mais baixo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Por isso o primeiro cigarro dá aquele alívio enorme. É ele que \"recarrega\" o vício pro resto do dia.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C65",
+  "emocao": "impacto",
+  "fase": "ciencia",
+  "rate": "-12%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.55,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "É por isso que parar de uma vez é tão brutal. Você começa a guerra justamente contra o cigarro mais forte.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E é por isso que o que o Kwame me ensinou funciona ao contrário: você enfraquece a cabeça primeiro, devagar, e o resto do corpo da serpente vai junto.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C66",
+  "emocao": "impacto",
+  "fase": "pulso",
+  "rate": "-12%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.55,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "tum"
+  ],
+  "frases": [
+   {
+    "texto": "O truque do primeiro cigarro do dia tem três movimentos. Eu vou te mostrar o que cada um faz.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C67",
+  "emocao": "revelacao",
+  "fase": "pulso",
+  "rate": "-7%",
+  "pitch": "-1Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [
+   "tum"
+  ],
+  "frases": [
+   {
+    "texto": "O primeiro é empurrar. Você não deixa de fumar o primeiro cigarro. Você só muda a hora dele, de um jeito muito específico, todos os dias.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E com isso você ensina o seu corpo que as suas manhãs sobrevivem sem nicotina, sem sofrimento, porque é aos pouquinhos.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C68",
+  "emocao": "revelacao",
+  "fase": "pulso",
+  "rate": "-7%",
+  "pitch": "-1Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [
+   "tum"
+  ],
+  "frases": [
+   {
+    "texto": "O segundo é partir. O cigarro mais gostoso do dia deixa de ser inteiro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E quando o prazer mais forte do dia deixa de ser completo, o seu cérebro começa a perder o interesse por ele.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C69",
+  "emocao": "revelacao",
+  "fase": "pulso",
+  "rate": "-7%",
+  "pitch": "-1Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [
+   "tum"
+  ],
+  "frases": [
+   {
+    "texto": "E o terceiro é selar. É o ritual dos dois frascos que o Kwame me ensinou, junto com um chá simples que você toma antes de dormir.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ele transforma cada manhã numa vitória que o seu cérebro registra e não esquece. Parece simples demais. E é exatamente por isso que funciona: você consegue fazer todos os dias.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C70",
+  "emocao": "esperanca",
+  "fase": "pulso",
+  "rate": "-5%",
+  "pitch": "+2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Repara numa coisa: em nenhum desses três movimentos você precisa parar de fumar. Você começa fumando.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "É isso que faz esse método ser diferente de tudo o que você já tentou.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C71",
+  "emocao": "misterio",
+  "fase": "pulso",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Mas eu confesso: no primeiro dia eu não acreditei. E o que aconteceu nos 15 dias seguintes eu anotei tudo, num caderno.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C72",
+  "emocao": "intimo",
+  "fase": "diario",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Dia 1. Acordei, fiz o café, e fiz o primeiro movimento. Foi estranho. A vontade estava lá. Mas era possível. Pela primeira vez, eu não estava brigando com a vontade.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu estava negociando com ela.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C73",
+  "emocao": "esperanca",
+  "fase": "diario",
+  "rate": "-5%",
+  "pitch": "+2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Dia 3. Nas outras tentativas, era o dia em que eu explodia. Desta vez eu estava tranquila. O Luciano percebeu antes de mim: \"Você não gritou com ninguém hoje.\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C74",
+  "emocao": "esperanca",
+  "fase": "diario",
+  "rate": "-5%",
+  "pitch": "+2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Dia 5. O meu primeiro cigarro, que antes era às 6 e meia da manhã, já estava pra depois das 9.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E o mais estranho: o resto do dia eu estava fumando menos, sem fazer força nenhuma. A serpente estava ficando mais fraca.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C75",
+  "emocao": "alegria",
+  "fase": "diario",
+  "rate": "-2%",
+  "pitch": "+4Hz",
+  "pausa_frase": 0.4,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Dia 8. A Sofia pulou no meu colo quando eu cheguei do trabalho. Fazia meses que ela não fazia isso.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ela cheirou a minha blusa e disse: \"Mãe, você tá com cheiro de mãe.\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C76",
+  "emocao": "dor",
+  "fase": "diario",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Eu tive que ir pro banheiro pra ela não me ver chorando.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C77",
+  "emocao": "esperanca",
+  "fase": "diario",
+  "rate": "-5%",
+  "pitch": "+2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Dia 11. Encontrei um maço esquecido no bolso da jaqueta. Nem lembrava de ter comprado. A vontade estava ficando… pequena.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C78",
+  "emocao": "misterio",
+  "fase": "silencio",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Dia 15. Eu acordei, fiz o café, sentei na mesma cadeira de sempre… tomei o café inteiro. E quando eu levantei pra lavar a xícara… eu percebi.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C79",
+  "emocao": "choque",
+  "fase": "silencio",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Eu tinha esquecido de fumar.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C80",
+  "emocao": "alegria",
+  "fase": "vitoria",
+  "rate": "-2%",
+  "pitch": "+4Hz",
+  "pausa_frase": 0.4,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Dezenove anos fumando. E eu tinha esquecido. Eu corri pra contar pro Luciano. Ele me abraçou e só disse: \"Seu pai ia ficar orgulhoso.\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C81",
+  "emocao": "alegria",
+  "fase": "vitoria",
+  "rate": "-2%",
+  "pitch": "+4Hz",
+  "pausa_frase": 0.4,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E a Sofia grudou uma estrelinha no desenho dela, que ainda estava na geladeira.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C82",
+  "emocao": "alegria",
+  "fase": "manada",
+  "rate": "-2%",
+  "pitch": "+4Hz",
+  "pausa_frase": 0.4,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Quando as pessoas perceberam que eu não fumava mais, começaram a me perguntar o que eu tinha feito. Primeiro o meu cunhado, que fumava há mais de 25 anos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Depois um colega do trabalho. Depois a mãe de uma amiga da Sofia.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C83",
+  "emocao": "alegria",
+  "fase": "manada",
+  "rate": "-2%",
+  "pitch": "+4Hz",
+  "pausa_frase": 0.4,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": []
+ },
+ {
+  "id": "C83b",
+  "emocao": "esperanca",
+  "fase": "manada",
+  "rate": "-5%",
+  "pitch": "+2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [
+   "riser"
+  ],
+  "frases": [
+   {
+    "texto": "Agora mesmo, enquanto você assiste a este vídeo, tem gente acordando amanhã cedo sem precisar daquele primeiro cigarro. Gente que fumava há 20, 30, 40 anos.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Gente que já tinha desistido de si mesma. Gente igualzinha a você. E se elas conseguiram… você também vai conseguir.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C83c",
+  "emocao": "intimo",
+  "fase": "manada",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Fecha os olhos por um segundo e imagina o seu dia 15. Você acorda, faz o café, toma até o último gole… e percebe que esqueceu de fumar.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Quem está do seu lado nessa manhã? Quem vai te abraçar sem virar o rosto?",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C84",
+  "emocao": "misterio",
+  "fase": "manada",
+  "rate": "-14%",
+  "pitch": "-5Hz",
+  "pausa_frase": 0.6,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E o meu celular não parava. Eu passava as noites respondendo mensagens, explicando cada passo, um por um. Até que eu percebi que não ia dar conta.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Mas eu tinha feito uma promessa.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C85",
+  "emocao": "intimo",
+  "fase": "gana",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "No último dia em Gana, quando eu fui agradecer, o Kwame segurou as minhas mãos e me pediu uma coisa. Ele disse: \"Isso foi dado a você de graça.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Não transforme isso em algo que só os ricos podem ter.\"",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C86",
+  "emocao": "impacto",
+  "fase": "gana",
+  "rate": "-12%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.55,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "E eu prometi. Por isso eu juntei tudo o que ele me ensinou, o passo a passo dos três movimentos, o ritual dos frascos, o chá, o meu diário de 15 dias, num método simples, que você acessa pelo celular.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E decidi que o preço nunca seria um obstáculo.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C87",
+  "emocao": "revelacao",
+  "fase": "gana",
+  "rate": "-7%",
+  "pitch": "-1Hz",
+  "pausa_frase": 0.5,
+  "pausa_cena": 0.8,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Mas antes de te falar o valor, faz uma conta comigo. Se você fuma um maço por dia, você gasta mais ou menos 12 reais por dia.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "São 360 reais por mês. Mais de 4 mil reais por ano. Em 10 anos, mais de 40 mil reais virando fumaça.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C88",
+  "emocao": "dor",
+  "fase": "gana",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Uma viagem com a família. A reforma da casa. A faculdade do seu filho. Tudo isso queimado, um cigarro de cada vez.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C89",
+  "emocao": "esperanca",
+  "fase": "gana",
+  "rate": "-5%",
+  "pitch": "+2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E ainda tem o que não tem preço: o cheiro que sai da sua casa, o fôlego pra brincar com o seu filho, o abraço sem ninguém virar o rosto.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C90",
+  "emocao": "venda",
+  "fase": "oferta",
+  "rate": "+0%",
+  "pitch": "+1Hz",
+  "pausa_frase": 0.35,
+  "pausa_cena": 0.6,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Então aqui está o que você vai receber.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O método completo do truque do primeiro cigarro do dia: os três movimentos, empurrar, partir e selar, explicados passo a passo, dia por dia, durante os 14 dias.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Exatamente como o Kwame me ensinou e como eu apliquei.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C91",
+  "emocao": "venda",
+  "fase": "oferta",
+  "rate": "+0%",
+  "pitch": "+1Hz",
+  "pausa_frase": 0.35,
+  "pausa_cena": 0.6,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Você vai saber exatamente a que horas fumar o primeiro cigarro em cada dia, como partir, como montar os dois frascos, e o que fazer com eles.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Tudo no seu celular, pra você seguir enquanto toma o seu café.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C92",
+  "emocao": "venda",
+  "fase": "oferta",
+  "rate": "+0%",
+  "pitch": "+1Hz",
+  "pausa_frase": 0.35,
+  "pausa_cena": 0.6,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Muita gente me disse que pagaria 300 reais por isso sem pensar. E faz sentido, é menos de um mês de cigarro. Mas eu fiz uma promessa.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Então não vai ser 300. Nem 200. Nem 100.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C93",
+  "emocao": "impacto",
+  "fase": "oferta",
+  "rate": "-12%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.55,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "Hoje você leva o método completo por apenas 37 reais. Ou em até 12 parcelas, que custam menos que um maço de cigarro.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C94",
+  "emocao": "venda",
+  "fase": "oferta",
+  "rate": "+0%",
+  "pitch": "+1Hz",
+  "pausa_frase": 0.35,
+  "pausa_cena": 0.6,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Menos do que você gasta com cigarro em três dias. Pra você nunca mais precisar gastar com isso.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C95",
+  "emocao": "alegria",
+  "fase": "oferta",
+  "rate": "-2%",
+  "pitch": "+4Hz",
+  "pausa_frase": 0.4,
+  "pausa_cena": 0.7,
+  "sfx": [
+   "brilho"
+  ],
+  "frases": [
+   {
+    "texto": "E como você confiou em mim até aqui, eu quero te dar quatro presentes.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C96",
+  "emocao": "venda",
+  "fase": "oferta",
+  "rate": "+0%",
+  "pitch": "+1Hz",
+  "pausa_frase": 0.35,
+  "pausa_cena": 0.6,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "O primeiro é o Kit dos 3 Primeiros Dias.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Eu te mostro o que fazer nos três momentos em que a vontade aperta mais: quando você acorda, depois do café e depois do almoço.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "São os três momentos em que eu mais precisei de ajuda.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C97",
+  "emocao": "venda",
+  "fase": "oferta",
+  "rate": "+0%",
+  "pitch": "+1Hz",
+  "pausa_frase": 0.35,
+  "pausa_cena": 0.6,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "O segundo é o Ritual do Chá da Noite Serena.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "A receita simples que o Kwame me ensinou, com ervas fáceis de achar, e como fazer esse ritual antes de dormir pra acordar mais tranquilo.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C98",
+  "emocao": "venda",
+  "fase": "oferta",
+  "rate": "+0%",
+  "pitch": "+1Hz",
+  "pausa_frase": 0.35,
+  "pausa_cena": 0.6,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "O terceiro vai mudar a forma como você enxerga o seu corpo: o Protocolo de Recuperação do Corpo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você vai ver, dia a dia, o que acontece dentro de você depois do último cigarro. Em 20 minutos o seu coração desacelera.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Em 12 horas o monóxido de carbono do seu sangue volta ao normal. Em poucas semanas a circulação melhora e o fôlego volta.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Em um ano o risco de infarto cai pela metade. E em dez anos o risco de câncer de pulmão cai pra cerca da metade do de quem continua fumando.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E a alimentação simples pra ajudar o seu corpo nessa recuperação, sem engordar.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C98b",
+  "emocao": "venda",
+  "fase": "oferta",
+  "rate": "+0%",
+  "pitch": "+1Hz",
+  "pausa_frase": 0.35,
+  "pausa_cena": 0.6,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E o quarto é a Blindagem Antirrecaída: o plano dos 30 dias depois do dia 15, pra festa, cerveja, estresse no trabalho.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Os momentos em que a maioria das pessoas volta a fumar.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C99",
+  "emocao": "impacto",
+  "fase": "oferta",
+  "rate": "-12%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.55,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "E você ainda tem a Garantia do Primeiro Cigarro. Você aplica o método durante os 14 dias.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Se você não sentir a diferença, é só mandar uma mensagem dentro de 30 dias e você recebe todo o seu dinheiro de volta. Sem perguntas.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "O risco é todo meu.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C100",
+  "emocao": "urgencia",
+  "fase": "leve",
+  "rate": "+3%",
+  "pitch": "+1Hz",
+  "pausa_frase": 0.3,
+  "pausa_cena": 0.6,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "É simples. Clique no botão que está aqui embaixo do vídeo. Você vai pra uma página de pagamento segura. Preencha os seus dados, escolha Pix ou cartão, e finalize.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Em poucos minutos o acesso chega no seu e-mail e você já pode começar amanhã de manhã, no seu primeiro cigarro.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C101",
+  "emocao": "intimo",
+  "fase": "leve",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Eu sei que você pode estar com algumas dúvidas. As mesmas que eu tinha.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "\"Márcia, eu fumo há 30 anos.\" Eu fumava há 19, o meu cunhado há mais de 25. O método não depende de há quanto tempo você fuma.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Ele trabalha no cigarro que você vai fumar amanhã.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C102",
+  "emocao": "intimo",
+  "fase": "leve",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "\"Eu fumo dois maços por dia.\" Quanto mais você fuma, mais forte é a cabeça da serpente, e mais você vai sentir a diferença quando começar a enfraquecê-la.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C103",
+  "emocao": "intimo",
+  "fase": "leve",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "\"Eu sou muito ansioso.\" Eu também. Foi exatamente por isso que parar de uma vez nunca funcionou pra mim. Aqui você não para de uma vez.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você vai devagar, no seu ritmo.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C104",
+  "emocao": "intimo",
+  "fase": "leve",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "\"Eu preciso de remédio pra fazer?\" Não. Você não precisa de nenhum remédio pra aplicar o truque do primeiro cigarro.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E se você já usa algum por indicação médica, não precisa parar: o método entra junto com a sua rotina.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C105",
+  "emocao": "intimo",
+  "fase": "leve",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "\"E se não funcionar comigo?\" Você tem 30 dias de garantia. Se você não sentir a diferença, eu devolvo o seu dinheiro.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C106",
+  "emocao": "dor",
+  "fase": "fechamento",
+  "rate": "-16%",
+  "pitch": "-6Hz",
+  "pausa_frase": 0.7,
+  "pausa_cena": 1.0,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "Agora você tem dois caminhos. O primeiro é fechar este vídeo e continuar como está. Amanhã de manhã você vai acender o primeiro cigarro do dia, como sempre.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E o próximo. E o próximo. E a serpente vai continuar com fome.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C106b",
+  "emocao": "choque",
+  "fase": "hospital",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "monitor",
+   "impacto"
+  ],
+  "frases": [
+   {
+    "texto": "E daqui a alguns anos, pode ser você naquela cama de hospital, com uma máscara de oxigênio, sem conseguir beber água sozinho.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "E alguém que você ama segurando a sua mão. Eu já estive dos dois lados dessa mão. E eu não desejo isso pra ninguém.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C107",
+  "emocao": "esperanca",
+  "fase": "fechamento",
+  "rate": "-5%",
+  "pitch": "+2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "O segundo é clicar no botão aqui embaixo, e amanhã de manhã fazer diferente. Com um único cigarro. O primeiro.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C108",
+  "emocao": "intimo",
+  "fase": "fechamento",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [
+   "whoosh"
+  ],
+  "frases": [
+   {
+    "texto": "O isqueiro do meu pai está guardado numa gaveta. Eu nunca mais usei.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C109",
+  "emocao": "intimo",
+  "fase": "fechamento",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "E o desenho da Sofia continua na geladeira. Pra eu lembrar todo dia por que eu fiz isso.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C109b",
+  "emocao": "intimo",
+  "fase": "ninar",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "pausa_frase": 0.45,
+  "pausa_cena": 0.7,
+  "sfx": [],
+  "frases": [
+   {
+    "texto": "A Sofia tem 12 anos hoje. E toda noite, antes de dormir, ela ainda segura a minha mão, do mesmo jeito que segurou naquela UTI. E me pergunta:",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Você fica, mãe?",
+    "voz": "crianca"
+   },
+   {
+    "texto": "E agora eu posso responder: fico, filha. Por muito tempo.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C110",
+  "emocao": "impacto",
+  "fase": "fechamento",
+  "rate": "-12%",
+  "pitch": "-4Hz",
+  "pausa_frase": 0.55,
+  "pausa_cena": 1.0,
+  "sfx": [
+   "riser"
+  ],
+  "frases": [
+   {
+    "texto": "Eu não sei quem segura a sua mão aí. Um filho, uma filha, um neto, a pessoa que dorme do seu lado.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Mas eu sei que essa pessoa merece te ter por muito tempo.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Clique no botão aqui embaixo agora, porque eu não sei por quanto tempo este vídeo vai continuar no ar.",
+    "voz": "narradora"
+   },
+   {
+    "texto": "Amanhã de manhã, no seu primeiro cigarro, a sua história começa a mudar.",
+    "voz": "narradora"
+   }
+  ]
+ },
+ {
+  "id": "C111",
+  "emocao": "choque",
+  "fase": "fechamento",
+  "rate": "-22%",
+  "pitch": "-8Hz",
+  "pausa_frase": 0.9,
+  "pausa_cena": 1.6,
+  "sfx": [
+   "isqueiro_falha"
+  ],
+  "frases": [
+   {
+    "texto": "Imagens ilustrativas e cenas dramatizadas. Os resultados podem variar de pessoa para pessoa. Este método não substitui orientação médica. Se você usa medicação ou tem acompanhamento de saúde,",
+    "voz": "narradora"
+   },
+   {
+    "texto": "continue e converse com seu médico.",
+    "voz": "narradora"
+   }
+  ]
+ }
+]
