@@ -135,7 +135,10 @@ def chamar(modelo, entrada, destino, tipo_custo, qtd=1):
 def _chamar(modelo, entrada, destino, gasto):
     code, sub = req("POST", f"{fal.BASE}/{modelo}", entrada)
     if code >= 300:
-        print(f"  erro ao enviar {destino}: {code} {str(sub)[:300]}"); return False
+        print(f"  erro ao enviar {destino}: {code} {str(sub)[:300]}")
+        if code in (401, 403):   # saldo esgotado ou chave recusada: não adianta continuar
+            PARAR.set(); print("  PARANDO: conta do fal.ai bloqueada (saldo/chave). Recarregue em fal.ai/dashboard/billing.")
+        return False
     while True:
         code, st = req("GET", sub["status_url"] + "?logs=0")
         if st.get("status") == "COMPLETED":

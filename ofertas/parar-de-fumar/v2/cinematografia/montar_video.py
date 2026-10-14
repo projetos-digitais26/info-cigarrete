@@ -25,10 +25,10 @@ i0 = ids.index(a.de) if a.de else 0
 i1 = ids.index(a.ate) if a.ate else len(ids) - 1
 
 GRADE = {
-    "uti": "eq=saturation=.55:contrast=1.08,colorbalance=bs=.12:ms=.05", "hospital": "eq=saturation=.55:contrast=1.08,colorbalance=bs=.12:ms=.05",
-    "memoria": "eq=saturation=.9,colorbalance=rs=.08:ms=.04", "piano": "eq=saturation=.9,colorbalance=rs=.08:ms=.04", "ninar": "eq=saturation=.9,colorbalance=rs=.08:ms=.04",
+    "uti": "eq=saturation=.55:contrast=1.08,colorbalance=bs=.12:gm=.05", "hospital": "eq=saturation=.55:contrast=1.08,colorbalance=bs=.12:gm=.05",
+    "memoria": "eq=saturation=.9,colorbalance=rs=.08:gm=.04", "piano": "eq=saturation=.9,colorbalance=rs=.08:gm=.04", "ninar": "eq=saturation=.9,colorbalance=rs=.08:gm=.04",
     "tensao": "eq=contrast=1.18:saturation=.8", "medo": "eq=contrast=1.18:saturation=.8", "pulso": "eq=contrast=1.18:saturation=.8",
-    "fogo": "eq=contrast=1.15,colorbalance=rh=.1:bs=-.05", "gana": "eq=saturation=1.15,colorbalance=rh=.06:mh=.04",
+    "fogo": "eq=contrast=1.15,colorbalance=rh=.1:bs=-.05", "gana": "eq=saturation=1.15,colorbalance=rh=.06:gh=.04",
     "ciencia": "eq=saturation=.85,colorbalance=bs=.06", "diario": "eq=saturation=1.05:gamma=1.03", "leve": "eq=saturation=1.05:gamma=1.03",
     "vitoria": "eq=saturation=1.05:gamma=1.03", "filho": "eq=saturation=.95,colorbalance=rs=.05",
 }
@@ -113,7 +113,7 @@ for p, c, t0, d in linha:
         if tt:
             vf += f",drawtext=fontfile={FONTE}:text='{esc(tt[:60])}':x=(w-tw)/2:y=260:fontsize=56:fontcolor=0xffd36b:box=1:boxcolor=black@0.5:boxborderw=18"
         if p["tipo"] == "preto":
-            vf = "drawbox=c=black:t=fill"
+            src = ["-f", "lavfi", "-i", f"color=c=black:s={W}x{H}:r={FPS}"]; vf = "null"
     vf = ",".join(filter(None, [vf, grade, *fx, "noise=alls=8:allf=t", "vignette=PI/5", "format=yuv420p"]))
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", *src, "-vf", vf, "-frames:v", str(n), "-r", str(FPS),
                     "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-an", alvo], check=True)

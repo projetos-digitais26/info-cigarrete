@@ -31,12 +31,12 @@ Planos: `planos.json` (gerado a partir da decupagem `decupagem-pt-br.md`).
 
 | Fase | Look | Grade (ffmpeg) |
 |---|---|---|
-| uti, hospital | azul frio, verde hospitalar, dessaturado, grão forte, luz de monitor | `eq=saturation=.55:contrast=1.08,colorbalance=bs=.12:ms=.05,noise=alls=14:allf=t` |
+| uti, hospital | azul frio, verde hospitalar, dessaturado, grão forte, luz de monitor | `eq=saturation=.55:contrast=1.08,colorbalance=bs=.12:gm=.05,noise=alls=14:allf=t` |
 | silencio | preto / quase preto | — |
-| memoria, piano, ninar | quente âmbar, halation suave, grão médio, 24 fps de lembrança | `eq=saturation=.9,colorbalance=rs=.08:ms=.04,noise=alls=9:allf=t` |
+| memoria, piano, ninar | quente âmbar, halation suave, grão médio, 24 fps de lembrança | `eq=saturation=.9,colorbalance=rs=.08:gm=.04,noise=alls=9:allf=t` |
 | tensao, medo, pulso | contraste alto, sombras esmagadas, vermelho pontual | `eq=contrast=1.18:saturation=.8,vignette=PI/4` |
 | fogo (indústria/recaída) | laranja-preto, fumaça, chama como única luz | `eq=contrast=1.15,colorbalance=rh=.1:bs=-.05` |
-| gana | dourado, pôr do sol, cores vivas do kente, poeira no ar | `eq=saturation=1.15,colorbalance=rh=.06:mh=.04` |
+| gana | dourado, pôr do sol, cores vivas do kente, poeira no ar | `eq=saturation=1.15,colorbalance=rh=.06:gh=.04` |
 | ciencia | branco frio de tela, ciano, limpo | `eq=saturation=.85,colorbalance=bs=.06` |
 | diario, leve, vitoria | manhã quente, janela estourada, pele bonita | `eq=saturation=1.05:gamma=1.03` |
 | filho | quente íntimo, luz de abajur | `eq=saturation=.95,colorbalance=rs=.05` |

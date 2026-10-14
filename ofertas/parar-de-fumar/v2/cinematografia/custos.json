@@ -1,5 +1,5 @@
 {
- "total": 10.024,
+ "total": 14.756,
  "itens": [
   {
    "arquivo": "refs/MARCIA_44.png",
@@ -342,6 +342,102 @@
    "modelo": "fal-ai/nano-banana-2/edit",
    "usd": 0.08,
    "quando": "2026-10-14 18:08"
+  },
+  {
+   "arquivo": "clips/A07-1.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 18:08"
+  },
+  {
+   "arquivo": "clips/A09-1.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 18:08"
+  },
+  {
+   "arquivo": "kf/A10-4.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:08"
+  },
+  {
+   "arquivo": "clips/A09-2.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 18:08"
+  },
+  {
+   "arquivo": "kf/A10-5.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:09"
+  },
+  {
+   "arquivo": "kf/A10-6.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:09"
+  },
+  {
+   "arquivo": "clips/A10-2.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 18:09"
+  },
+  {
+   "arquivo": "clips/A10-1.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 18:09"
+  },
+  {
+   "arquivo": "kf/A11-1.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:09"
+  },
+  {
+   "arquivo": "kf/A11-2.png",
+   "modelo": "fal-ai/nano-banana",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:09"
+  },
+  {
+   "arquivo": "clips/A10-3.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 18:10"
+  },
+  {
+   "arquivo": "clips/A10-5.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 18:10"
+  },
+  {
+   "arquivo": "clips/A10-4.mp4",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.448,
+   "quando": "2026-10-14 18:10"
+  },
+  {
+   "arquivo": "clips/A10-6.mp4",
+   "modelo": "fal-ai/veo3.1/fast/image-to-video",
+   "usd": 0.4,
+   "quando": "2026-10-14 18:10"
+  },
+  {
+   "arquivo": "clips/A11-2.mp4",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.336,
+   "quando": "2026-10-14 18:11"
+  },
+  {
+   "arquivo": "clips/A11-1.mp4",
+   "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
+   "usd": 0.448,
+   "quando": "2026-10-14 18:11"
   }
  ]
 }
