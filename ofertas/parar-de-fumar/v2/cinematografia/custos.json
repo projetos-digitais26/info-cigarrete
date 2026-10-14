@@ -1,5 +1,5 @@
 {
- "total": 14.756,
+ "total": 15.616,
  "itens": [
   {
    "arquivo": "refs/MARCIA_44.png",
@@ -438,6 +438,30 @@
    "modelo": "fal-ai/kling-video/v3/pro/image-to-video",
    "usd": 0.448,
    "quando": "2026-10-14 18:11"
+  },
+  {
+   "arquivo": "kf/A05-2.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:48"
+  },
+  {
+   "arquivo": "kf/A04-5.png",
+   "modelo": "fal-ai/nano-banana-2/edit",
+   "usd": 0.08,
+   "quando": "2026-10-14 18:48"
+  },
+  {
+   "arquivo": "clips/A05-2.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 18:49"
+  },
+  {
+   "arquivo": "clips/A04-5.mp4",
+   "modelo": "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
+   "usd": 0.35,
+   "quando": "2026-10-14 18:49"
   }
  ]
 }

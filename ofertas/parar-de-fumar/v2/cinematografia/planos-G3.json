@@ -15,7 +15,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "o médico só de costas e fora de foco (personagem genérico, sem rosto); sai da serpente escura (C40) para o cinza do hospital"
+  "nota": "o médico só de costas e fora de foco (personagem genérico, sem rosto); sai da serpente escura (C40) para o cinza do hospital",
+  "modo": "still"
  },
  {
   "id": "C41-2",
@@ -33,7 +34,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C41-3",
@@ -48,7 +50,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "transição cinza frio → dourado; percussão africana entra"
+  "nota": "transição cinza frio → dourado; percussão africana entra",
+  "modo": "still"
  },
  {
   "id": "C42-1",
@@ -63,7 +66,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": "Mapa da África estilizado em traço dourado fino (#C9A24A) sobre véu escuro translúcido; desenha-se em 1 s; uma linha pontilhada curva sai do Brasil (borda esquerda) e cruza o Atlântico até a costa oeste, onde um ponto âmbar pulsa e acende com o rótulo GANA (Montserrat bold, creme #FFF3E0). Mapa ocupa 18%–58% da altura. FUNDO (broll Kling 2.5, EN): 'view through an airplane window at golden hour, a sea of clouds lit orange below, wing tip in frame, slow drift, no text'.",
-  "nota": "o rótulo GANA é do overlay, nunca do vídeo"
+  "nota": "o rótulo GANA é do overlay, nunca do vídeo",
+  "modo": "nenhum"
  },
  {
   "id": "C42-2",
@@ -81,7 +85,8 @@
   "quebra": "whip",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C42-3",
@@ -98,7 +103,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C43-1",
@@ -113,7 +119,8 @@
   "quebra": "whip",
   "texto_tela": null,
   "grafico": null,
-  "nota": "Gana moderna, vibrante e próspera"
+  "nota": "Gana moderna, vibrante e próspera",
+  "modo": "still"
  },
  {
   "id": "C43-2",
@@ -130,7 +137,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C43-3",
@@ -145,7 +153,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "retrato alegre e digno; sem clichê de pobreza"
+  "nota": "retrato alegre e digno; sem clichê de pobreza",
+  "modo": "still"
  },
  {
   "id": "C43-4",
@@ -160,7 +169,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C44-1",
@@ -177,7 +187,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "zoom_punch em 'a única'"
+  "nota": "zoom_punch em 'a única'",
+  "modo": "still"
  },
  {
   "id": "C44-2",
@@ -194,7 +205,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C45-1",
@@ -211,7 +223,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C45-2",
@@ -229,7 +242,8 @@
    "posicao": "topo"
   },
   "grafico": "Duas barras horizontais limpas, rótulos 'Brasil' e 'Gana' (Montserrat), crescem da esquerda em 0,8 s: Brasil cinza-claro, Gana dourada e visivelmente menor; percentuais só entram quando o dado for confirmado. Barras entre 30% e 55% da altura. FUNDO: plano aéreo dourado da costa (reusa C43-1) com desfoque gaussiano forte e vinheta.",
-  "nota": "[PROVA NECESSÁRIA: dado da OMS de prevalência de tabagismo em Gana e no Brasil] — sem número até confirmar"
+  "nota": "[PROVA NECESSÁRIA: dado da OMS de prevalência de tabagismo em Gana e no Brasil] — sem número até confirmar",
+  "modo": "nenhum"
  },
  {
   "id": "C46-1",
@@ -247,7 +261,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C46-2",
@@ -264,7 +279,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "zoom_punch em 'possível'"
+  "nota": "zoom_punch em 'possível'",
+  "modo": "still"
  },
  {
   "id": "C46-3",
@@ -281,7 +297,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C47-1",
@@ -296,7 +313,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "subjetiva da Márcia (não é o pov do espectador)"
+  "nota": "subjetiva da Márcia (não é o pov do espectador)",
+  "modo": "still"
  },
  {
   "id": "C47-2",
@@ -313,7 +331,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C47-3",
@@ -332,7 +351,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "rosto do Kwame só aparece na C48"
+  "nota": "rosto do Kwame só aparece na C48",
+  "modo": "still"
  },
  {
   "id": "C48-1",
@@ -352,7 +372,8 @@
    "posicao": "baixo"
   },
   "grafico": null,
-  "nota": "freeze de 0,6 s com o nome entrando (faixa 76–86%)"
+  "nota": "freeze de 0,6 s com o nome entrando (faixa 76–86%)",
+  "modo": "video"
  },
  {
   "id": "C48-2",
@@ -367,7 +388,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "ilustra 'o nome do dia em que nasceu'; ritual de nomeação, respeitoso; vilarejo ao entardecer → manhã do batizado"
+  "nota": "ilustra 'o nome do dia em que nasceu'; ritual de nomeação, respeitoso; vilarejo ao entardecer → manhã do batizado",
+  "modo": "video"
  },
  {
   "id": "C48-3",
@@ -384,7 +406,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C49-1",
@@ -401,7 +424,8 @@
   "quebra": "whip",
   "texto_tela": null,
   "grafico": null,
-  "nota": "chicote do Kwame para o contraplano dela"
+  "nota": "chicote do Kwame para o contraplano dela",
+  "modo": "video"
  },
  {
   "id": "C49-2",
@@ -418,7 +442,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C49-3",
@@ -435,7 +460,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "zoom_punch em 'acendeu'"
+  "nota": "zoom_punch em 'acendeu'",
+  "modo": "video"
  },
  {
   "id": "C50-1",
@@ -452,7 +478,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C50-2",
@@ -469,7 +496,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C50-3",
@@ -487,7 +515,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "primeira aparição dos FRASCOS (só um pote)"
+  "nota": "primeira aparição dos FRASCOS (só um pote)",
+  "modo": "video"
  },
  {
   "id": "C50-4",
@@ -504,7 +533,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C51-1",
@@ -522,7 +552,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "dourado → laranja-preto da fogueira; percussão some"
+  "nota": "dourado → laranja-preto da fogueira; percussão some",
+  "modo": "still"
  },
  {
   "id": "C51-2",
@@ -539,7 +570,8 @@
   "quebra": "flash_branco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "reusa take de C14 (isqueiro do pai), flash de memória com halation; flashes de memória de 1,2 s cada"
+  "nota": "reusa take de C14 (isqueiro do pai), flash de memória com halation; flashes de memória de 1,2 s cada",
+  "modo": "still"
  },
  {
   "id": "C51-3",
@@ -556,7 +588,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "reusa take de C28 (desenho)"
+  "nota": "reusa take de C28 (desenho)",
+  "modo": "still"
  },
  {
   "id": "C51-4",
@@ -574,7 +607,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "reusa take de A02 (UTI), grade frio"
+  "nota": "reusa take de A02 (UTI), grade frio",
+  "modo": "still"
  },
  {
   "id": "C51-5",
@@ -591,7 +625,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C52-1",
@@ -608,7 +643,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "plano-âncora (volta em C65)"
+  "nota": "plano-âncora (volta em C65)",
+  "modo": "still"
  },
  {
   "id": "C52-2",
@@ -625,7 +661,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "zoom_punch em 'qual cigarro'"
+  "nota": "zoom_punch em 'qual cigarro'",
+  "modo": "still"
  },
  {
   "id": "C53-1",
@@ -642,7 +679,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C54-1",
@@ -659,7 +697,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C54-2",
@@ -676,7 +715,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C55-1",
@@ -696,7 +736,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C55-2",
@@ -713,7 +754,8 @@
   "quebra": "flash_branco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "flash_branco em 'morde'"
+  "nota": "flash_branco em 'morde'",
+  "modo": "video"
  },
  {
   "id": "C55-3",
@@ -730,7 +772,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C56-1",
@@ -747,7 +790,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "anéis = cigarros do dia"
+  "nota": "anéis = cigarros do dia",
+  "modo": "still"
  },
  {
   "id": "C56-2",
@@ -764,7 +808,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C56-3",
@@ -781,7 +826,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "cabeça = o primeiro cigarro"
+  "nota": "cabeça = o primeiro cigarro",
+  "modo": "still"
  },
  {
   "id": "C57-1",
@@ -798,7 +844,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "animação escura → madrugada com brasas"
+  "nota": "animação escura → madrugada com brasas",
+  "modo": "still"
  },
  {
   "id": "C57-2",
@@ -815,7 +862,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C57-3",
@@ -833,7 +881,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "reusa take de A07 (cozinha, primeiro cigarro com café) — 'a comida mais gostosa'"
+  "nota": "reusa take de A07 (cozinha, primeiro cigarro com café) — 'a comida mais gostosa'",
+  "modo": "still"
  },
  {
   "id": "C57-4",
@@ -851,7 +900,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C58-1",
@@ -868,7 +918,8 @@
   "quebra": "flash_branco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "flash_branco em 'soco'"
+  "nota": "flash_branco em 'soco'",
+  "modo": "still"
  },
  {
   "id": "C58-2",
@@ -886,7 +937,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C58-3",
@@ -903,7 +955,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "reusa takes de C25 (montagem acelerada), cortes de 0,8 s"
+  "nota": "reusa takes de C25 (montagem acelerada), cortes de 0,8 s",
+  "modo": "still"
  },
  {
   "id": "C58-4",
@@ -920,7 +973,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "fogueira laranja → quarto azul da noite"
+  "nota": "fogueira laranja → quarto azul da noite",
+  "modo": "still"
  },
  {
   "id": "C58-5",
@@ -937,7 +991,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C59-1",
@@ -955,7 +1010,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C59-2",
@@ -972,7 +1028,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'um pouco a cada manhã, durante 14 dias'"
+  "nota": "'um pouco a cada manhã, durante 14 dias'",
+  "modo": "video"
  },
  {
   "id": "C59-3",
@@ -989,7 +1046,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C59-4",
@@ -1006,7 +1064,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "zoom_punch em 'brincadeira'"
+  "nota": "zoom_punch em 'brincadeira'",
+  "modo": "video"
  },
  {
   "id": "C60-1",
@@ -1025,7 +1084,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C60-2",
@@ -1042,7 +1102,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C61-1",
@@ -1059,7 +1120,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "fogo laranja → branco frio"
+  "nota": "fogo laranja → branco frio",
+  "modo": "still"
  },
  {
   "id": "C61-2",
@@ -1076,7 +1138,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C61-3",
@@ -1093,7 +1156,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C62-1",
@@ -1110,7 +1174,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "zoom_punch em 'arrepiada'"
+  "nota": "zoom_punch em 'arrepiada'",
+  "modo": "still"
  },
  {
   "id": "C62-2",
@@ -1127,7 +1192,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C62-3",
@@ -1142,7 +1208,8 @@
   "quebra": "glitch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "sem rosto, sem nome: não é médico real"
+  "nota": "sem rosto, sem nome: não é médico real",
+  "modo": "still"
  },
  {
   "id": "C62-4",
@@ -1157,7 +1224,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": "Overlay HTML em perspectiva sobre a área da tela: formulário clínico neutro (fundo branco, título genérico 'Teste de dependência de nicotina', linhas de perguntas em cinza); um marca-texto amarelo (#FFE14D) corre da esquerda para a direita sobre a 1ª pergunta. Tela entre 20% e 58% da altura. FUNDO (broll Kling, EN): 'a laptop screen glowing blank white in a dark room seen at a slight angle, the edge of a woman's silhouette in the foreground, slow push-in toward the screen, no text'.",
-  "nota": "[PROVA NECESSÁRIA: teste de Fagerström — reproduzir a pergunta oficial]"
+  "nota": "[PROVA NECESSÁRIA: teste de Fagerström — reproduzir a pergunta oficial]",
+  "modo": "nenhum"
  },
  {
   "id": "C62-5",
@@ -1175,7 +1243,8 @@
    "posicao": "centro"
   },
   "grafico": "Continuação: zoom-in contínuo no overlay até a pergunta destacada encher a largura; marca-texto amarelo #FFE14D, texto grafite; leve aberração cromática nas bordas. FUNDO: mesmo take do plano anterior (reusa C62-4), mais desfocado.",
-  "nota": "zoom_punch em 'exatamente esta'"
+  "nota": "zoom_punch em 'exatamente esta'",
+  "modo": "nenhum"
  },
  {
   "id": "C63-1",
@@ -1192,7 +1261,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C63-2",
@@ -1210,7 +1280,8 @@
   "quebra": "split",
   "texto_tela": null,
   "grafico": null,
-  "nota": "reusa C48-1 (Kwame, metade esquerda) + C63-1 (Márcia, metade direita); duas faixas de 540 px recortadas no rosto, rostos entre 25% e 45% da altura — 'a ciência e um velho… a mesma coisa'"
+  "nota": "reusa C48-1 (Kwame, metade esquerda) + C63-1 (Márcia, metade direita); duas faixas de 540 px recortadas no rosto, rostos entre 25% e 45% da altura — 'a ciência e um velho… a mesma coisa'",
+  "modo": "still"
  },
  {
   "id": "C63-3",
@@ -1225,7 +1296,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C64-1",
@@ -1240,7 +1312,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": "Gráfico de linha limpo (ciano #5CE1E6, traço 6 px, véu escuro 55%): eixo do tempo 22h → 7h com ícone de lua; a linha 'nicotina no corpo' desce suavemente durante a noite. Área do gráfico 22%–58% da altura. FUNDO (broll Kling, EN): 'a dark bedroom at night, a woman asleep under a blanket seen from the side, moonlight through the curtains, very slow push-in, no text'.",
-  "nota": "[PROVA NECESSÁRIA: fonte sobre a queda da nicotina durante a noite]"
+  "nota": "[PROVA NECESSÁRIA: fonte sobre a queda da nicotina durante a noite]",
+  "modo": "nenhum"
  },
  {
   "id": "C64-2",
@@ -1258,7 +1331,8 @@
    "posicao": "topo"
   },
   "grafico": "A linha chega ao mínimo ao amanhecer; marcador vermelho pulsando no ponto mais baixo; ícone de sol nasce na borda direita. FUNDO (broll Kling, EN): 'the same bedroom at dawn, first sunlight on the pillow, the woman opening her eyes, slow push-in, no text'.",
-  "nota": null
+  "nota": null,
+  "modo": "nenhum"
  },
  {
   "id": "C64-3",
@@ -1276,7 +1350,8 @@
    "posicao": "topo"
   },
   "grafico": "Primeiro cigarro: a linha dispara num pico enorme (brilho laranja-dourado, partículas), depois se estabiliza mais alta para o resto do dia ('recarrega'). FUNDO (acao Kling, EN): 'macro of a lighter flame igniting the tip of a cigarette in a dim morning kitchen, ember flaring, slow motion, no text'.",
-  "nota": "zoom_punch no pico ('alívio enorme')"
+  "nota": "zoom_punch no pico ('alívio enorme')",
+  "modo": "nenhum"
  },
  {
   "id": "C65-1",
@@ -1293,7 +1368,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": "Overlay: a mesma curva ciano do C64 alinhada ao rastro de luz, com o pico marcado",
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C65-2",
@@ -1310,7 +1386,8 @@
   "quebra": "flash_branco",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C65-3",
@@ -1327,7 +1404,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "reusa C52-1 (Kwame assentindo), com corte_seco do ciano para o laranja"
+  "nota": "reusa C52-1 (Kwame assentindo), com corte_seco do ciano para o laranja",
+  "modo": "still"
  },
  {
   "id": "C65-4",
@@ -1344,7 +1422,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C66-1",
@@ -1362,7 +1441,8 @@
    "posicao": "centro"
   },
   "grafico": "Três cartões verticais empilhados (preto fosco, borda e numeral dourados #C9A24A, título em Montserrat bold creme) entram de costas entre 20% e 58% da altura; o cartão 1 vira (flip 3D, 0,4 s) com um 'tum' grave, depois o cartão 2. FUNDO (broll Kling, EN): 'slow-drifting smoke and floating gold dust particles on a deep black background, gentle light rays, no text'.",
-  "nota": "o 🅣 está nos cartões"
+  "nota": "o 🅣 está nos cartões",
+  "modo": "nenhum"
  },
  {
   "id": "C66-2",
@@ -1380,7 +1460,8 @@
    "posicao": "centro"
   },
   "grafico": "Cartão 3 vira com 'tum'; um brilho dourado varre os três da esquerda para a direita; leve push-in. FUNDO: continuação (reusa C66-1).",
-  "nota": null
+  "nota": null,
+  "modo": "nenhum"
  },
  {
   "id": "C67-1",
@@ -1398,7 +1479,8 @@
    "posicao": "topo"
   },
   "grafico": "O cartão 1 cresce para a tela cheia; dentro, um relógio em traço dourado (sem números) cujo ponteiro avança um passo a cada 'dia' (marcadores D1, D2, D3… pequenos), com um tique por passo. FUNDO: reusa C66-1 (fumaça e poeira dourada).",
-  "nota": null
+  "nota": null,
+  "modo": "nenhum"
  },
  {
   "id": "C67-2",
@@ -1416,7 +1498,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C67-3",
@@ -1433,7 +1516,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "relógio sem números (nada de texto no vídeo); plano-âncora, volta em C74"
+  "nota": "relógio sem números (nada de texto no vídeo); plano-âncora, volta em C74",
+  "modo": "still"
  },
  {
   "id": "C67-4",
@@ -1451,7 +1535,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C68-1",
@@ -1469,7 +1554,8 @@
    "posicao": "topo"
   },
   "grafico": "Cartão 2 em tela cheia, translúcido: numeral 2 dourado e um traço dourado que corta um ícone de cigarro ao meio, sincronizado com a quebra no fundo. FUNDO (acao Kling, EN): 'extreme macro of a cigarette held between two fingers being snapped in half in slow motion, tobacco flakes and ash falling, dark background, single warm rim light, no text'.",
-  "nota": null
+  "nota": null,
+  "modo": "nenhum"
  },
  {
   "id": "C68-2",
@@ -1487,7 +1573,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C68-3",
@@ -1502,7 +1589,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'o cérebro perde o interesse' — ilustrativo, sem dado"
+  "nota": "'o cérebro perde o interesse' — ilustrativo, sem dado",
+  "modo": "still"
  },
  {
   "id": "C69-1",
@@ -1520,7 +1608,8 @@
    "posicao": "topo"
   },
   "grafico": "Cartão 3 em tela cheia, translúcido: numeral 3 dourado e ícone de dois frascos cuja tampa fecha com um 'clique' dourado. FUNDO (acao Kling, EN): 'two small glass jars with cork lids on rustic wood in a dark room, one with cigarette halves and coarse salt, the other with black peppercorns and coarse salt, a single warm light beam, dust floating, slow push-in, no text'.",
-  "nota": null
+  "nota": null,
+  "modo": "nenhum"
  },
  {
   "id": "C69-2",
@@ -1538,7 +1627,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C69-3",
@@ -1555,7 +1645,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C69-4",
@@ -1572,7 +1663,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "escuro premium → luz de abajur"
+  "nota": "escuro premium → luz de abajur",
+  "modo": "still"
  },
  {
   "id": "C69-5",
@@ -1589,7 +1681,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C69-6",
@@ -1607,7 +1700,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'você consegue fazer todos os dias'"
+  "nota": "'você consegue fazer todos os dias'",
+  "modo": "still"
  },
  {
   "id": "C70-1",
@@ -1627,7 +1721,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "escuro premium → manhã quente; voz da narradora no presente"
+  "nota": "escuro premium → manhã quente; voz da narradora no presente",
+  "modo": "still"
  },
  {
   "id": "C70-2",
@@ -1645,7 +1740,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'você começa fumando'"
+  "nota": "'você começa fumando'",
+  "modo": "still"
  },
  {
   "id": "C70-3",
@@ -1662,7 +1758,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "reusa C70-1 (recorte 120%, outro trecho do take)"
+  "nota": "reusa C70-1 (recorte 120%, outro trecho do take)",
+  "modo": "still"
  },
  {
   "id": "C71-1",
@@ -1677,7 +1774,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": "Calendário minimalista (papel creme, grade de 15 dias, números em Montserrat grafite) entre 20% e 58% da altura; um círculo de caneta vermelha se desenha à mão em volta do dia 1 (traço animado, 0,8 s). FUNDO (broll Kling, EN): 'a plain cream kitchen wall in soft dawn light, gentle moving shadow of a window frame, slow push-in, no text'.",
-  "nota": null
+  "nota": null,
+  "modo": "nenhum"
  },
  {
   "id": "C71-2",
@@ -1695,7 +1793,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "zoom_punch em 'não acreditei'"
+  "nota": "zoom_punch em 'não acreditei'",
+  "modo": "still"
  },
  {
   "id": "C71-3",
@@ -1713,7 +1812,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C72-1",
@@ -1731,7 +1831,8 @@
   "quebra": "preto",
   "texto_tela": null,
   "grafico": "Overlay: 'Dia 1' manuscrito em azul caneta se desenhando (traço animado, fonte manuscrita) na área limpa da página; câmera travada para o overlay assentar.",
-  "nota": "plano-âncora do diário (volta com outro dia em C73, C75, C77); 6 quadros de preto abrindo o diário"
+  "nota": "plano-âncora do diário (volta com outro dia em C73, C75, C77); 6 quadros de preto abrindo o diário",
+  "modo": "still"
  },
  {
   "id": "C72-2",
@@ -1749,7 +1850,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C72-3",
@@ -1767,7 +1869,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "zoom_punch em 'a vontade estava lá'"
+  "nota": "zoom_punch em 'a vontade estava lá'",
+  "modo": "still"
  },
  {
   "id": "C72-4",
@@ -1785,7 +1888,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C73-1",
@@ -1802,7 +1906,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": "Overlay: 'Dia 3' manuscrito se desenhando.",
-  "nota": "reusa C72-1 (outro trecho do take), overlay 'Dia 3'"
+  "nota": "reusa C72-1 (outro trecho do take), overlay 'Dia 3'",
+  "modo": "still"
  },
  {
   "id": "C73-2",
@@ -1820,7 +1925,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "reusa take de C36 (grito com a Sofia), grade frio e dessaturado"
+  "nota": "reusa take de C36 (grito com a Sofia), grade frio e dessaturado",
+  "modo": "still"
  },
  {
   "id": "C73-3",
@@ -1839,7 +1945,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C73-4",
@@ -1857,7 +1964,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C74-1",
@@ -1875,7 +1983,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": "Overlay: 'Dia 5' manuscrito se desenhando.",
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C74-2",
@@ -1892,7 +2001,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C74-3",
@@ -1909,7 +2019,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "mesmo enquadramento do relógio de C67-3"
+  "nota": "mesmo enquadramento do relógio de C67-3",
+  "modo": "still"
  },
  {
   "id": "C74-4",
@@ -1926,7 +2037,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C74-5",
@@ -1943,7 +2055,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "escritório claro → serpente no escuro"
+  "nota": "escritório claro → serpente no escuro",
+  "modo": "still"
  },
  {
   "id": "C75-1",
@@ -1960,7 +2073,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": "Overlay: 'Dia 8' manuscrito se desenhando.",
-  "nota": "reusa C72-1, overlay 'Dia 8'"
+  "nota": "reusa C72-1, overlay 'Dia 8'",
+  "modo": "still"
  },
  {
   "id": "C75-2",
@@ -1978,7 +2092,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "câmera lenta no salto que volta ao tempo real no abraço"
+  "nota": "câmera lenta no salto que volta ao tempo real no abraço",
+  "modo": "still"
  },
  {
   "id": "C75-3",
@@ -1996,7 +2111,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C75-4",
@@ -2013,7 +2129,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C76-1",
@@ -2028,7 +2145,8 @@
   "quebra": "preto",
   "texto_tela": null,
   "grafico": null,
-  "nota": "~15 quadros de preto com o silêncio de 1 s"
+  "nota": "~15 quadros de preto com o silêncio de 1 s",
+  "modo": "nenhum"
  },
  {
   "id": "C76-2",
@@ -2045,7 +2163,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C76-3",
@@ -2062,7 +2181,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C77-1",
@@ -2079,7 +2199,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": "Overlay: 'Dia 11' manuscrito se desenhando.",
-  "nota": "reusa C72-1, overlay 'Dia 11'"
+  "nota": "reusa C72-1, overlay 'Dia 11'",
+  "modo": "still"
  },
  {
   "id": "C77-2",
@@ -2096,7 +2217,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C77-3",
@@ -2111,7 +2233,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'a vontade estava ficando… pequena'"
+  "nota": "'a vontade estava ficando… pequena'",
+  "modo": "still"
  },
  {
   "id": "C78-1",
@@ -2129,7 +2252,8 @@
   "quebra": "match_cut",
   "texto_tela": null,
   "grafico": "Overlay pequeno manuscrito 'Dia 15' (azul caneta) no topo, 8%–14% da altura.",
-  "nota": "match_cut com A07: mesma lente, altura e enquadramento; a música para"
+  "nota": "match_cut com A07: mesma lente, altura e enquadramento; a música para",
+  "modo": "video"
  },
  {
   "id": "C78-2",
@@ -2147,7 +2271,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C78-3",
@@ -2165,7 +2290,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "desacelera no 'eu percebi'"
+  "nota": "desacelera no 'eu percebi'",
+  "modo": "video"
  },
  {
   "id": "C79-1",
@@ -2186,7 +2312,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C79-2",
@@ -2207,7 +2334,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "o 🅣 atravessa os dois planos (3,7 s); freeze 0,5 s no isqueiro"
+  "nota": "o 🅣 atravessa os dois planos (3,7 s); freeze 0,5 s no isqueiro",
+  "modo": "video"
  },
  {
   "id": "C80-1",
@@ -2225,7 +2353,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C80-2",
@@ -2242,7 +2371,8 @@
   "quebra": "whip",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C80-3",
@@ -2261,7 +2391,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C81-1",
@@ -2279,7 +2410,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C81-2",
@@ -2296,6 +2428,7 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "plano-âncora para C109 (mesmo take)"
+  "nota": "plano-âncora para C109 (mesmo take)",
+  "modo": "still"
  }
 ]

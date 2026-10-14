@@ -12,7 +12,8 @@
   "quebra": "preto",
   "texto_tela": null,
   "grafico": null,
-  "nota": "abre no preto; o espectador ouve antes de ver"
+  "nota": "abre no preto; o espectador ouve antes de ver",
+  "modo": "nenhum"
  },
  {
   "id": "A01-2",
@@ -31,7 +32,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "plano-âncora das mãos (match cut com A08 e C18)"
+  "nota": "plano-âncora das mãos (match cut com A08 e C18)",
+  "modo": "video"
  },
  {
   "id": "A01-3",
@@ -49,7 +51,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'fica mais um pouquinho' — ternura antes do choque"
+  "nota": "'fica mais um pouquinho' — ternura antes do choque",
+  "modo": "video"
  },
  {
   "id": "A02-1",
@@ -67,7 +70,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "A02-2",
@@ -84,7 +88,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'antes de apagar' — o olho fecha no fim do plano"
+  "nota": "'antes de apagar' — o olho fecha no fim do plano",
+  "modo": "video"
  },
  {
   "id": "A03-1",
@@ -103,7 +108,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "A03-2",
@@ -120,7 +126,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "🔁 do roteiro: câmera lenta que acelera no impacto da lágrima"
+  "nota": "🔁 do roteiro: câmera lenta que acelera no impacto da lágrima",
+  "modo": "video"
  },
  {
   "id": "A04-1",
@@ -137,7 +144,8 @@
   "quebra": "flash_branco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Eu tinha 43 anos' — flash branco + impacto grave no alarme"
+  "nota": "'Eu tinha 43 anos' — flash branco + impacto grave no alarme",
+  "modo": "video"
  },
  {
   "id": "A04-2",
@@ -155,7 +163,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'coração falhando e o pulmão sem força'"
+  "nota": "'coração falhando e o pulmão sem força'",
+  "modo": "video"
  },
  {
   "id": "A04-3",
@@ -172,7 +181,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'respirar sozinho' — a máquina respira por ela"
+  "nota": "'respirar sozinho' — a máquina respira por ela",
+  "modo": "video"
  },
  {
   "id": "A04-4",
@@ -181,16 +191,16 @@
   "peso": 0.22,
   "tipo": "hero",
   "refs": [
-   "SOFIA_9",
    "UTI"
   ],
   "enquadramento": "plano médio: enfermeiras entram correndo, uma enfermeira (sem rosto definido, de costas) puxa a menina pelo ombro; rosto da menina em ~30%",
-  "keyframe_prompt": "Hospital ICU room at night under red alarm light, two nurses in blue scrubs hurrying to the bed; one nurse kindly guides the patient's young daughter toward the door with a hand on her back, the girl looking back at the bed with worried, tearful eyes. Vertical 9:16 composition, the girl's face at about 30% of the frame height, motion blur on the nurses. Cold blue-green hospital light, desaturated, film grain. Cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Hospital ICU room at night under red alarm light, seen from the bed: two nurses in blue scrubs hurrying in, a young girl with curly hair in two puffs and a yellow t-shirt seen from behind being walked out of the door by a nurse. Vertical 9:16 composition, the door at about 30% of the frame height, motion blur. Cold blue-green hospital light, desaturated, film grain. Cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "the nurse pulls the girl backward toward the door while she reaches back; fast handheld follow",
   "quebra": "whip",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'levada pra fora do quarto por uma enfermeira' · prompt suavizado (moderação)"
+  "nota": "'levada pra fora do quarto por uma enfermeira' · prompt suavizado (moderação)",
+  "modo": "video"
  },
  {
   "id": "A04-5",
@@ -208,7 +218,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'gritando o meu nome' — ecoa o enquadramento de A01-2 · prompt suavizado (moderação)"
+  "nota": "'gritando o meu nome' — ecoa o enquadramento de A01-2 · prompt suavizado (moderação)",
+  "modo": "video"
  },
  {
   "id": "A05-1",
@@ -217,15 +228,16 @@
   "peso": 0.5,
   "tipo": "hero",
   "refs": [
-   "SOFIA_9"
+   "UTI"
   ],
   "enquadramento": "corredor do hospital, do lado de fora: rosto da menina colado no vidro da porta, chorando; rosto entre 22% e 45%",
-  "keyframe_prompt": "Seen from inside a hospital room through the small window of the door: a young girl in the corridor looking in, worried and tearful, both hands on the glass, calling for her mother. Vertical 9:16 composition, her face between 20% and 45% of the frame height. Cold blue-green hospital light, desaturated, film grain. Cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "Hospital corridor seen through the small glass window of a door: the silhouette of a young girl with curly hair in two puffs, back-lit by fluorescent light, hands on the glass, her face soft and out of focus. Vertical 9:16 composition, the window between 20% and 45% of the frame height. Cold blue-green hospital light, desaturated, film grain. Cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "she bangs gently on the glass and her breath fogs it; slight handheld push-in",
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "🔁 do roteiro: corte seco do quarto vermelho para o corredor verde-frio · prompt suavizado (moderação)"
+  "nota": "🔁 do roteiro: corte seco do quarto vermelho para o corredor verde-frio · prompt suavizado (moderação)",
+  "modo": "video"
  },
  {
   "id": "A05-2",
@@ -242,7 +254,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Mamãe! Mamãe!' · prompt suavizado (moderação)"
+  "nota": "'Mamãe! Mamãe!' · prompt suavizado (moderação)",
+  "modo": "video"
  },
  {
   "id": "A06-1",
@@ -257,7 +270,8 @@
   "quebra": "preto",
   "texto_tela": null,
   "grafico": null,
-  "nota": "silêncio absoluto antes da pergunta"
+  "nota": "silêncio absoluto antes da pergunta",
+  "modo": "nenhum"
  },
  {
   "id": "A06-2",
@@ -274,7 +288,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'qual foi o último pensamento'"
+  "nota": "'qual foi o último pensamento'",
+  "modo": "video"
  },
  {
   "id": "A06-3",
@@ -291,7 +306,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Não foi medo de morrer' — prepara o flash quente de A07"
+  "nota": "'Não foi medo de morrer' — prepara o flash quente de A07",
+  "modo": "video"
  },
  {
   "id": "A07-1",
@@ -308,7 +324,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "flash de memória: do preto-azul para o âmbar; plano-âncora COZINHA (mesma câmera em C78/C83c)"
+  "nota": "flash de memória: do preto-azul para o âmbar; plano-âncora COZINHA (mesma câmera em C78/C83c)",
+  "modo": "video"
  },
  {
   "id": "A07-2",
@@ -326,7 +343,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Uma xícara de café'"
+  "nota": "'Uma xícara de café'",
+  "modo": "video"
  },
  {
   "id": "A07-3",
@@ -343,7 +361,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'E um cigarro' — maço sem marca"
+  "nota": "'E um cigarro' — maço sem marca",
+  "modo": "video"
  },
  {
   "id": "A07-4",
@@ -361,7 +380,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'O primeiro cigarro do dia' — clique do isqueiro bem nítido; zoom_punch no 'primeiro'"
+  "nota": "'O primeiro cigarro do dia' — clique do isqueiro bem nítido; zoom_punch no 'primeiro'",
+  "modo": "video"
  },
  {
   "id": "A08-1",
@@ -379,7 +399,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'quase sem forças, eu entendi tudo' — corte seco do âmbar de volta ao azul"
+  "nota": "'quase sem forças, eu entendi tudo' — corte seco do âmbar de volta ao azul",
+  "modo": "video"
  },
  {
   "id": "A08-2",
@@ -397,7 +418,8 @@
   "quebra": "match_cut",
   "texto_tela": null,
   "grafico": null,
-  "nota": "match cut com A01-2 (mesma câmera, sem a mãozinha); '19 anos'"
+  "nota": "match cut com A01-2 (mesma câmera, sem a mãozinha); '19 anos'",
+  "modo": "video"
  },
  {
   "id": "A08-3",
@@ -414,7 +436,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'aquele primeiro cigarro, lá atrás' — insert quente de 2–3 s"
+  "nota": "'aquele primeiro cigarro, lá atrás' — insert quente de 2–3 s",
+  "modo": "video"
  },
  {
   "id": "A08-4",
@@ -423,15 +446,16 @@
   "peso": 0.2,
   "tipo": "hero",
   "refs": [
-   "SOFIA_9"
+   "UTI"
   ],
   "enquadramento": "corredor: menina sentada no chão encostada na parede, abraçando os joelhos, chorando; rosto em ~35%",
-  "keyframe_prompt": "A young girl sitting on the floor of a hospital corridor against the wall, hugging her knees, sad and waiting, cold fluorescent light. Vertical 9:16 composition, her face at about 35% of the frame height. Cold blue-green hospital light, desaturated, film grain. Cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
+  "keyframe_prompt": "A young girl with curly hair in two puffs and a yellow t-shirt sitting on a hospital corridor floor against the wall, seen from the side at a distance, head down on her knees, waiting. Vertical 9:16 composition, the girl at about 35% of the frame height. Cold blue-green hospital light, desaturated, film grain. Cinematic still, 35mm film, shallow depth of field, photorealistic, no text, no logos.",
   "motion_prompt": "she wipes her eyes with the back of her hand and sobs; slow push-in at her eye level",
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'a minha filha não estaria chorando' · prompt suavizado (moderação)"
+  "nota": "'a minha filha não estaria chorando' · prompt suavizado (moderação)",
+  "modo": "video"
  },
  {
   "id": "A08-5",
@@ -448,7 +472,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'no corredor de um hospital' — solidão · prompt suavizado (moderação)"
+  "nota": "'no corredor de um hospital' — solidão · prompt suavizado (moderação)",
+  "modo": "video"
  },
  {
   "id": "A09-1",
@@ -465,7 +490,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "corte seco frio→quente; entra o piano; 'Eu sobrevivi'"
+  "nota": "corte seco frio→quente; entra o piano; 'Eu sobrevivi'",
+  "modo": "video"
  },
  {
   "id": "A09-2",
@@ -482,7 +508,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'E é por isso que eu estou aqui'"
+  "nota": "'E é por isso que eu estou aqui'",
+  "modo": "video"
  },
  {
   "id": "A10-1",
@@ -499,7 +526,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Eu não vou te pedir pra parar de fumar hoje. Nem amanhã.'"
+  "nota": "'Eu não vou te pedir pra parar de fumar hoje. Nem amanhã.'",
+  "modo": "video"
  },
  {
   "id": "A10-2",
@@ -516,7 +544,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'o que eu descobri depois daquela noite'"
+  "nota": "'o que eu descobri depois daquela noite'",
+  "modo": "video"
  },
  {
   "id": "A10-3",
@@ -536,7 +565,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "zoom_punch em 'presente'; 🅣 no topo, 6–18%"
+  "nota": "zoom_punch em 'presente'; 🅣 no topo, 6–18%",
+  "modo": "video"
  },
  {
   "id": "A10-4",
@@ -551,7 +581,8 @@
   "quebra": "pov",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'talvez você tenha parado neste vídeo' — o espectador se vê"
+  "nota": "'talvez você tenha parado neste vídeo' — o espectador se vê",
+  "modo": "video"
  },
  {
   "id": "A10-5",
@@ -568,7 +599,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'pra que o seu fim não seja aquele' — flash frio de 3 s"
+  "nota": "'pra que o seu fim não seja aquele' — flash frio de 3 s",
+  "modo": "video"
  },
  {
   "id": "A10-6",
@@ -585,7 +617,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'que quase foi o meu'"
+  "nota": "'que quase foi o meu'",
+  "modo": "video"
  },
  {
   "id": "A11-1",
@@ -602,7 +635,8 @@
   "quebra": "match_cut",
   "texto_tela": null,
   "grafico": null,
-  "nota": "match cut com A07-4 (mesmo gesto, agora 'você'); look de tensão"
+  "nota": "match cut com A07-4 (mesmo gesto, agora 'você'); look de tensão",
+  "modo": "video"
  },
  {
   "id": "A11-2",
@@ -617,7 +651,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'aquele junto com o café'"
+  "nota": "'aquele junto com o café'",
+  "modo": "video"
  },
  {
   "id": "A11-3",
@@ -632,7 +667,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'uma coisa simples com ele'"
+  "nota": "'uma coisa simples com ele'",
+  "modo": "video"
  },
  {
   "id": "A11-4",
@@ -649,7 +685,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'é nesse cigarro, o primeiro, que mora a cabeça do seu vício' — sibilo baixo"
+  "nota": "'é nesse cigarro, o primeiro, que mora a cabeça do seu vício' — sibilo baixo",
+  "modo": "video"
  },
  {
   "id": "A11-5",
@@ -666,7 +703,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Todos os outros dependem dele' — zoom_punch no 'dependem'"
+  "nota": "'Todos os outros dependem dele' — zoom_punch no 'dependem'",
+  "modo": "video"
  },
  {
   "id": "A12-1",
@@ -683,7 +721,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'mexer nesse primeiro cigarro do jeito certo'"
+  "nota": "'mexer nesse primeiro cigarro do jeito certo'",
+  "modo": "still"
  },
  {
   "id": "A12-2",
@@ -701,7 +740,8 @@
    "posicao": "centro"
   },
   "grafico": "calendário de 15 quadradinhos em grade 5×3 sobre fundo de vídeo da cozinha desfocada (A12-1 em blur). Cada dia é riscado com traço de caneta azul em ~0,2 s; a luz do fundo esquenta do azul-frio ao âmbar a cada dia. '14 DIAS' entra no centro (branco, contorno escuro) com zoom_punch no fim. Nada na faixa 62–72%.",
-  "nota": "'durante 14 dias' — sem número dentro do vídeo de IA"
+  "nota": "'durante 14 dias' — sem número dentro do vídeo de IA",
+  "modo": "nenhum"
  },
  {
   "id": "A12-3",
@@ -716,7 +756,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'a vontade vai perdendo força'"
+  "nota": "'a vontade vai perdendo força'",
+  "modo": "still"
  },
  {
   "id": "A12-4",
@@ -734,7 +775,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'numa manhã qualquer, você termina o seu café'"
+  "nota": "'numa manhã qualquer, você termina o seu café'",
+  "modo": "still"
  },
  {
   "id": "A12-5",
@@ -751,7 +793,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'percebe que esqueceu de fumar' — fecha a 🎬 do roteiro"
+  "nota": "'percebe que esqueceu de fumar' — fecha a 🎬 do roteiro",
+  "modo": "still"
  },
  {
   "id": "A12-6",
@@ -768,7 +811,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Sem adesivo. Sem remédio. Sem a guerra' — leveza"
+  "nota": "'Sem adesivo. Sem remédio. Sem a guerra' — leveza",
+  "modo": "still"
  },
  {
   "id": "A13-1",
@@ -785,7 +829,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Meu nome é Márcia'"
+  "nota": "'Meu nome é Márcia'",
+  "modo": "still"
  },
  {
   "id": "A13-2",
@@ -803,7 +848,8 @@
   "quebra": "whip",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'um velho, do outro lado do mundo' — primeira aparição do Kwame (🔓 para o Bloco 6)"
+  "nota": "'um velho, do outro lado do mundo' — primeira aparição do Kwame (🔓 para o Bloco 6)",
+  "modo": "still"
  },
  {
   "id": "A13-3",
@@ -820,7 +866,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'num lugar onde quase ninguém fuma'"
+  "nota": "'num lugar onde quase ninguém fuma'",
+  "modo": "still"
  },
  {
   "id": "A13-4",
@@ -840,7 +887,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "'a ciência confirma que ele estava certo' — título no topo"
+  "nota": "'a ciência confirma que ele estava certo' — título no topo",
+  "modo": "still"
  },
  {
   "id": "A14-1",
@@ -860,7 +908,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "🔓 do roteiro"
+  "nota": "🔓 do roteiro",
+  "modo": "still"
  },
  {
   "id": "A14-2",
@@ -875,7 +924,8 @@
   "quebra": "glitch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'muita gente ganhando dinheiro' — glitch curto na entrada (bloco indústria)"
+  "nota": "'muita gente ganhando dinheiro' — glitch curto na entrada (bloco indústria)",
+  "modo": "still"
  },
  {
   "id": "A14-3",
@@ -890,7 +940,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'todos os dias com o seu vício'"
+  "nota": "'todos os dias com o seu vício'",
+  "modo": "still"
  },
  {
   "id": "A14-4",
@@ -907,7 +958,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'não sei por quanto tempo este vídeo vai continuar no ar'"
+  "nota": "'não sei por quanto tempo este vídeo vai continuar no ar'",
+  "modo": "still"
  },
  {
   "id": "C09-1",
@@ -922,7 +974,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "montagem de fumantes — '5 anos'"
+  "nota": "montagem de fumantes — '5 anos'",
+  "modo": "still"
  },
  {
   "id": "C09-2",
@@ -937,7 +990,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'10'"
+  "nota": "'10'",
+  "modo": "still"
  },
  {
   "id": "C09-3",
@@ -952,7 +1006,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'20'"
+  "nota": "'20'",
+  "modo": "still"
  },
  {
   "id": "C09-4",
@@ -967,7 +1022,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'ou 40 anos'"
+  "nota": "'ou 40 anos'",
+  "modo": "still"
  },
  {
   "id": "C09-5",
@@ -982,7 +1038,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'meio maço ou dois por dia'"
+  "nota": "'meio maço ou dois por dia'",
+  "modo": "still"
  },
  {
   "id": "C09-6",
@@ -997,7 +1054,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'tentou parar e voltou, uma, duas, dez vezes'"
+  "nota": "'tentou parar e voltou, uma, duas, dez vezes'",
+  "modo": "still"
  },
  {
   "id": "C09-7",
@@ -1014,7 +1072,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'este vídeo é pra você' — zoom_punch em 'você'"
+  "nota": "'este vídeo é pra você' — zoom_punch em 'você'",
+  "modo": "still"
  },
  {
   "id": "C10-1",
@@ -1029,7 +1088,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'três dias sem fumar' — mesma pessoa nos 4 planos"
+  "nota": "'três dias sem fumar' — mesma pessoa nos 4 planos",
+  "modo": "still"
  },
  {
   "id": "C10-2",
@@ -1044,7 +1104,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'com a cabeça explodindo' — look de tensão"
+  "nota": "'com a cabeça explodindo' — look de tensão",
+  "modo": "still"
  },
  {
   "id": "C10-3",
@@ -1059,7 +1120,8 @@
   "quebra": "match_cut",
   "texto_tela": null,
   "grafico": null,
-  "nota": "🔁 do roteiro: match cut com C10-1 (dia → noite) + speed_ramp na saída do maço"
+  "nota": "🔁 do roteiro: match cut com C10-1 (dia → noite) + speed_ramp na saída do maço",
+  "modo": "still"
  },
  {
   "id": "C10-4",
@@ -1074,7 +1136,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'sentindo que tinha falhado de novo'"
+  "nota": "'sentindo que tinha falhado de novo'",
+  "modo": "still"
  },
  {
   "id": "C11-1",
@@ -1091,7 +1154,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'uma coisa que ninguém te disse'"
+  "nota": "'uma coisa que ninguém te disse'",
+  "modo": "still"
  },
  {
   "id": "C11-2",
@@ -1111,7 +1175,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "zoom_punch em 'fraqueza'; 🅣 entra no topo"
+  "nota": "zoom_punch em 'fraqueza'; 🅣 entra no topo",
+  "modo": "still"
  },
  {
   "id": "C11-3",
@@ -1126,7 +1191,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'você só começou a luta pelo lado errado' — força bruta = lado errado"
+  "nota": "'você só começou a luta pelo lado errado' — força bruta = lado errado",
+  "modo": "still"
  },
  {
   "id": "C11-4",
@@ -1143,7 +1209,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'até o final deste vídeo você vai entender'"
+  "nota": "'até o final deste vídeo você vai entender'",
+  "modo": "still"
  },
  {
   "id": "C12-1",
@@ -1160,7 +1227,8 @@
   "quebra": "pov",
   "texto_tela": null,
   "grafico": null,
-  "nota": "🔓 do roteiro: o acordo com o espectador"
+  "nota": "🔓 do roteiro: o acordo com o espectador",
+  "modo": "still"
  },
  {
   "id": "C12-2",
@@ -1177,7 +1245,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'como eu cheguei naquela UTI'"
+  "nota": "'como eu cheguei naquela UTI'",
+  "modo": "still"
  },
  {
   "id": "C12-3",
@@ -1195,7 +1264,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'com o meu pai' — apresenta o ISQUEIRO"
+  "nota": "'com o meu pai' — apresenta o ISQUEIRO",
+  "modo": "still"
  },
  {
   "id": "C13-1",
@@ -1210,7 +1280,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Meu pai fumou a vida inteira' — bip ao fundo"
+  "nota": "'Meu pai fumou a vida inteira' — bip ao fundo",
+  "modo": "still"
  },
  {
   "id": "C13-2",
@@ -1228,7 +1299,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'acender um cigarro no outro' — frio → quente"
+  "nota": "'acender um cigarro no outro' — frio → quente",
+  "modo": "still"
  },
  {
   "id": "C13-3",
@@ -1246,7 +1318,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "ecoa C12-3 (mesmo bolso)"
+  "nota": "ecoa C12-3 (mesmo bolso)",
+  "modo": "still"
  },
  {
   "id": "C14-1",
@@ -1263,7 +1336,8 @@
   "quebra": "match_cut",
   "texto_tela": null,
   "grafico": null,
-  "nota": "objeto-âncora 1 (match cut com C108); 'comecei a fumar com 25 anos'"
+  "nota": "objeto-âncora 1 (match cut com C108); 'comecei a fumar com 25 anos'",
+  "modo": "still"
  },
  {
   "id": "C14-2",
@@ -1282,7 +1356,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Pra ficar perto dele' — Márcia aos 25 (sem ref própria; usar MARCIA_42 rejuvenescida)"
+  "nota": "'Pra ficar perto dele' — Márcia aos 25 (sem ref própria; usar MARCIA_42 rejuvenescida)",
+  "modo": "still"
  },
  {
   "id": "C14-3",
@@ -1300,7 +1375,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Era o nosso momento'"
+  "nota": "'Era o nosso momento'",
+  "modo": "still"
  },
  {
   "id": "C15-1",
@@ -1318,7 +1394,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "roteiro pede banco de imagem: pode trocar por stock licenciado"
+  "nota": "roteiro pede banco de imagem: pode trocar por stock licenciado",
+  "modo": "still"
  },
  {
   "id": "C16-1",
@@ -1339,7 +1416,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "corte seco quente→frio; 'Aos 67 anos'"
+  "nota": "corte seco quente→frio; 'Aos 67 anos'",
+  "modo": "video"
  },
  {
   "id": "C16-2",
@@ -1356,7 +1434,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'aquele homem forte, que me carregava nos ombros' — pai mais jovem, mesma família de traços do ref PAI"
+  "nota": "'aquele homem forte, que me carregava nos ombros' — pai mais jovem, mesma família de traços do ref PAI",
+  "modo": "video"
  },
  {
   "id": "C16-3",
@@ -1373,7 +1452,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'não conseguia mais subir um degrau'"
+  "nota": "'não conseguia mais subir um degrau'",
+  "modo": "video"
  },
  {
   "id": "C17-1",
@@ -1390,7 +1470,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "o piano para; só a respiração do oxigênio"
+  "nota": "o piano para; só a respiração do oxigênio",
+  "modo": "video"
  },
  {
   "id": "C17-2",
@@ -1408,7 +1489,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'não conseguia nem beber água sozinho'"
+  "nota": "'não conseguia nem beber água sozinho'",
+  "modo": "video"
  },
  {
   "id": "C18-1",
@@ -1423,7 +1505,8 @@
   "quebra": "preto",
   "texto_tela": null,
   "grafico": null,
-  "nota": "🔁 do roteiro"
+  "nota": "🔁 do roteiro",
+  "modo": "nenhum"
  },
  {
   "id": "C18-2",
@@ -1441,7 +1524,8 @@
   "quebra": "match_cut",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Segurando a mão dele' — rima visual com as mãos de A01 (agora ela segura)"
+  "nota": "'Segurando a mão dele' — rima visual com as mãos de A01 (agora ela segura)",
+  "modo": "still"
  },
  {
   "id": "C19-1",
@@ -1458,7 +1542,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "som contínuo do monitor"
+  "nota": "som contínuo do monitor",
+  "modo": "video"
  },
  {
   "id": "C19-2",
@@ -1473,7 +1558,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'numa terça-feira, às 4 da tarde' — roteiro diz 'à noite', mas a fala diz 16 h: usei fim de tarde escuro de chuva"
+  "nota": "'numa terça-feira, às 4 da tarde' — roteiro diz 'à noite', mas a fala diz 16 h: usei fim de tarde escuro de chuva",
+  "modo": "video"
  },
  {
   "id": "C20-1",
@@ -1490,7 +1576,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'dez minutos depois'"
+  "nota": "'dez minutos depois'",
+  "modo": "video"
  },
  {
   "id": "C20-2",
@@ -1507,7 +1594,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'entrei no carro…'"
+  "nota": "'entrei no carro…'",
+  "modo": "video"
  },
  {
   "id": "C20-3",
@@ -1524,7 +1612,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'e acendi um cigarro'"
+  "nota": "'e acendi um cigarro'",
+  "modo": "video"
  },
  {
   "id": "C21-1",
@@ -1541,7 +1630,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "🔁 do roteiro: clique do isqueiro + zoom_punch"
+  "nota": "🔁 do roteiro: clique do isqueiro + zoom_punch",
+  "modo": "video"
  },
  {
   "id": "C21-2",
@@ -1561,7 +1651,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "freeze de ~0,7 s com o 🅣 entrando"
+  "nota": "freeze de ~0,7 s com o 🅣 entrando",
+  "modo": "video"
  },
  {
   "id": "C22-1",
@@ -1578,7 +1669,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'não era eu que mandava no cigarro'"
+  "nota": "'não era eu que mandava no cigarro'",
+  "modo": "video"
  },
  {
   "id": "C22-2",
@@ -1595,7 +1687,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Era ele que mandava em mim' — planta a serpente de A11"
+  "nota": "'Era ele que mandava em mim' — planta a serpente de A11",
+  "modo": "video"
  },
  {
   "id": "C23-1",
@@ -1610,7 +1703,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'A minha casa tinha cheiro de cigarro' — corte do carro escuro para o dia"
+  "nota": "'A minha casa tinha cheiro de cigarro' — corte do carro escuro para o dia",
+  "modo": "still"
  },
  {
   "id": "C23-2",
@@ -1627,7 +1721,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'as roupas do Luciano, meu marido'"
+  "nota": "'as roupas do Luciano, meu marido'",
+  "modo": "still"
  },
  {
   "id": "C23-3",
@@ -1642,7 +1737,8 @@
   "quebra": "whip",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'O carro.'"
+  "nota": "'O carro.'",
+  "modo": "still"
  },
  {
   "id": "C23-4",
@@ -1657,7 +1753,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'As cortinas.'"
+  "nota": "'As cortinas.'",
+  "modo": "still"
  },
  {
   "id": "C24-1",
@@ -1675,7 +1772,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Ele só abria a janela' — plano na mesma COZINHA de A07"
+  "nota": "'Ele só abria a janela' — plano na mesma COZINHA de A07",
+  "modo": "still"
  },
  {
   "id": "C24-2",
@@ -1692,7 +1790,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Todo dia.'"
+  "nota": "'Todo dia.'",
+  "modo": "still"
  },
  {
   "id": "C24-3",
@@ -1709,7 +1808,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'aquele silêncio doía mais do que qualquer briga'"
+  "nota": "'aquele silêncio doía mais do que qualquer briga'",
+  "modo": "still"
  },
  {
   "id": "C25-1",
@@ -1727,7 +1827,8 @@
    "posicao": "topo"
   },
   "grafico": "contador numérico grande no topo (Montserrat ExtraBold branco, contorno escuro), sobe com 'tick' a cada corte: 0 → 1. Fica no topo (8–16%), longe do rosto e da legenda.",
-  "nota": "'um maço por dia' — montagem acelerada"
+  "nota": "'um maço por dia' — montagem acelerada",
+  "modo": "still"
  },
  {
   "id": "C25-2",
@@ -1748,7 +1849,8 @@
    "posicao": "topo"
   },
   "grafico": "contador numérico grande no topo (Montserrat ExtraBold branco, contorno escuro), sobe com 'tick' a cada corte: 1 → 5. Fica no topo (8–16%), longe do rosto e da legenda.",
-  "nota": "'tomar um café sem um cigarro'"
+  "nota": "'tomar um café sem um cigarro'",
+  "modo": "still"
  },
  {
   "id": "C25-3",
@@ -1768,7 +1870,8 @@
    "posicao": "topo"
   },
   "grafico": "contador numérico grande no topo (Montserrat ExtraBold branco, contorno escuro), sobe com 'tick' a cada corte: 5 → 12. Fica no topo (8–16%), longe do rosto e da legenda.",
-  "nota": "'dirigir sem um cigarro' — whip de entrada"
+  "nota": "'dirigir sem um cigarro' — whip de entrada",
+  "modo": "still"
  },
  {
   "id": "C25-4",
@@ -1788,7 +1891,8 @@
    "posicao": "topo"
   },
   "grafico": "contador numérico grande no topo (Montserrat ExtraBold branco, contorno escuro), sobe com 'tick' a cada corte: 12 → 20 (fecha em '20' = 1 maço). Fica no topo (8–16%), longe do rosto e da legenda.",
-  "nota": "'nem pensar sem um cigarro'"
+  "nota": "'nem pensar sem um cigarro'",
+  "modo": "still"
  },
  {
   "id": "C26-1",
@@ -1805,7 +1909,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Eu tinha 42 anos'"
+  "nota": "'Eu tinha 42 anos'",
+  "modo": "still"
  },
  {
   "id": "C26-2",
@@ -1823,7 +1928,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'um marido que me amava e uma filha linda'"
+  "nota": "'um marido que me amava e uma filha linda'",
+  "modo": "still"
  },
  {
   "id": "C26-3",
@@ -1840,7 +1946,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'trocando tudo isso, devagar, por um maço'"
+  "nota": "'trocando tudo isso, devagar, por um maço'",
+  "modo": "still"
  },
  {
   "id": "C27-1",
@@ -1857,7 +1964,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "🔓 do roteiro: ainda não mostrar o desenho (vira em C28)"
+  "nota": "🔓 do roteiro: ainda não mostrar o desenho (vira em C28)",
+  "modo": "still"
  },
  {
   "id": "C27-2",
@@ -1874,6 +1982,7 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Foi um desenho.' — corta antes de virar"
+  "nota": "'Foi um desenho.' — corta antes de virar",
+  "modo": "still"
  }
 ]

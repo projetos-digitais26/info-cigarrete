@@ -14,7 +14,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C28-2",
@@ -32,7 +33,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C28-3",
@@ -49,7 +51,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "Continua o verso do C27 (mesmo papel). Fotografar um desenho real feito por criança e usar como ref do nano-banana."
+  "nota": "Continua o verso do C27 (mesmo papel). Fotografar um desenho real feito por criança e usar como ref do nano-banana.",
+  "modo": "video"
  },
  {
   "id": "C29-1",
@@ -66,7 +69,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C29-2",
@@ -86,7 +90,8 @@
    "posicao": "centro"
   },
   "grafico": "Overlay HTML sobre o plate do papel: a frase se escreve letra a letra em fonte manuscrita infantil (lápis de cor azul, 'NÃO FUMA' em vermelho), leve tremor no traço, sincronizado com a narração. Grafia 'MORA' do roteiro mantida de propósito (erro de criança).",
-  "nota": "reusa plate do C29-1 como fundo"
+  "nota": "reusa plate do C29-1 como fundo",
+  "modo": "nenhum"
  },
  {
   "id": "C29-3",
@@ -103,7 +108,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "zoom_punch na palavra 'vovô'; match com C14"
+  "nota": "zoom_punch na palavra 'vovô'; match com C14",
+  "modo": "video"
  },
  {
   "id": "C30-1",
@@ -118,7 +124,8 @@
   "quebra": "preto",
   "texto_tela": null,
   "grafico": null,
-  "nota": "~20 quadros de preto com silêncio, pedido do roteiro"
+  "nota": "~20 quadros de preto com silêncio, pedido do roteiro",
+  "modo": "nenhum"
  },
  {
   "id": "C30-2",
@@ -136,7 +143,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C30-3",
@@ -154,7 +162,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C31-1",
@@ -171,7 +180,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C31-2",
@@ -189,7 +199,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C31-3",
@@ -207,7 +218,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'cheiro de cinzeiro'"
+  "nota": "'cheiro de cinzeiro'",
+  "modo": "still"
  },
  {
   "id": "C32-1",
@@ -225,7 +237,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C32-2",
@@ -243,7 +256,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C32-3",
@@ -261,7 +275,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C33-1",
@@ -278,7 +293,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "noite da geladeira → manhã clara"
+  "nota": "noite da geladeira → manhã clara",
+  "modo": "still"
  },
  {
   "id": "C33-2",
@@ -293,7 +309,8 @@
   "quebra": "split",
   "texto_tela": null,
   "grafico": "Split vertical: metade esquerda C33-1 (quente), metade direita o cinzeiro (frio); no 'fracassei' a metade do sorriso escurece e some.",
-  "nota": "impacto em 'fracassei'"
+  "nota": "impacto em 'fracassei'",
+  "modo": "still"
  },
  {
   "id": "C34-1",
@@ -313,7 +330,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C34-2",
@@ -333,7 +351,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C34-3",
@@ -353,7 +372,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C34-4",
@@ -373,7 +393,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "zoom_punch em 'parar de uma vez'"
+  "nota": "zoom_punch em 'parar de uma vez'",
+  "modo": "still"
  },
  {
   "id": "C34-5",
@@ -390,7 +411,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": "Tela do celular em HTML (rastrear a tela): contador de dias '3 DIAS' que zera para '0' em vermelho, sem marca de app.",
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C35-1",
@@ -405,7 +427,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": "Overlay HTML sobre plate de calendário de parede: X vermelhos de caneta se desenham nos dias 1, 2 e 3 no ritmo de 'Um, dois, três'. Plate gerado como broll sem números legíveis; números entram no HTML.",
-  "nota": "plate: Kling texto→vídeo de calendário em branco na parede, luz fria"
+  "nota": "plate: Kling texto→vídeo de calendário em branco na parede, luz fria",
+  "modo": "nenhum"
  },
  {
   "id": "C35-2",
@@ -420,7 +443,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": "Número '4' no canto do quadrado em HTML (continuação do calendário).",
-  "nota": "zoom_punch em 'quarto dia'"
+  "nota": "zoom_punch em 'quarto dia'",
+  "modo": "still"
  },
  {
   "id": "C35-3",
@@ -438,7 +462,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C35-4",
@@ -457,7 +482,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C35b-1",
@@ -474,7 +500,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "frio da tensão → quente do presente"
+  "nota": "frio da tensão → quente do presente",
+  "modo": "still"
  },
  {
   "id": "C35b-2",
@@ -491,7 +518,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C35b-3",
@@ -511,7 +539,8 @@
    "posicao": "topo"
   },
   "grafico": "Rótulos HTML nos pratos: 'CIGARRO' → 'ADESIVO' (o modelo de vídeo não escreve texto).",
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C35b-4",
@@ -528,7 +557,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C35b-5",
@@ -545,7 +575,8 @@
   "quebra": "match_cut",
   "texto_tela": null,
   "grafico": null,
-  "nota": "match_cut com A07 (mesmo enquadramento da COZINHA)"
+  "nota": "match_cut com A07 (mesmo enquadramento da COZINHA)",
+  "modo": "still"
  },
  {
   "id": "C35b-6",
@@ -563,7 +594,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C36-1",
@@ -581,7 +613,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C36-2",
@@ -599,7 +632,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C36-3",
@@ -616,7 +650,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C36-4",
@@ -633,7 +668,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C36-5",
@@ -651,7 +687,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "C37-1",
@@ -671,7 +708,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "match_cut com C14 (mesmo isqueiro, mesmo enquadramento)"
+  "nota": "match_cut com C14 (mesmo isqueiro, mesmo enquadramento)",
+  "modo": "still"
  },
  {
   "id": "C37-2",
@@ -688,7 +726,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37a-1",
@@ -703,7 +742,8 @@
   "quebra": "flash_branco",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37a-2",
@@ -721,7 +761,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "[FONTE: OMS] no rodapé do 🅣, como no roteiro"
+  "nota": "[FONTE: OMS] no rodapé do 🅣, como no roteiro",
+  "modo": "still"
  },
  {
   "id": "C37a-3",
@@ -736,7 +777,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Metade. Um em cada dois.' — rostos sem identificação"
+  "nota": "'Metade. Um em cada dois.' — rostos sem identificação",
+  "modo": "still"
  },
  {
   "id": "C37a-4",
@@ -754,7 +796,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "[FONTE: CDC/INCA] no rodapé do 🅣"
+  "nota": "[FONTE: CDC/INCA] no rodapé do 🅣",
+  "modo": "still"
  },
  {
   "id": "C37a-5",
@@ -772,7 +815,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37a-6",
@@ -787,7 +831,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37a-7",
@@ -802,7 +847,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37b-1",
@@ -817,7 +863,8 @@
   "quebra": "flash_branco",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37b-2",
@@ -832,7 +879,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37b-3",
@@ -850,7 +898,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37b-4",
@@ -868,7 +917,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37c-1",
@@ -886,7 +936,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37c-2",
@@ -904,7 +955,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37c-3",
@@ -919,7 +971,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "abstrato, sem anatomia íntima"
+  "nota": "abstrato, sem anatomia íntima",
+  "modo": "still"
  },
  {
   "id": "C37c-4",
@@ -934,7 +987,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37c-5",
@@ -951,7 +1005,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "reusa set/enquadramento do C26 (espelho)"
+  "nota": "reusa set/enquadramento do C26 (espelho)",
+  "modo": "still"
  },
  {
   "id": "C37d-1",
@@ -969,7 +1024,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37d-2",
@@ -987,7 +1043,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "roteiro diz supermercado; a fala diz padaria — segui a fala"
+  "nota": "roteiro diz supermercado; a fala diz padaria — segui a fala",
+  "modo": "still"
  },
  {
   "id": "C37d-3",
@@ -1004,7 +1061,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "mesma ref do C17"
+  "nota": "mesma ref do C17",
+  "modo": "still"
  },
  {
   "id": "C37d-4",
@@ -1022,7 +1080,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37e-1",
@@ -1040,7 +1099,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "[FONTE: CDC] no rodapé do 🅣. Usar a mesma ampulheta da capa do método quando existir (sem ref na bíblia ainda)."
+  "nota": "[FONTE: CDC] no rodapé do 🅣. Usar a mesma ampulheta da capa do método quando existir (sem ref na bíblia ainda).",
+  "modo": "still"
  },
  {
   "id": "C37e-2",
@@ -1055,7 +1115,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Dez anos.'"
+  "nota": "'Dez anos.'",
+  "modo": "still"
  },
  {
   "id": "C37e-3",
@@ -1070,7 +1131,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37e-4",
@@ -1085,7 +1147,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37e-5",
@@ -1100,7 +1163,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37e-6",
@@ -1115,7 +1179,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Tudo isso queimando junto com o cigarro'"
+  "nota": "'Tudo isso queimando junto com o cigarro'",
+  "modo": "still"
  },
  {
   "id": "C37f-1",
@@ -1132,7 +1197,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37f-2",
@@ -1152,7 +1218,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": "criança nunca fuma; só a fumaça do adulto"
+  "nota": "criança nunca fuma; só a fumaça do adulto",
+  "modo": "still"
  },
  {
   "id": "C37f-3",
@@ -1172,7 +1239,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "U01-1",
@@ -1190,7 +1258,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "match_cut com A01–A08: mesma UTI/leito/luz, outro ângulo; selo 'Cenas dramatizadas'"
+  "nota": "match_cut com A01–A08: mesma UTI/leito/luz, outro ângulo; selo 'Cenas dramatizadas'",
+  "modo": "video"
  },
  {
   "id": "U01-2",
@@ -1207,7 +1276,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "U01-3",
@@ -1224,7 +1294,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "U01-4",
@@ -1241,7 +1312,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "U01-5",
@@ -1256,7 +1328,8 @@
   "quebra": "pov",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'O ar que não vinha'"
+  "nota": "'O ar que não vinha'",
+  "modo": "video"
  },
  {
   "id": "U02-1",
@@ -1271,7 +1344,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "sem marcas/logos na ambulância"
+  "nota": "sem marcas/logos na ambulância",
+  "modo": "video"
  },
  {
   "id": "U02-2",
@@ -1288,7 +1362,8 @@
   "quebra": "whip",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "U02-3",
@@ -1306,7 +1381,8 @@
   "quebra": "match_cut",
   "texto_tela": null,
   "grafico": null,
-  "nota": "reusa A02"
+  "nota": "reusa A02",
+  "modo": "video"
  },
  {
   "id": "U02-4",
@@ -1325,7 +1401,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "reusa A01"
+  "nota": "reusa A01",
+  "modo": "video"
  },
  {
   "id": "U03-1",
@@ -1343,7 +1420,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "U03-2",
@@ -1358,7 +1436,8 @@
   "quebra": "pov",
   "texto_tela": null,
   "grafico": null,
-  "nota": "médico fictício, rosto desfocado/contraluz"
+  "nota": "médico fictício, rosto desfocado/contraluz",
+  "modo": "still"
  },
  {
   "id": "U03-3",
@@ -1375,7 +1454,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "U03-4",
@@ -1395,7 +1475,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "U03-5",
@@ -1415,7 +1496,8 @@
    "posicao": "topo"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "U04-1",
@@ -1432,7 +1514,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "azul do hospital → tungstênio do banheiro; '3 semanas depois'"
+  "nota": "azul do hospital → tungstênio do banheiro; '3 semanas depois'",
+  "modo": "video"
  },
  {
   "id": "U04-2",
@@ -1449,7 +1532,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "U04-3",
@@ -1467,7 +1551,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "U04-4",
@@ -1482,7 +1567,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "Sofia só como sombra"
+  "nota": "Sofia só como sombra",
+  "modo": "video"
  },
  {
   "id": "U05-1",
@@ -1497,7 +1583,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "U05-2",
@@ -1514,7 +1601,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "U05-3",
@@ -1532,7 +1620,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "video"
  },
  {
   "id": "U05-4",
@@ -1550,7 +1639,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "zoom_punch em 'apertava mais'; loop aberto"
+  "nota": "zoom_punch em 'apertava mais'; loop aberto",
+  "modo": "video"
  },
  {
   "id": "C37g-1",
@@ -1565,7 +1655,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "banheiro → corporativo"
+  "nota": "banheiro → corporativo",
+  "modo": "still"
  },
  {
   "id": "C37g-2",
@@ -1580,7 +1671,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "ninguém identificável"
+  "nota": "ninguém identificável",
+  "modo": "still"
  },
  {
   "id": "C37g-3",
@@ -1598,7 +1690,8 @@
    "posicao": "centro"
   },
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37g-4",
@@ -1613,7 +1706,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37g-5",
@@ -1628,7 +1722,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37g-6",
@@ -1643,7 +1738,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'mais uma venda'"
+  "nota": "'mais uma venda'",
+  "modo": "still"
  },
  {
   "id": "C37g-7",
@@ -1661,7 +1757,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "[FONTE NECESSÁRIA: dado de recaída em tentativas de parar sem acompanhamento] — o roteiro ainda não tem a fonte"
+  "nota": "[FONTE NECESSÁRIA: dado de recaída em tentativas de parar sem acompanhamento] — o roteiro ainda não tem a fonte",
+  "modo": "still"
  },
  {
   "id": "C37g-8",
@@ -1676,7 +1773,8 @@
   "quebra": "speed_ramp",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'Menos pra você'"
+  "nota": "'Menos pra você'",
+  "modo": "still"
  },
  {
   "id": "C37h-1",
@@ -1691,7 +1789,8 @@
   "quebra": "preto",
   "texto_tela": null,
   "grafico": null,
-  "nota": "silêncio de 1 s do roteiro"
+  "nota": "silêncio de 1 s do roteiro",
+  "modo": "nenhum"
  },
  {
   "id": "C37h-2",
@@ -1708,7 +1807,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37h-3",
@@ -1723,7 +1823,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37h-4",
@@ -1740,7 +1841,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C37h-5",
@@ -1757,7 +1859,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C38-1",
@@ -1774,7 +1877,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C38-2",
@@ -1791,7 +1895,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C38-3",
@@ -1808,7 +1913,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C38-4",
@@ -1823,7 +1929,8 @@
   "quebra": "zoom_punch",
   "texto_tela": null,
   "grafico": null,
-  "nota": "'parar de uma vez'"
+  "nota": "'parar de uma vez'",
+  "modo": "still"
  },
  {
   "id": "C39-1",
@@ -1841,7 +1948,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": "'primeiro minuto do dia' — mesma câmera da COZINHA (A07)"
+  "nota": "'primeiro minuto do dia' — mesma câmera da COZINHA (A07)",
+  "modo": "still"
  },
  {
   "id": "C39-2",
@@ -1859,7 +1967,8 @@
    "posicao": "topo"
   },
   "grafico": "Overlay HTML: linha do dia vertical (manhã no alto, noite embaixo, ícones de sol→lua) com 20 cigarros pequenos em cinza; o primeiro cresce e vira um 'boss' gigante com brasa vermelha pulsando e tremor; fundo preto/grafite, brasa #E5372B, linha cinza-claro. Faixa 62–72% livre.",
-  "nota": null
+  "nota": null,
+  "modo": "nenhum"
  },
  {
   "id": "C40-1",
@@ -1876,7 +1985,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": "Compor em modo screen sobre o último quadro da linha do dia do C39-2.",
-  "nota": "fundo preto para compor sobre o gráfico"
+  "nota": "fundo preto para compor sobre o gráfico",
+  "modo": "still"
  },
  {
   "id": "C40-2",
@@ -1893,7 +2003,8 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  },
  {
   "id": "C40-3",
@@ -1910,7 +2021,8 @@
   "quebra": "corte_seco",
   "texto_tela": null,
   "grafico": null,
-  "nota": "frio → dourado, prenuncia C41; rosto ainda escondido (mistério)"
+  "nota": "frio → dourado, prenuncia C41; rosto ainda escondido (mistério)",
+  "modo": "still"
  },
  {
   "id": "C40-4",
@@ -1927,6 +2039,7 @@
   "quebra": null,
   "texto_tela": null,
   "grafico": null,
-  "nota": null
+  "nota": null,
+  "modo": "still"
  }
 ]

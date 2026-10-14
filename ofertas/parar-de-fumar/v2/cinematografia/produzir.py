@@ -25,9 +25,10 @@ MODELO = {
     "acao":     "fal-ai/kling-video/v3/pro/image-to-video",    # personagens em movimento, mãos, objetos
     "broll":    "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",
     "fx":       "fal-ai/veo3.1/fast/image-to-video",           # serpente de fumaça, animação 3D
+    "video":    "fal-ai/kling-video/v2.5-turbo/pro/image-to-video",   # modelo híbrido: todo vídeo novo sai daqui (US$ 0,35 / 5 s)
 }
 # US$ por chamada (imagens) ou por segundo gerado (vídeo) — out/2026, sem áudio
-PRECO = {"ref": .04, "keyframe": .08, "hero": .10, "acao": .112, "broll": .07, "fx": .10}
+PRECO = {"ref": .04, "keyframe": .08, "hero": .10, "acao": .112, "broll": .07, "fx": .10, "video": .07}
 PROMPT_REF = ("candid documentary photograph, head-and-shoulders portrait looking at the camera, plain grey wall behind, "
               "soft window light, real person, natural skin texture and pores, shot on Canon 85mm f/1.8, Kodak Portra film grain, "
               "photojournalism, no text")
@@ -69,7 +70,7 @@ def dur_plano(p):
 def seg_gerados(p):
     """segundos que o modelo vai gerar (e cobrar) para cobrir o plano"""
     d = dur_plano(p)
-    m = MODELO[p["tipo"]]
+    m = MODELO["video"]
     if "veo3.1" in m:
         return 4 if d <= 4 else 6 if d <= 6 else 8
     if "/v3/" in m:                       # Kling 3.0: 3 a 15 s
@@ -78,15 +79,25 @@ def seg_gerados(p):
 
 
 def gera_video(p):
-    return p["tipo"] in MODELO and p["tipo"] not in ("ref", "keyframe") and p.get("keyframe_prompt") and "reusa" not in (p.get("nota") or "").lower()
+    # modelo híbrido: só planos marcados modo=video viram vídeo de IA; o resto é quadro-chave animado na montagem
+    return p.get("modo", "video") == "video" and p["tipo"] in MODELO and p["tipo"] not in ("ref", "keyframe") \
+        and p.get("keyframe_prompt") and "reusa" not in (p.get("nota") or "").lower()
+
+
+PESSOAS = {k for k, v in refs.items() if v["tipo"] == "pessoa"}
+
+
+def tipo_kf(p):
+    """quadro-chave com personagem fixo usa o modelo de edição (mantém o rosto); sem personagem, o modelo barato"""
+    return "keyframe" if set(p.get("refs", [])) & PESSOAS else "ref"
 
 
 def custo_plano(p):
     c = 0
-    if p.get("keyframe_prompt"):
-        c += PRECO["keyframe"]
-    if gera_video(p):
-        c += PRECO[p["tipo"]] * seg_gerados(p)
+    if p.get("keyframe_prompt") and "reusa" not in (p.get("nota") or "").lower() and not os.path.exists(os.path.join(AQUI, "kf", p["id"] + ".png")):
+        c += PRECO[tipo_kf(p)]
+    if gera_video(p) and not os.path.exists(os.path.join(AQUI, "clips", p["id"] + ".mp4")):
+        c += PRECO["video"] * seg_gerados(p)
     return c
 
 
@@ -183,17 +194,17 @@ def fazer_plano(p, prompt_extra=""):
         imgs = [data_uri(os.path.join(AQUI, "refs", r + ".png")) for r in p.get("refs", [])
                 if os.path.exists(os.path.join(AQUI, "refs", r + ".png"))][:4]
         prompt = (p["keyframe_prompt"] + " " + prompt_extra).strip() + " Vertical 9:16 frame."
-        if imgs:
+        if imgs and tipo_kf(p) == "keyframe":
             prompt = ("Use the reference images ONLY to keep the identity of the people and objects (face, hair, clothes). "
                       "Create a completely new photograph in the setting and lighting described below; do NOT copy the plain studio "
                       "background or the pose of the reference. " + prompt)
             ok = chamar(MODELO["keyframe"], {"prompt": prompt, "image_urls": imgs, "aspect_ratio": "9:16", "num_images": 1}, kf, "keyframe")
         else:
-            ok = chamar(MODELO["ref"], {"prompt": prompt, "aspect_ratio": "9:16", "num_images": 1}, kf, "keyframe")
+            ok = chamar(MODELO["ref"], {"prompt": prompt, "aspect_ratio": "9:16", "num_images": 1}, kf, "ref")
         if not ok:
             return
     if gera_video(p) and not os.path.exists(clip):
-        m, img = MODELO[p["tipo"]], data_uri(kf)
+        m, img = MODELO["video"], data_uri(kf)
         entrada = {"prompt": p.get("motion_prompt") or "subtle natural motion, slow push-in",
                    "negative_prompt": "text, subtitles, logo, watermark, blur, distortion, extra fingers, deformed hands"}
         if "veo3.1" in m:
@@ -202,7 +213,7 @@ def fazer_plano(p, prompt_extra=""):
             entrada.update(start_image_url=img, duration=str(seg_gerados(p)), generate_audio=False)
         else:
             entrada.update(image_url=img, duration=str(seg_gerados(p)))
-        chamar(MODELO[p["tipo"]], entrada, clip, p["tipo"], seg_gerados(p))
+        chamar(m, entrada, clip, "video", seg_gerados(p))
 
 
 if a.acao == "estimar":
