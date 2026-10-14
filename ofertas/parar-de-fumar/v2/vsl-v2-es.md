@@ -342,13 +342,13 @@ es la misma de la versión PT-BR; aquí va adaptada y en español para el editor
 > [Testimonio real 2]
 > [Testimonio real 3]
 
-**C84 · 16:35** 🎬 Un celular vibrando sin parar; llegan notificaciones (capturas reales con el nombre abreviado). `[PRUEBA NECESARIA: capturas reales autorizadas]` 🔓
 **C83b · 16:30** 🎬 Montaje acelerado de mañanas distintas en casas distintas: una señora tomando café sin cigarrillo, un camionero sonriendo en la cabina, una mamá abrazando a sus hijos, un hombre corriendo en el parque. Los rostros se multiplican en un mosaico hasta llenar la pantalla. 🔁 · 🅣 **[NÚMERO REAL] PERSONAS YA APLICARON EL TRUCO** `[PRUEBA NECESARIA: número real de compradores]` · 🔊 cuerdas en crescendo
 > Ahora mismo, mientras ves este video, hay gente que mañana va a despertar sin necesitar ese primer cigarrillo. Gente que fumaba desde hace 20, 30, 40 años. Gente que ya se había rendido. Gente igualita a ti. Y si ellos lo lograron… tú también lo vas a lograr.
 
 **C83c · 16:45** 🎬 Cámara subjetiva: las manos del propio espectador preparando el café por la mañana, la luz cálida entrando por la ventana, la taza vacía, la cajetilla sin tocar. · 🅣 **IMAGINA TU DÍA 15**
 > Cierra los ojos un segundo e imagina tu día 15. Despiertas, preparas el café, te lo tomas hasta el último sorbo… y te das cuenta de que se te olvidó fumar. ¿Quién está a tu lado esa mañana? ¿Quién te va a abrazar sin voltear la cara?
 
+**C84 · 16:35** 🎬 Un celular vibrando sin parar; llegan notificaciones (capturas reales con el nombre abreviado). `[PRUEBA NECESARIA: capturas reales autorizadas]` 🔓
 > Y mi celular no paraba. Pasaba las noches respondiendo mensajes, explicando cada paso, uno por uno. Hasta que me di cuenta de que no iba a poder con todos. Pero yo había hecho una promesa.
 
 ---

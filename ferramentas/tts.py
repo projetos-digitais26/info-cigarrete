@@ -12,10 +12,11 @@ import _rede  # noqa: F401
 import edge_tts
 
 VOZ = "pt-BR-ThalitaMultilingualNeural"
+PROXY = os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy")  # o websocket não usa o proxy sozinho
 
 
 async def um(texto, out, voz=VOZ, rate="-5%", pitch="+0Hz"):
-    await edge_tts.Communicate(texto, voz, rate=rate, pitch=pitch).save(out)
+    await edge_tts.Communicate(texto, voz, rate=rate, pitch=pitch, proxy=PROXY).save(out)
 
 
 async def lote(spec, pasta):

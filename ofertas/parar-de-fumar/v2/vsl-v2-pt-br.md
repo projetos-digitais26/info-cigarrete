@@ -339,13 +339,13 @@
 > [Depoimento real 2]
 > [Depoimento real 3]
 
-**C84 · 16:35** 🎬 Celular vibrando sem parar; notificações de mensagens chegando (prints reais com nome abreviado). `[PROVA NECESSÁRIA: prints reais autorizados]` 🔓
 **C83b · 16:30** 🎬 Montagem acelerada de manhãs diferentes em casas diferentes: uma senhora tomando café sem cigarro, um caminhoneiro sorrindo na boleia, uma mãe abraçando os filhos, um homem correndo no parque. Os rostos vão se multiplicando num mosaico até preencher a tela. 🔁 · 🅣 **[NÚMERO REAL] PESSOAS JÁ APLICARAM O TRUQUE** `[PROVA NECESSÁRIA: número real de compradores]` · 🔊 cordas em crescendo
 > Agora mesmo, enquanto você assiste a este vídeo, tem gente acordando amanhã cedo sem precisar daquele primeiro cigarro. Gente que fumava há 20, 30, 40 anos. Gente que já tinha desistido de si mesma. Gente igualzinha a você. E se elas conseguiram… você também vai conseguir.
 
 **C83c · 16:45** 🎬 Câmera subjetiva: as mãos do próprio espectador fazendo o café de manhã, a luz quente entrando pela janela, a xícara vazia, o maço intocado. · 🅣 **IMAGINE O SEU DIA 15**
 > Fecha os olhos por um segundo e imagina o seu dia 15. Você acorda, faz o café, toma até o último gole… e percebe que esqueceu de fumar. Quem está do seu lado nessa manhã? Quem vai te abraçar sem virar o rosto?
 
+**C84 · 16:35** 🎬 Celular vibrando sem parar; notificações de mensagens chegando (prints reais com nome abreviado). `[PROVA NECESSÁRIA: prints reais autorizados]` 🔓
 > E o meu celular não parava. Eu passava as noites respondendo mensagens, explicando cada passo, um por um. Até que eu percebi que não ia dar conta. Mas eu tinha feito uma promessa.
 
 ---
