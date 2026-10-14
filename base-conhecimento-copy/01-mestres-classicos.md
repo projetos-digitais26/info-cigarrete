@@ -7,8 +7,9 @@ Para cada um: quem é, a forma de pensar e o que aplicar em VSL/oferta hoje.
 ## Claude Hopkins (1866–1932) — *Scientific Advertising*
 
 **Forma de pensar:** propaganda é venda, não arte. Tudo é medido (cupons, testes).
-- **Especificidade vende:** "Lavado com vapor vivo" (cerveja Schlitz) — descreveu um
-  processo que todos os concorrentes faziam, mas ninguém contava. É o avô do
+- **Especificidade vende:** cerveja Schlitz (cap. 7 de *Scientific Advertising*) — contou o processo
+  (ar filtrado, filtro de polpa de madeira, garrafas lavadas 4 vezes, poço de 4.000 pés, levedura
+  escolhida após 1.018 experimentos) que todos os concorrentes faziam, mas ninguém contava. É o avô do
   **mecanismo único**: quem explica o processo primeiro, é dono dele.
 - Números exatos convencem mais que redondos ("reduz 27%" > "reduz muito").
 - Amostra grátis e teste: deixar o produto provar a si mesmo.
